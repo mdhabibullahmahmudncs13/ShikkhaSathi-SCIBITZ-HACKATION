@@ -1,0 +1,22 @@
+# Chunk 113 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.400788
+# Character count: 403
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_113
+
+========================================
+
+(i) A={a,b}, B={a,b,c}
+(11) A={a,b,c}, B={b.c}
+(iii) A= {a,b}, B={c}
+Based upon the above facts which one of the following is true ?
+1) i 2) ii 3) iand ii 4) i, ii and iii
+6. If for two finite sets A and B
+(i) Ax B={(z,y): x € Aand y € B}
+(ii) If n(A) = a,n(B) = b, then n(A x B) = ab
+(#77) Each member of A x B is an ordered pair.
+Based upon the statements above which one of the following is true? 8
+S

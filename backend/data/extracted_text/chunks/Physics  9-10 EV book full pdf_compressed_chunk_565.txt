@@ -1,0 +1,30 @@
+# Chunk 565 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.362994
+# Character count: 795
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_565
+
+========================================
+
+determine time period, frequency or to position
+velocity from the information that are
+given in the figure! The wave shown above is the condition of the wave at a
+particular time. Here there is no information how the position changes with time.
+Question: In figure 7.07 another wave is shown. Among the wave’s amplitude,
+wavelength, time period, frequency and velocity which magnitude can be
+determined from this figure? Determine them.
+02 The amplitude (0.2 m) and time
+6 period (2 s) of this wave can be
+= determined; from this figure other
+2} 0 . . .
+E information cannot be determined.
+E] How the wave changes with time at
+&- 02 a particular position is shown in the
+= 1 2 3 4 figure. So, it is not possible to
+time (s) determine the wavelength.
+Figure 7.07: A wave with respect to time
+a
+Bl

@@ -1,0 +1,33 @@
+# Chunk 180 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.318550
+# Character count: 760
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_180
+
+========================================
+
+--- Page 64 ---
+Motion 59
+EX) Multiple choice questions
+Put the tick (¥ ) mark on the correct answer
+1. What is the unit of acceleration? oo]
+a)ms’ b)ms? 3 |
+¢)NS  d) kgs? El
+2. What type of motion do the hands of a
+clock have? @ —T—T
+a) linear motion b) elliptical motion time
+c¢) periodic motion  d) vibratory motion Figure 2.11
+3. The distance traveled in a given time by a freely falling body from rest will be
+a) proportional to the time
+b) proportional to the square of that time
+¢) Inversely proportional to that time
+d) proportional to the square root of that time
+4. Abody moves with a uniform acceleration starting from rest. What will be the
+distance travelled by the body at a given time?
+. _ (wiv)
+(i) s= 5 ‘
+(ii) s = ut + Sat?
+(iii) s = ut + 2at?

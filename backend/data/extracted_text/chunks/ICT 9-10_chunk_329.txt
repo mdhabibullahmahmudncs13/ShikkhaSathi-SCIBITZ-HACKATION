@@ -1,0 +1,32 @@
+# Chunk 329 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.873354
+# Character count: 676
+# Chunk ID: ICT 9-10.txt_0_329
+
+========================================
+
+Color, Gradient, and None
+
+Color, Gradient and None are the three icons respectively 3 Q
+
+below the Fill and Stroke swatch. Clicking Color and EY
+
+Gradient icon separately, activate the Color and Gradient
+
+palette. Click the None icon, and the fill of selected object or [J]
+
+the color of stoke can be inactive or cancelled. If an object is un m2
+
+filled with color or gradient, the color will be viewed. If the E
+
+object is selected, the color will be changed as well. 5900
+
+Increasing and Reducing the Size of Object
+
+Many minute jobs are done to create object. Doing these minute jobs may be
+
+troublesome in the usual size of the object. If a specific part of the object is

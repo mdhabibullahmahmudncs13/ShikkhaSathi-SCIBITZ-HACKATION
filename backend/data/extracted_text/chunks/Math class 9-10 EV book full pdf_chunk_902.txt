@@ -1,0 +1,24 @@
+# Chunk 902 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.479701
+# Character count: 229
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_902
+
+========================================
+
+--- Page 398 ---
+Appendix 393
+Example 14. Simplify : X—Y 4 V 7% _Z7%
+xy yz zx
+Solution : X= Y~Z _Z7X
+xy yz zx
+Go yxz4 Gm xx-(z-0)xy
+xyz
+_ZX—yz+XY—IX—YI+XY
+xyz
+_2xy—2yz _2y(x—z) _ 2x—2)
+xyz xyz xz
+Forma-50, Mathematics, Class 9-10

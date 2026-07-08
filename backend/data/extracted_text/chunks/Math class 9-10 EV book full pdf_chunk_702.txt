@@ -1,0 +1,22 @@
+# Chunk 702 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.459070
+# Character count: 740
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_702
+
+========================================
+
+--- Page 310 ---
+Chapter 14. Ratio, Similarity and Symmetry 305
+Rotational symmetry
+When an object rotates around any fixed point, its shape and size do not change.
+But the different parts of the object change their position. If the new position
+of the object after rotation becomes identical to the original position, we say the
+object has a rotational symmetry. The wheels of a bicycle, ceiling fan, square etc.
+are examples of objects having rotational symmetry. As a result of rotation the
+blades of the fan looks exactly the same as the original position more than once.
+The blades of a fan may rotate in the clockwise direction or in the anticlockwise
+direction. The wheels of a bicycle may rotate in the clockwise direction or in the

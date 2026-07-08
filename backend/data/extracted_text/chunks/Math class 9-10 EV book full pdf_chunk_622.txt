@@ -1,0 +1,27 @@
+# Chunk 622 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451479
+# Character count: 558
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_622
+
+========================================
+
+8
+S
+
+
+--- Page 274 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 269
+18. A system of simple equations is r +y = 10, 3z —2y = 0
+1) Show that the equations are consistent. How many solutions do they
+have?
+2) Solving the system of equations, find (x,y) .
+3) Find the area of the triangle formed by the straight lines indicated by
+the equations with the X- axis.
+
+19. If 7 is added to the numerator of a fraction, the value of the fraction is
+the integer 2. Again, if 2 is subtracted from the denominator, value of the
+fraction is the integer 1.

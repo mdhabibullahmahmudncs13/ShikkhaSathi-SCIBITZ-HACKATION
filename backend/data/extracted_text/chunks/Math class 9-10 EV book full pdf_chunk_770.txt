@@ -1,0 +1,26 @@
+# Chunk 770 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467068
+# Character count: 538
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_770
+
+========================================
+
+Length of diagonal of rectangle ABCD = +/50% + 14? cm = 51.92 cm
+(approx.)
+2) Area of rectangle ABC'D = 50 x 14 square cm = 700 square cm
+1 1
+Area of triangle ADE = 34D - AE -sin/DAE = 3 x 50 x 50 x sin73.74°
+square cm = 24 x 50 x 0.960001 square cm = 1200 square cm (approx.)
+Total area = (700 4 1200) square cm = 1900 square cm
+3) Let, in AADE, AD = AE =50 cm =a, DE=b
+b v
+.. Area of the isosceles triangle ADE = Tv 4a — 1?
+b 5
+As per the question, Via — b> = 1200
+by/4(50)% — b* = 4800 N
+3
+or, b2(10000 — b?) = 23040000 [by squaring] S

@@ -1,0 +1,28 @@
+# Chunk 761 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.466204
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_761
+
+========================================
+
+--- Page 335 ---
+330 Mathematics Classes IX-X
+.. Area of the parallelogram = dh square cm.
+. 120 120
+As per question, dh = 120 or, h = rT 5
+The required length of the perpendicular is 5 cm.
+Example 12. The length of the sides of a parallelogram are wetre and 8 metre
+If the length of the smaller diagonal is 10 m, determine the length of the other diagonal.
+Solution: » ¢
+Let, in the parallelogram ABCD; AB = a = 12 metre
+and AD = c¢ = 8 metre and diagonal BD = b = 10 . No
+metre Let us draw the perpendiculars DF and CE RN
+from D and C' on AB and the extended part of AB 1]
+respectively. Join C', A and D, B. AF vB FE
+12+1
+.". Semi perrimeter of AABD, s = Zr0+d metre = 15 metre.
+area of AABD=1/s(s — a)(s — b)(s — ¢) = \/15(15 — 12)(15 — 10)(15 — 8) sq.

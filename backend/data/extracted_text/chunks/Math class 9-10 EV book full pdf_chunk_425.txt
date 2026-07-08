@@ -1,0 +1,22 @@
+# Chunk 425 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.432113
+# Character count: 401
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_425
+
+========================================
+
+that, PA = PB A c
+Drawing: Join O, 4; O, B and O, P.
+Proof:
+Step 1. Since PA is a tangent and OA is the radius through the point of tangent,
+PA LOA
+o. ZPAO = 1 right angle. [The tangent is perpendicular to the
+radius through the point of contact of the tangent]
+Similarly, ZPBO = 1 right angle.
+.APAO and APBO are right-angled triangles. i.
+3
+Step 2. Now in the right angled triangles APAO and APBO, S

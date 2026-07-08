@@ -1,0 +1,26 @@
+# Chunk 419 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.431527
+# Character count: 767
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_419
+
+========================================
+
+--- Page 182 ---
+Chapter 8. Circle 177
+In figure (i) the circle and the straight line PQ have no common point; in figure
+(ii) the line PQ is a secant, since it intersects the circle at two points A and B
+and in figure (iii) the line PQ has touched the circle at A. PQ is a tangent to the
+circle and A is the point of contact of the tangent.
+Remarks: All the points between two points of intersection of every secant of
+the circle lie interior of the circle.
+Common tangent
+If a straight line is a tangent to two circles, it is
+called a common tangent to the two circles. In the
+adjoining figures, AB is a common tangent to both
+the circles. In figure (a) and (b), the points of contact < r
+are different. In figure (c) and (d), the points of (a)
+contact are the same.

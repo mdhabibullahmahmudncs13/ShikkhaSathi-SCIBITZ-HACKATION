@@ -1,0 +1,21 @@
+# Chunk 375 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.337493
+# Character count: 458
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_375
+
+========================================
+
+There are 22 stairs in each floor and Jeny needs 4 minutes time to reach the
+Sth floor. Susmita requires 4.5 minutes to reach that Sth floor. It is to be men
+tioned that mass of Jeny and Susmita are 64 kg and 75 kg respectively.
+(a) What is the main source of energy?
+(b) Write two similarities between work and energy.
+(c) Calculate the amount of work done by Jeny.
+(d) Between Jeny and Susmita who has more power? Give reasons in favor
+of your answer.
+8
+BS

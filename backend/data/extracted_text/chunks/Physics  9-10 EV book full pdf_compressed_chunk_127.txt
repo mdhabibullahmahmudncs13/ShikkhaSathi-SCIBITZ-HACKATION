@@ -1,0 +1,22 @@
+# Chunk 127 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.313274
+# Character count: 729
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_127
+
+========================================
+
+If going two kilometers more by a cycle you cross a six kilometer path total and
+reach point C, then your displacement will be the straight line AC with an
+arrow, whose magnitude is 1.5 kilometer and the direction of the arrow is along
+your displacement. Though you covered more distance along the curved path
+but your displacement is still small. Therefore the more distance you cover, the
+more will be the displacement is not true. The difference between the initial and
+final position is the displacement.
+
+Starting from the point A, the distance towards point B is 4 km along the
+curved path, similarly the distance between point B and point Ais 4 km ie.
+both are equal. But notice that the displacement from A to B and the §

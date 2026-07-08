@@ -1,0 +1,29 @@
+# Chunk 845 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.392286
+# Character count: 795
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_845
+
+========================================
+
+P=1IR
+or / 4
+
+“rR
+
+therefore, ho a) i. v2
+
+“\R/ TR
+If electricity flows through a resistance for time ¢, then Pt energy is supplied there.
+Where does this energy go? When you use a resistance in a circuit and if you
+pass enough electricity through this resistance, then you will notice that it
+always gets hot. That means the electrical energy evolves as heat energy.
+The use of bulbs with filaments are getting scarce, because the filament has to be
+heated to create light with this. A big part of the electric energy is used to heat up
+the filament, and energy is wasted. If we touch these bulbs with our hand we can
+feel how much heat energy is created, and this energy is created as °R or V*/R in
+every second.
+This is not the only place where the electrical energy is used to create heat ~<

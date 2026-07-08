@@ -1,0 +1,28 @@
+# Chunk 282 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864073
+# Character count: 791
+# Chunk ID: ICT 9-10.txt_0_282
+
+========================================
+
+- Opacity is used to determine the thickness of colour.
+
+- The Fill’ dialogue box will come after giving the 'Fill' command under the
+‘Edit’ Menu.
+
+- The foreground is kept selected in the ‘Use’ box of ‘Contents” under the
+‘Fill’ dialogue box. It can be changed from the list of the dropdown menu, if
+required.
+
+- In the opacity square of the dialogue box, type a number to determine the
+thickness of colour. The full intensity of colour is 100%. If the percentage is
+small, the colour will be light. Type 50 in the Opacity box, and click the OK
+button, and the foreground of the selection will be filled with 50% of the
+total thickness.
+
+- There is opacity in the option palette of selection too, The intensity of
+colour can be increased or reduced by selecting the opacity of this palette.

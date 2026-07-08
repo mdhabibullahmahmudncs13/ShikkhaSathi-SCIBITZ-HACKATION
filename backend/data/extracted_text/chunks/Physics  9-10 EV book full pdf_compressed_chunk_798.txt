@@ -1,0 +1,35 @@
+# Chunk 798 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388338
+# Character count: 764
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_798
+
+========================================
+
+--- Page 305 ---
+300 Physics
+.
+.
+.
+. sulators and semiconductors.
+establish a relationship between electric current and potential difference
+by using a graph.
+e explain fixed resistance and variable resistance.
+e explain electromotive force and potential difference.
+e explain dependence of resistance.
+e explain resistivity and conductivity.
+* use series and parallel connection.
+e use an equivalent resistance in a circuit.
+e calculate electric power in a circuit.
+e explain system loss and load shedding in a circuit.
+e describe the safe and effective use of electricity.
+e draw a typical house circuit and demonstrate the use of AC sources in its
+different parts.
+e draw a poster to build consciousness about dissipation and conservation
+of electricity.
+PN
+I
+S

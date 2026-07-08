@@ -1,0 +1,37 @@
+# Chunk 428 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.889937
+# Character count: 777
+# Chunk ID: ICT 9-10.txt_0_428
+
+========================================
+
+--- Page 138 ---
+Problem Solving through Programming 133
+char = input (‘Enter the lather:
+match char:
+case "a" :
+printichar, * ls 3 vowel ')
+casa "=" :
+printichar, ' is a vowsl ")
+case "i" 1
+print (char, ' is a vowel ')
+case "o"
+printichar, * is a vowsl ‘}
+case "u"
+print (char, * is a vowel ')
+case _:
+print {char, * is a consonants’)
+The sample results obtained by running the program-
+Enter the letter: a
+nis a vowel
+Enter the letter: d
+dis u consonants
+Solution with Alternative Method : The program above will show results only
+if a lowercase English letter is typed as input. The following program will
+display results even when any English letter, whether lowercase or uppercase, is
+typed. The code for this program is provided below.
+shar = input ('Enter the latter: ')

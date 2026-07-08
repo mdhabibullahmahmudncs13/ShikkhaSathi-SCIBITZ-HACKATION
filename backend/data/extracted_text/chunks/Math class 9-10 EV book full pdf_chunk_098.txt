@@ -1,0 +1,36 @@
+# Chunk 98 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.399386
+# Character count: 784
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_98
+
+========================================
+
+--- Page 41 ---
+36 Mathematics Classes IX-X
+
+Functions oo
+
+Let us consider the relation between A and B: f
+
+For the relation y = x 42 |]
+
+if 2 =1,then y = 3
+if + = 2, then y =4 |
+
+if x =3,theny =5
+
+A B
+
+That is, there is exactly one value for y for each value of x and x and y are related
+by y = x +2. So two variables x and y are related in such a way that for each
+value of x there is exactly one value of y. Then y is said to be a function of x.
+Usually function of z is denoted by y, f(z), g(x), F(x).
+
+Let y = 2% — 22 + 3 be a function. Here, for each value of = there is exactly one
+value of y. Here, both x and y are variables. Although both of them are variables
+value of y depends upon the value of x. That is why x is said to be independent
+variable and y dependent variable

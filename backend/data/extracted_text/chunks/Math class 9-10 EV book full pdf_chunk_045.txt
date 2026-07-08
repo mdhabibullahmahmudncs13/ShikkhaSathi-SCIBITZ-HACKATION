@@ -1,0 +1,30 @@
+# Chunk 45 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.393422
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_45
+
+========================================
+
+--- Page 18 ---
+Chapter 1. Real Numbers 13
+Example 10. Add 3.89, 2.178 and 5.89798.
+Solution: We have 2 digits in nonrepeating part, and repeating parts have
+respectively 2, 2 and 3 for which LCM is 6. At first all these three reepating
+decimal fractions have been converted into similar repeating decimal fractions.
+3.89 = 3.89898989
+2178 =2.17878787
+5.80798 = 5.89798793
+1197576574 [8 +8+7+2 = 25, here 2 is 2 in hand
++2 here 2 of 25 has been added]
+11.97576576
+The desired result is 11.97576576 or, 11.97576
+Remarks: In the result 576576 is repeating part. But if we assume 576 in the
+repeating part, then there will be no change of value.
+Note: In order to clarify addition at the rightmost digit we have solved the
+addition in a different way:
+3.89 = 3.89898989[89
+2.178 = 2.17878787|87

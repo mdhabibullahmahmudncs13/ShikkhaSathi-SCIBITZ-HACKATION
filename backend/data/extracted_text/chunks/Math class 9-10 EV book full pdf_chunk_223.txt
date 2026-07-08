@@ -1,0 +1,25 @@
+# Chunk 223 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.412268
+# Character count: 768
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_223
+
+========================================
+
+--- Page 100 ---
+Chapter 4. Exponents and Logarithms 95
+4) 0.000435 = 4.35 x 107*
+.-. Characteristic of log of the number is —4 or 4
+Otherwise, there are 3 zeroes in between decimal point and its
+next first significant digit of the number 4.
++. Characteristic of log of the number is = —(3 +1) = —4 = 4
+.. Characteristic of log of the number 0.000435 is 4
+Mantissa of Common Log
+Mantissa of Common Logarithm of any number is a non-negative number less than
+1. It is mainly an irrational number. But the value of mantissa is determined upto
+a certain decimal place. Mantissa of the log of a number can be found from the
+log table. Again, it can also be found by calculator. We shall find the mantissa
+of the log of any number by using 2nd method, that is by calculator.

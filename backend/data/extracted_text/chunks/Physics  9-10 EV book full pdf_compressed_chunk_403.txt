@@ -1,0 +1,35 @@
+# Chunk 403 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340554
+# Character count: 702
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_403
+
+========================================
+
+Py = hipg
+and the upward pressure acting on lower surface is:
+
+Py =hypg
+Therefore, the downward force acting on upper surface and upward force acting
+on lower surface are respectively:
+
+Fy, = AP, = Ah, pg
+F, = AP, = Ah, pg
+
+We do not have to think about how much force is exerted on the surrounding
+surface, because the force experienced by the cylinder from one direction is
+equal and opposite to the force from another direction and neutralize one anoth-
+er.
+Forma-18, Physics, Class 9-10
+
+
+--- Page 143 ---
+138 Physics
+As the value of 4, is greater than %,, so we see the value of F), is greater than
+F,.
+Therefore the resultant force will be upwards and its value will be:
+F=F,—F =A; —h)pg
+F = Ahpg

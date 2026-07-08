@@ -1,0 +1,19 @@
+# Chunk 156 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.405256
+# Character count: 223
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_156
+
+========================================
+
+a
+. . b
+Hence, according to remainder theorem r = f 4
+. Co . . b
+Therefore, if f(x) is divided by (az + b), the remainder will be { —— |) .
+a
+Corollary 13. If a # 0, the expression az +b will be a factor of any polynomial
+b

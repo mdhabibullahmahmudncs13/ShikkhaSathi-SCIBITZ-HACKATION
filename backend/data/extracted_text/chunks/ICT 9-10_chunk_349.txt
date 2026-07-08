@@ -1,0 +1,33 @@
+# Chunk 349 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.876908
+# Character count: 675
+# Chunk ID: ICT 9-10.txt_0_349
+
+========================================
+
+Color Palette
+
+If the color palette is not viewed on the screen, give the color command of the
+
+‘Window menu, and the color palette will appear.
+
+- On the left above the Color Palette, an =
+indicator box of Fill and Stroke or | — BE J]
+Swatch is found. Color Slider and Color | | #6 "Saleh 5 [0]
+Spectrum Bar are found below it. If the LJ « — wm |
+work is done on gray scale mode, only = —
+one color slider will be viewed. If the G E— 0 |
+work 18 done on RGB = Red Green Blue —
+mode, 3 color sliders will be viewed, and he lee |
+if’ the work is done on CMYK mode, 4
+color sliders will be viewed.
+
+Fill Color
+
+To fill color in any object: re 8
+
+A. Select the object. [7 ee T=]

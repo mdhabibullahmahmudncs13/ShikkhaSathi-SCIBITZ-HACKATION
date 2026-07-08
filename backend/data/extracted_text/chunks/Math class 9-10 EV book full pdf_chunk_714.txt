@@ -1,0 +1,22 @@
+# Chunk 714 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.460296
+# Character count: 795
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_714
+
+========================================
+
+Constructions
+We know that bounded plane figures may have different shapes. If the region is
+bounded by four sides, it is known as quadrilateral. Quadrilaterals have classification
+and they are also named based on their shapes and properties. Apart
+from these, there are many regions bounded by more than four sides.
+These are polygonal regions or simply polygons. Every closed region has a
+certain measurement which is called the area of the region. For measurement of
+areas usually the area of a square with sides of 1 unit of length is used as the
+unit area and their areas are expressed in square units. For example, the area of
+Bangladesh is 1.47 lacs square kilometers (approximately). In our day to day life
+we need to know and measure areas of polygons for meeting the necessity of life.

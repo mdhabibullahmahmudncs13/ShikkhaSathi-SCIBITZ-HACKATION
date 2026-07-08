@@ -1,0 +1,45 @@
+# Chunk 891 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.478579
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_891
+
+========================================
+
+--- Page 391 ---
+386, Mathematics Classes IX-X
+Fill in the blank spaces below through reduction of fraction :
+5 _ 33 3 7 _
+12 2x2x3 4 2%
+a’b _ ¥ xxxxx
+— =m oy
+ab? x2 XXX
+EL 2mn _
+6xy 4m?
+2
+Example 2. Transform 2d +3ab into its lowest terms.
+4a” — 9b”
+Soluti 24% + 3ab _ 2d°+3ab
+olution : ———
+4a” —9b 2a)” —(3b)*
+a(2a + 3b a 2
+= ar) [y= (re) y)]
+(2a +3b)2a—-3b) 2a-3b
+x2 +5x+6
+Example 3. Reduce : ———— —
+x? +3x+2
+XP 45x46 20 +3x46
+Solution : 5 Ty
+X“4+3x+2 xX +x+2x+2
+_x(x+2)+3(x+2) _ (x+2)(x+3)
+X(x+D+2(x+1)  (x+D(x+2)
+_x+3
+x+1
+Fractions with common denominators
+Fractions with common denominator is also known as the fractions with
+equal denominator. In this case, the denominators of the given fractions are
+to be made equal.
+We consider the fractions and ZL L.C.M. of the denominators 25 and

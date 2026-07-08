@@ -1,0 +1,28 @@
+# Chunk 560 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.445764
+# Character count: 726
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_560
+
+========================================
+
+--- Page 248 ---
+Chapter 11. Algebraic Ratio and Proportion 243
+equations. In class VIII, we have solved such system of equations and learnt to
+form and solve simultaneous equations related to real life problems. In this
+chapter, these have been discussed in more details.
+First, we consider the equation 2x 4 y = 12. This is a simple equation in two
+variables.
+In the equation, can we get such values of = and y on the left hand side for which
+the sum of twice the first with the second will be equal to 12 of the right hand
+side; that is, the equation will be satisfied by those two values?
+Now, we fill in the following chart from the equation 2x-+y=12:
+Value of y | Value of L.H.S (22 + y)
+SATE
+(ESTE)
+Gro-1
+ETE
+(SS I ER I

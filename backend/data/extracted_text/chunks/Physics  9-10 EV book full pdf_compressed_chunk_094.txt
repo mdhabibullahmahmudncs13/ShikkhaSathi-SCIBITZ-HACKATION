@@ -1,0 +1,26 @@
+# Chunk 94 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.309448
+# Character count: 754
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_94
+
+========================================
+
+--- Page 32 ---
+Physical Quantities and Their Measurements 27
+Therefore, the relative error = 21 cm? /100 cm? = 0.21
+In percentage, 0.21 x 100 = 21%
+If the error in the measurement of the length is 10%, then in the case of area
+it will be approximately double. Similarly you can show that in the case
+of volume measurements the error will be three times!
+Question: You have measured a box by a ruler which is graduated only in cm.
+You have got the length, breadth and height of the box as 10 cm, 5 cm and 4 cm
+respectively. What is the percentage of error in your measurements?
+Answer: Since your ruler is graduated only in cm, so your error is + 0.5 cm.
+Therefore the error in your measurements:
+Length: 10 + 0.5 cm
+Breadth: 54 0.5 cm
+Height: 4 + 0.5 cm

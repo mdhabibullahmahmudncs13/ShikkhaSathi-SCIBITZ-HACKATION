@@ -1,0 +1,17 @@
+# Chunk 253 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325643
+# Character count: 289
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_253
+
+========================================
+
+--- Page 90 ---
+Force 85
+The matter will be clarified with the help of some examples. Let us consider that
+amass m is allowed to fall from a certain height (figure 3.12). We know that due
+to the earth’s gravitational force, the mass m experiences a force F towards the
+centre of the earth:

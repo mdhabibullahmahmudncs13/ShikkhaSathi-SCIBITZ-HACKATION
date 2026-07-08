@@ -1,0 +1,27 @@
+# Chunk 641 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.371509
+# Character count: 745
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_641
+
+========================================
+
+--- Page 237 ---
+232 Physics
+At a distance greater than focal distance
+Among all the images we have seen so far, this image is amazing, because we
+will witness a real image for the first time, where light will be centralized where
+the image will be created (Figure 8.23).
+Let, the object be XY and like other
+cases, the image of point Y will be on the
+line YP. We have to draw two lines in 2
+order to determine the image of point X. ~~ ;
+One line XQ will be parallel to the axis, -
+and after reflection it traverses through 1
+the focal point F as QF. We can draw the i
+second ray through the point F. This will ~~ R R s
+reflect in the concave mirror and after
+reflecting, it will become parallel to Rg, Figure 8.23: The image becomes inverted if

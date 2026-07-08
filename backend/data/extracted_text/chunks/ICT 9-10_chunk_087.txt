@@ -1,0 +1,18 @@
+# Chunk 87 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.832158
+# Character count: 379
+# Chunk ID: ICT 9-10.txt_0_87
+
+========================================
+
+--- Page 27 ---
+22 Computer Maintenance and Cyber Security
+# Whether all other works are stopped during the installation; if not, the
+mstallation process often gets hampered;
+» Whether the anti-virus software is turned off, and
+# Whether the administrator of the operating system has the permission or not
+(Almost all the devices have the permission except some particular ones).

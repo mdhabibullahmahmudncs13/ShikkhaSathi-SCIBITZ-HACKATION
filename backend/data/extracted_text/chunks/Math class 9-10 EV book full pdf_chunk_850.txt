@@ -1,0 +1,27 @@
+# Chunk 850 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474315
+# Character count: 615
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_850
+
+========================================
+
+Frequency
+Here, n = 51 is an odd number.
+. 51+1
+.. Median = the value of — th term = the value of26th term = 165
+Required median 165 cm.
+Note: The value of the terms from 23th to 38th is 165.
+Example 11. The frequency distribution table of marks obtained in
+mathematics of 60 students is as follows. Find the median :
+Marks 40 | 45 | 50 | 55 70180 | 85 | 90 | 95 | 100
+obtained
+Solution: Cumulative frequency distribution table for determining median is :
+Marks 40 | 45 | 50 | 55 | 60 | 70 | 80 | 85 | 90 | 95 | 100
+obtained
+reaweney | 2 11 7] 5] 71016] 6] 5] 1]
+a Frequency
+S Here, n = 60, which is an even number.

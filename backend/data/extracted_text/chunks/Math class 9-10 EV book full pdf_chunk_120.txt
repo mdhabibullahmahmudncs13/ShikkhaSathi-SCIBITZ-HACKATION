@@ -1,0 +1,22 @@
+# Chunk 120 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.401360
+# Character count: 629
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_120
+
+========================================
+
+theorem.
+» form algebraic formulae for solving real life problems and solve the problems
+by applying the formulae.
+Algebraic Expressions
+Meaningful organization of operational signs and numerical letter symbols is
+called Algebraic Expressions. Such as, 2a + 3b — 4c is an algebraic expression.
+In algebraic expression, different types of information are expressed through the
+letters a, b, ¢, p, q, r, m, n, x, y, z, ... etc. These alphabet are used to solve
+a different types of problems related to algebraic expressions. In arithmetic, only
+Q i; . .
+S positive numbers are used, where as, in algebra, both positive and negative

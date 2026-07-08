@@ -1,0 +1,27 @@
+# Chunk 724 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461254
+# Character count: 792
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_724
+
+========================================
+
+--- Page 319 ---
+314 Mathematics Classes IX-X
+Step 2. Triangle AC’ AD and rectangular region ADLM lie on the same base AD
+and between the parallel lines AD and CL. Therefore, Rectangular region
+ADLM=2ACA D [Theorem 37]
+Step 3. ABAF and the square ACGF lie on the same base AF and
+between the parallel lines AF and BG. Hence, square region ACGF =
+2AFAB =2ACAD [Theorem 37]
+Step 4. Rectangular region ADLM = square region ACGF.
+Step 5. Similarly joining C, E' and A, K it can be proved that rectangular region
+BELM = square region BCHK
+Step 6. Rectangular region (ADLM + BELM) = square region ACGF+ square
+region BCHK. or, square region ABED = square region ACGF+ square
+region BCHK.
+That is, AB? = BC? + AC? (Proved)
+Construction 13. Construct a parallelogram with an angle equal to a definite

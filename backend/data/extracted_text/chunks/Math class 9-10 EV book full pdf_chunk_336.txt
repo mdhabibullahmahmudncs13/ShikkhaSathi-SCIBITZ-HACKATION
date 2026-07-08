@@ -1,0 +1,30 @@
+# Chunk 336 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.423320
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_336
+
+========================================
+
+--- Page 143 ---
+138 Mathematics Classes IX-X
+Theorem 12. If one angle of a triangle is greater than another, the side opposite
+the greater angle is greater than the side opposite the lesser.
+A
+Special Nomination: Let, in triangle AABC,
+ZABC > ZACB Tt is to be proved that, AC > AB / ~
+B [S
+Proof:
+Step 1. If the side AC is not greater than AB, then (i) AC = AB
+or, (12) AC < AB.
+(i) If AC = AB, then ZABC = LACB [. The base angles of isosceles
+triangle are equal]
+Which is against the supposition, since by supposition ZABC > ZACB.
+(i1) Again, if AC' < AB, then ZABC < ZACB. ['.- The angle opposite
+to smaller side is smaller]
+But this is also against the supposition.
+Step 2. Therefore, the side AC is neither equal to nor less than AB.
+AC > AB (Proved).

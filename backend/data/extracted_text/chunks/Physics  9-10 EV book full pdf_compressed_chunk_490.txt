@@ -1,0 +1,36 @@
+# Chunk 490 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.350505
+# Character count: 760
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_490
+
+========================================
+
+--- Page 174 ---
+Effect of Heat on Matter 169
+If the length of an object is L, at temperature 7, and the length is increased to L,
+after increasing the temperature to 7, then the co-efficient of linear expansion
+ois
+a= (L, — L/L,
+TO nL-T
+s0,
+Ly = Ly + oly (T, — Ty)
+Similarly if the area of an object is 4, at temperature 7, and increasing the
+temperature 7, if the area is increased to 4,, then the co-efficient of area
+expansion f is
+B= (4; —A)/A
+TO nL-T
+so,
+Ay = Ay + BA(T, — TT)
+Again similarly if the volume is V at temperature 7, and if the volume is
+increased to V,, then the co-efficient of expansion of volume is ¥
+RAYA
+TTT
+so,
+Vo =Vy +yVi(T, = Ty)
+You see that the unit of three quantities a, and ¥ is K™'.
+Dimension[a] = [#8] = [y] =[1-1]
+0) Example

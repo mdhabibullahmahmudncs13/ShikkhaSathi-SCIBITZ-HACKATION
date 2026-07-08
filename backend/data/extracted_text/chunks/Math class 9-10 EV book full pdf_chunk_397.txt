@@ -1,0 +1,28 @@
+# Chunk 397 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429022
+# Character count: 562
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_397
+
+========================================
+
+AB and CD respectively. It is to be proved that if pd
+OE = OF, AB = CD ANB
+Drawing: Join O, A and O,C'.
+Proof:
+Step 1. Since OF 1 AB and OF L C'D
+Therefore, ZOEA = ZOFC =1 right angle.
+Step 2. Now in the right angled triangles AOAE and AOCF
+hypotenuse OA = hypotenuse OC' [radius of same circle]
+and
+OF = OF [supposition]
+SL AOAE = AOCF [RHS theorem)
+LAE =CF
+Step 3. AE = SAB and CF = 5CD [.- The perpendicular from the centre
+bisects the chord]
+Step 4. Therefore, JAB = top :
+" i.e., AB=CD (Proved)
+E Corollary 3. The diameter is the greatest chord of a circle.

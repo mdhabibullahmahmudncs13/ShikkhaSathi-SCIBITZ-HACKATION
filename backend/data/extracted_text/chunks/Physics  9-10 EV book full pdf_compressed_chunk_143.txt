@@ -1,0 +1,28 @@
+# Chunk 143 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314631
+# Character count: 518
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_143
+
+========================================
+
+u: initial velocity
+
+a: acceleration
+
+t: elapsed time
+
+v: velocity after elapsed time
+
+s: distance covered in elapsed timed
+Almost all the relationship among these quantities, are done already, only one is
+left, which is the relationship for the distances. If an object has no acceleration,
+then there is no change in its velocity. Then the initial velocity and the final
+velocity will be equal i.e.(u = v). Therefore the distance covered will be,
+
+s=uvt
+If there is uniform acceleration, the final velocity is:
+v=u+at

@@ -1,0 +1,19 @@
+# Chunk 270 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.327279
+# Character count: 521
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_270
+
+========================================
+
+Putting one or more match boxes over the first one repeat the experiment;
+you will see that every time for a particular angle the match box will start
+moving.
+3.9.2 Effects of friction on motion
+We already discussed that the frictional force always acts opposite to the applied
+force. Therefore, naturally the frictional force slows down the motion and it may
+o be our assumption that perhaps we always try to reduce the friction. But that is
+S not true. Sometimes you may have seen that a car or a truck is stuck in mud.

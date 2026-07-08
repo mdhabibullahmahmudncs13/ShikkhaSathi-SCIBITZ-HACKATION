@@ -1,0 +1,29 @@
+# Chunk 164 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.405918
+# Character count: 611
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_164
+
+========================================
+
+--- Page 72 ---
+Chapter 3. Algebraic Expressions 67
+2. One of the unknown quantities is to be denoted with any variable (say x).
+Then realising the problem well, express other unknown quantities in terms
+
+of the same variable x.
+
+3. The problem will have to be splitted into small parts and express them by
+
+algebraic expressions.
+
+4. Using the given conditions, the small parts together are to be expressed by
+
+an equation.
+
+5. The value of the unknown quantity = is to be found by solving the equation.
+Different formulae are used in solving the problems based on real life. The formulae
+are mentioned below :

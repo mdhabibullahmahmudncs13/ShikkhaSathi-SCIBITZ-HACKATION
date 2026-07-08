@@ -1,0 +1,24 @@
+# Chunk 916 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.400792
+# Character count: 638
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_916
+
+========================================
+
+iii) If any magnet is rotated around a motionless wire coil
+Which one is correct of the following?
+(a)i (b)ii (c)iandii (d) ii and iii
+A bar magnet is moving to and fro through a coil of wire. As a result, voltage is
+induced in the coil. The induced voltage depends on some factors. Now,
+answer questions number 4 and 5.
+4. In case of electromagnetic induction, the induced voltage depends on which
+of the following?
+(i) Intensity of the magnetic field
+(ii) Resistance of the coil moving in the magnetic field
+(iii) Speed of the coil moving in the magnetic field.
+Which one of the following is correct?
+(a)i (b)ii (c)iandii (d) ii and iii

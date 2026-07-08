@@ -1,0 +1,33 @@
+# Chunk 836 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391420
+# Character count: 613
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_836
+
+========================================
+
+TR O5Q+10Q+15Q 5
+So, voltage difference from A to B, 1
+
+Vi=RI=5QxZA=1V
+So, the voltage at A is 6V and 1V less at B so, the voltage at B is,
+6V-V,=6V—-1V=5V
+As the voltage of point B is 5 V, then the voltage of point E is also 5 V. Similarly,
+1
+
+Va = Ry =10Qxz A =2V
+The voltage at C is 2 V less than voltage of point B. So, voltage of point C is,
+5V-2V=3V
+We have said earlier that the voltage of point D is zero. This can also be verified.
+The voltage of point D is less than point C by V,.
+
+1
+Vs =Ryl =15Qxz A=3V
+So, voltage of point A 8 c
+D =3V-3V = 0, as mentioned l—% ; ;
+earlier. 2v 1 R=30 I R= 60
+—1
+yi E F

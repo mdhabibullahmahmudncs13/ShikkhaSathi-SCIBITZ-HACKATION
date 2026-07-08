@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShikkhaSathi - Network Access Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .test-section {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .status {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        .success {
+            background: #10b981;
+        }
+        .error {
+            background: #ef4444;
+        }
+        .pending {
+            background: #f59e0b;
+        }
+        button {
+            background: #10b981;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            width: 100%;
+            margin: 10px 0;
+        }
+        button:hover {
+            background: #059669;
+        }
+        .info {
+            background: rgba(59, 130, 246, 0.3);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 15px 0;
+        }
+        pre {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 15px;
+            border-radius: 10px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌐 ShikkhaSathi Network Access Test</h1>
+        
+        <div class="info">
+            <strong>📍 Your IP Address:</strong> <span id="clientIp">Detecting...</span><br>
+            <strong>🌐 Accessing From:</strong> <span id="accessUrl"></span>
+        </div>
+
+        <div class="test-section">
+            <h3>Backend API Test <span id="backendStatus" class="status pending">Testing...</span></h3>
+            <p>Testing connection to: <code id="backendUrl"></code></p>
+            <pre id="backendResult">Waiting for test...</pre>
+            <button onclick="testBackend()">🔄 Test Backend</button>
+        </div>
+
+        <div class="test-section">
+            <h3>Frontend Test <span id="frontendStatus" class="status success">✅ Active</span></h3>
+            <p>You're viewing this page, so frontend is working!</p>
+            <p>Main App URL: <a href="/" style="color: #60a5fa;">http://<span id="mainAppUrl"></span>:5174</a></p>
+        </div>
+
+        <div class="test-section">
+            <h3>📱 Access Instructions</h3>
+            <ol>
+                <li>Make sure your device is on the same WiFi network</li>
+                <li>Open browser on any device</li>
+                <li>Go to: <strong>http://<span id="instructionUrl"></span>:5174</strong></li>
+                <li>Start using ShikkhaSathi!</li>
+            </ol>
+        </div>
+
+        <div class="test-section">
+            <h3>🔧 Quick Actions</h3>
+            <button onclick="window.location.href='/'">🏠 Go to Main App</button>
+            <button onclick="window.open('http://' + window.location.hostname + ':8000/docs', '_blank')">📖 Open API Docs</button>
+            <button onclick="testAll()">🧪 Run All Tests</button>
+        </div>
+    </div>
+
+    <script>
+        // Get current hostname
+        const hostname = window.location.hostname;
+        document.getElementById('accessUrl').textContent = window.location.href;
+        document.getElementById('mainAppUrl').textContent = hostname;
+        document.getElementById('instructionUrl').textContent = hostname;
+        document.getElementById('backendUrl').textContent = `http://${hostname}:8000/health`;
+
+        // Get client IP
+        fetch('https://api.ipify.org?format=json')
+            .then(r => r.json())
+            .then(data => {
+                document.getElementById('clientIp').textContent = data.ip;
+            })
+            .catch(() => {
+                document.getElementById('clientIp').textContent = 'Unable to detect';
+            });
+
+        // Test backend
+        async function testBackend() {
+            const statusEl = document.getElementById('backendStatus');
+            const resultEl = document.getElementById('backendResult');
+            
+            statusEl.textContent = 'Testing...';
+            statusEl.className = 'status pending';
+            resultEl.textContent = 'Connecting to backend...';
+
+            try {
+                const response = await fetch(`http://${hostname}:8000/health`);
+                const data = await response.json();
+                
+                statusEl.textContent = '✅ Connected';
+                statusEl.className = 'status success';
+                resultEl.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                statusEl.textContent = '❌ Failed';
+                statusEl.className = 'status error';
+                resultEl.textContent = `Error: ${error.message}\n\nTroubleshooting:\n1. Check if backend is running\n2. Check firewall settings\n3. Verify you're on the same network`;
+            }
+        }
+
+        // Test all
+        async function testAll() {
+            await testBackend();
+        }
+
+        // Auto-test on load
+        window.addEventListener('load', () => {
+            setTimeout(testBackend, 1000);
+        });
+    </script>
+</body>
+</html>

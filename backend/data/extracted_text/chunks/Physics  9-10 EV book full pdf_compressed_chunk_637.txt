@@ -1,0 +1,26 @@
+# Chunk 637 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.371068
+# Character count: 749
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_637
+
+========================================
+
+--- Page 236 ---
+Reflection of Light 231
+concave mirror perpendicularly and after reflection will go back the way it has
+come. As shown in figure, another ray from point X can be a ray parallel to the
+principal axis. Because we have already known that parallel ray goes through the
+focal point after reflection. So it will be incident on the point Q and after
+reflection will go through the point F.
+Son
+= i
+o
+Figure 8.22: Image appears larger than the object in the
+concave mirror placed inside the focal length.
+After emerging from point X two rays of light will travel towards NO and QF
+and we can see that these two rays have no chance of intersecting. So there
+cannot be an image formed on the right side. But if we are able to look at the left

@@ -1,0 +1,28 @@
+# Chunk 122 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.401697
+# Character count: 706
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_122
+
+========================================
+
+Formula 1. (a+b)? = a® + 2ab + b*
+Formula 2. (a —b)? =a — 2ab + b*
+Remarks: It is seen from Formula 1 and Formula 2 that, adding 2ab or —2ab to
+a® +b, we get a perfect square, i.e. we get (a +b)? or (a — b)?. Substituting —b
+instead of b in Formula 1 we get Formula 2 : {a + (=b)}* = a® + 2a(—b) + (=b)?
+That is, (a — b)? = a* — 2ab + b*
+Corollary 1. a? +b” = (a +b)? — 2ab
+Corollary 2. a? +b? = (a — b)? + 2ab
+Corollary 3. (a+ b)* = (a —b)? + dab
+Proof: (a+b)? = a®+ 2ab+ b> = a® — 2ab + b* + dab = (a — b)* + 4ab [I
+Corollary 4. (a — 1b)? = (a+b)? — 4ab
+Proof: (a —b)? =a — 2ab+ b> = a’ + 2ab+ b> — dab = (a + b)* — dab [I
+b)? —b)?
+Corollary 5. a+b? = fab faz tr
+Proof: From Formula 1 and Formula 2,
+IS
+S

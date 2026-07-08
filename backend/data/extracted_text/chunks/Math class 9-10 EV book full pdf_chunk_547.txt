@@ -1,0 +1,23 @@
+# Chunk 547 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.444540
+# Character count: 356
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_547
+
+========================================
+
+--- Page 243 ---
+238 Mathematics Classes IX-X
+Again, (3z —2y)? = (3x +2y)* —4- 3x -2y
+or, (3 —2y)? = (3 + 2y)% — 24ay
+or, (3z — 2y)? = (700)% — 24 x 20000
+or, (3x — 2y)* = 490000 — 480000
+or, (3x — 2y)% = 10000
+or, 3x —2y = 100 ...(2)
+By subtracting (2) from (1) we get,
+4y = 600 or, y = 150
+.. the breadth of the given land is 2y = 2 x 150 = 300 metres.
+g

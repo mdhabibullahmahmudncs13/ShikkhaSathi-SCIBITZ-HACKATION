@@ -1,0 +1,21 @@
+# Chunk 235 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.413376
+# Character count: 732
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_235
+
+========================================
+
+Equation: There are two polynomials on two sides of the equal sign of an
+equation, or there may be zero on one side (mainly on right hand side). Degree
+of the variable of the polynomials on two sides may not be equal. Solving an
+equation, we get the number of values of the variable equal to the highest degree
+of that variable. This value or these values are called the roots of the equation.
+The equation will be satisfied by the root or roots. In the case of more than
+one root, these may be equal or unequal. Such as, roots of 2? — 5z + 6 = 0 are
+2,3. Again, though the value of z in equation (x — 3)* = 0 is 3, the roots of the
+equations are 3,3.
+Identity: There are two polynomials of same (equal) degree on two sides of equal

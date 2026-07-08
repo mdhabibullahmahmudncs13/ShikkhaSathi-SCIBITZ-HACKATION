@@ -1,0 +1,30 @@
+# Chunk 369 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.879458
+# Character count: 783
+# Chunk ID: ICT 9-10.txt_0_369
+
+========================================
+
+circular object like making a monogram can be done.
+
+Typing outside Circular Objeet
+
+A. Make a circular object, and if itis filled with color, click the None icon either
+of the Color Palette or Tool Box to delete the color of the circle.
+
+B. Select the Type on a Path Tool from the Tool Box
+as the circle is selected. Click the anchor point of &° Le on
+this circle with the tool, and the msertion point will £ Ey
+be placed outside the Path of the circle. i A
+
+- The circle must be selected while clicking. If it is § 3
+not selected. step | and step 2 should be completed
+after the selection.
+
+C. IF typing is started, the text will advance following the path of the circle
+usually from left to right. In the same way, the text will be arranged outside
+rectangular object if required.

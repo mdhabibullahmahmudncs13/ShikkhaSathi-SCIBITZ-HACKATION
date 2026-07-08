@@ -1,0 +1,18 @@
+# Chunk 920 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.481452
+# Character count: 269
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_920
+
+========================================
+
+A
+If the length, breadth and height of a |2 TE 2 ey |g
+rectangular solid are a unit, b unit V5 “
+and c¢ unit respectively, Then a ab b
+according to the figure, area of the
+whole face of the solid = {(ab + ab) + (bc + bc) + (ac + ac)} sq. unit
+= 2(ab + bc + ac) sq. unit

@@ -1,0 +1,32 @@
+# Chunk 791 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468784
+# Character count: 668
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_791
+
+========================================
+
+--- Page 348 ---
+Chapter 16. Mensuration 343
+
+‘Work: Determine the area of the dark marked region in the figure.
+
+15cm
+Exercises 16.3
+
+1. Angle subtended by a circular segment at the centre is 30°. If the diameter
+of the circle is 126 cm, determine the length of the arc.
+
+1
+
+2. A horse circled around a field with a speed of 66 metre per minute in 15 minute.
+Determine the diameter of the field.
+
+3. Area of a circular segment is 77 square metre and the radius is 21 metre.
+Determine the angle subtended at the centre by the circular arc.
+
+4. The radius of a circle is 14 ¢cm and an arc subtends an angle 75° at its
+centre. Determine the area of the circular segment.

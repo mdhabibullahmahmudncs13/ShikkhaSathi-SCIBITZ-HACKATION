@@ -1,0 +1,35 @@
+# Chunk 776 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467555
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_776
+
+========================================
+
+--- Page 342 ---
+Chapter 16. Mensuration 337
+breadth right at the middle of the garden.
+1) Describe the above information with figure.
+2) Determine the area of the path.
+3) How many bricks of 25 cm length and 12.5 cm width will be required
+to make the path metalled?
+15. From the information of the figure below, determine the area of the polygon.
+16. From the information of the figures below, determine the area of the polygons.
+1.5 12m B_
+D mC D c D> Fem aN
+oO
+- 7 dP
+3 sem
+ml
+ed
+A E
+Measurement regarding circle
+1. Circumference of a circle
+The length of a circle is called its circumference.
+Let r be the radius of a circle, its circumference c
+c = 27r, where 7 = 3.14159265--- which is an
+irrational number. Value of 7 = 3.1416 is used as
+the approximate value. Therefore, if the radius of a

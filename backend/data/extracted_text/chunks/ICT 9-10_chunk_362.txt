@@ -1,0 +1,27 @@
+# Chunk 362 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878511
+# Character count: 442
+# Chunk ID: ICT 9-10.txt_0_362
+
+========================================
+
+Changing Color of Letters Zh eS
+
+To change the color of the letters: i Be
+
+A.The requisite letters or writings should be selected.
+
+B. Click on the color on the bar of the Color Palette or Swatch Palette. The
+selected letters or words will assume the color.
+
+Deleting Letters
+
+A letter or letters or a paragraph or the entire writing can be deleted by pressing
+
+the Backspace/Delete button. if it is selected.
+
+Enlarging or Reducing Font Size

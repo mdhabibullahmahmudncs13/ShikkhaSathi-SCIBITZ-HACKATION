@@ -1,0 +1,25 @@
+# Chunk 568 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.363433
+# Character count: 736
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_568
+
+========================================
+
+--- Page 204 ---
+Waves and Sound 199
+| 2 | jo
+A B C DE
+Figure 7.09: Phase of a wave at different position
+7.3 Sound Wave
+To produce sound waves a source is needed, a medium to send it through, and
+any type of receiver to receive that sound. There are many sources of sound
+around us. Obviously, the most familiar source is our throat; sound is created by
+the vibration of the vocal cord when air flows through it in our throat. We will
+feel the vibration if we touch our throat during conversation.
+Certainly you have noticed that the voice of a male is deep and the voice of
+female and children is sharp. When we make a sound then air comes out through
+throat from our lungs. In our throat there is a wind pipe through which air enters

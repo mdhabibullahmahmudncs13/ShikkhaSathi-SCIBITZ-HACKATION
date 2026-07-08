@@ -1,0 +1,27 @@
+# Chunk 395 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.339758
+# Character count: 795
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_395
+
+========================================
+
+pressure will be felt after going in deep water or any other fluid is already been
+mentioned. The pressure on you will have to be calculated from the weight of the
+column of liquid on you. Let us suppose that you want to determine the pressure
+of the liquid at depth A. Imagine an area A there (Figure 5.02). The weight of the
+column of liquid above this area will exert a force on 4.
+Volume of the liquid over a surface area
+A is Ah. If the density of the liquid is p gre
+then weight of this liquid or force is, =
+F=mg = (Ahp)g —
+-_
+Therefore pressure,
+TATA Tw
+Therefore, in a liquid of fixed density,
+pressure rises with the increase of depth. .
+In case of water, approximately for a ten Figure 5.02: Pressure is created on
+meter increase in depth, the pressure the Tower sues due 0 the height

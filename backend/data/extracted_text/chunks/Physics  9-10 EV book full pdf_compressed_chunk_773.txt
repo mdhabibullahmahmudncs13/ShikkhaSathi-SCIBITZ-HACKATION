@@ -1,0 +1,21 @@
+# Chunk 773 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.385473
+# Character count: 623
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_773
+
+========================================
+
+10.7 Capacitor
+
+When a conductor is charged or electricity is applied to it, it attains an equipoten-
+tial state. Furthermore, bringing another charged object near a conductor will
+induce a charge on that conductor. The potential of a conductor depends on the
+charges around it. When heat is applied to a material, the resulting temperature
+change depends on its specific heat capacity. If the heat capacity is high, the tem-
+perature will increase only slightly, even with substantial heat input; conversely,
+a substance with a low heat capacity will experience a significant rise in tempera-
+ture with minimal heat added.

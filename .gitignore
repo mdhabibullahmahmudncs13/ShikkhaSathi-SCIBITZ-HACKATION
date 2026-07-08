@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+*.db
+*.sqlite3
+alembic/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node (frontend)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Downloads / large files
+*.whl
+*.tar.gz
+
+# Test outputs
+htmlcov/
+.coverage
+.pytest_cache/

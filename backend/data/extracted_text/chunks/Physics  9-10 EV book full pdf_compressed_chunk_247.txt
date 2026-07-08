@@ -1,0 +1,35 @@
+# Chunk 247 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325151
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_247
+
+========================================
+
+--- Page 88 ---
+Force 83
+@ Do Yourself
+Rubber Band Spring Balance
+
+A spring balance is used to measure the weight of small objects. It is less
+
+likely that all of you have a spring balance. So, to serve the purpose you
+
+can make a spring balance with the help of a rubber band. You can use the
+
+plastic lid of a container as a pan to keep a weight. Make four equidistant
+
+holes round the pan and tie with a string. Now hang the pan from one end of
+
+a rubber band. Attach the other end of the rubber band to a board with the
+
+help of a paper clip. Now hang the board in a suitable place.
+
+Figure 3.11: A spring balance made of a rubber band
+
+Put a black dot on the string from which you have hanged the pan with the
+
+rubber band. When there is no weight on the pan, put a black spot on the

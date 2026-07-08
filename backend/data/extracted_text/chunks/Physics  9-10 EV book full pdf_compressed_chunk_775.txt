@@ -1,0 +1,32 @@
+# Chunk 775 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.385655
+# Character count: 769
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_775
+
+========================================
+
+--- Page 295 ---
+290 Physics
+to as a capacitor. A capacitor with high capacitance requires a large amount of
+charge to produce only a small increase in potential, while a capacitor with low
+capacitance will see a significant rise in potential with just a small amount of
+charge. For example, if a spherical capacitor has a capacitance C and receives a
+charge Q, then its potential V is given by:
+Q
+v==
+[4
+where for a metallic sphere of radius r the capacitance C is
+cor
+Tk
+2 -
+lates and energy is stored in Hare as Capacitor formed. by
+that electric field. For a parallel metal plate .
+capacitor, if capacitance is C and voltage is V , then the energy stored in it is:
+1
+Energy = 3 cv?
+Example
+Question: What is the amount of stored energy if 10 V electric potential is

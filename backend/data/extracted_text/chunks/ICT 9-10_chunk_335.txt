@@ -1,0 +1,21 @@
+# Chunk 335 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.874067
+# Character count: 486
+# Chunk ID: ICT 9-10.txt_0_335
+
+========================================
+
+Selecting Object and Erasing Borderline or Path
+
+- Ifthe object is filled with color, the object will be selected if clicked with the
+Selection Tool or Direct Selection Tool. Keep pressing the Alt button and
+click on the path of the object. The entire object will be selected.
+
+- To erase the path of the object or the part of the path, select them with either
+
+i the Selection Tool or Direct Selection Tool. Press Backspace or Delete
+8 button, and the Path or the part will be deleted.

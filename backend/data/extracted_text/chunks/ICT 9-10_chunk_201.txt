@@ -1,0 +1,39 @@
+# Chunk 201 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.849071
+# Character count: 784
+# Chunk ID: ICT 9-10.txt_0_201
+
+========================================
+
+charts, elc.
+
++ A document can be saved and used again at any time. The same work needs
+
+not be done repeatedly.
+
++ Any part of a document can be copied to another one. if necessary.
+
+S
+=
+
+Forma-8, ICT-(9-10)
+
+
+--- Page 63 ---
+58 Information and Communication Technology
+
++ Ttis possible on work with several documents simultaneously.
+
+» By using find-replace command. a word in a big document can be found
+and replaced quickly.
+
+* When a document is needed for a repeated use, it can be saved as template to
+avoid the wastage of time. For example, if it is required to prepare a
+lab-report every week, it can be saved as a template.
+
+* In a large document, such as. a research paper. tables. references. images,
+bibliography, ete. can be inserted and edited within a very short time,

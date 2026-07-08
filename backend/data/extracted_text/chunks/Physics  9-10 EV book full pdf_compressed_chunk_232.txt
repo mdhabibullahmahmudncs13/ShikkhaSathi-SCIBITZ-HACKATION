@@ -1,0 +1,28 @@
+# Chunk 232 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.323567
+# Character count: 575
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_232
+
+========================================
+
+a=—== wg m/s
+(b) velocity after 10's,
+v=u+at=0+ 20 x10m/s =200m/s
+(c) force is applied up to 10 s, since force is applied no more, therefore, after
+reaching the velocity of 200 m/s, its velocity will be unchanged. That is,
+velocity after 20 s is 200 m/s.
+(d) distance travelled in 20 s has to be determined in two steps. Distance
+travelled in the first 10's,
+= 1 2 1 2 —
+Sp = ut +cat =;%x20x 10°m = 1000 m
+Distance travelled in the second 10s,
+s;, = vt = 200 Xx 10m = 2000 m
+Total distance travelled,
+s =s;+ 5s, = 1000m + 2000 m = 3000 m = 3 km
+(e) Shown in figure 3.06.
+a
+Bl

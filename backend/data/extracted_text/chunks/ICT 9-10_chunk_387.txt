@@ -1,0 +1,28 @@
+# Chunk 387 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881487
+# Character count: 793
+# Chunk ID: ICT 9-10.txt_0_387
+
+========================================
+
+Starting, the Journey of Programming in Python:
+To write instructions or code in Python, we need to perform some tasks to set up
+the programming environment:
+1. We need to download the Python application and install it on our computer,
+Python can be downloaded from this link.
+https://www.python.org/downloads/
+Afterthat, we download the latest version from there.
+2. Once the application is downloaded, we proceed to stall it. During the
+installation, we will see a window like the one below:
+oT) - =
+Install Pythan 3.12.7 (64-bit)
+frenetic nior a
+PYLON (i ce se es ig pi
+WIRIBS [Spe —— Cave
+Click the options at the bottom of the installation window and check the boxes.
+Then, Iwill click on the Install Now option. If it asks for permission to install, [
+will grant that permission as well.

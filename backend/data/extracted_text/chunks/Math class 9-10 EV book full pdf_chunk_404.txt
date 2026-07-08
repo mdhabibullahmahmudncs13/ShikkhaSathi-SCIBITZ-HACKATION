@@ -1,0 +1,38 @@
+# Chunk 404 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429581
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_404
+
+========================================
+
+APB and is inscribed in the conjugate arc ACB.
+
+It is to be noted that, APB and ACB are mutually
+
+conjugate.
+
+Remarks: The angle inscribed in an arc of a circle is the angle with vertex in
+
+the arc and the sides passing through the terminal points of the arc. An angle
+
+standing on an arc is the angle inscribed in the conjugate arc.
+
+Angle at the Centre (Central angle)
+
+The angle with vertex at the centre of the circle is
+
+called an angle at the centre. An angle at the centre
+
+cuts an arc of the circle and is said to stand on the
+
+arc. In the adjacent figure, ZAOB is an angle at the
+
+centre and it stands on the arc APB. Every angle A
+
+at the centre stands on a minor arc of the circle. In 7 B
+
+the figure APB is the minor arc. So the vertex of an A

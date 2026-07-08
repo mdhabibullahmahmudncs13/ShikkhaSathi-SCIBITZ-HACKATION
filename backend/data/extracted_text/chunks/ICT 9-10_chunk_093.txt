@@ -1,0 +1,30 @@
+# Chunk 93 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.833268
+# Character count: 472
+# Chunk ID: ICT 9-10.txt_0_93
+
+========================================
+
+The steps to be followed to delete.
+At first, uninstall the piece of software as per the previous instructions, and
+follow the next steps:
+=r —
+= J bgt re rea
+| Open: | regedit - I
+I
+[cr
+1. Pressing BE +1, activate Run command. Write regedit’, and press enter.
+2. Enter the file. menu.
+3 Click Export
+Free (ET —
+a 18 = Import... ; Il
+~E Qe | 3
+= It CHINE Load Hive
+vl HKEY_USERS Unload Hive
+4 HKEY_CURRENT CY ||
+Connect Network Registry... “
+Duscanmect Network Frgantzy |g

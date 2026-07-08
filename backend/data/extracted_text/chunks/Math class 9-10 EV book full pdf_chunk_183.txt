@@ -1,0 +1,26 @@
+# Chunk 183 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.407784
+# Character count: 690
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_183
+
+========================================
+
+--- Page 82 ---
+Chapter 3. Algebraic Expressions 77
+
+18. A boatman can go d km in p hours against the current. He takes ¢ hours to
+cover that distance along the current. What is the speed of the current and
+the boat ?
+
+19. A boatman goes 15 km and returns from there in 4 hours plying by oar. He
+goes 5 km at a period of time along the current and goes 3 km at the same
+period of time against the current. Find the speed of the oar and current.
+
+20. Two pipes are connected with a tank. The empty tank is filled up in
+minutes by the first pipe and it becomes empty in minutes by the second
+pipe. If the two pipes are opened together, in how much time will the tank
+be filled up ?(Here t,>1)

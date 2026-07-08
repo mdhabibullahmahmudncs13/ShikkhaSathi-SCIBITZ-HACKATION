@@ -1,0 +1,37 @@
+# Chunk 344 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.424049
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_344
+
+========================================
+
+--- Page 148 ---
+Chapter 6. Lines, Angles and Triangles 143
+3. In figure what is the value of ZRPS?
+1) 40° 2) 70° 3) 90° 4) 110°
+4. In the adjacent figure
+(i) ZAOC is an acute angle o 8
+(#1) ZAOB is a right angle ¢
+(#17) ZAOD is a reflex angle
+0 A
+Which one of the following is correct?
+1) i 2) ii 3) and ii 4) ii and iii
+5. If a triangle when placed on another exactly covers the other
+(i) the two triangles are congruent
+(ii) the corresponding sides of the two triangles are equal
+(#11) corresponding angles are equal
+‘Which one of the following is correct?
+1) ii 2) 4, iii 3) ii, ii 4) i, ii and ii
+A
+120
+E = 3
+AW
+G Cc D
+In the above figure AB || EF || CD and BD L C'D. Answer the questions
+(6 — 8) based on the given figure:
+6. What is the value of ZAEF ?
+1) 30° 2) 60° 3) 240° 4) 270°

@@ -1,0 +1,38 @@
+# Chunk 247 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.414601
+# Character count: 763
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_247
+
+========================================
+
+variable is assumed instead of the unknown quantity and then equation is formed
+
+by the given conditions. Then by solving the equation, value of the variable,
+
+that is the unknown quantity is found.
+
+Example 5. The digit of the units place of a number consisting of two digits is
+
+2 more than the digit of its tens place. If the places of the digits are interchanged,
+
+the number thus formed will be less by 6 than twice the given number. Find the
+
+number.
+
+Solution: Let the digit of tens place be z.Then the digit of units place will be
+
+T +2.
+
+.. the number is 10x + (x + 2) or, 11x +2
+
+Now, if the places of the digits are interchanged, the changed number will be
+
+10(z +2) + x or, 11x + 20
+
+By the question, 112 + 20 = 2(11z +2) — 6
+
+or, Ile +20 = 22x +4 — 6

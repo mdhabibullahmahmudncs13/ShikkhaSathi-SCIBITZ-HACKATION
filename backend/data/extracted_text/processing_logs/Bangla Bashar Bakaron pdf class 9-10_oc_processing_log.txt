@@ -1,0 +1,22 @@
+# Processing Log for Bangla Bashar Bakaron pdf class 9-10_oc
+# Processed on: 2025-12-21T22:24:23.678067
+
+==================================================
+
+## Processing Statistics:
+- source_file: data/nctb/Bangla Bashar Bakaron pdf class 9-10_oc.pdf
+- total_pages_in_pdf: 219
+- pages_with_text: 1
+- pages_skipped: 218
+- extraction_success_rate: 0.5%
+- total_characters: 28
+- average_chars_per_page: 28
+
+## File Locations:
+- Pages directory: data/extracted_text/pages
+- Chunks directory: data/extracted_text/chunks
+- Full document: data/extracted_text/full_documents
+
+## Processing Configuration:
+- Chunk size: 800
+- Chunk overlap: 150

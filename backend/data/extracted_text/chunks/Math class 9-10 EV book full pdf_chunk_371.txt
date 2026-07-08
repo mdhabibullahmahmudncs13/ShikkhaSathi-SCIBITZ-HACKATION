@@ -1,0 +1,17 @@
+# Chunk 371 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426719
+# Character count: 348
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_371
+
+========================================
+
+sides of a square are equal and an angle is a right angle; so five data are easily
+specified.
+Construction 4. Two diagonals and an included angle between them of a
+parallelogram are given. Construct the parallelogram.
+Leta and b be the diagonals of a parallelogram and Zz be an angle included
+between them. The parallelogram is to be constructed. S

@@ -1,0 +1,26 @@
+# Chunk 102 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.310363
+# Character count: 767
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_102
+
+========================================
+
+main scale.
+(d) The frist measurement of length measured by Rashed was irrelevant to
+accurate measurement, explain with logic.
+2. Mr Rashid, a science teacher, has given a ruler and a box to the students in his
+physics class and told them to determine the volume of the box. The students
+observed that the ruler could be used to measure upto cm only. They determined
+the length, breadth, and height of the box as 20 cm, 15 cm and 10 cm
+respectively.
+(a) What is its dimension?
+(b) Why weight and mass are not the same type of quantity?
+(¢) Determine the percentage of relative error in the measurement of volume
+of the box?
+(d) This ruler is appropriate for measuring the area of the book but not
+suitable for measuring the area of the house- analyze the statement.
+E

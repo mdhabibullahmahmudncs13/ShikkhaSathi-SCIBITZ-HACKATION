@@ -1,0 +1,2150 @@
+{
+  "subject": "mathematics",
+  "bangla_name": "গণিত",
+  "total_questions": 153,
+  "topics": [
+    "algebra",
+    "geometry",
+    "trigonometry",
+    "calculus",
+    "statistics",
+    "probability",
+    "number theory",
+    "equations"
+  ],
+  "generated_at": "2026-01-15 08:08:23",
+  "questions": [
+    {
+      "question": "What is the degree of the polynomial y = x^2 + 1?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "C",
+      "explanation": "The degree of a polynomial is the highest power of the variable. In this case, the highest power of x is 2.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are the roots of the equation 3x + 1 = 5?",
+      "options": {
+        "A": "-1/3",
+        "B": "1/3",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "B",
+      "explanation": "To find the roots of an equation, we set it equal to zero and solve for x. In this case, 3x + 1 = 5 becomes 3x + 1 - 5 = 0, which simplifies to 3x - 4 = 0. Solving for x gives us x = 4/3, but since the equation was not in the form of y = x^2 + 1, we need to use a different method. Using algebraic manipulation, we can solve this equation by isolating x: 3x = 5 - 1; 3x = 4; x = 4/3.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial y = 2x^3 - 3x^2 + x?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "explanation": "The degree of a polynomial is the highest power of the variable. In this case, the highest power of x is 3.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are the factors of the expression (x + 2)(x - 1)?",
+      "options": {
+        "A": "(x + 2)(x - 3)",
+        "B": "(x + 2)(x - 1)",
+        "C": "(x - 2)(x + 1)",
+        "D": "(x - 2)(x + 3)"
+      },
+      "correct_answer": "B",
+      "explanation": "The factors of an expression are the values that, when multiplied together, give us the original expression. In this case, we have (x + 2) and (x - 1), so the correct answer is simply (x + 2)(x - 1).",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the efficiency of a motor that lifts an object of mass 10 kg to a height of 10 m using 1000 J of energy?",
+      "options": {
+        "A": "60%",
+        "B": "65.3%",
+        "C": "70%",
+        "D": "80%"
+      },
+      "correct_answer": "B",
+      "explanation": "The efficiency of a motor is calculated by subtracting the amount of energy wasted from the total energy used, and then dividing by the total energy used. In this case, we have 1000 J of energy used, and 9,800 J of work done (10 kg x 9.8 m/s^2 x 10 m). So, the efficiency is (1000 - 9800) / 1000 = -7.8, but since efficiency cannot be negative, we take the absolute value: |-7.8| = 7.8. However, this value needs to be converted to a percentage by dividing by 100 and then multiplying by 100 again: (7.8/1) x 100 / 100 = 78%, which is incorrect, so let’s try 15,000 - 9800. Efficiency = (15,000-9800)/15,000 = 5,200/15,000 = 0.6533 and convert to percentage: 0.6533 x 100% = 65.33%",
+      "topic": "physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the range of hearing for a typical adult?",
+      "options": {
+        "A": "20 Hz - 20 kHz",
+        "B": "20 Hz - 15 kHz",
+        "C": "40 Hz - 15 kHz",
+        "D": "80 Hz - 15 kHz"
+      },
+      "correct_answer": "A",
+      "explanation": "The human ear can detect sounds with frequencies ranging from approximately 20 Hz to 20,000 Hz. This range is often referred to as the 'range of hearing'.",
+      "topic": "physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the relationship between wavelength and frequency of a wave?",
+      "options": {
+        "A": "λ = 1/f",
+        "B": "λ = f",
+        "C": "λ = f/c",
+        "D": "f = λ/c"
+      },
+      "correct_answer": "C",
+      "explanation": "The relationship between wavelength and frequency of a wave is given by the formula: λ = f/c, where λ is the wavelength, f is the frequency, and c is the speed of the wave.",
+      "topic": "physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are the factors of the expression (x^2 + 4)(x - 3)?",
+      "options": {
+        "A": "(x + 2)(x - 1)",
+        "B": "(x + 2)(x - 3)",
+        "C": "(x - 2)(x + 1)",
+        "D": "(x - 2)(x + 3)"
+      },
+      "correct_answer": "A",
+      "explanation": "To find the factors of an expression, we need to multiply two binomials. In this case, we have (x^2 + 4) and (x - 3). We can use the FOIL method to multiply these binomials: x^2 - 3x + 4x -12 = x^2 + x - 12.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the meaning of efficiency in the context of energy production?",
+      "options": {
+        "A": "The amount of work done by a motor.",
+        "B": "The rate at which an object gains kinetic energy.",
+        "C": "The percentage of energy that is not wasted during energy production.",
+        "D": "The type of wave that produces sound."
+      },
+      "correct_answer": "C",
+      "explanation": "Efficiency refers to the ratio of useful output to input, and in the context of energy production, it represents the amount of energy that is not wasted. A high efficiency means that less energy is wasted, while a low efficiency means that more energy is wasted.",
+      "topic": "physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are the factors of the expression (x^2 - 4) + 3x?",
+      "options": {
+        "A": "(x + 2)(x - 1)",
+        "B": "(x + 2)(x - 3)",
+        "C": "(x - 2)(x + 1)",
+        "D": "(x - 2)(x + 3)"
+      },
+      "correct_answer": "A",
+      "explanation": "To find the factors of an expression, we need to multiply two binomials. In this case, we have (x^2 - 4) and 3x. We can use the FOIL method to multiply these binomials: x^2 + 3x - 4.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating efficiency?",
+      "options": {
+        "A": "Efficiency = (Work done) / (Energy used)",
+        "B": "Efficiency = (Energy used) / (Work done)",
+        "C": "Efficiency = (Energy wasted) / (Energy used)",
+        "D": "Efficiency = (Energy wasted) / (Work done)"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for calculating efficiency is: Efficiency = (Energy wasted) / (Energy used). This represents the percentage of energy that is not wasted during energy production.",
+      "topic": "physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are the mid-points of the opposite sides parallel to the base of a histogram?",
+      "options": {
+        "A": "The points where the x-axis intersects the top and bottom of the histogram.",
+        "B": "The points where the y-axis intersects the left and right sides of the histogram.",
+        "C": "The points where the mid-point of each rectangle is plotted on the x-axis.",
+        "D": "The points where the mid-point of each rectangle is plotted on the y-axis."
+      },
+      "correct_answer": "C",
+      "explanation": "In a frequency polygon, the mid-points of the opposite sides parallel to the base of the histogram are plotted on the x-axis. This helps to create a smooth curve that represents the distribution of data.",
+      "topic": "statistics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial y = 2y - 1?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "C",
+      "explanation": "The degree of a polynomial is the highest power of the variable. In this case, y^1 - 1 = y - 1, which has a degree of 1.",
+      "topic": "algebra",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many roots does the equation 3x + 1 = 5 have?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinity"
+      },
+      "correct_answer": "C",
+      "explanation": "To find the number of roots, we need to solve for x. Subtracting 3x from both sides gives us x = 4/3. This is a single root.",
+      "topic": "algebra",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the degree of the polynomial (a^2 - 4)(a + 2)?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "D",
+      "explanation": "Using the distributive property, we get a^3 + 2a^2 - 4a - 8. The highest power of the variable is 3, so the degree is 3.",
+      "topic": "algebra",
+      "difficulty": "medium"
+    },
+    {
+      "question": "If 10% energy is wasted in every step of production, what is the efficiency in 4 steps?",
+      "options": {
+        "A": "0.5",
+        "B": "0.6",
+        "C": "0.65",
+        "D": "0.7"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for efficiency is 1 - (wasted energy / total energy). In this case, the wasted energy is 10% of the original amount, so the efficiency is 1 - 0.9 = 0.65.",
+      "topic": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What are three identities in algebra?",
+      "options": {
+        "A": "x + y = x^2 + y^2",
+        "B": "x - y = x^2 - y^2",
+        "C": "x^2 + y^2 = (x + y)(x - y)",
+        "D": "x^2 + y^2 = x + y"
+      },
+      "correct_answer": "C",
+      "explanation": "These identities can be derived using algebraic manipulations. Option C is one such identity.",
+      "topic": "algebra",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the formula for the area of a rectangle?",
+      "options": {
+        "A": "length * width",
+        "B": "width * length",
+        "C": "(length + width)^2",
+        "D": "sqrt(length^2 + width^2)"
+      },
+      "correct_answer": "A",
+      "explanation": "The area of a rectangle is equal to its length multiplied by its width.",
+      "topic": "mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the relationship between the velocity of sound, frequency, and wavelength?",
+      "options": {
+        "A": "velocity = frequency * wavelength",
+        "B": "velocity = frequency / wavelength",
+        "C": "frequency = velocity / wavelength",
+        "D": "wavelength = frequency / velocity"
+      },
+      "correct_answer": "A",
+      "explanation": "The formula for the velocity of sound is c = λf, where c is the speed of sound, λ is the wavelength, and f is the frequency.",
+      "topic": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the process called when energy is wasted in every step of production?",
+      "options": {
+        "A": "efficiency",
+        "B": "wastage",
+        "C": "losses",
+        "D": "inefficiency"
+      },
+      "correct_answer": "D",
+      "explanation": "Inefficiency refers to the loss of energy in a process, which can occur due to various factors such as heat transfer or friction.",
+      "topic": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the formula for calculating the efficiency of an object?",
+      "options": {
+        "A": "efficiency = (work done) / (energy input)",
+        "B": "efficiency = (energy wasted) / (energy input)",
+        "C": "efficiency = (energy output) / (energy input)",
+        "D": "efficiency = (work done) / (energy output)"
+      },
+      "correct_answer": "A",
+      "explanation": "The formula for efficiency is the ratio of work done to energy input.",
+      "topic": "physics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the purpose of a frequency polygon?",
+      "options": {
+        "A": "to show the distribution of data",
+        "B": "to calculate the mean and median",
+        "C": "to display the relationship between variables",
+        "D": "all of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "A frequency polygon is a graphical representation of the distribution of data, which can also be used to calculate the mean and median.",
+      "topic": "statistics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the degree of the polynomial y = 2y - 1 and how many roots does it have?",
+      "options": {
+        "A": "0, 1 root",
+        "B": "1, 1 root",
+        "C": "2, 2 roots",
+        "D": "3, 3 roots"
+      },
+      "correct_answer": "B",
+      "explanation": "The degree of the polynomial y = 2y - 1 is 1. To find the number of roots, we can use the quadratic formula: y = (-b ± √(b^2 - 4ac)) / 2a. In this case, a = 2, b = -1, and c = 0. Solving for y, we get y = 1/2 or y = 0, so there are 2 roots.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial 3x + 1 and how many roots does it have?",
+      "options": {
+        "A": "0, 1 root",
+        "B": "1, 1 root",
+        "C": "2, 2 roots",
+        "D": "3, 3 roots"
+      },
+      "correct_answer": "B",
+      "explanation": "The degree of the polynomial 3x + 1 is 1. To find the number of roots, we can set the equation equal to zero and solve for x: 3x + 1 = 0 --> 3x = -1 --> x = -1/3. So, there is 1 root.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are three algebraic identities?",
+      "options": {
+        "A": "x + y = x^2 + y^2, x - y = x^2 - y^2, x^2 + y^2 = xy",
+        "B": "x + y = x^2 + y^2, x - y = x^2 - y^2, x^2 + 2xy + y^2 = (x+y)^2",
+        "C": "x + y = xy, x - y = xy, x^2 + y^2 = (x+y)(x-y)",
+        "D": "x + y = x^3 + y^3, x - y = x^3 - y^3, x^3 + 3xy(x-y) = (x+y)^3"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states that all equations are not identities. Algebraic identities are equations that are always true for all values of the variable. Three examples of algebraic identities are: x + y = x^2 + y^2, x - y = x^2 - y^2, and x^2 + 2xy + y^2 = (x+y)^2.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the expression for efficiency in terms of work, energy, and wasted energy?",
+      "options": {
+        "A": "Efficiency = Work / Energy",
+        "B": "Efficiency = 1 - (Work / Energy)",
+        "C": "Efficiency = (Work / Energy) x 100%",
+        "D": "Efficiency = (Energy - Work) / Energy"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states that efficiency can be expressed in percentage as: Efficiency = (Work / Energy) x 100%.",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "If 10% energy is wasted in every step, what is the efficiency in 4 steps?",
+      "options": {
+        "A": "0.5%",
+        "B": "0.65%",
+        "C": "0.75%",
+        "D": "0.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states that if 10% energy is wasted in every step, the efficiency in 4 steps is: 0.9 x 0.9 x 0.9 x 0.9 = 0.6561 or 65.6%.",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for the expression (a + b)^2?",
+      "options": {
+        "A": "(a + b)(a - b)",
+        "B": "(a + b) + (b - a)",
+        "C": "(a + b)^2 = a^2 + 2ab + b^2",
+        "D": "(a + b)^3 = a^3 + 3ab(a-b)"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states that the formula for the expression (a + b)^2 is: (a + b)^2 = a^2 + 2ab + b^2.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for the expression (a - b)^2?",
+      "options": {
+        "A": "(a + b)(a - b)",
+        "B": "(a - b) + (b - a)",
+        "C": "(a - b)^2 = a^2 - 2ab + b^2",
+        "D": "(a - b)^3 = a^3 - 3ab(a-b)"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states that the formula for the expression (a - b)^2 is: (a - b)^2 = a^2 - 2ab + b^2.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for the expression ab - 64?",
+      "options": {
+        "A": "(a + b)(a - b)",
+        "B": "(a - b) + (b - a)",
+        "C": "(ab)^2 - 64",
+        "D": "(a - b)(a^2 + 4b)"
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states that the formula for the expression ab - 64 is: (a + b)(a - b) = a^2 - b^2.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are the factors of the expression 22x + 16?",
+      "options": {
+        "A": "(2x + 4)(x - 1)",
+        "B": "(2x + 4)(2x - 1)",
+        "C": "(2x + 4)(x^2 - 1)",
+        "D": "(2x + 4)(3x - 1)"
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states that the factors of the expression 22x + 16 can be found by factoring out the greatest common factor: (2x + 4)(x - 1).",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for the expression (a + b)^n?",
+      "options": {
+        "A": "(a + b)(a - b)",
+        "B": "(a - b) + (b - a)",
+        "C": "(a + b)^n = a^n + n(a^(n-1))b",
+        "D": "(a - b)^n = a^n - n(a^(n-1))b"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook does not provide a formula for the expression (a + b)^n. However, it states that the binomial theorem can be used to expand this expression.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for the expression (a - b)^n?",
+      "options": {
+        "A": "(a + b)(a - b)",
+        "B": "(a - b) + (b - a)",
+        "C": "(a - b)^n = a^n - n(a^(n-1))b",
+        "D": "(a + b)^n = a^n + n(a^(n-1))b"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states that the formula for the expression (a - b)^n is: (a - b)^n = a^n - n(a^(n-1))b.",
+      "topic": "algebra",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the equation 2y - y^2 = 3y?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "-1"
+      },
+      "correct_answer": "C",
+      "explanation": "The degree of a polynomial is the highest power of the variable. In this case, the equation can be rewritten as y^2 - 3y = 0, which has a degree of 2.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the number of values of the variable 'x' for which the equation x^2 - 4 = 0 is true?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "The equation x^2 - 4 = 0 has two solutions, which can be found using the quadratic formula. Therefore, there are 2 values of 'x' for which the equation is true.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial (a^2 + 4)(a^3 - 2a)?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "5",
+        "D": "-1"
+      },
+      "correct_answer": "C",
+      "explanation": "The degree of a polynomial is the highest power of the variable. In this case, the polynomial can be expanded and the degree can be determined.",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What are the factors of the expression 2x^2 + 16x?",
+      "options": {
+        "A": "(2x)^2",
+        "B": "(2x+4)",
+        "C": "(2x-4)",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "explanation": "The expression can be factored by taking out a common factor of 2x, resulting in 2x(x + 8).",
+      "topic": "algebra",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the equation for the efficiency of an object lifted with a motor?",
+      "options": {
+        "A": "Efficiency = Work / Energy",
+        "B": "Efficiency = Energy / Work",
+        "C": "Efficiency = (Work - Energy) / Work",
+        "D": "Efficiency = (Energy - Work) / Energy"
+      },
+      "correct_answer": "A",
+      "explanation": "The efficiency of an object lifted with a motor is the ratio of the amount of work done to the energy used, expressed as a percentage.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the relationship between the velocity of sound, frequency, and wavelength?",
+      "options": {
+        "A": "v = fλ",
+        "B": "v = λ/f",
+        "C": "f = v/λ",
+        "D": "λ = vf"
+      },
+      "correct_answer": "A",
+      "explanation": "The velocity of sound is equal to the product of its frequency and wavelength.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the range of hearing for a human ear?",
+      "options": {
+        "A": "20 Hz to 20 kHz",
+        "B": "20 Hz to 2000 Hz",
+        "C": "2000 Hz to 20 kHz",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "The range of hearing for a human ear is typically considered to be from 20 Hz to 20 kHz.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for creating an echo?",
+      "options": {
+        "A": "echo = sound wave + silence",
+        "B": "echo = sound wave - silence",
+        "C": "echo = 2 * sound wave",
+        "D": "echo = 0 * sound wave"
+      },
+      "correct_answer": "B",
+      "explanation": "An echo is created when a sound wave reflects off a surface and returns to the listener, resulting in the original sound wave minus the reflected sound wave.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the relationship between the velocity of sound and its frequency?",
+      "options": {
+        "A": "v = fλ",
+        "B": "v = λ/f",
+        "C": "f = v/λ",
+        "D": "λ = vf"
+      },
+      "correct_answer": "B",
+      "explanation": "The velocity of sound is equal to the product of its frequency and wavelength, but in this case we are only considering the relationship between the velocity and the frequency.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the effect of 10% energy wasted in every step on the efficiency of a power plant?",
+      "options": {
+        "A": "Efficiency increases by 10%",
+        "B": "Efficiency decreases to 90%",
+        "C": "Efficiency remains the same",
+        "D": "Efficiency drops to 30%"
+      },
+      "correct_answer": "D",
+      "explanation": "If 10% energy is wasted in every step, the efficiency of the power plant will drop to 30%.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating the efficiency of an object lifted with a motor?",
+      "options": {
+        "A": "Efficiency = (Work - Energy) / Work",
+        "B": "Efficiency = (Energy - Work) / Energy",
+        "C": "Efficiency = Work / Energy",
+        "D": "Efficiency = Energy / Work"
+      },
+      "correct_answer": "C",
+      "explanation": "The efficiency of an object lifted with a motor is the ratio of the amount of work done to the energy used, expressed as a percentage.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 6, what is the distance between two points P and Q?",
+      "options": {
+        "A": "The distance between two points is always positive.",
+        "B": "The distance between two points is zero if they are the same point.",
+        "C": "The distance between two points can be different depending on the order of measurement.",
+        "D": "The distance between two points is measured by a previously determined unit."
+      },
+      "correct_answer": "D",
+      "explanation": "Postulate 6 states that the distance PQ is positive if P and Q are different points, and the same distance if they are the same point.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the concept of efficiency in the context of energy?",
+      "options": {
+        "A": "The amount of work done by an object.",
+        "B": "The percentage of work that is not wasted.",
+        "C": "The rate at which work is done.",
+        "D": "The total amount of energy produced."
+      },
+      "correct_answer": "B",
+      "explanation": "Efficiency is defined as the percentage of work that is not wasted, calculated by dividing the useful work by the total work input.",
+      "topic": "Physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 5(c), what can be established between the set of points in every straight line and the set of real numbers?",
+      "options": {
+        "A": "One-to-one correspondence between the sets.",
+        "B": "No relationship between the sets.",
+        "C": "Correspondence between the sets but not one-to-one.",
+        "D": "The sets are identical."
+      },
+      "correct_answer": "A",
+      "explanation": "Postulate 5(c) states that a one-to-one correspondence can be established between the set of points in every straight line and the set of real numbers.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "If 10% energy is wasted in every step, what is the efficiency in 4 steps?",
+      "options": {
+        "A": "0.9 x 0.9 x 0.9 = 0.729",
+        "B": "0.9 x 0.9 x 0.9 = 0.6561",
+        "C": "0.9 x 0.9 x 0.9 = 0.81",
+        "D": "0.9 x 0.9 x 0.9 = 0.729"
+      },
+      "correct_answer": "B",
+      "explanation": "The efficiency in 4 steps is calculated by multiplying the efficiency in one step (0.9) by itself four times, resulting in 0.6561.",
+      "topic": "Physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating the amount of wasted energy?",
+      "options": {
+        "A": "Efficiency = rT — Xx 100",
+        "B": "Efficiency = E——— xX 100",
+        "C": "Energy wasted = Energy given - Amount of work",
+        "D": "Energy wasted = Energy given + Amount of work"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for calculating the amount of wasted energy is by subtracting the amount of work from the energy given.",
+      "topic": "Physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 1, what determines a unique real number?",
+      "options": {
+        "A": "The distance between two points P and Q.",
+        "B": "The length of the line segment joining P and Q.",
+        "C": "The angle between the line segments joining P and Q.",
+        "D": "The position of point Q relative to point P."
+      },
+      "correct_answer": "A",
+      "explanation": "Postulate 1 states that each pair of points P and Q determines a unique real number, which is the distance PQ.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the purpose of drawing a frequency polygon?",
+      "options": {
+        "A": "To show the distribution of data in a graphical form.",
+        "B": "To calculate the mean and median of a dataset.",
+        "C": "To display the relationship between two variables.",
+        "D": "To summarize the main features of a dataset."
+      },
+      "correct_answer": "A",
+      "explanation": "The purpose of drawing a frequency polygon is to show the distribution of data in a graphical form, making it easier to visualize and analyze.",
+      "topic": "Statistics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 2, what happens if P and Q are the same point?",
+      "options": {
+        "A": "The distance PQ is zero.",
+        "B": "The distance PQ is positive.",
+        "C": "The distance PQ is undefined.",
+        "D": "The distance PQ is infinite."
+      },
+      "correct_answer": "A",
+      "explanation": "Postulate 2 states that if P and Q are the same point, then the distance PQ is zero.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating efficiency in terms of energy given and amount of work?",
+      "options": {
+        "A": "Efficiency = rT — Xx 100",
+        "B": "Efficiency = E——— xX 100",
+        "C": "Efficiency = (Energy given - Amount of work) / Energy given",
+        "D": "Efficiency = (Amount of work - Energy given) / Energy given"
+      },
+      "correct_answer": "B",
+      "explanation": "The formula for calculating efficiency in terms of energy given and amount of work is by dividing the useful work by the total work input, resulting in a percentage.",
+      "topic": "Physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 3, what is equal for the distance PQ and QP?",
+      "options": {
+        "A": "The distances are different.",
+        "B": "The distances are zero.",
+        "C": "The distances are the same.",
+        "D": "The distances are undefined."
+      },
+      "correct_answer": "C",
+      "explanation": "Postulate 3 states that the distance PQ is equal to the distance QP, making it a symmetric relation.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 7, what can be established between the set of points in every straight line and the set of real numbers?",
+      "options": {
+        "A": "One-to-one correspondence",
+        "B": "One-to-many correspondence",
+        "C": "Many-to-many correspondence",
+        "D": "No correspondence"
+      },
+      "correct_answer": "A",
+      "explanation": "According to Postulate 7, one-to-one correspondence can be established between the set of points in every straight line and the set of real numbers.",
+      "topic": "geometry",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the concept of distance called when it is measured by a previously determined unit?",
+      "options": {
+        "A": "PQ",
+        "B": "QP",
+        "C": "Distance between point P and Q",
+        "D": "Distance between point Q and P"
+      },
+      "correct_answer": "A",
+      "explanation": "The distance between point P and Q is called PQ, which is measured by a previously determined unit.",
+      "topic": "geometry",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the formula for efficiency, what percentage of work is wasted in every step?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the formula for efficiency, 10% of work is wasted in every step.",
+      "topic": "Physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the area of a rectangle calculated using?",
+      "options": {
+        "A": "Length x Width",
+        "B": "Width x Height",
+        "C": "Height x Length",
+        "D": "Length + Width"
+      },
+      "correct_answer": "A",
+      "explanation": "The area of a rectangle is calculated using the formula: Length x Width.",
+      "topic": "Physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 1, what determines a unique real number?",
+      "options": {
+        "A": "The distance between two points",
+        "B": "The length of a line segment",
+        "C": "The area of a triangle",
+        "D": "The volume of a cube"
+      },
+      "correct_answer": "A",
+      "explanation": "According to Postulate 1, each pair of points P and Q determines a unique real number, known as the distance between point P and Q.",
+      "topic": "geometry",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the efficiency of an object that lifts 10 kg using a motor of 1000 W for 10 minutes 15 seconds?",
+      "options": {
+        "A": "60%",
+        "B": "65.3%",
+        "C": "70%",
+        "D": "75%"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the formula for efficiency, the efficiency of an object that lifts 10 kg using a motor of 1000 W for 10 minutes 15 seconds is 65.3%.",
+      "topic": "Physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 2, what happens if P and Q are the same point?",
+      "options": {
+        "A": "PQ is positive",
+        "B": "PQ is zero",
+        "C": "PQ is negative",
+        "D": "PQ is undefined"
+      },
+      "correct_answer": "B",
+      "explanation": "According to Postulate 2, if P and Q are the same point, PQ is zero.",
+      "topic": "geometry",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating efficiency in terms of percentage?",
+      "options": {
+        "A": "Efficiency = rT - Xx 100",
+        "B": "Efficiency = rX - Tx 100",
+        "C": "Efficiency = T + rX 100",
+        "D": "Efficiency = X - rT 100"
+      },
+      "correct_answer": "A",
+      "explanation": "The formula for calculating efficiency in terms of percentage is: Efficiency = (r/T) - (Xx/100).",
+      "topic": "Physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 3, what happens if the distance between P and Q is the same as the distance between Q and P?",
+      "options": {
+        "A": "PQ is positive",
+        "B": "PQ is zero",
+        "C": "PQ is negative",
+        "D": "PQ is undefined"
+      },
+      "correct_answer": "B",
+      "explanation": "According to Postulate 3, if the distance between P and Q is the same as the distance between Q and P, PQ = QP.",
+      "topic": "geometry",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating the area of a rectangle?",
+      "options": {
+        "A": "Area = Length x Width",
+        "B": "Area = Width x Height",
+        "C": "Area = Height x Length",
+        "D": "Area = Length + Width"
+      },
+      "correct_answer": "A",
+      "explanation": "The formula for calculating the area of a rectangle is: Area = Length x Width.",
+      "topic": "Physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 5(c), what can be established between the set of points in every straight line and the set of real numbers?",
+      "options": {
+        "A": "One-to-one correspondence",
+        "B": "One-to-many correspondence",
+        "C": "Many-to-many correspondence",
+        "D": "No correspondence"
+      },
+      "correct_answer": "A",
+      "explanation": "According to Postulate 5(c), one-to-one correspondence can be established between the set of points in every straight line and the set of real numbers.",
+      "topic": "geometry",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 6, what is the distance between two points P and Q?",
+      "options": {
+        "A": "The angle between the two points",
+        "B": "The length of the line segment joining the two points",
+        "C": "The area enclosed by the two points",
+        "D": "The volume of the space between the two points"
+      },
+      "correct_answer": "B",
+      "explanation": "Postulate 6 states: 'Each pair of points P and Q determines a unique real number which is known as the distance between point P and Q and is denoted by PQ.'",
+      "topic": "geometry",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 7, what can be established between the set of points in every straight line and the set of real numbers?",
+      "options": {
+        "A": "One-to-one correspondence between the sets",
+        "B": "One-to-many correspondence between the sets",
+        "C": "Many-to-many correspondence between the sets",
+        "D": "No correspondence between the sets"
+      },
+      "correct_answer": "A",
+      "explanation": "Postulate 7 states: 'One-to-one correspondence can be established between the set of points in every straight line and the set of real numbers.'",
+      "topic": "geometry",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the concept of distance, what is the distance between point P and Q?",
+      "options": {
+        "A": "The angle between the two points",
+        "B": "The length of the line segment joining the two points",
+        "C": "The area enclosed by the two points",
+        "D": "The volume of the space between the two points"
+      },
+      "correct_answer": "B",
+      "explanation": "Postulate 6 states: 'Each pair of points P and Q determines a unique real number which is known as the distance between point P and Q and is denoted by PQ.'",
+      "topic": "geometry",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Investigation 4.01, what physical ability is being tested?",
+      "options": {
+        "A": "Muscular strength",
+        "B": "Flexibility",
+        "C": "Coordination and balance",
+        "D": "Agility"
+      },
+      "correct_answer": "C",
+      "explanation": "Investigation 4.01 states: 'Physical ability' is being tested.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the formula for efficiency, what is the relationship between energy wasted and energy given?",
+      "options": {
+        "A": "Energy wasted = Energy given + Efficiency",
+        "B": "Energy wasted - Energy given = Efficiency",
+        "C": "Energy wasted = Energy given x Efficiency",
+        "D": "Energy wasted / Energy given = Efficiency"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for efficiency states: 'Efficiency = (Amount of work done) / (Energy given) - (Energy wasted)'.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the definition of efficiency, what is the percentage value of efficiency?",
+      "options": {
+        "A": "100% - Efficiency",
+        "B": "Efficiency / Energy given x 100%",
+        "C": "(Amount of work done) / (Energy wasted)",
+        "D": "(Energy given) / (Energy wasted)"
+      },
+      "correct_answer": "B",
+      "explanation": "The definition of efficiency states: 'Efficiency = rT - Xx 100'.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the investigation, what is the percentage value of efficiency in 4 steps?",
+      "options": {
+        "A": "65.6%",
+        "B": "65.3%",
+        "C": "60.5%",
+        "D": "55.1%"
+      },
+      "correct_answer": "A",
+      "explanation": "The investigation states: 'Efficiency = 0.9 x 0.9 x 0.9 = 0.6561 or 65.6%'.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the text, what is the technique for measuring physical quantities using different apparatuses?",
+      "options": {
+        "A": "Using a single apparatus",
+        "B": "Using multiple apparatuses",
+        "C": "Measuring by hand",
+        "D": "Using a calculator"
+      },
+      "correct_answer": "B",
+      "explanation": "The text states: 'Measure physical quantities using different apparatuses'.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the concept of distance, what is the distance between point P and Q?",
+      "options": {
+        "A": "The angle between the two points",
+        "B": "The length of the line segment joining the two points",
+        "C": "The area enclosed by the two points",
+        "D": "The volume of the space between the two points"
+      },
+      "correct_answer": "B",
+      "explanation": "Postulate 6 states: 'Each pair of points P and Q determines a unique real number which is known as the distance between point P and Q and is denoted by PQ.'",
+      "topic": "geometry",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 7, what can be established between the set of points in every straight line and the set of real numbers?",
+      "options": {
+        "A": "One-to-one correspondence between the sets",
+        "B": "One-to-many correspondence between the sets",
+        "C": "Many-to-many correspondence between the sets",
+        "D": "No correspondence between the sets"
+      },
+      "correct_answer": "A",
+      "explanation": "Postulate 7 states: 'One-to-one correspondence can be established between the set of points in every straight line and the set of real numbers.'",
+      "topic": "geometry",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Investigation 4.01, what physical ability is being tested?",
+      "options": {
+        "A": "Muscular strength",
+        "B": "Flexibility",
+        "C": "Coordination and balance",
+        "D": "Agility"
+      },
+      "correct_answer": "C",
+      "explanation": "Investigation 4.01 states: 'Physical ability' is being tested.",
+      "topic": "Physics",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 1, what is known as the distance between two points?",
+      "options": {
+        "A": "The difference in their coordinates",
+        "B": "The sum of their distances from a reference point",
+        "C": "A unique real number representing the separation between them",
+        "D": "The product of their velocities"
+      },
+      "correct_answer": "C",
+      "explanation": "Postulate 1 states that each pair of points determines a unique real number, known as the distance between point P and Q.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the name of the efficiency when energy wasted in every step of production of electricity is taken into account?",
+      "options": {
+        "A": "Efficiency",
+        "B": "Energy Waste",
+        "C": "Power Plant Efficiency",
+        "D": "Electrical Energy Loss"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states that if all wastage is taken into account, the efficiency of a power plant can drop down to 30%.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 2, what happens if two points have the same coordinates?",
+      "options": {
+        "A": "The distance between them is infinite",
+        "B": "The distance between them is zero",
+        "C": "The distance between them is undefined",
+        "D": "The distance between them is not applicable"
+      },
+      "correct_answer": "B",
+      "explanation": "Postulate 2 states that if two points have the same coordinates, the distance between them is zero.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating efficiency in percentage?",
+      "options": {
+        "A": "\\frac{Work Done}{Energy Input} \\times 100%",
+        "B": "\\frac{Energy Output}{Work Done} \\times 100%",
+        "C": "\\frac{Energy Wasted}{Work Done} \\times 100%",
+        "D": "\\frac{Work Done - Energy Wasted}{Energy Input} \\times 100%"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states that efficiency can be expressed in percentage as: Efficiency = \\frac{Work Done - Energy Wasted}{Energy Input} \\times 100%.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 3, what is the distance between point P and Q?",
+      "options": {
+        "A": "PQ = \\frac{1}{PQ}",
+        "B": "PQ = -PQ",
+        "C": "PQ = QP",
+        "D": "PQ ≠ QP"
+      },
+      "correct_answer": "C",
+      "explanation": "Postulate 3 states that the distance between P and Q is equal to the distance between Q and P.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "If an object of mass 10 kg is lifted using a motor of 1000 W, what is the amount of wasted energy?",
+      "options": {
+        "A": "400 W",
+        "B": "500 W",
+        "C": "9,800 J",
+        "D": "15,000 J"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states that the amount of wasted energy is 9,800 J.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 5(c), what can be established between the set of points in every straight line and the set of real numbers?",
+      "options": {
+        "A": "One-to-one correspondence",
+        "B": "Many-to-many correspondence",
+        "C": "No correspondence",
+        "D": "Random correspondence"
+      },
+      "correct_answer": "A",
+      "explanation": "Postulate 5(c) states that one-to-one correspondence can be established between the set of points in every straight line and the set of real numbers.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating efficiency when 10% energy is wasted in every step?",
+      "options": {
+        "A": "\\frac{Work Done}{Energy Input} \\times 100%",
+        "B": "\\frac{Energy Output}{Work Done} \\times 100%",
+        "C": "\\frac{1 - Energy Wasted}{Energy Input} \\times 100%",
+        "D": "\\frac{Work Done + Energy Wasted}{Energy Input} \\times 100%"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states that if all wastage is taken into account, the efficiency of a power plant can drop down to 30%.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 1, what is known as the distance between two points?",
+      "options": {
+        "A": "\\frac{1}{PQ}",
+        "B": "-PQ",
+        "C": "PQ = QP",
+        "D": "PQ ≠ QP"
+      },
+      "correct_answer": "C",
+      "explanation": "Postulate 1 states that each pair of points determines a unique real number, known as the distance between point P and Q.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the name of the concept that assumes that each pair of points determines a unique real number?",
+      "options": {
+        "A": "Distance Concept",
+        "B": "Incidence Concept",
+        "C": "Coordinate Concept",
+        "D": "Real Number Concept"
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states that Postulate 1 assumes that each pair of points determines a unique real number.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to Postulate 2, what happens if two points have the same coordinates?",
+      "options": {
+        "A": "The distance between them is infinite",
+        "B": "The distance between them is zero",
+        "C": "The distance between them is undefined",
+        "D": "The distance between them is not applicable"
+      },
+      "correct_answer": "B",
+      "explanation": "Postulate 2 states that if two points have the same coordinates, the distance between them is zero.",
+      "topic": "geometry",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to be consistent?",
+      "options": {
+        "A": "The sum of the coefficients of x and y must be equal.",
+        "B": "The ratio of constant terms in both equations must be equal.",
+        "C": "The product of the coefficients of x and y must be equal.",
+        "D": "The sum of the constants on both sides of the equation must be equal."
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'We get, — = — # —' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial equation y2 - 4 = 0?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'Degree of the polynomials on both sides may be unequal.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to be dependent?",
+      "options": {
+        "A": "The sum of the coefficients of x and y must be equal.",
+        "B": "The ratio of constant terms in both equations must be equal.",
+        "C": "There exists at least one common solution.",
+        "D": "The product of the coefficients of x and y must be equal."
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states: 'Generally, the equality is true for one or more values of the variable.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial equation x - y + 1 = 0?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Degree of the polynomials on both sides may be unequal.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to have no solution?",
+      "options": {
+        "A": "The sum of the coefficients of x and y must be equal.",
+        "B": "The ratio of constant terms in both equations must be equal.",
+        "C": "There exists at least one common solution.",
+        "D": "The product of the coefficients of x and y must be equal."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'We get, — = — # —' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial equation z^2 - 16 = 0?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'Degree of the polynomials on both sides may be unequal.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to be independent?",
+      "options": {
+        "A": "The sum of the coefficients of x and y must be equal.",
+        "B": "The ratio of constant terms in both equations must be equal.",
+        "C": "There exists at least one common solution.",
+        "D": "The product of the coefficients of x and y must be equal."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Generally, the equality is true for one or more values of the variable.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial equation x + y = 0?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Degree of the polynomials on both sides may be unequal.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to be inconsistent?",
+      "options": {
+        "A": "The sum of the coefficients of x and y must be equal.",
+        "B": "The ratio of constant terms in both equations must be equal.",
+        "C": "There exists at least one common solution.",
+        "D": "The product of the coefficients of x and y must be equal."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'We get, — = — # —' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial equation 2x + y = 6?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'Degree of the polynomials on both sides may be unequal.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to have a unique solution?",
+      "options": {
+        "A": "The sum of the coefficients of x and y must be equal.",
+        "B": "The ratio of constant terms in both equations must be equal.",
+        "C": "There exists at least one common solution.",
+        "D": "The product of the coefficients of x and y must be equal."
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states: 'Generally, the equality is true for one or more values of the variable.' (Chapter 12. Simple Simultaneous Equations in Two Variables)",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for a system of equations to be consistent?",
+      "options": {
+        "A": "The sum of the coefficients must be equal.",
+        "B": "The ratio of constant terms must be equal.",
+        "C": "The product of the constants must be zero.",
+        "D": "The number of variables must be odd."
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'If the ratio of constant terms is IR, then the system of equations is inconsistent and mutually independent.'",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What type of equation has a degree of 0?",
+      "options": {
+        "A": "Linear equation",
+        "B": "Quadratic equation",
+        "C": "Polynomial equation with one variable",
+        "D": "Polynomial equation with two variables"
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Degree of the polynomials on both sides may be unequal.' A linear equation has a degree of 0.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for two polynomials to exist on both sides of an equation?",
+      "options": {
+        "A": "The degree of the polynomials must be equal.",
+        "B": "The ratio of constant terms must be equal.",
+        "C": "The number of variables must be odd.",
+        "D": "The product of the constants must be zero."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Two polynomials exist on both sides of an equation, or there may be zero | A.' A polynomial with a degree of 0 exists for any value of x.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the solution to the equation 3x + 1 = 5?",
+      "options": {
+        "A": "-1/2",
+        "B": "1/2",
+        "C": "0",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook does not provide a solution to this equation. However, it can be solved by subtracting 1 from both sides and then dividing both sides by 3.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for a system of equations to be dependent?",
+      "options": {
+        "A": "The ratio of constant terms must be equal.",
+        "B": "The sum of the coefficients must be equal.",
+        "C": "The product of the constants must be zero.",
+        "D": "The number of variables must be odd."
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'If the sum of the coefficients is equal, then the system of equations is dependent.' A dependent equation has a constant term that can be expressed as a linear combination of other terms.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What type of equation has no solution?",
+      "options": {
+        "A": "Linear equation",
+        "B": "Quadratic equation",
+        "C": "Polynomial equation with one variable",
+        "D": "Inconsistent system of equations"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states: 'If the ratio of constant terms is IR, then the system of equations is inconsistent and mutually independent.' An inconsistent system of equations has no solution.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for a polynomial equation to have an infinite number of solutions?",
+      "options": {
+        "A": "The degree of the polynomials must be equal.",
+        "B": "The ratio of constant terms must be equal.",
+        "C": "The number of variables must be odd.",
+        "D": "The product of the constants must be zero."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Equality is true for infinite number of values of the variable.' A polynomial equation with a degree equal to 0 has an infinite number of solutions.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the solution to the equation y - 2y = 4?",
+      "options": {
+        "A": "-4",
+        "B": "0",
+        "C": "4",
+        "D": "6"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook does not provide a solution to this equation. However, it can be solved by combining like terms and then isolating y.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for two polynomials to exist on both sides of an equation?",
+      "options": {
+        "A": "The degree of the polynomials must be equal.",
+        "B": "The ratio of constant terms must be equal.",
+        "C": "The number of variables must be odd.",
+        "D": "The product of the constants must be zero."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Two polynomials exist on both sides of an equation, or there may be zero | A.' A polynomial with a degree of 0 exists for any value of x.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the solution to the equation z - 2y = 16?",
+      "options": {
+        "A": "-8",
+        "B": "0",
+        "C": "8",
+        "D": "16"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook does not provide a solution to this equation. However, it can be solved by combining like terms and then isolating z.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for an equation to have a solution?",
+      "options": {
+        "A": "The degree of the polynomials must be equal.",
+        "B": "The ratio of constant terms must be equal.",
+        "C": "The number of variables must be odd.",
+        "D": "All equations are identities."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'Equality is true for infinite number of values of the variable.' A polynomial equation with a degree equal to 0 has an infinite number of solutions. An equation with a solution must have a corresponding value of x that satisfies the equation.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the solution to the equation ar - cy = 0?",
+      "options": {
+        "A": "-c/a",
+        "B": "a/c",
+        "C": "0",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook does not provide a solution to this equation. However, it can be solved by factoring out the common term and then isolating y.",
+      "topic": "calculus",
+      "difficulty": "easy",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for a system of equations to have no solution?",
+      "options": {
+        "A": "Both equations must be consistent and independent",
+        "B": "One equation must be dependent on the other",
+        "C": "The ratio of constant terms in both equations must be equal",
+        "D": "Neither of the above conditions is true"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the textbook, if the ratio of constant terms in both equations is not equal, then the system of equations is inconsistent and has no solution.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What type of equations are given as examples in Exercise 12.1?",
+      "options": {
+        "A": "Linear equations",
+        "B": "Quadratic equations",
+        "C": "Simple simultaneous equations",
+        "D": "System of linear equations"
+      },
+      "correct_answer": "C",
+      "explanation": "The examples in Exercise 12.1 are simple simultaneous equations, as stated in the textbook.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to be dependent?",
+      "options": {
+        "A": "Both equations must have the same constant term",
+        "B": "One equation must have the same coefficient as another equation",
+        "C": "The ratio of constant terms in both equations must be equal",
+        "D": "Neither of the above conditions is true"
+      },
+      "correct_answer": "A",
+      "explanation": "According to the textbook, a system of equations is dependent if one equation can be obtained by multiplying another equation by a constant.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What type of polynomials are described as existing on both sides of equal sign in the textbook?",
+      "options": {
+        "A": "Polynomial with zero constant term",
+        "B": "Polynomial with non-zero constant term",
+        "C": "Polynomial with infinite number of terms",
+        "D": "Neither of the above options is correct"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the textbook, polynomials with a non-zero constant term exist on both sides of equal sign.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for two polynomials to have the same degree?",
+      "options": {
+        "A": "The ratio of their constant terms must be equal",
+        "B": "Their coefficients must be equal",
+        "C": "The number of terms in both polynomials must be equal",
+        "D": "Neither of the above conditions is true"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the textbook, two polynomials have the same degree if they have the same number of terms.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for an algebraic identity to be true?",
+      "options": {
+        "A": "It must be true for all values of the variable",
+        "B": "It may not always be true, but it is true for some values of the variable",
+        "C": "It must be false for at least one value of the variable",
+        "D": "Neither of the above conditions is true"
+      },
+      "correct_answer": "A",
+      "explanation": "According to the textbook, an algebraic identity is always true for all values of the variable.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What type of equations are given as examples in Exercise 12.2?",
+      "options": {
+        "A": "Linear equations",
+        "B": "Quadratic equations",
+        "C": "Simple simultaneous equations",
+        "D": "System of linear equations"
+      },
+      "correct_answer": "C",
+      "explanation": "The examples in Exercise 12.2 are simple simultaneous equations, as stated in the textbook.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for two polynomials to be equal?",
+      "options": {
+        "A": "Their coefficients must be equal",
+        "B": "The ratio of their constant terms must be equal",
+        "C": "They must have the same degree and number of terms",
+        "D": "Neither of the above conditions is true"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the textbook, two polynomials are equal if they have the same degree and number of terms.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for a system of linear equations to be consistent?",
+      "options": {
+        "A": "Both equations must have a non-zero constant term",
+        "B": "One equation must have a zero constant term, while another has a non-zero constant term",
+        "C": "The ratio of their constant terms must be equal",
+        "D": "Neither of the above conditions is true"
+      },
+      "correct_answer": "A",
+      "explanation": "According to the textbook, a system of linear equations is consistent if both equations have a non-zero constant term.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for an algebraic expression to be factored?",
+      "options": {
+        "A": "It must have a non-zero constant term",
+        "B": "It may not always have a non-zero constant term, but it can still be factored",
+        "C": "It must have a zero constant term",
+        "D": "Neither of the above conditions is true"
+      },
+      "correct_answer": "A",
+      "explanation": "According to the textbook, an algebraic expression can be factored if it has a non-zero constant term.",
+      "topic": "calculus",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what is the condition for a system of equations to be inconsistent and have no solution?",
+      "options": {
+        "A": "The system has infinite solutions.",
+        "B": "The ratio of constant terms is equal on both sides.",
+        "C": "The degree of polynomials on both sides is unequal.",
+        "D": "The system is dependent and independent."
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'We get, — = — # —' Therefore, the system of equations is inconsistent and mutually independent. The system of equations has no solution.",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial 3x +1=5?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'We shall discuss the solutions of only the consistent and independent simple equations. 1) What is the degree of and how many roots has each of the following equations?'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what type of equation has no solution?",
+      "options": {
+        "A": "Dependent and independent",
+        "B": "Inconsistent and independent",
+        "C": "Consistent and dependent",
+        "D": "Inconsistent and dependent"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'Therefore, the system of equations is inconsistent and mutually independent. The system of equations has no solution.'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial y -1 3y?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'We shall discuss the solutions of only the consistent and independent simple equations. 1) What is the degree of and how many roots has each of the following equations?'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what happens when two polynomials exist on both sides of an equation?",
+      "options": {
+        "A": "The system has no solution.",
+        "B": "The ratio of constant terms is equal on both sides.",
+        "C": "The degree of polynomials on both sides may be unequal.",
+        "D": "The equality is true for all values of the original set of variables."
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: '1 we polynomial s may exist on both 1. Two polynomials exist on two | A sides.'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for a system of equations to be dependent?",
+      "options": {
+        "A": "The ratio of constant terms is equal on both sides.",
+        "B": "The degree of polynomials on both sides may be unequal.",
+        "C": "The system has infinite solutions.",
+        "D": "The equality is true for all values of the original set of variables."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'We get, — = — # —' Therefore, the system of equations is inconsistent and mutually independent. The system of equations has no solution.",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what type of equation can be solved using algebraic formulae?",
+      "options": {
+        "A": "Dependent and independent",
+        "B": "Inconsistent and independent",
+        "C": "Consistent and dependent",
+        "D": "All equations are not identities."
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states: 'Algebraic formulae are used to solve many algebraic problems. Moreover, many algebraic expressions are presented by resolving them into factors.'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial 2o+y=3?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'We shall discuss the solutions of only the consistent and independent simple equations. 1) What is the degree of and how many roots has each of the following equations?'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what happens when the ratio of constant terms is equal on both sides of an equation?",
+      "options": {
+        "A": "The system has no solution.",
+        "B": "The ratio of constant terms is equal on both sides.",
+        "C": "The degree of polynomials on both sides may be unequal.",
+        "D": "The equality is true for all values of the original set of variables."
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'We get, — = — # —' Therefore, the system of equations is inconsistent and mutually independent. The system of equations has no solution.",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the condition for a system of equations to be dependent?",
+      "options": {
+        "A": "The ratio of constant terms is equal on both sides.",
+        "B": "The degree of polynomials on both sides may be unequal.",
+        "C": "The system has infinite solutions.",
+        "D": "The equality is true for all values of the original set of variables."
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'We get, — = — # —' Therefore, the system of equations is inconsistent and mutually independent. The system of equations has no solution.",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "According to the NCTB textbook, what type of equation can be solved using algebraic formulae?",
+      "options": {
+        "A": "Dependent and independent",
+        "B": "Inconsistent and independent",
+        "C": "Consistent and dependent",
+        "D": "All equations are not identities."
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states: 'Algebraic formulae are used to solve many algebraic problems. Moreover, many algebraic expressions are presented by resolving them into factors.'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the degree of the polynomial 3r—3y—10=0?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'We shall discuss the solutions of only the consistent and independent simple equations. 1) What is the degree of and how many roots has each of the following equations?'",
+      "topic": "calculus",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the purpose of drawing a frequency polygon from a histogram?",
+      "options": {
+        "A": "To show the distribution of data",
+        "B": "To calculate the mean and median",
+        "C": "To visualize the shape of the distribution",
+        "D": "To find the mode and range"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states: 'The mid-points of the opposite sides parallel to the base of rectangle of the histogram have been fixed for drawing frequency polygon from histogram.'",
+      "topic": "statistics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating efficiency?",
+      "options": {
+        "A": "Efficiency = rT - Xx 100",
+        "B": "Efficiency = E / xX 100",
+        "C": "Efficiency = 1 - (Xx T) / 100",
+        "D": "Efficiency = (rT - Xx) / 100"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states: 'Efficiency can be expressed in percentage as: Efficiency = rT — Xx 100'",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the effect of 10% energy loss at each step on the efficiency of a power plant?",
+      "options": {
+        "A": "The efficiency increases by 10%",
+        "B": "The efficiency decreases to 90%",
+        "C": "The efficiency remains the same",
+        "D": "The efficiency drops down to 30%"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states: 'If all these wastage is taken into account, the efficiency of the power plant can drop down to 30%.'",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is a complex preposition?",
+      "options": {
+        "A": "A type of simple preposition",
+        "B": "A preposition that comes before a noun and shows its relation to another word",
+        "C": "A type of verb",
+        "D": "A type of adjective"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'These are complex prepositions. Like a simple preposition, a complex preposition also comes before a noun and shows its relation to another word.'",
+      "topic": "english",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the purpose of measuring physical quantities using different apparatuses?",
+      "options": {
+        "A": "To calculate the mean and median",
+        "B": "To visualize the shape of the distribution",
+        "C": "To express concepts and theories of physics by using scientific terms, symbols, and signs",
+        "D": "To determine the area and volume of uniform objects"
+      },
+      "correct_answer": "C",
+      "explanation": "The textbook states: '...to express the concepts and theories of physics by using scientific terms, symbols and signs.'",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating work?",
+      "options": {
+        "A": "Work = F x d",
+        "B": "Work = m x g x t^2",
+        "C": "Work = E - Xx 100",
+        "D": "Work = rT - Xx 100"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'Work, Power, Energy 121 new quantity called efficiency. Efficiency can be expressed in percentage as: ... Work, Power, Energy 121' (no specific formula given)",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the effect of energy loss on efficiency?",
+      "options": {
+        "A": "The efficiency increases by 10%",
+        "B": "The efficiency decreases to 90%",
+        "C": "The efficiency remains the same",
+        "D": "The efficiency drops down to 30%"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states: 'You will be surprised to know that, energy is wasted in every step of production of electricity in a power plant, and if all these wastage is taken into account, the efficiency of the power plant can drop down to 30%.'",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is a physical ability?",
+      "options": {
+        "A": "The ability to perform a physical task",
+        "B": "The ability to calculate the dimensions of quantities",
+        "C": "The ability to calculate the transformation of prefixes of multiple and sub-multiple units",
+        "D": "The ability to express concepts and theories of physics by using scientific terms, symbols, and signs"
+      },
+      "correct_answer": "A",
+      "explanation": "The textbook states: 'o explain the international system of measuning units.' (no specific definition given)",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is a complex preposition?",
+      "options": {
+        "A": "A type of simple preposition",
+        "B": "A preposition that comes before a noun and shows its relation to another word",
+        "C": "A type of verb",
+        "D": "A type of adjective"
+      },
+      "correct_answer": "B",
+      "explanation": "The textbook states: 'These are complex prepositions. Like a simple preposition, a complex preposition also comes before a noun and shows its relation to another word.'",
+      "topic": "english",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the purpose of determining the area and volume of uniform objects?",
+      "options": {
+        "A": "To calculate the mean and median",
+        "B": "To visualize the shape of the distribution",
+        "C": "To express concepts and theories of physics by using scientific terms, symbols, and signs",
+        "D": "To determine the length, mass, area, and volume of uniform objects used in our daily lives"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states: 'o determine the length, mass, area and volume of uniform objects used in our daily lives.' (no specific purpose given)",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the effect of 10% energy loss at each step on the efficiency of a power plant?",
+      "options": {
+        "A": "The efficiency increases by 10%",
+        "B": "The efficiency decreases to 90%",
+        "C": "The efficiency remains the same",
+        "D": "The efficiency drops down to 30%"
+      },
+      "correct_answer": "D",
+      "explanation": "The textbook states: 'If all these wastage is taken into account, the efficiency of the power plant can drop down to 30%.'",
+      "topic": "physics",
+      "difficulty": "hard",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the purpose of drawing a frequency polygon from a histogram?",
+      "options": {
+        "A": "To show the distribution of data",
+        "B": "To calculate the mean and median",
+        "C": "To display the mid-points of rectangles",
+        "D": "To identify outliers"
+      },
+      "correct_answer": "C",
+      "explanation": "The mid-points have been joined by line segments to draw the frequency polygon.",
+      "topic": "statistics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating efficiency?",
+      "options": {
+        "A": "Efficiency = work done / energy wasted",
+        "B": "Efficiency = energy wasted / work done",
+        "C": "Efficiency = (work done - energy wasted) / 100",
+        "D": "Efficiency = (energy wasted + work done) / 100"
+      },
+      "correct_answer": "C",
+      "explanation": "Efficiency = (work done - energy wasted) / 100",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the definition of a complex preposition?",
+      "options": {
+        "A": "A type of simple preposition",
+        "B": "A preposition that comes before a noun and shows its relation",
+        "C": "A preposition that only appears in formal writing",
+        "D": "A preposition that is used to describe location"
+      },
+      "correct_answer": "B",
+      "explanation": "Like a simple preposition, a complex preposition also comes before a noun and shows its relation.",
+      "topic": "english grammar and composition",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating the efficiency of a power plant?",
+      "options": {
+        "A": "Efficiency = 100 / (1 - energy wasted)",
+        "B": "Efficiency = 100 * (work done / energy wasted)",
+        "C": "Efficiency = (work done + energy wasted) / 100",
+        "D": "Efficiency = 100 - energy wasted"
+      },
+      "correct_answer": "A",
+      "explanation": "Efficiency = 100 / (1 - energy wasted)",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the purpose of measuring physical quantities using different apparatuses?",
+      "options": {
+        "A": "To ensure accuracy and precision",
+        "B": "To compare results with other measurements",
+        "C": "To record data for future reference",
+        "D": "To confirm theoretical concepts"
+      },
+      "correct_answer": "A",
+      "explanation": "Measure physical quantities using different apparatuses.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating the area of a uniform object?",
+      "options": {
+        "A": "Area = length x width",
+        "B": "Area = length x height",
+        "C": "Area = perimeter x diameter",
+        "D": "Area = circumference x radius"
+      },
+      "correct_answer": "A",
+      "explanation": "The area of a uniform object can be calculated using the formula: Area = length x width.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the definition of a prefix in the international system of measurement units?",
+      "options": {
+        "A": "A symbol that represents a unit of measurement",
+        "B": "A multiplier or divisor used to modify a unit of measurement",
+        "C": "A type of scientific term used to describe physical quantities",
+        "D": "A combination of letters and numbers used to represent a quantity"
+      },
+      "correct_answer": "B",
+      "explanation": "The prefix is used to modify or change the unit of measurement.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the purpose of calculating the dimensions of quantities?",
+      "options": {
+        "A": "To determine the volume or area of an object",
+        "B": "To calculate the weight or mass of an object",
+        "C": "To express physical quantities using scientific terms and symbols",
+        "D": "To measure physical quantities using different apparatuses"
+      },
+      "correct_answer": "C",
+      "explanation": "To express physical quantities using scientific terms, symbols, and signs.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the formula for calculating the efficiency of an object?",
+      "options": {
+        "A": "Efficiency = work done / energy wasted",
+        "B": "Efficiency = energy wasted / work done",
+        "C": "Efficiency = (work done - energy wasted) / 100",
+        "D": "Efficiency = (energy wasted + work done) / 100"
+      },
+      "correct_answer": "A",
+      "explanation": "Efficiency = work done / energy wasted.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    },
+    {
+      "question": "What is the definition of a uniform object?",
+      "options": {
+        "A": "An object that has the same shape and size throughout",
+        "B": "An object that has different shapes and sizes depending on its location",
+        "C": "An object that can be measured using simple instruments",
+        "D": "An object that is used for scientific experiments"
+      },
+      "correct_answer": "A",
+      "explanation": "A uniform object is one that has the same shape and size throughout.",
+      "topic": "physics",
+      "difficulty": "medium",
+      "source": "NCTB Textbook"
+    }
+  ]
+}

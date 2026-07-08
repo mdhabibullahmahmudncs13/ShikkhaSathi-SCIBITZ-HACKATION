@@ -1,0 +1,26 @@
+# Chunk 723 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461173
+# Character count: 512
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_723
+
+========================================
+
+and hypotenuse is AB. It is to be proved that, c
+) ) K
+AB? = BC? + AC? F A
+Drawing: Draw three squares ABED, ACGF NA %
+and BCHK on the external sides of AB, AC
+and BC respectively. Through C', draw the line
+segment CL parallel to AD or BE. Let CL D a r
+intersects AB at M and DE at L respectively.
+Join C, D and B, F.
+Proof:
+Step 1. In ACAD and ABAF, CA = AF, AD = AB and included ZCAD =
+LCAB+£BAD = LCAB+/CAF = included ZBAF [£BAD = LCAF =
+1 right angle]
+Therefore, ACAD = ABAF
+Forma-40, Mathematics, Class 9-10

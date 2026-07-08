@@ -1,0 +1,24 @@
+# Chunk 757 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383941
+# Character count: 404
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_757
+
+========================================
+
+Question: How much charge should be stored in the earth and the moon so that
+the gravitational force becomes zero and the moon goes out of its orbit?
+Answer: The gravitational force acting between the earth and the moon:
+mM
+Fo=G—g
+Here, G = 6.67 x 107" Nkg?m?
+m= 7.35 x 1022 kg
+M = 5.97 x 10% kg
+7 = 3.84 x 10° km
+So, f= 6.67 x 10711 x 7.35 x 1022 x 5.97 x 102* N 1.98 x 10% N
+To fe = (3.84 x 105)? =
+5
+a

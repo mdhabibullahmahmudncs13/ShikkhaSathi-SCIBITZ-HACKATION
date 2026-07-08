@@ -1,0 +1,23 @@
+# Chunk 351 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.334889
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_351
+
+========================================
+
+--- Page 123 ---
+118 Physics
+station. Though heat is produced here directly, using this heat energy steam is
+produced and this steam is used to rotate the turbine, then this rotating turbine
+generates electricity in a generator(Fig: 4.05).
+We have to know an important matter though such types of transformation are
+taking place around us. Although there is available energy, but this energy
+cannot always be used. In the oceans of the earth, there is a huge amount of
+energy, but we cannot use this energy. (Sometimes using this energy cyclones
+destroy cities, habitations!) When energy is transformed from one form to
+another form, then a part of it is dissipated. Actually this dissipation occurs in the
+form of heat energy and this cannot be regained for further use. This dissipation

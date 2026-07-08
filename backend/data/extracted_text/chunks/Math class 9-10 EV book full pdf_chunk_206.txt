@@ -1,0 +1,24 @@
+# Chunk 206 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.410371
+# Character count: 741
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_206
+
+========================================
+
+--- Page 92 ---
+Chapter 4. Exponents and Logarithms 87
+Logarithms
+Logarithms are used to find the values of exponential expressions. Logarithm
+is written in brief as Log. Product, quotient, etc. of large numbers or quantities
+can easily be determined with the help of log.
+We know, 2° = 8; this mathematical statement is written in terms of log as
+log,8 = 3. Again, conversely, if log,8 = 3, it can be written in terms of exponents
+as 2° = 8. That is, if 2° = 8, then log,8 = 3 and conversely, if log,8 = 3, then
+; 1 1 1
+2% = 8. Similarly, 27% = ¥=3 can be written in terms of log as, logy3 ==3.
+If a® = N,(a > 0, a # 1), then z = log, N is defined as a based log, N
+Note: If a > 0,then a” is always positive whatever may be the values of x,

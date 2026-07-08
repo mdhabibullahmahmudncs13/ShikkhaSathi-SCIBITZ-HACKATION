@@ -1,0 +1,49 @@
+# Chunk 614 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.450704
+# Character count: 653
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_614
+
+========================================
+
+--- Page 270 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 265
+2) from equation (2) we get, 2x + 2y = 100
+
+or, 2 + x + 10 = 100 [putting the value of 2y from (1)]
+
+or, 3x = 90
+
+or, x = 30
+
+from (1) we get, 2y = 30 + 10 [putting the value of x]
+
+or, 2y = 40
+
+or, y = 20
+
+length of the garden is 30 metre and breadth is 20 metre.
+
+3) Length of the garden with the path = (30 + 4)
+
+m. = 34 m.
+
+and breadth of the garden with the path =
+
+(20 +4) m. =24 m.
+
+. Area of the path= Area of the garden with iy 8 2
+
+the path - Area of the garden 2°
+
+30m
+2m
+
+= (34 x 24 — 30 x 20) square metre. Tam
+
+= (816 — 600) square metre.
+
+= 216 square metre.

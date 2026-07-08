@@ -1,0 +1,28 @@
+# Chunk 763 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384493
+# Character count: 733
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_763
+
+========================================
+
+In Figure 10.12 (a), the lines of force of two opposite charges are shown. You
+
+can see, the lines of force of one charge ended up in another charge. Where the
+
+magnitude of the electric field is higher, the number of lines of force is higher.
+
+Also, when the figure is seen, it gives a feeling that the two charges are
+
+attracting one another. In Figure 10.12 (b), both the charges are positive and
+
+from the figure it can be seen that, the two charges are repelling one another. Not
+
+only that, in the middle portion of two charges the electric field due to one
+
+charge is neutralized by the electric field of the other. As a result the number of
+
+lines of force is less, and there is a point in the middle where the magnitude of 8

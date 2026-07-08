@@ -1,0 +1,25 @@
+# Chunk 384 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.338557
+# Character count: 759
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_384
+
+========================================
+
+m?and bottom area of your two legs is 0.03 m?. What pressures will you apply on
+the floor when lying down and standing ?
+Answer: Mass is 50 kg, therefore weight is: 50 x 9.8 N = 490 N
+Pressure when lying down, p = A90N =980 N
+0.5 m? m?
+490 N N
+Pressure when standing, P = ——— = 16, —
+ure wi N ing, P 0.03 m2 16,333 PY;
+You see less pressure is applied when you are lying down. For this reason when
+one falls in quicksand he has to lie down so that the applied pressure becomes
+lower and he does not submerge quicksand.
+Again the opposite is also true, if the area of force applied is less, then the
+pressure increases. The area of the sharp edge of a nail is very small. So when
+the sharp point of the nail is placed on a wood or wall and hammered on the flat

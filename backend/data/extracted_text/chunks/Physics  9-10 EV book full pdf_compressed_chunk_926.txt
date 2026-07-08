@@ -1,0 +1,20 @@
+# Chunk 926 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.401962
+# Character count: 636
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_926
+
+========================================
+
+ionizing air molecule-atoms ans travels approximately 6 cm through air before
+stopping. An alpha particle can be stopped by using a sheet of paper. It creates
+phosphorescence on zinc sulfide screen. An alpha particle creates many free
+electrons by ionizing molecule-atoms of air in its path of motion. Its presence
+can be detected or its energy can be measured easily by collecting these free
+electrons.
+When a alpha particle comes out from a larger radioactive nucleus then this
+nucleus’s atomic number will be reduced by two and its nucleon number willbe
+reduced by four, because an alpha particle consists of two protons and two ~~ &

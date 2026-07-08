@@ -1,0 +1,27 @@
+# Chunk 258 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.860402
+# Character count: 756
+# Chunk ID: ICT 9-10.txt_0_258
+
+========================================
+
+the Insert menu, and the dialogue box of |= =S® 2d SoA 00 oe
+Tnsert Picture will come on the screen, rE
+2. Open the folder of the dialogue box of = |
+Insert Picture in which names of pictures —
+are available. After selecting the picture —
+vou prefer, click the Insert button, The
+selected picture will be added to the
+slide.
+3. Clicking the resize box and dragging it, the size of the picture can be
+resized and replaced elsewhere, if required.
+Inserting Transition into Slide
+Usually slides are presented one after another, and effects are used to shift
+from one slide to another. This effect is called ‘Transition’. It works on the
+slide into which transition is applied by keeping it open. To insert Transition
+into a slide
+1. Keep the first slide open.

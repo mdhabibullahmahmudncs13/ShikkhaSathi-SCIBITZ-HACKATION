@@ -1,0 +1,35 @@
+# Chunk 843 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.473749
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_843
+
+========================================
+
+the mid-value of the class.
+Midovalue of the class — Class upper hl lower value
+If the class mid-value is 2;(¢ = 1...k) the mid-value related table will be as
+follows:
+Class interval | Class mid-value (z;) | Frequency (f;)
+% 31 17.5
+35-4
+15-51
+1190
+65-74 2085
+5-8 1272
+85 94
+[Tol [ n-100 [61900
+The required arithmetic mean
+1g 1
+== = — x 6190 = 61.9
+n by Fire = 155.
+Arithmetic mean of classified data (short-cut method): The short-cut
+method is easy for determining arithmetic mean of classified data. The steps to
+determine mean by short-cut method are :
+1. To find the mid-value of classes.
+2. To take convenient approximated mean (a) from the mid-values.
+3. To determine steps deviation, the difference between class mid-values and
+approximate mean are divided by the class interval i.e.

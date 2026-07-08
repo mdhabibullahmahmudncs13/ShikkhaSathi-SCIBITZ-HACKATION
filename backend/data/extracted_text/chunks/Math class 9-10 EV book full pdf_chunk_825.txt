@@ -1,0 +1,28 @@
+# Chunk 825 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472323
+# Character count: 753
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_825
+
+========================================
+
+--- Page 360 ---
+Chapter 17. Statistics 355
+table is made. In the context of the above discussion, the cumulative frequency
+distribution of temperature in Example 1 is as follows:
+Temperature (in celcius) Cumulative Frequency
+NESE
+12° — 14° (24+7)=31
+Example 2. The marks obtained in English by 40 students in an annual
+examination are given below. Make a cumulative frequency table of the marks
+obtained.
+70, 40, 35, 60, 55, 58, 45, 60, 65, 80, 70, 46, 50, 60, 65, 70, 58, 60, 48, 70, 36, 85,
+60, 50, 46, 65, 55, 61, 72, 85, 90, 68, 65, 50, 40, 56, 60, 65, 46, 76
+Solution:
+Range of the data = (highest numerical value — lowest numerical value) + 1 =
+(90 —35)+1=55+1=56
+56
+Let the class interval be 5 then the number of classes = + = 11.2 or 12 [taking

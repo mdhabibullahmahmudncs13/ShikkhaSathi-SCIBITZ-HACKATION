@@ -1,0 +1,26 @@
+# Chunk 93 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.398598
+# Character count: 538
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_93
+
+========================================
+
+--- Page 39 ---
+34 Mathematics Classes IX-X
+
+9. If Aand B are respectively sets of all factors of 35 and 45, then determine
+AUB and ANB.
+
+10. Determine the natural numbers that divide both 346 and 556 to have 31 as
+residue.
+
+11. Of the 30 students of a class 20 like football and 15 cricket. Number of
+students who like both the games is 10. Determine using Venn diagram the
+number of students who do not like either of the games.
+
+12. Of 100 students 65 passed in Bangla, 48 in both Bangla and English and 15
+failed in both the subjects.

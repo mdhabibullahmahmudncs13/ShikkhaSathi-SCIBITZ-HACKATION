@@ -1,0 +1,32 @@
+# Chunk 507 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440077
+# Character count: 762
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_507
+
+========================================
+
+--- Page 225 ---
+220 Mathematics Classes IX-X
+1) and ii 2) ii and iii 3) i and iii 4) i, 1 and 4d
+Di A
+8. In the adjacent picture-
+(i) ZDAC is an angle of depression
+(#1) ZACB is an angle of elevation
+(111) ZDAC = ZACB
+C B
+‘Which one of the following is correct?
+1) and ii 2) ii and iii 3) i and iii 4) i, 1 and 4ii
+9. What is the other name is of geoline?
+1) perpendicular line 3) Lying line
+2) Parallel line 4) Vertical line
+
+10. If the angle of the elevation of the top of the miner is 30° at a point on the
+ground and the height is 26 metre, then find the distance of the plane from
+the Miner.
+
+11. If the top of a tree is 20 metre distance from the foot on the ground at any
+point on the ground andthe angle of elevation is 60°, find the height of the tree.

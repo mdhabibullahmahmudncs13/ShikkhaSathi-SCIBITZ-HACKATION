@@ -1,0 +1,29 @@
+# Chunk 614 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368706
+# Character count: 748
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_614
+
+========================================
+
+Example
+
+Question: Show that, triangle OPX R
+and OPX' are congruent. A
+Answer: Here, Z XPO = «/X'PO
+because both of them are at right N 8 0
+angles, as XP is normal to the plane. 8 cH
+According to the law of reflection, LY
+incident angle is equal to angle of P He .
+reflection, therefore, XOP =ZROA. : eee MN
+Again ZROA =Z X'OP. B
+Therefore, between triangle OPX and
+OPX’, OP is the common arm and two i .
+angles on both sides are equal. So, Figure 8.09: Two light rays xP and
+triangles are congruent XO are sufficient to draw an image
+Therefore, XP = XP. of the object at position X
+The image we see in a mirror is not actually real even though it seems real. This -
+is because light is not actually coming from the place it appears to be coming. g

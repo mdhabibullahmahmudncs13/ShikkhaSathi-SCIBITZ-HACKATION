@@ -1,0 +1,31 @@
+# Chunk 363 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425811
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_363
+
+========================================
+
+--- Page 157 ---
+152 Mathematics Classes IX-X
+G,
+Lp Hea MNJ
+B c 0
+Drawing: Follow the steps below:
+1. Draw a line segment PQ = 11 cm.
+2. At P, construct an angle of ZQPL = 60° and at Q, an angle of ZPQM = 45°
+on the same side of PQ.
+3. Draw the bisectors PG and QH of the two angles. Let the bisectors PG
+and QH of these angles intersect at A.
+4. Draw perpendicular bisector of the segments PA, QA to intersect PQ at B
+and C'.
+5. Join A,B and A,C.
+Then, AABC is the required triangle.
+‘Work:
+An adjacent side with the right angle and the difference of hypotenuse and
+the other side of a right-angled triangle are given. Construct the triangle.
+Example 2. Base of a triangle a = 3 cm., base adjacent acute angle 45° and
+the sum of other two sides s = 6 cm.

@@ -1,0 +1,26 @@
+# Chunk 64 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.306903
+# Character count: 416
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_64
+
+========================================
+
+Table 1.05. In our daily life we always use these prefixes. To express distance
+
+we say 1 kilometer instead of 1000 meter. We say 10 milliliter instead of one
+
+hundredth of a liter to express volume of water.
+Ps
+
+
+--- Page 22 ---
+Physical Quantities and Their Measurements 17
+Table 1.05: The multiples and sub-multiples used in the SI unit
+deca [da [100 | [dei | d [ 10" |]
+pico |p | 107 |
+peta [P| 10"
+[ao [a | 10°]

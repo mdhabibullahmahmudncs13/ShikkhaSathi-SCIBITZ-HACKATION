@@ -1,0 +1,32 @@
+# Chunk 564 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.361937
+# Character count: 782
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_564
+
+========================================
+
+--- Page 202 ---
+Waves and Sound 197
+travels from one medium to another then its wavelength changes. Therefore,
+when waves propagate through different medium, its velocity or wavelength
+changes, but frequency or time period never changes.
+an
+Example
+Q J
+Question: In figure 7.06 a wave is Boi ~~ ~\ | Ia
+shown. Among the wave’s amplitude, g /\ /\ /\
+wavelength, time period, frequency and g 4 \ J
+velocity which magnitude can be 8
+determined from the figure? Determine Ee
+them. 50%
+1 2 3 4
+Answer: From the information that is position (m)
+given in the figure, only amplitude (0.1
+m) and wavelength (2 m) of the wave i .
+can be determined. It is not possible to Figure 7.06 : A wave with respect
+determine time period, frequency or to position
+velocity from the information that are

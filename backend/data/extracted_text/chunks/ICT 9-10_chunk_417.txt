@@ -1,0 +1,30 @@
+# Chunk 417 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.887813
+# Character count: 737
+# Chunk ID: ICT 9-10.txt_0_417
+
+========================================
+
+--- Page 134 ---
+Problem Solving through Programming 129
+the tasks described in the body will not be executed, and the subsequent state-
+ments will be processed instead.
+Practical Problem #2:
+The minimum passing score in an exam is 40. If a student scores 40 or more in
+the exam, they will pass; otherwise, they will fail. Write a Python program to
+determine the passing or failing status of a student based on the score obtained
+as input,
+Solution: Below is the code for the program.
+mark = int(input('Please enter ysur mark: '})
+if mark >= 40:
+princl'You have passed’)
+if mark < 40:
+print {'You have tailed’)
+Sample results obtained by running the program:
+Please enter your mark: 85
+You have passed in the subject.
+if...else Statement

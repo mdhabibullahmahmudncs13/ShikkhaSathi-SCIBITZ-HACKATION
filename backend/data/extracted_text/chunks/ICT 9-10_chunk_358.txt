@@ -1,0 +1,32 @@
+# Chunk 358 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878144
+# Character count: 770
+# Chunk ID: ICT 9-10.txt_0_358
+
+========================================
+
+Editing Curve Path
+
+A circle/rectangular object or a design will be created with the pen/pencil tool
+
+for editing path. To edit curve:
+
+A. Selecting the Direct Selection Tool and after clicking an anchor point. drag
+and shift its position, and the curve and shape of the anchor will be changed.
+
+B. Click an anchor point. and the handle of it will be viewed. Clicking and
+dragging the control point of any end of the handle, the part of the path
+related with the anchor point, and the curve can be reduced or increased. The
+direction can be changed too.
+
+After creating open path with the Pencil or Pen Tool, the strokes can be thick or
+
+thin, and filled with color. After creating closed paths with the Pencil or Pen
+
+Tool, it can be filled with any color.
+
+Writing Job

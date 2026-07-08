@@ -1,0 +1,30 @@
+# Chunk 915 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.400636
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_915
+
+========================================
+
+--- Page 350 ---
+Put a tick mark (V) beside the correct answer
+1. What will happen to the magnetic field if electric current flows through a
+solenoid made by insulated wire wound over a cylinder?
+a) Will be condensed and weak
+b) Will be condensed and strong
+¢) Will be less condensed and weak
+d) Will be less condensed but strong
+2. In which functions is, electromagnetic induction used?
+(a) Transistor
+(b) Motor
+(c) Amplifier
+(d) Transformer
+3. In which process is, electromotive force produced-
+i) If any magnet is kept motionless in a wire coil
+ii) If any wire coil is rotated in a magnetic field
+iii) If any magnet is rotated around a motionless wire coil
+Which one is correct of the following?
+(a)i (b)ii (c)iandii (d) ii and iii

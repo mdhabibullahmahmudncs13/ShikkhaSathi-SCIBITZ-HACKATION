@@ -1,0 +1,28 @@
+# Chunk 154 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315682
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_154
+
+========================================
+
+v? =u? —2gh
+v=0, u=41.67m/s, g = 9.8m/s?
+ut (41.67)?
+Therefore, =—=———"— m= 88.
+erefore, h 29 2x98 m= 88.59 m
+[The ball will approximately reach the roof of a 30 storied building]
+Question: When a space ship revolves round the earth then its speed is very
+high and is nearly 10 km/s. If a cannon ball is fired at this velocity straight upward,
+how high will it go?
+Answer: Let us try like with the cricket ball, only the initial velocity will be
+10,000 m/s instead of 41.67 m/s.
+10,000)?
+Therefore, p= O00 102,000 m = 5,102 km
+2x98
+Though it is felt that there is no mistake anywhere but actually the answer is not
+correct. This is because we have considered the value of acceleration due to
+gravity is 9.8 m/s?, this is true for the distances near the surface of earth. But if

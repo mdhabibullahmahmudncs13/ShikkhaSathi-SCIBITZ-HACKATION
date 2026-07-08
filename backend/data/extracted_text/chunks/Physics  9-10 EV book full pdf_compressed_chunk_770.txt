@@ -1,0 +1,18 @@
+# Chunk 770 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.385170
+# Character count: 382
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_770
+
+========================================
+
+--- Page 294 ---
+Static Electricity 289
+tasks with bare hands on extremely high voltages, such as ten thousand or twenty
+thousand volts, while suspended in a helicopter. They do not receive electric
+shocks because their body's voltage aligns with that of the wire they are touch-
+ing. In this case, there is no voltage difference, so no charge flows, and thus, they
+remain unharmed.

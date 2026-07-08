@@ -1,0 +1,38 @@
+# Chunk 253 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.859416
+# Character count: 726
+# Chunk ID: ICT 9-10.txt_0_253
+
+========================================
+
+- For viewing the next slide of the presentation, press the right arrow of the
+keyboard, and to go back, press the left arrow.
+
+- For starting the next slide show from the middle of the presentation, press
+Shift F5 button.
+
+- Press the Esc button to revert to the window of editing from the window of
+slide show.
+
+]
+5
+
+
+--- Page 82 ---
+Information and Communication Technology 77
+You can be sure whether the slides are presentable or not by checking at any
+phase of preparing the slides.
+
+Changing the Background of Slides
+
+The color of background can be changed either during the processing or after
+
+the making of the slides. Any image can be used as the background of the
+
+slide.
+
+Adding or Changing Background to the Shide

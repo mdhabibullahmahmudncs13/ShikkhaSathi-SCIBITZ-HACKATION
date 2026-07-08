@@ -1,0 +1,31 @@
+# Chunk 375 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427045
+# Character count: 750
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_375
+
+========================================
+
+b
+0A =0C= 3 OB =0D = 3 [by construction]
+and included ZAOB = included ZCOD [opposite angle]
+.AAOB = ACOD
+AB = CD and ZABO = ZODC, but the angles are alternate angles.
+AB and CD are parallel and equal.
+Similarly, AD and BC are parallel and equal.
+Therefore, ABCD is the required parallelogram.
+Example 3. The parallel sides and two angles included with the larger side of
+a trapezium are given. Construct the trapezium.
+Let a and b be the parallel sides of a trapezium where a > b and Zz and Zy be
+two angles included with the side a. The trapezium is to be constructed.
+Y z
+[— D b MN ¢
+
+LAN N
+
+A E B
+Drawing: From any ray AX, cut the line segment AB = a. At A of the line i
+segment AB, construct the angle ZBAY equal to Zz at B, construct the angle &

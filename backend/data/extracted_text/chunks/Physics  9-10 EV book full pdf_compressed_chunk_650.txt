@@ -1,0 +1,24 @@
+# Chunk 650 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.372563
+# Character count: 758
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_650
+
+========================================
+
+m=
+When we see an object through a telescope, how large the object is when seen
+with the naked eye as compared to its size as seen by a telescope is known as the
+telescopes magnification.
+8.8 Use of Mirror
+8.8.1 Plane Mirror
+Simple mirrors are most commonly used in our daily lives. Ordinary mirrors are
+used whenever a light ray travelling in one direction is to be redirected in another
+direction. You must have noticed that in a plane mirror right and left side
+alternates. So if we want to keep the right and left unchanged, the image of one
+mirror is to be reflected by a second mirror.
+The left and right sides are interchanged in a plane mirror image. Right and left do not
+interchange if two mirrors are used as a single mirror by keeping them at 90°

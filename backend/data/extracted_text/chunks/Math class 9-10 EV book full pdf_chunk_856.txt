@@ -1,0 +1,31 @@
+# Chunk 856 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474813
+# Character count: 496
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_856
+
+========================================
+
+L is the lower limit of mode-class i.e. the class where the mode lies,
+
+fi = frequency of mode-class — frequency of the class previous
+
+[> = frequency of mode class — frequency of next class of mode class and h =class
+
+interval.
+
+Example 13. Following is a table.
+
+Class interval | 31 —40 | 41 —50 | 51-60 | 61-70 | 71 —80 | 81 —90 | 91 — 100
+[Frequency | 4 [6 [8 [12 [9 [7 [ 4 |
+
+1) What is central tendency?
+
+2) Find mode from the above table.
+
+3) Draw ogive curve of the given data.
+
+Solution:

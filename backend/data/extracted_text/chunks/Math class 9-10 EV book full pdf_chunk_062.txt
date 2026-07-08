@@ -1,0 +1,28 @@
+# Chunk 62 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.394930
+# Character count: 728
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_62
+
+========================================
+
+--- Page 27 ---
+Chapter 2
+.
+
+Sets and Functions
+The term "set” is well known to us. For example, dinner set, set of natural numbers,
+set of rational numbers etc. As a modern concept set has versatile use. The
+German mathematician George Cantor (1845-1918) first explained the concept of
+set. He introduced the notion of infinite set, and created a sensation in mathematical
+science. His notion is now known as set theory. In this chapter we shall solve
+different problems by using concepts of set, diagrams and logic and idea of a
+function will also be introduced.
+After completion of this chapter the learners will be able to —
+
+» express the concepts of sets and subsets through symbols.
+
+» describe how sets can be expressed.

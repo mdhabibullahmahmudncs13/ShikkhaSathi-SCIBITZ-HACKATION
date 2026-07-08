@@ -1,0 +1,33 @@
+# Chunk 870 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.476202
+# Character count: 751
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_870
+
+========================================
+
+--- Page 379 ---
+374 Mathematics Classes IX-X
+1) Write the formula to determine median.
+2) Find the mode of the data.
+3) Draw histogram of the data.
+
+15. Temperature is always changing. Usually in Bangladesh temperature is
+comparatively lower during first week of January and comparatively higher
+during fourth week of June. Following is the list of temperatures of 52 weeks
+is celsius.
+
+35, 30, 27, 42, 20, 19, 27, 36, 39, 14, 15, 38, 37, 40, 40, 12, 10, 9, 7, 20, 21,
+
+24, 33, 30, 29, 21, 19, 31, 28, 26, 32, 30, 22, 23, 24, 41, 26, 23, 25, 22, 17,
+
+19, 21, 23, 8, 13, 23, 24, 20, 32, 11, 17
+
+1) Calculate the number of classes considering a class interval of 5.
+
+2) Express the given data in a tabular form and find the mean value of
+
+temperatures.

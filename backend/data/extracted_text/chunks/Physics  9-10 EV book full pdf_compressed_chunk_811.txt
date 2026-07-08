@@ -1,0 +1,22 @@
+# Chunk 811 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389318
+# Character count: 535
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_811
+
+========================================
+
+electron is positive charge. So increasing the deficiency by moving electrons
+means a supply of positive charge! So, if it is said that in Figure 11.01 positive
+charge moves from A to B by flow of electricity, actually it means that electrons
+move from B to A.
+The flow of charge is electric current. So far, we have tried to understand it
+normally. Let us specify it a little bit now. Electric current means the rate of
+change of flow of charge with respect to time i.e. if OQ charge flows in time t, the
+electric current is:
+I= Q
+t
+3

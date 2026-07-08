@@ -1,0 +1,29 @@
+# Chunk 613 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368618
+# Character count: 630
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_613
+
+========================================
+
+instruments like telescopes, the silver or x Hy x
+
+aluminum layer is coated on the glass B
+
+surface, so that the two images, one 4%
+
+lighter and other 96% clear are not formed, Figure 8.08: The image of X
+«rather it forms a 100% clear image. object will form in X" position.
+
+
+--- Page 225 ---
+age using geometry we need to draw
+at least two rays. It will be easier to draw the picture if we consider XP (normal
+to the plane) and XO as ray as shown in figure 8.09. Triangle OPX and OPX’ are
+congruent. Therefore XP = X'P, which means the image has formed at a distance
+equal to the distance of the object from the mirror.
+
+Example

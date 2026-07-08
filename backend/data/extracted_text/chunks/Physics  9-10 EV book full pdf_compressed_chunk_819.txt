@@ -1,0 +1,30 @@
+# Chunk 819 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389941
+# Character count: 727
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_819
+
+========================================
+
+--- Page 312 ---
+Current Electricity 307
+After writing in big font size, cover any of ¥, I or R with finger. The value of
+the covered one will be obtained from the uncovered ones.
+Answer: It is shown in fig 11.05.
+&
+—_— —_— — —
+IXR 9 R 1 x IXR
+Figure 11.05: Ohm’s law can be used by this figure. The value of the covered
+quantity by the finger can be expressed by the two other quantities.
+11.2.2 Resistance
+Resistance is the obstacle to the flow of current. So the more the length of a
+material L, the higher is the hindrance, and resistance.
+Rox L
+Again current can flow more easily through a wide path than through a narrow
+path. So, the higher the cross sectional area 4 of a conductor, the lower is the
+resistance.
+R x 1
+A

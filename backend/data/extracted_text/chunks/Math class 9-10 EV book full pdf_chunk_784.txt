@@ -1,0 +1,30 @@
+# Chunk 784 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468228
+# Character count: 540
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_784
+
+========================================
+
+‘Work: Circumference of a circle is 440 metre. Determine the length of the sides]
+
+of the inscribed square in it.
+Example 22. The radius of a circle is 12 cm and the length of an arc is 14
+cm. Determine the angle subtended by the circular segment at its centre.
+Solution: Let, radius of the circle is 7 = 12 em, the length of the arc is s = 14
+cm and the angle subtended at the centre is 6.
+
+rl
+We know, s = 180
+or, rf = 180 x s
+180 x 5 180 x 14
+
+= —— = ——— = (6.84° .
+or ar 3.1416 x 12 (approx)
+The required angle is 66.84° (approx. )
+
+8
+S

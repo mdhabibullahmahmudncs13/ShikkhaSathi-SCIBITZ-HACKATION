@@ -1,0 +1,50 @@
+# Chunk 524 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.441664
+# Character count: 742
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_524
+
+========================================
+
+--- Page 232 ---
+Chapter 11. Algebraic Ratio and Proportion 227
+In equation (3), by putting b = 10, we get a = x = 35.
+.. The present age of father is 35 years, and that of the son is 10 years.
+2 2 2
+Example 3. Ifa:b=0b:c, prove that, (+9) = a
+Solution: Given that, a:b="b:¢
+cbr =ac
+2 2
+Now, a+b _ (a+)
+b+e (b+c)?
+_ a’ + 2ab + b*
+Tb 4 2be + 2
+_ a’ 4 2ab+ ac
+"ac+2bc +c?
+_ala+2b+c)
+“ela t2b+0)
+_e
+Te
+a+b d®+ac
+Ang, EL F7 eae
+nd, +c? act?
+_ala+c)
+"clato)
+_e
+Tc
+Cc fa+b 2 a a +b?
+A\bte) +e
+a c¢ a’ +0*  ac+bd
+Example 4. If art show that, ps 1
+a oc
+lution: Let, — = — =k
+Solution: Let, b=
+soa =0bk and ¢ = dk
+Now a+ (bh) +0 PR +1) KP +1
+Tar —2 (Dk) —0r (2-1) k2-1
+. - 2 2
+5 And, ac+bd _ bk -dk+bd _ bd(k* + 1) _k+1
+~ ac—bd  bk-dk—bd bd(k*—1) k2—1

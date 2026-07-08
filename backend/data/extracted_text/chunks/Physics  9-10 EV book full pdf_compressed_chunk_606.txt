@@ -1,0 +1,28 @@
+# Chunk 606 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.367846
+# Character count: 786
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_606
+
+========================================
+
+is called the incident ray (XO). The
+ray which is reflected (OX) is called fir etm
+the reflected ray. (You are realizing 9] P
+that the ray which enters the second
+medium is the refracted ray- we will
+not discuss it in this chapter). The second medium
+angle between the incident ray and Ben
+the normal is called the incident
+angle (0,) and the angle between the
+reflected ray and the normal is the Figur 8.03: Reflection of light from first to
+reflected angle (0). Now we can second medium
+state the two laws of reflection:
+First Law: The reflected ray will be in the plane which we imagined
+through the incident ray and the normal.
+Second Law: The reflected angle is equal to the incident angle.
+0) Example
+Question: Two mirrors are placed as shown in figure 8.04. A candle is placed at

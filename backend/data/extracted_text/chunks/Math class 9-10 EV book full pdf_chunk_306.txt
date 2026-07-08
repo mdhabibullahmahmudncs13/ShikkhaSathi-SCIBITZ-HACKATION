@@ -1,0 +1,19 @@
+# Chunk 306 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420483
+# Character count: 248
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_306
+
+========================================
+
+of construction and its logical truth.
+Exercises 6.1
+1. Give a concept of space, surface, line and point.
+2. State Euclid’s five postulates.
+3. State five postulates of incidence.
+" 4. State the distance postulate
+IS
+S 5. State the ruler postulate.

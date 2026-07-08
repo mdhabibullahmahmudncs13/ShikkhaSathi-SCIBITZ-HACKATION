@@ -1,0 +1,35 @@
+# Chunk 353 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.877579
+# Character count: 757
+# Chunk ID: ICT 9-10.txt_0_353
+
+========================================
+
+Tool. It is possible to make complex and very small design and do the editing
+
+work with the Pen Tool.
+
+Two anchor points are found at the two ends of a path or line. The first anchor
+
+point is called the starting point and the second anchor point is called end point.
+
+There is a controlling handle with the anchor points of curved path and a
+
+control point outside the control handle, By clicking and dragging the control
+
+point, the curve of a line can be controlled. The anchor point, control handle, and
+control point are not viewed in the print out.
+
+The Pencil Tool is another form of the Pen —
+
+Tool. Curve lines can be made by
+
+dragging the Pencil Tool. - a
+
+The Pen Tool is the main lool for drawing A of
+
+vector objects. A subtle object can be hp

@@ -1,0 +1,14 @@
+# Chunk 810 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.470862
+# Character count: 156
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_810
+
+========================================
+
+1) and ii 2) i and iii 3) ii and iii 4) 4, ii and iii
+4. If the length of each side of a square is a and diagonal is d, then:
+(i) Its area is a square units

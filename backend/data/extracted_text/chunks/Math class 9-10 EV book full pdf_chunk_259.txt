@@ -1,0 +1,37 @@
+# Chunk 259 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.416069
+# Character count: 387
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_259
+
+========================================
+
+ie,ab=0,a=0o0r,b=0, or, both a=0and b=0.
+
+Example 8. Solve: (z+ 2)(z —3)=0
+
+Solution: (z+ 2)(z —3)=0
+
+cr+2=0o0rnx—-3=0
+
+Ifer4+2=02=-2
+
+Again, if rt —3=0,2=3
+
+solution is z = —2 or, x = 3
+
+Example 9. Find the solution set: y* = v/3y
+
+Solution: y? = v/3y
+
+or, y= V3y =0 [ by transposition, right hand side has been done zero]
+
+or, yly = v3) =0
+
+Sy=00ry—+v3=0 N
+
+3
+Again, if y —v/3=10,y=3 g

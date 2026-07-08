@@ -1,0 +1,32 @@
+# Chunk 146 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314940
+# Character count: 795
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_146
+
+========================================
+
+--- Page 51 ---
+46 Physics
+Although this equation looks like another general equation, there is some amazing
+physics hidden in it, which we will reveal in the fourth chapter.
+an
+Example
+Q J
+Question: The velocity of a car is increased by 60 km/hour within 1 minute of
+starting from rest. What is its acceleration?
+Answer: From now we will use the unit of time in second (s) instead of minute
+or hour and for distance meter (m) will be used instead of mile or kilometer.
+The final velocity of the car is
+— 60 km _ 60 x1000 M1667 /
+Y= hour TT 60x 60s OME
+So the problem is like this, a car attains a velocity of 16.67 m/s in 60 s starting
+from rest, what is its acceleration?
+v = at
+v  16.67m/s
+J = 2
+a=; 505 0.278 m/s
+Question: A car is moving with a velocity of 60 mile/hour, suddenly its engine

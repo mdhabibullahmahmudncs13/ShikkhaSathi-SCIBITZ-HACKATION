@@ -1,0 +1,24 @@
+# Chunk 279 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418055
+# Character count: 732
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_279
+
+========================================
+
+--- Page 123 ---
+Chapter 6
+. .
+Lines, Angles and Triangles
+[Prior knowledge of this chapter are attached to the Appendix at the end of this
+book. At first the Appendix should be read / discussed. ]
+Geometry is an old branch of mathematics. The word ‘geometry’ comes from the
+Greek words ‘geo’, meaning the ‘earth’, and ‘metrein’, meaning ‘to measure’. So,
+the word ‘geometry’ means ‘the measurement of land.’ Geometry appears to
+have originated from the need for measuring land in the age of agricultural
+based civilization. However, now a days geometry is not only used for measuring
+lands, rather knowledge of geometry is now indispensable for solving many
+complicated mathematical problems. The practice of geometry is evident in

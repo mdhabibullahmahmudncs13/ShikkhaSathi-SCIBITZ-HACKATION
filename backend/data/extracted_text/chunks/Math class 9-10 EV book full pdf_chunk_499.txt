@@ -1,0 +1,31 @@
+# Chunk 499 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.439439
+# Character count: 611
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_499
+
+========================================
+
+and makes angle ZACB = 45° with the ground.
+. AB
+From AABC we get, sin/ACB = ac
+h
+sin 45° = —
+or, sin 45 IT
+Or 1 h in 45° 1 A
+or, — = — |" sin 45° = —
+Vis RE
+or, V2h =18 or, h = — 18m
+V2 h
+18v/2
+or, h = 12 [multiplying the numerator and A J
+denominator by V2) c B
+or, h = 12.728 (approx.)
+Therefore, The required height of the wall is 12.73 (approx.)
+Example 4. A tree leaned due to storm. The stick with height of 7 metre from
+its foot was leaned against the tree to make it straight. If the angle of depression
+at the point of contacting with the stick on the ground is 30°, find the length of the pS
+stick. S

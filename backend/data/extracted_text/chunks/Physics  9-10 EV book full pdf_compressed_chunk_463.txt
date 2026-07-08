@@ -1,0 +1,27 @@
+# Chunk 463 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.347331
+# Character count: 725
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_463
+
+========================================
+
+--- Page 165 ---
+Chapter Six
+Effects of Heat on Matter
+a ee ll
+ase
+
+Heat is a kind of energy. From the concept of energy we may think that heat
+flows always from higher heat energy to lower heat energy, but it is not true. In
+which direction heat will flow, depends on the temperature. In this chapter we
+will see how we can measure heat or temperature and what is the relation
+between them.
+Actually heat energy comes from the motion of molecules, atoms or their
+vibrations. If the vibration of molecules of any solid object is increased to a great
+extent, then molecules may go far from another one, that is, a change of state
+may occur. In this chapter we will discuss the effect of heat on solids, liquids and “-
+gases. s

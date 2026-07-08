@@ -1,0 +1,26 @@
+# Chunk 437 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433572
+# Character count: 785
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_437
+
+========================================
+
+--- Page 188 ---
+Chapter 8. Circle 183
+Proof: B,0 and C,O are joined. The point O stands on EM, the perpendicular
+bisector of AB.
+.OA = OB, Similarly, OA = OC
+OA=0B=0C
+Hence, the circle drawn with O as the centre and OA as the radius passes through
+the three points A, B and C'. This circle is the required circumcircle of AABC.
+Work: In the above figure, the circumcircle of an acute angled-triangle is
+constructed. Construct the circumcircle of an obtuse and right-angled
+triangles.
+Notice that for in obtuse-angled triangle, the circumcentre lies outside the
+triangle, in acute-angled triangle, the circumcentre lies within the triangle and in
+right-angled triangle, the circumcentre lies on the hypotenuse of the triangle.
+Construction 10. To draw a circle inscribed in a triangle.

@@ -1,0 +1,23 @@
+# Chunk 43 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.393198
+# Character count: 736
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_43
+
+========================================
+
+Remarks:
+
+1. The sum or difference of repeating decimal is also repeating decimal
+fractions. In this sum or difference the number of digits in the non-repeating
+part will be equal to the number of digits in the non- repeating part of that
+repeating decimal fractions, which have the highest number of digits in its
+non-repeating part. Similarly, the number of digits in the repeating part of the
+sum or the result of subtraction will be the equal to L.C.M. of the numbers of
+digits of repeating parts of repeating decimal fractions. If there are finite
+decimal fractions, the number of digits in the nonrepeating part of each
+repeating decimal fraction will be equal to the highest numbers of digits that
+occurs after the decimal point.

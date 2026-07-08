@@ -1,0 +1,29 @@
+# Chunk 53 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.394145
+# Character count: 722
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_53
+
+========================================
+
+--- Page 22 ---
+Chapter 1. Real Numbers 17
+Example 19. Divide 9.45 by 2.863.
+Solution:
+945 2863 —28 2835
+45 = — 2. —-_—— =
+945 100 863 990 990
+.. 945 2835 945 990 189 x99 33
+945 +2863 = — + —— = —— X ——— = ———— = — = 3.1
+5045 863 100 © 990 100 © 2835 2x 2835 10 33
+The desired result is 3.3
+Remarks: Multiplication and division of repeating decimal fractions may not be
+repeating decimal fractions.
+Work: 1) Divide 0.6 by 0.9. 2) Divide 0.732 by 0.027.
+Infinite decimal fractions
+There are many decimal numbers that have infinitely many digits after decimal
+point. Moreover, a digit or a number of digits do not repeat as well. These are
+called infinite decimal fractions. For example, 5.134248513942301 ... is an infinite

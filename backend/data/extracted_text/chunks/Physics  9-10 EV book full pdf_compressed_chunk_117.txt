@@ -1,0 +1,31 @@
+# Chunk 117 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.311934
+# Character count: 748
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_117
+
+========================================
+
+the same direction in the same manner in a definite interval of time, then this motion
+
+is called a periodic motion. The time interval over which this repetition occurs
+& is called the period of the motion. In a periodic motion, a moving particle
+5 traverses each point in its path with the same speed after each period.
+
+
+--- Page 41 ---
+36 Physics
+The vibrational motion of our heart is periodic, since it vibrates in the same
+direction in the same manner after a definite interval of time. The periodic
+motion may be circular (motion of the blades of a fan), hyperbolic ( orbit of
+Haley's Comet around the sun) or linear ( oscillatory motion of an object hanging
+from a spring).
+
+JB;
+SS
+Ts
+Fr —— =
+Figure 2.02 : Example of simple harmonic motion

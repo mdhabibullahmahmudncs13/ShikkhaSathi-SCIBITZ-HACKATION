@@ -1,0 +1,30 @@
+# Chunk 50 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.393815
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_50
+
+========================================
+
+--- Page 20 ---
+Chapter 1. Real Numbers 15
+Work: Subtract: 1) Subtract 10.418 from 13.12784
+2) Subtract 9.12645 from 23.0394
+Multiplication and division of repeating decimal fractions
+If repeating decimal fractions are first converted into common fractions and then
+multiplication or division operations are performed, we can convert the result
+into repeating decimal fractions. If finite decimal fractions and repeating
+decimal fractions are multiplied or divided, then this rule should be followed.
+However, in case of division if both divisor and dividend are repeating decimal
+fractions, then converting them into similar repeating decimal fractions will ease
+the operations.
+Example 14. Multiply 4.3 with 5.7.
+Solution: Bo4 39 13
+43="2_"-_2_
+9 9 3
+- 57-5 52
+pr=21"9_ 292
+7 9 9

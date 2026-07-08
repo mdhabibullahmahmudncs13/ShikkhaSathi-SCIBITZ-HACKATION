@@ -1,0 +1,27 @@
+# Chunk 128 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.402362
+# Character count: 479
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_128
+
+========================================
+
+= (a® +b?) — (ab)?
+= (a® +b" + ab)(a® + b* — ab)
+= (a® + ab + b*)(a® — ab + b%)
+©. 3=3(a® — ab + b*) [ substituting the values]
+or, wah rp=3=1
+Now adding, a? + ab + b* = 3 and a® — ab + b* = 1
+we get, 2(a’ +b?) = 4
+, 4
+or, a? +07 = 5 =2
+sath =2
+Example 8. Prove that, (a +b)" — (a — b)* = 8ab(a® +b?)
+Solution: (a +b)" — (a —b)*!
+={la+0)°}* = {(a—*}
+— {la +07 + (a= bP? H(a +b? — (a— 2)
+= 2(a® + 1%) x 4ab | applying Corollary 5 and Corollary 6 |
+Forma-7, Mathematics, Class 9-10

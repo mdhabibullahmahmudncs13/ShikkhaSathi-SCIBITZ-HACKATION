@@ -1,0 +1,23 @@
+# Chunk 515 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440727
+# Character count: 728
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_515
+
+========================================
+
+--- Page 228 ---
+Chapter 10. Distance and Elevation 223
+Sometimes we use the ratio as an approximate measure. For example, the number
+of cars on the road at 10 A.M. is two times higher than the number of cars at
+8 AM. In this case, it is not necessary to know the exact number of cars to
+determine the ratio. Again, in many occasions, we say that the area of your house
+is three times to the area of mine. Also in this case, it is not necessary to know
+the exact area of the house. We use the concept of ratio in many other cases of
+practical life.
+Proportion
+If four quantities (or numbers), are such that the ratio of the first and the second
+quantities is equal to the ratio of the third and the fourth quantities. those four

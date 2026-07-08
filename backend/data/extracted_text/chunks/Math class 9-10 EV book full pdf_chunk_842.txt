@@ -1,0 +1,29 @@
+# Chunk 842 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.473666
+# Character count: 724
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_842
+
+========================================
+
+data, we get the arithmetic mean. But this method is complex, time consuming
+
+and there is every possibility of committing mistake for large numbers of data. In
+such cases, the data are tabulated through classification and the arithmetic mean
+is determined by short-cut method.
+
+Example 7. The frequency distribution table of the marks obtained by the
+
+students of a class is as follows. Find the arithmetic mean of the marks.
+
+Forma-46, Mathematics, Class 9-10
+
+
+--- Page 367 ---
+362 Mathematics Classes IX-X
+Class interval [ 25 —34 [35 — 44 [ 45-54 75-8485 94
+Solution: Here class interval is given and that is why it is not possible to know
+the individual marks of the students. In such case, it becomes necessary to know

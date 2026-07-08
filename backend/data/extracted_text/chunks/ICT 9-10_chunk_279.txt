@@ -1,0 +1,30 @@
+# Chunk 279 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.863723
+# Character count: 724
+# Chunk ID: ICT 9-10.txt_0_279
+
+========================================
+
+- The selection filled with colour will float. It can be shifted elsewhere by
+dragging.
+
+- The object will stay at the same position after shifting the selection.
+
+- If the shifting is done by pressing the Ctrl button, the object being shifted
+will be cut.
+
+- Press Cirl and Alt during shifting, and the object being shifted will be copied.
+
+- The selection will go away il you click the mouse pointer outside the
+selection.
+
+The Use of Feather
+
+- Typing the number from 0-250 in the box of feather on the option bar, the
+edge of the object can be softened. The room of the feather extends equally
+from the edge of the object to the inside and outside. If 10 is typed in
+the feather box. the softness of the edge will be 20.

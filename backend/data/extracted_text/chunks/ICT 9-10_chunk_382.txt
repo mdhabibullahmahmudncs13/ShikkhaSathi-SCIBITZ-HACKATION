@@ -1,0 +1,32 @@
+# Chunk 382 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.880936
+# Character count: 746
+# Chunk ID: ICT 9-10.txt_0_382
+
+========================================
+
+By learning any programming language, we can give various instructions
+
+to the computer as needed using that language. In a software application
+
+on our computer, we will first write the instructions in a specific program-
+ming language. The computer has a translation system that converts these
+programming language instructions into machine code.
+HELLO 010110
+——(=3
+oo {TRANSLATOR }
+i
+
+‘What is machine code or machine langnage?
+
+Machine code or machine language is essentially a binary code made up of 0 and
+
+1, which our computer can directly understand. Therefore, the task of translating
+
+between programming languages and machine code is done with the help of a
+
+type of program called a translator. By converting instructions into machine

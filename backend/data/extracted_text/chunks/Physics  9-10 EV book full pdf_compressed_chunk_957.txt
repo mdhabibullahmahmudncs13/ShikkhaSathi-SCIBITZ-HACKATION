@@ -1,0 +1,22 @@
+# Chunk 957 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404773
+# Character count: 799
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_957
+
+========================================
+
+atoms of phosphorus. This electron behaves like free electrons by making the
+phosphorus atom a positive ion. It can be said that such phosphorus adding
+semiconductors act as conductors to a large extent, because there are some free
+electrons here to carry charges. The semiconductors made by mixing atoms
+having five electrons in the outer most shell like phosphorus are called n type
+semiconductors.
+Now get ready to hear something more interesting. Instead of adding pentavalent
+impurity atoms, if we add atoms having three electrons (e.g. boron) in their outer
+most shells, to silicon, what will happen? Certainly, it is understood that there is
+an empty space in the orbit of a boron atom and this empty place can be occupied
+by a neighboring electron. Then an empty place will be created in the

@@ -1,0 +1,37 @@
+# Chunk 441 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.892819
+# Character count: 758
+# Chunk ID: ICT 9-10.txt_0_441
+
+========================================
+
+--- Page 144 ---
+Problem Solving through Programming 139
+count=1
+while (count<=3):
+print ('1€T')
+covnt=count+1l
+The result after running the programme —
+cr
+ICT
+ICT
+Practical Problem # 16: Write a programme to find the sum of the series
+14243 +44... t 100. Or, write a programme to find the sur of all positive numbers from
+110 100.
+Solution: The code of the programme is given below
+sum=0
+caunt=1
+while (count<=100):
+sum = sum + count
+count=gount+1
+print{'The sum of the valve is ', sum)
+Running the programmeme will show the following result-
+The sum of the value 1s 5050
+Continue Statement
+In Python programmes, a continue statement is used to conditionally or uncondi-
+tionally repeat a statement or loop. The format of the continue statement is-
+continue

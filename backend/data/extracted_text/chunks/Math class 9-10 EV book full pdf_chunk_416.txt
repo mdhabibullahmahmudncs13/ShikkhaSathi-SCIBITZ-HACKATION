@@ -1,0 +1,27 @@
+# Chunk 416 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.431282
+# Character count: 777
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_416
+
+========================================
+
+--- Page 181 ---
+176 Mathematics Classes IX-X
+4. The opposite angles of the quadrilateral ABCD are supplementary to each
+other. If the line AC" is the bisector of ZBAD, prove that, BC'= CD.
+5. O is the centre of the circle with radius 2.5 5
+cm, AB =3 cm and BD is the bisector of \
+ZADC. ©
+1) Findthe length of AD.
+2) Show that, ZADC + ZABC = 180°. A
+3) Prove that, AB = BC. =
+6. If the vertical angles of two triangles standing on equal bases are
+supplementary, prove that their circum circles are equal.
+7. Prove that, the bisector of any angle of a cyclic quadrilateral and the exterior
+bisector of its opposite angle meet on the circumference of the circle.
+Secant and Tangent of the circle
+Consider the relative position of a circle and a straight line in the plane. Three

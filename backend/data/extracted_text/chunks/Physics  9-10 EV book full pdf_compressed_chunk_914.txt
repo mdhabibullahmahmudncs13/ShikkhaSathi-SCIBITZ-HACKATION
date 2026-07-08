@@ -1,0 +1,17 @@
+# Chunk 914 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.400531
+# Character count: 358
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_914
+
+========================================
+
+Figure 12.15: Magnetic field around a current carrying wire
+3. By observing the Figure 12.15, in which direction is the current flowing in
+each wire?
+4. The number of turns in the primary coil of a transformer is 100, here by
+applying 15 V AC in the primary, 150 V AC is obtained in the secondary coil. I]
+What is the number of turns in the secondary coil? o

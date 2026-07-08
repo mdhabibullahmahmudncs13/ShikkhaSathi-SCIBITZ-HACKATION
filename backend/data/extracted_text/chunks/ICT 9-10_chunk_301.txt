@@ -1,0 +1,29 @@
+# Chunk 301 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.867819
+# Character count: 696
+# Chunk ID: ICT 9-10.txt_0_301
+
+========================================
+
+finishing the task, if it is required to take a print out by a different printing
+
+machine, it should be copied on CD or pen-drive. The size of the file will be
+small for getting this task done smoothly. The size of the file will be
+comparatively small if the layers can be combined.
+
+To combine layers
+
+- There are three commands called Merge Visible, Flatten Image. and Merge
+Down on the pop-up of the Layers palette.
+
+- If any layer 18 invisible, give the command of Merge Visible, and only the
+visible layers will be combined.
+
+- If the Merge Down command is given, the selected layer and the layer below
+of it will be combined.
+
+- Ifyou choose Flatten Image. all the layers will be combined.

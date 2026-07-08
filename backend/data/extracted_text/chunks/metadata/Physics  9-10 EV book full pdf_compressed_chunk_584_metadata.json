@@ -1,0 +1,17 @@
+{
+  "subject": "physics",
+  "grade": 9,
+  "chapter": null,
+  "topic": null,
+  "language": "english",
+  "page_number": null,
+  "textbook_name": "NCTB Physics (Class 9)",
+  "source_file": "Physics  9-10 EV book full pdf_compressed.txt",
+  "chunk_index": 584,
+  "extraction_timestamp": "2026-01-09T16:41:03.365155",
+  "character_count": 733,
+  "word_count": 134,
+  "line_count": 16,
+  "text_file_path": "data/extracted_text/chunks/Physics  9-10 EV book full pdf_compressed_chunk_584.txt",
+  "chunk_id": "Physics  9-10 EV book full pdf_compressed.txt_0_584"
+}

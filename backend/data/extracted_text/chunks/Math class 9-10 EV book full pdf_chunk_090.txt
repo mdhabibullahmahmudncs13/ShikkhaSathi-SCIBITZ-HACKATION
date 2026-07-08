@@ -1,0 +1,18 @@
+# Chunk 90 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.398314
+# Character count: 323
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_90
+
+========================================
+
+R is the set of students who passed only in Mathmatics. .. |R| =80—70=10
+Students who passed in at least one subject is PUQ UR = BUM, and
+corresponding cardinality is 18 + 10 4+ 70 = 98
+F is the set of students who failed in both the subjects, and [F| = 100 — 98 = 2
+number of students failed in both the subjects is 2.
+“
+8

@@ -1,0 +1,24 @@
+# Chunk 928 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402237
+# Character count: 665
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_928
+
+========================================
+
+13.1.2 Betaray
+A Beta particle is actually an electron (it is of courise a matter of wonder that a
+nucleus is consists of neutrons and protons only, so how does an electron come
+out from a nucleus?) For this, inside the nucleus a neutron has to dissociate into
+a proton and an electron.
+n> ptte + ¥
+That is, a charge-less neutron is converted into a positively charged proton and a
+negatively charged electron, so the total amount of charge remains unchanged.
+In the right side of the equation, ( v) indicates the anti particle of a neutrino
+(anti-neutrino), a mysterious particle of the world of physics, which is
+“ . .
+2S chargeless and its mass is very small.
+BS

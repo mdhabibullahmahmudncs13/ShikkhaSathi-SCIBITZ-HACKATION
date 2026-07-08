@@ -1,0 +1,26 @@
+# Chunk 711 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378896
+# Character count: 482
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_711
+
+========================================
+
+(i) If the rays of light is centripetal (Figure 9.23, YO or XO ray) it goes
+
+straight after refraction.
+
+(ii) The rays which are parallel with the principle axis, (Figure 9.23, XO) will
+
+(CT) pass through focal point (F) after refraction.
+
+(iii) If the direction of the light ray is reversed then it goes back the way it
+came. Therefore, if any ray goes (Figure 9.23, TC) through the focus then
+it will be refracted in parallel (CX)
+
+Now we can form the image for a convex lens.
+“
+§

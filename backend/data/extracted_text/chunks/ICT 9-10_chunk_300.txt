@@ -1,0 +1,38 @@
+# Chunk 300 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.867670
+# Character count: 751
+# Chunk ID: ICT 9-10.txt_0_300
+
+========================================
+
+- Or by typing a numerical figure in the opacity textbook the opacity can be
+changed.
+
+Removing Layer
+
+Select the Layer to be removed. Then
+
+- Give the Delete Layer command from the pop-up menu of the Layer palette. a
+
+=
+E
+
+
+--- Page 97 ---
+92 Multimedia and Graphics
+Or
+
+- After selecting the Layer. click the icon of Delete Layer below the palette,
+and a dialogne box with a question, ‘Are you sure you want to remove this
+Layer?” will come. If you click the *Yes’ button, the layer will be removed.
+but if you click ‘No’, the removal process will be stopped.
+
+Combining or Merging Layers
+
+Sometimes it is required to edit all the layers together in Photoshop. After
+
+finishing the task, if it is required to take a print out by a different printing

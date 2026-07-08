@@ -1,0 +1,18 @@
+# Chunk 841 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391857
+# Character count: 434
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_841
+
+========================================
+
+circuit) then the equivalent resistance will be:
+R=R, +Ry+Rs+..+R,
+11.2.5 Equivalent resistance: Parallel circuit
+Now we will place the resistances in parallel instead of one after another (Figure
+11.13). In this circuit we have named different points as A, B,C, DD, E and
+F. We can understand from the figure that points D, E and F are connected to the
+ground and so their potentials are zero. So the potential of points A, B,and Cis

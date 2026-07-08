@@ -1,0 +1,25 @@
+# Chunk 504 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.352973
+# Character count: 750
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_504
+
+========================================
+
+--- Page 179 ---
+174 Physics
+liquid, i.e., the bulb will expand a little bit.
+After that if we continue applying heat, the height of the liquid will increase. As
+the expansion of liquids is more than solids, we will observe that finally the level
+of the liquid has reached mark C from B after passing the mark A.
+If we multiply the height AB by the cross section of the tube, we will get the
+expansion V, of the bulb. Again if we multiply the height B_. by the cross section,
+we will get the real expansion V, of the liquid. Here the apparent expansion V,
+is
+Va=V= Vp
+6.3.3 Expansion of Gases
+A solid has both shape and volume, so no problem arises in understanding the
+expansion of the solid. Though a liquid has no definite shape, it has a definite

@@ -1,0 +1,43 @@
+# Chunk 403 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429490
+# Character count: 745
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_403
+
+========================================
+
+--- Page 175 ---
+170 Mathematics Classes IX-X
+
+Angle in a Circle (Inscribed angle)
+
+If two chords of a circle meet at a point on the circle
+
+then the angle formed between these chords is called
+
+circular angle or angle inscribed in a circle.
+
+In the figure, ZACB is an angle in a circle. Every c
+
+angle in a circle cuts an arc of the circle. This arc
+
+may be a major or minor arc or a semi-circle.
+
+The angle in a circle cuts an arc of the circle and
+
+the angle is said to be standing on the cut off arc. 8
+
+The angle is also known as the angle inscribed in the A Pr
+
+conjugate arc.
+
+In the adjacent figure, the angle stands on the arc
+
+APB and is inscribed in the conjugate arc ACB.
+
+It is to be noted that, APB and ACB are mutually
+
+conjugate.

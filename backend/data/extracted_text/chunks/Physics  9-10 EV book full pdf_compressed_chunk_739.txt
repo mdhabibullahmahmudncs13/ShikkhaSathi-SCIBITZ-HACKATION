@@ -1,0 +1,21 @@
+# Chunk 739 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.382007
+# Character count: 792
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_739
+
+========================================
+
+Now we can do an experiment. Suppose, using glass and silk we have positively
+charged two pieces of glass. If we carefully hang one piece of glass with
+insulator silk and then bring the other close to it then we will notice that the glass
+that is hanging is going away due to repulsion (Figure 10.03).
+Similarly if we charge negatively two pieces of plastic and hang one of them
+with silk thread and bring the other near to it, we will see the same result, one is
+repelling the other. Now if we bring the positively charged glass rod near to the
+negatively charged plastic rod, then we will see, they will attract one another.
+‘When we learnt gravitational force, there was only one type of mass, so only one
+type of force, and it was attraction. Because there is only one type of mass, there

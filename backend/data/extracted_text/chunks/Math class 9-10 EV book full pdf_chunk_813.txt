@@ -1,0 +1,26 @@
+# Chunk 813 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.471161
+# Character count: 694
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_813
+
+========================================
+
+10. A rectangular solid is standing on a base of area 48 square metre. Its height is 3 metre
+and diagonal is 13 metre. Determine the length and width of the rectangular
+solid.
+
+11. The outer measurements of a rectangular wooden box are 8 cm., 6 cm. and
+4 cm., respectively and the area of the whole inner surface is 88cm?. Find
+the thickness of the wood of the box.
+
+12. The length of a wall is 25 metre, height is 6 metre. and breadth is 30
+cm. The length, breadth and height of a brick is 10 cm 5 em and 3 cm.
+respectively. Determine the number of bricks required to build the wall with
+the bricks.
+
+13. The area of the surface of a cube is 2400 square cm. Determine the diagonal of
+the cube.

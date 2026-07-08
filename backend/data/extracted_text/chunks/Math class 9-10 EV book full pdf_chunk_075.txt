@@ -1,0 +1,31 @@
+# Chunk 75 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.396540
+# Character count: 728
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_75
+
+========================================
+
+Subsets of P are {z,y, =}, {ey}, (x. 2}. {v. 2}. {ae} {}. {=}. 2.
+
+Proper subsets of P are {x,y}, {z, 2}, {y. 2}, {=}, {y}, {=}, ©
+
+Observation: If number of elements of a set is n, then it has 2" subsets, and
+number of proper subsets is 2" — 1.
+
+Equivalent Set
+
+If two sets have the same elements, then they are said to be equivalent sets. For
+example, A = {3,5,7} and B = {5,3,3, 7} are two equivalent sets, then they are
+denoted by A = B. Note that A= B if and only if AC Band BC A
+
+Again, if A ={3,5,7}, B={5,3,3,7} and C' = {7,7,3,5,5}, then sets A, B and
+C are equivalent sets. That is A =B =C
+
+Observation: If order of elements in the set are changed or certain element is
+repeated set is not changed.
+
+Difference of Sets

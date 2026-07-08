@@ -1,0 +1,24 @@
+# Chunk 124 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.401936
+# Character count: 637
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_124
+
+========================================
+
+x difference of two expressions.
+Formula 4. (z+ a)(z +b) = 2% + (a + b)x + ab
+Therefore, (r+ a)(z +b) = 22+ (algebraic sum of a and b) = + (the product of a
+and b)
+Extension of formula for square: There are three terms in the expression
+a+ b+ c. It can be considered the sum of two terms (a + b) and c. Therefore, by
+applying Formula 1, the square of the expression is,
+(a+b+c)*={(a+b) +c}? = (a+b)? +2a+bc+c?
+=a? + 2ab +b? + 2ac + 2bc + * = a® + b* + c+ 2ab + 2bc + 2ac
+Formula 5. (a +b+c)? =a® +b +c? + 2ab + 2bc + 2ac
+Nn Corollary 7. a? +b? +c = (a+b +c)? — 2(ab + be + ac)
+a
+5 Corollary 8.  2(ab + be + ac) = (a+b +c)? — (a> +b? + 2)

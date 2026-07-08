@@ -1,0 +1,31 @@
+# Chunk 411 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.430710
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_411
+
+========================================
+
+2/AEB.
+5. Two chords AB and C'D of the circle ABC'D intersect at the point E. Show
+that, AAED and ABEC' are equiangular.
+Quadrilateral inscribed in a circle (Inscribed
+Quadrilaterals)
+An inscribed quadrilateral or a quadrilateral inscribed in a circle is a quadrilateral
+having all four vertices on the circle. Such quadrilaterals possess a special property.
+The following work helps us understand this property.
+‘Work: Draw a few inscribed quadrilaterals. This can easily be accomplished
+by drawing circles with different radius and then by taking four arbitrary
+points on each of the circles. Measure the angles of the quadrilaterals and fill
+in the following table.
+Serial ZA ZB 20 4D LA+ ZC | ZB+ 24D
+No.
+1
+2
+3
+4
+- 5
+g What do you infer from the table?

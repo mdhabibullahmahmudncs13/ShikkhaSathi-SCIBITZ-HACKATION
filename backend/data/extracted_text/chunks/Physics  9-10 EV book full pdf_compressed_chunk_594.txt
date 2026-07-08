@@ -1,0 +1,25 @@
+# Chunk 594 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.366549
+# Character count: 588
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_594
+
+========================================
+
+--- Page 215 ---
+210 Physics
+3. During summer vacation, Nusrat visited Sajek with her family. To hear an
+echo she screamed loudly beside a hill. But, hearing no echo, she felt sad. Then
+her father told Nusrat to move 3 m and to make a sound. This time Nusrat heard
+the echo. On that day, the velocity and frequency of sound was 332 m/s and
+1328 Hz .
+(a) What is an echo?
+(b) Why is a minimum distance necessary to hear an echo?
+(c) What is the wavelength of sound produced by Nusrat?
+(d) How far does Nusrat have to move backward if she wants to hear an
+echo after 0.3 s of screaming?
+5
+a

@@ -1,0 +1,38 @@
+# Chunk 686 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.457370
+# Character count: 581
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_686
+
+========================================
+
+respectively, it can be shown that,
+
+BA BC
+
+ED = GF [theorem 28]
+
+io AB BC AB AC BC
+
+"DE EF "DE DF EF
+The proposition opposite of theorem 32 is also true.
+Theorem 33. If the sides of two triangles are proportional, the opposite angles
+of their matching sides are equal.
+
+. Ce . AB AC BC
+Special Nomination: Let, in AABC and ADEF, DE DF EF It is to
+prove that, ZA = 2D, /B=/E, /C=/F.
+
+A D
+p 0 VAN
+E F
+B Cc
+Drawing: Consider the matching sides of the triangles ABC and DEF unequal.
+Take two points P and @Q on AB and AC respectively, so that AP = DE and
+AQ = DF. Join P and Q.
+IS
+g
+8

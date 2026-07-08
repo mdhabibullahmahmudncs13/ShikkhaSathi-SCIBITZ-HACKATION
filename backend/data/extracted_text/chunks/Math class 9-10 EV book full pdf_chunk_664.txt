@@ -1,0 +1,28 @@
+# Chunk 664 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455328
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_664
+
+========================================
+
+--- Page 292 ---
+Chapter 13. Finite Series 287
+. . LL
+7. Which term of the series 128 + 64 +32 + --- is 57
+24/7 2
+8. If 25 is the fifth and we is the tenth term of a geometric series, find its
+third term.
+1
+9. Which term of the series — — 14/2 — ++ is 8/27
+V2
+10. If 54 x + y + 135 is a geometric series, find the value of = and y.
+11. If 3+ x+y + 2 + 243 is a geometric series, find the value of x,y and z.
+12. What is the sum of the first 7 terms of the series 2 —4 +8 — 16 + --- 7
+13. Find the sum of (2n + 1) terms of the series 1 —1+1—1+---.
+14. What is the sum of the first 7 terms of the series log2 + log4 + log8 +--+ 7
+15. What is the sum of the first 12 terms of the series log2 + log16 + logh12 + --- 7
+16. If the sum of n terms of the series 2 +4 +8 +16 +--+ is 254, find the value

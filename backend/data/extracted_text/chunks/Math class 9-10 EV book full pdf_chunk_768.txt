@@ -1,0 +1,20 @@
+# Chunk 768 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.466899
+# Character count: 436
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_768
+
+========================================
+
+rea of the pentagon 1 Cot—— square cm E c
+= 20 x cot36° square cm
+= 20 x 1.376 square cm (using calculator)
+= 27.528 square cm (approx.) A a 3
+Required area 27.528 square cm (approx.)
+Example 16. The distance of the centre to the vertex of a regular hexagon is
+4 metre. Determine its area.
+9 Solution: Let, ABCDEF is a regular hexagon whose centre is O, O is joined to
+S cach of the vertex and thus 6 triangles of equal area are formed.

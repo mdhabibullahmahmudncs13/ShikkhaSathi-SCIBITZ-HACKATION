@@ -1,0 +1,16 @@
+# Chunk 263 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.861412
+# Character count: 131
+# Chunk ID: ICT 9-10.txt_0_263
+
+========================================
+
+5. In order to remove a transition from a specific textbox. select it. Click the
+‘Remove’ button to exclude the transition. &
+a
+2
+a

@@ -1,0 +1,29 @@
+# Chunk 746 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.382768
+# Character count: 774
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_746
+
+========================================
+
+--- Page 282 ---
+Static Electricity 277
+Qs
+wh
+REN
+SEN
+NP
+ter.
+You have understood by now why they happen.
+The event of the comb has been explained. The crawling of the little baby is also
+easy to understand. Due to friction with the carpet, charge accumulates in its
+body and spreads to the hair also. All hairs have same charge. We know similar
+charge repulses, so each hair repulses each other and becomes straightened. Now
+we can explain the event of the thunderbolt too. Due to friction among clouds,
+charge gets separated. When a large amount of charge is accumulated in the
+clouds, it creates induction of opposite charge below. Sometimes that is so large
+. in amount, it becomes connected with the clouds by piercing the air. We call this
+§ lightning. (Figure 10.07).

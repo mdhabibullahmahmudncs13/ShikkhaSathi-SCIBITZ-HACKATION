@@ -1,0 +1,35 @@
+# Chunk 492 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.350838
+# Character count: 792
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_492
+
+========================================
+
+--- Page 175 ---
+170 Physics
+Ly— Ly
+a=—s"1_
+Li(T; = Ty)
+Here, [,=10m
+L, =10.0167 m
+T, = 120°C
+T,=20°C
+__100167m—10m _
+“= Tom(1z0C — 200) >
+You have seen from the above examples that actually the value of the co-
+efficient of expansion of solids is very small. For this reason, the three different
+co-efficients a, p and ¥ were not necessary. For working we could explain the
+co-efficient of linear expansion only. For example let us assume the matter of
+area expansion.
+We see:
+Ay = Ay + BAT, — T1)
+But area 4 is the product of length and width and if we consider the area of a
+square whose length is L , then its area, after increasing the temperature, will be
+A; = 13 = [Ly + aly (T, = TD]?
+Or Ap = 13 + 20L3(T, = Ty) + o2L3(T, = Ty)?
+But A, =13
+So, Ay = Ay + 204,(T, — Ty) + 0A, (T, — T;)?

@@ -1,0 +1,31 @@
+# Chunk 660 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.373740
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_660
+
+========================================
+
+--- Page 243 ---
+238 Physics
+Exercise
+) General questions
+1.How the sensitivity of eyes can determined for different colors?
+2. Why are the danger signals shown in red colors though human eyes can see
+yellowish green the most?
+3. In mirrors, right and left interchanges, Why do the top and bottom not
+interchange?
+4. Why colors cannot be seen in moonlight?
+5. Why concave mirrors are used in the telescopes used by astronomers?
+6. What do you mean by reflection of light?
+7. What do you mean by regular and irregular reflection?
+8. What is a mirror?
+9. What is called an image? How many types of images are there? What are
+they?
+10. How is real image formed in a concave mirror? Demonstrate with the help
+of a ray diagram.
+Mathematical questions
+1. A mirror is placed as shown in figure B

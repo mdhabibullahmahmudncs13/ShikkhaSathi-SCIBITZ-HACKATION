@@ -1,0 +1,40 @@
+# Chunk 84 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.397632
+# Character count: 763
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_84
+
+========================================
+
+5 2
+
+&
+
+
+--- Page 35 ---
+30 Mathematics Classes IX-X
+Work: If G = {1,2,3},then determine P(G). Show that number of elements
+of P(G) is 2°
+
+Ordered Pair
+
+Amena and Sumena of class VIII occupied 1st and 2nd position repectively in
+
+the annual examination. According to merit this can be expressed as (Amena,
+
+Sumena) pair. Similar definite pairs are called ordered pairs.
+
+So, for a pair of elements if the positions are given and expressed, then the pair is
+
+called Ordered Pair.
+
+If the first element of an ordered pair is x, and the second element is y, then the
+
+ordered pair is denoted by (z,y). For the ordered pairs (z,y) and (a,b) will the
+
+equal or (z,y) = (a,b) if and only if x = a and y = b.
+
+Example 11. If (22 + y,3) = (6,2 — y) then, determine (x.y).

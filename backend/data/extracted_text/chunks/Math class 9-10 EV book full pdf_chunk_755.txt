@@ -1,0 +1,33 @@
+# Chunk 755 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.465338
+# Character count: 757
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_755
+
+========================================
+
+--- Page 333 ---
+328 Mathematics Classes IX-X
+5. Area of trapezium region: Two parallel sides of
+trapezium region and the distance of perpendicular
+between them are given. Let ABCD be a trapezium
+whose lengths of parallel sides are AB = a unit, « _,
+CD = b unit and distance between them be CE = ¢
+AF = h. Diagonal AC divides the trapezium region
+ABCD into AABC and AACD.
+Area of trapezium region ABCD
+= area of AABC + area of AACD Al EP
+1 1
+=34BxCE+ 50D x AF
+1 1 h(a +b)
+= ah + —bh = 242)
+3¢ + Fb 3)
+3
+Example 8. Length of a rectangular room is 3 times of breadth. If the area is
+384 square metre, find the perimeter and length of the diagonal.
+Solution: Let breadth of the rectangular room is = metre.
+.. Length of the room is Sa and area 5 Xx = Se
+3, 5 5

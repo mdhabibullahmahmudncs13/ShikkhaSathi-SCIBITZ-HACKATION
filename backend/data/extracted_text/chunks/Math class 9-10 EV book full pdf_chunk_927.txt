@@ -1,0 +1,28 @@
+# Chunk 927 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.482175
+# Character count: 767
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_927
+
+========================================
+
+RB C
+Proof: Assume BC and EF are the largest G
+sides of AABC and ADEF respectively.
+Now, place AABC on ADEF in such a way that point B coincides with point E
+and side BC coincides with side EF, and point A falls on the opposite side of D
+with respect to EF. Assume point G is the new position of point A.
+Since BC = EF, point C will coincide with point F. Therefore, AGEF will be the
+new position of AABC. That is, EG = BA, FG = CA, and ZEGF=/BAC.
+Connect D and G.
+(1)in AEGD, EG = ED [Since EG = BA = ED, and the angles opposite the
+equal sides of a triangle are equal.]
+Therefore, /ZEDG=/EGD.
+(2) In AFGD, FG = FD.
+Therefore, ZFDG=/FGD, [as the angles opposite the equal sides of a triangle
+are equal.]
+(3) Hence, ZEDG+ /FDG=/EGD+ZFGD
+or ZEDF=/EGF, i.e., ZBAC=/EDF.

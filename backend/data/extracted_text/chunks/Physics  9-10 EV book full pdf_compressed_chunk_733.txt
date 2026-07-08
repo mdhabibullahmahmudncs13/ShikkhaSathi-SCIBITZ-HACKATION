@@ -1,0 +1,21 @@
+# Chunk 733 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.381126
+# Character count: 721
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_733
+
+========================================
+
+electron is negatively charged. The charge of a proton and electron is equal but
+opposite and the magnitude of this charge is 1.6 x 10” coulomb. In an atom
+generally there are the same number of electrons and protons and so an atom is
+charge neutral. Hydrogen is the simplest atom. The nucleus of hydrogen atom
+consists of only one proton and only one electron is revolving around it. The
+next atom is helium which consists of two protons in the nucleus (and two
+chargeless neutron) and two electrons outside the nucleus. In this way larger
+atoms are formed. Excluding hydrogen atom, we can say the number of protons
+that a nucleus there is at least the same number or generally more than this
+number of neutrons present.

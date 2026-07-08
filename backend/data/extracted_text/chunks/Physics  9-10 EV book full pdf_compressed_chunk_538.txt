@@ -1,0 +1,37 @@
+# Chunk 538 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.358903
+# Character count: 675
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_538
+
+========================================
+
+temperature?
+
+a) 6 b) 8
+
+0) 12 dy 18
+Forma-24, Physics, Class 9-10
+
+
+--- Page 191 ---
+186 Physics
+
+Creative question
+
+1. The distance between two electric poles is 30 m. A copper wire with a length
+0f 30.001 m was connected to those two pillars on a day when the temperature
+was 30°C. The coefficient of linear expansion of copper is 1.67 10K". The
+wire snapped on a winter day when the temperature of the air was 4° C.
+
+(a) Define triple point of water.
+
+(b) If two bodies have equal amounts of heat, can they be at different
+temperatures? Explain.
+
+(c) Express the temperature of air in Fahrenheit scale.
+
+(d) Explain the cause for the wire to snap with mathematical logic.

@@ -1,0 +1,24 @@
+# Chunk 543 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.359503
+# Character count: 771
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_543
+
+========================================
+
+--- Page 194 ---
+Waves and Sound 189
+7.1 Simple Harmonic Motion
+By attaching a mass at the lower end of a spring if we release it after pulling, it
+will move up-down (In chapter 3 and 4 we have explained this motion). We have
+seen that due to friction or other means, energy is lost; and it stops after a while.
+Otherwise, it would move up-down for an infinite time. We have also seen that
+in simple harmonic motion, the energy of the mass attached to the spring
+exchanges between kinetic energy and potential energy. We can assume that the
+spring follows Hooke's law. Let’s recall the law: if the spring constant is k and
+the position of the end of the spring is at a distance x from its equilibrium
+position, then the restoring force Fof the spring is given by:
+F = —kx

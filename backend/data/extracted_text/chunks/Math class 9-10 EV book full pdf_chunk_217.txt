@@ -1,0 +1,25 @@
+# Chunk 217 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.411732
+# Character count: 679
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_217
+
+========================================
+
+1) 15000 2) 0.000512 3) 123.000512
+Logarithmic Methods
+Logarithmic systems are of two kinds :
+
+1) Natural Logarithm: Mathematician John Napier (1550-1617) of
+Scotland published the first book on logarithms in 1614 by taking e as its
+base. e is an irrational number, e = 2.71828... Such logarithms are called
+Napierian logarithm or e¢ based logarithm or
+natural logarithm. log, x is also written in the form Inz.
+
+2) Common Logarithm: Mathematician Henry Briggs (1561-1630) of
+England prepared a table of logarithm (log table) in 1624 with 10 as
+the base. This logarithm is called Briggs logarithm or 10 based
+logarithm or practical logarithm. This logarithm is written as log,,z.

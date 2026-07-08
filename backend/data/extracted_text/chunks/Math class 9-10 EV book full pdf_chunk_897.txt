@@ -1,0 +1,32 @@
+# Chunk 897 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.479179
+# Character count: 661
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_897
+
+========================================
+
+--- Page 394 ---
+Appendix 389
+Denominator of the third fractionis = x? —x—12 =x? +3x—4x—12
+=x(x+3)—4(x+3)=(x+3)(x—-4)
+L.C.M. of the three denominators is = x(x + 2)(x + 3)(x — 4)
+Now express fractions with common denominators
+.. First fraction is ~~ = EL = Ix -4)
+X43 x(x+3)x(x+2)(x—4)
+o_ (x—4)
+x(x +2) (x +3)(x—4)
+Second fraction is = 2 I = Co 2xalxd)
+X4+5x+6  (x+2)(x+3)  (x+2)(x+3)xx(x—4)
+_ 2x(x—4)
+x(x+2)(x+3)(x—4)
+Third fraction is = JE = _ 3 — xxx)
+xX =x—12 (x +3)(x-4) (x +3)(x—4) x x(x +2)
+_ 3x(x +2)
+x(x +2)(x + 3)(x — 4).
+.. The required three fractions are respectively
+(x+2)(x—4) 2x(x—4) 3x(x+2)
+x(x +2)(x+3)(x—4) x(x +2)(x+3)(x—4) x(x+2)(x+3)(x—4).

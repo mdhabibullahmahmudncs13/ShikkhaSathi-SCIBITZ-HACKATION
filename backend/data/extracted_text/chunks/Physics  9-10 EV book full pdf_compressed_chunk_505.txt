@@ -1,0 +1,28 @@
+# Chunk 505 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.353148
+# Character count: 753
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_505
+
+========================================
+
+expansion of the solid. Though a liquid has no definite shape, it has a definite
+volume. So, we can explain or measure its expansion. It is very interesting in the
+case of gas. Because neither does it
+have a definite shape nor a definite
+volume. A gas takes the whole
+volume of its container. If the same
+amount of a gas is kept in containers
+of different volumes, the pressures
+of the gases will be different. So, we
+0 can see that the increase of volume
+H of a gas will be measured without
+| changing its pressure as shown in the
+figure 6.07. An object of definite
+Figure 6.07 : The volume of air weight is placed on the piston of a
+is increased by applying heat. cylinder so that it always applies
+equal pressure to the gas contained
+in the cylinder.

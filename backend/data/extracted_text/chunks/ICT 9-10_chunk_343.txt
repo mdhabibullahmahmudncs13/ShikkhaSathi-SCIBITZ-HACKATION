@@ -1,0 +1,16 @@
+# Chunk 343 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.875254
+# Character count: 318
+# Chunk ID: ICT 9-10.txt_0_343
+
+========================================
+
+from the Edit menu. the object will disappear and it will be copied if the Copy
+command is given. Any cut and copied object is stored on the clipboard, and if
+Paste command is given from the Edit menu. the object will be pasted on the
+screen. The object can be shifted elsewhere by dragging it with the selection
+took.

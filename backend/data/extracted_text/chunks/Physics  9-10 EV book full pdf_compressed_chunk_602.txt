@@ -1,0 +1,45 @@
+# Chunk 602 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.367422
+# Character count: 752
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_602
+
+========================================
+
+--- Page 220 ---
+Reflection of Light 215
+
+You can see that the wavelengths of visible light are very short but there are
+
+many interesting experiments in physics, using these we can observe various
+
+properties of this wavelength.
+
+If we want to know more about light, we can start with reflection.
+
+8.2. Reflection
+
+If we talk about reflection what we
+
+imagine is standing in front of a
+
+mirror, but reflection is much absorption
+
+more than that. When light is reflection
+
+sent from one medium to another, hese
+
+three different phenomena occur
+
+simultaneously. One of them is
+
+reflection and the other two are
+
+refraction and absorption. (Figure first medium second medium
+
+8.02)
+
+While traversing from the first Figure 8.02: Reflection, refraction and

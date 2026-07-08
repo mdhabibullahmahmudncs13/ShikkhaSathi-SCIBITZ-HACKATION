@@ -1,0 +1,39 @@
+# Chunk 685 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.457273
+# Character count: 712
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_685
+
+========================================
+
+--- Page 301 ---
+296 Mathematics Classes IX-X
+Drawing: Consider the matching sides of the triangles ABC and DEF unequal.
+Take two points P and @ on AB and AC respectively so that AP = DE and
+AQ = DF. Join P and @Q and complete the drawing.
+
+Proof:
+
+Step 1. In AAPQ and ADEF
+
+AP=DE,AQ=DF,/A = /D Therefore, AAPQ = ADEF [SAS theorem]
+
+Therefore, ZAPQ = ZDEF = ZABC and ZAQP = Z/DFE = ZACB.
+
+That is, the corresponding angles produced as a result of intersections of
+
+AB and AC by the line segment PQ are equal.
+
+Therefore PQ || BC cL 2 = = or, — = 2 [corollary 1]
+Step 2. Similarly, cutting line segments ED and EF from BA and BC
+
+respectively, it can be shown that,
+
+BA BC
+
+ED = GF [theorem 28]
+
+io AB BC AB AC BC

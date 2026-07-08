@@ -1,0 +1,34 @@
+# Chunk 150 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315306
+# Character count: 708
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_150
+
+========================================
+
+a given time (7) is directly proportional to that time. i.e.v oc t
+
+Third law: The distance (/) traversed by a freely falling body from rest in a
+
+given time (7) is directly proportional to the square of the given time. i.e.
+
+] hoc t?
+BS
+
+
+--- Page 53 ---
+48 Physics
+We have mentioned earlier that the acceleration due to gravity is an example of
+uniform acceleration. The equations we have deduced about motion, can be used
+to deduce the equations of motion of the falling bodies. In case motion s was used
+to indicate the travelled distance, for a falling body we will use h to indicate height.
+For acceleration we will use g instead of a. These two will be the only difference!
+
+v=u+ gt
+
+= 1 2
+
+h=ut+ 3 gt

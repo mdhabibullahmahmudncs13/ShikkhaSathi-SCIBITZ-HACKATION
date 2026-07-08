@@ -1,0 +1,22 @@
+# Chunk 784 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.386556
+# Character count: 742
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_784
+
+========================================
+
+--- Page 298 ---
+Static Electricity 293
+Millions of amperes of electric current can flow during a thunderbolt and for this
+flow of current, the temperature of the air can rise up to 20-30 thousand degree
+Celsius which is even more than the temperature of the sun!
+For this temperature we see a bluish white sparkling in the sky. Another thing
+occurs due to this temperature; the air expands to a great extent and moves
+outside, and in the very next moment air from the outside fills in that blank space
+created. This whole thing occurs faster than the speed of sound and an incredibly
+loud noise is created. When the speed of air exceeds that of sound, it is called a
+shockwave. The sound of a thunderbolt is a kind of shockwave. Although the

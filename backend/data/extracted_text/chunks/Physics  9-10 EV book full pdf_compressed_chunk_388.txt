@@ -1,0 +1,33 @@
+# Chunk 388 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.339160
+# Character count: 796
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_388
+
+========================================
+
+--- Page 137 ---
+132 Physics
+. 1 kg+0.25kg a
+p= —————=1.04X
+Density of the salted water: p 1200 X 105m? 1.04 x 103 kg/m
+Question: Density of Dead Sea water of Jordan is 1.24 kg/liter. What is the
+volume of 1 kg water?
+Answer: 1 liter is 1000 cc or 107m’
+Therefore, density of Dead sea water,
+_ kg  1.24kg 3 3
+p=124 p= om = 124 X 10° kgm
+Therefore, volume of 1 kg water:
+v=" 1kg =0.81x 107° m®
+TT 124x103 kgm? m
+or 0.81 liter
+Example: What is the density of the nucleus? What is the mass of 1 tea
+spoonful of nucleus?
+Nucleus consists of neutrons and protons. The mass of one of them is 1.67 x 10727 kg,
+Their approximate radius is 1.25 fm = 1.25 x 1075 m . Therefore, if we can
+calculate the density of neutron or proton, it can be considered as the density of
+the nucleus!
+m 1.67 x 10727 kg 18 3

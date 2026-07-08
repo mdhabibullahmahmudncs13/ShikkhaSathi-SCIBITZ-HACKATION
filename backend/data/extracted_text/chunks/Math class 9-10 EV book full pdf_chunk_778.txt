@@ -1,0 +1,31 @@
+# Chunk 778 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467712
+# Character count: 757
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_778
+
+========================================
+
+--- Page 343 ---
+338 Mathematics Classes IX-X
+Example 18. The diameter of a circle is 26 cm. Find its circumference.
+Solution: Let, the radius of the circle is 7.
+.. diameter of the circle = 2r and circumference = 27
+. 26
+As per question, 2r = 26 or, r = > or, =13 cm
+circumference of the circle = 2m = 2 x 3.1416 x 13 cm = 81.68
+cm (approx.)
+2. Length of arc of a circle
+Let O be the centre of a circle whose radius is r and
+arc AB = s, which produces 6° angle at the centre. B
+.. circumference of the circle = 27r 6
+Total angle produced at the centre of the circle = 360° A A
+and arc s produces angle 0° at the centre. We know,
+any interior angle at the centre of a circle produced
+by any arc is proportional to the arc.
+[4 5 wre
+Copa = OF, =
+360° 2m 180°

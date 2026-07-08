@@ -1,0 +1,24 @@
+# Chunk 966 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.405680
+# Character count: 717
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_966
+
+========================================
+
+--- Page 368 ---
+Radioactivity and Electronics 363
+sidue from a nuclear
+reactor must be carefully stored far away from human habitation!" To illustrate
+this point, the teacher showed Roni a poster in the physics lab, explaining that if
+a | kg sample of this element is leftuntouched, after eight hundred years, the
+mass of the same radioactive atoms remaining in the sample would be 250 g.
+(a) What is radioactivity?
+(b) Explain the reasons for the special radioactive hazard symbolsdisplayed on
+vehicles transporting uranium fuel.
+(c) What is the half-life of the element displayed on the poster in the physics lab?
+(d) Analyze the validity of the teacher's statement regarding the storage of nucle-
+ar reactor fuel.

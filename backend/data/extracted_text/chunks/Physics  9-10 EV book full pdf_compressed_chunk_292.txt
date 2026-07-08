@@ -1,0 +1,22 @@
+# Chunk 292 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.329324
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_292
+
+========================================
+
+Dimension of work [W] = ML2T 2
+Force is a vector quantity and the distance traversed or the displacement is also a
+vector quantity but in case of work the product of those two vectors is a scalar
+quantity.
+As individual vectors there is no such condition that the direction of force and
+distance travelled has to be same but in these book, we will only discuss the
+force and distance travelled in the same direction.
+Have you noticed, while discussing work, we said that the “force” has done the
+work. A person or a machine may push any object to some distance by applying
+a force. In terms of daily life we say that the person or the machine has done the
+work. But in physics, neither the person nor the machine does the work, always

@@ -1,0 +1,38 @@
+# Chunk 364 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.336103
+# Character count: 779
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_364
+
+========================================
+
+--- Page 127 ---
+122 Physics
+Investigation 4.01
+Physical ability
+
+Objective: To find out the physical ability of a student
+
+Instruments: A clock and a ruler
+
+Procedure:
+
+1. A building which has stairs to the first or second floor.
+
+2. Count the number of steps of the stairs and measure the height of
+each step. Multiply these two to find out the height of the first or
+second floor from the ground.
+
+3. Measure your mass on a weight measuring machine.
+
+4. Climb the stairs as fast as you can, measure the time needed
+using a clock.
+
+5. In a similar way, measure mass of the other students in the class and
+collect information about the time needed for them to climb the stairs.
+Put the data in the following table.
+
+6. Find out the physical ability of your friends and yourself.

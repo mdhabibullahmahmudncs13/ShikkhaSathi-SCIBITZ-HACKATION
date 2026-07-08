@@ -1,0 +1,28 @@
+# Chunk 316 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.331394
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_316
+
+========================================
+
+--- Page 114 ---
+Work, Power, Energy 109
+Answer: This has been done before with the help of the laws of motin. Now it
+can be done by the transformation of energy.
+ineti ay: 1, 1 ;
+Kinetic energy: = 5mv? = =x10x100%] =50,000]
+When the object reaches a height 4, at this height the kinetic energy has been
+totally converted into potential energy. So,
+mgh = 50000]
+he 50,000] _ 50,000 _
+=Tmg  1ox9g mTom
+For your understanding the mass 10 kg is mentioned here. But it does not depend
+on the mass. With any mass we will get this answer. For this we might have used
+the formula v=2gh directly.
+Question: A body of mass 5 kg is thrown in the upward direction with a velocity
+of 50 m/s. At what height will the potential and kinetic energy be the same?
+Answer: Initial kinetic energy of the body is

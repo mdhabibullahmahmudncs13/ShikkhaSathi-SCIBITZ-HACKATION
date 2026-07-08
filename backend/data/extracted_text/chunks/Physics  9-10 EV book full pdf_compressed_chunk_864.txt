@@ -1,0 +1,16 @@
+# Chunk 864 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.395339
+# Character count: 324
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_864
+
+========================================
+
+meter records how much electricity is consumed. After the meter, it is supplied
+through a consumer unit.
+Three circuit breaker or fuse of 5A, 15A and 30A is shown in Figure 11.17.
+These three circuit breakers are connected to the main switch. The electric =
+supply of the whole house can be cut off using the main switch. Bi

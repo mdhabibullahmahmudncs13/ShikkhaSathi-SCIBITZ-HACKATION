@@ -1,0 +1,35 @@
+# Chunk 633 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.452568
+# Character count: 699
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_633
+
+========================================
+
+Let the first term of an arithmetic series be a and the common difference be d.
+Then the terms of the series are:
+
+First term =a =a + (1 —1)d
+
+Second term =a +d =a+ (2 —1)d
+
+Third term = a +2d =a + (3 —1)d
+
+Fourth term =a +3d = a+ (4 —1)d
+
+sonth term = a+ (n—1)d
+
+This nth term is called common term of arithmetic series. If the first term of =
+an arithmetic series in a and common difference is d are known, all the terms of &
+
+
+--- Page 278 ---
+Chapter 13. Finite Series 273
+the series can be determined successively by putting n = 1,2,3,4,--- in the nth
+term.
+
+Let the first term of an arithmetic series be 3 and the common difference be 2.
+Then nth term of the series is = 3+ (n—1) x 2 = 2n + 1.

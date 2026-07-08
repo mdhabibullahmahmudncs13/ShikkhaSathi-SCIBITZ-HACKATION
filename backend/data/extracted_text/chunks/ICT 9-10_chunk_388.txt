@@ -1,0 +1,22 @@
+# Chunk 388 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881643
+# Character count: 498
+# Chunk ID: ICT 9-10.txt_0_388
+
+========================================
+
+Then, Iwill click on the Install Now option. If it asks for permission to install, [
+will grant that permission as well.
+3. After that, we will sce a message indicating that our setup was successful.
+4. Python is now added to our computer. However, we will need another soft-
+ware application where we can write our instructions and communicate
+them to the computer. For that. let’s go to this link: https://www.thonmy.org/:
+from this link, we can download and install the thonny software.
+on
+3
+2
+5

@@ -1,0 +1,23 @@
+# Chunk 850 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.393162
+# Character count: 781
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_850
+
+========================================
+
+Spent energy = 60 x (5 x 30)/1000 unit=9 unit
+Total cost of electricity with 10 taka per unit = 9 x 10 taka = 90 taka
+11.4 Electrical Supply
+When current needs to be transmitted from one place to another in a country, it
+is transformed into a very high voltage. This is done to reduce the loss of
+electricity in electrical wires. You know that, the amount of energy wasted per
+second as heat energy is equal to 2R , so we may conclude that there would be
+no dissipation of energy as heat energy if there was no resistance R in electrical
+wires.
+But that is not practically possible; everything has some resistance. That is why,
+if current I can be reduced, the energy lost /2R due to heat can also be reduced.
+Since the amount of electrical energy supplied per second is VI, if the

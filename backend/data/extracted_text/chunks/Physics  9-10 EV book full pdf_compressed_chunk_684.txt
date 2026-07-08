@@ -1,0 +1,28 @@
+# Chunk 684 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.376299
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_684
+
+========================================
+
+--- Page 256 ---
+Refraction of light 251
+ted . If you have a prism then you will be able to
+see total internal reflection with your own eyes. In Figure 9.07, at the glass-air
+separating surface the incident angle is 45° ,which is greater than the critical
+angle 41.8° of glass-air. Therefore total internal reflection will occur here.
+Example
+
+Question : What will happen if you want to do this experiment under
+water ? (n, for glass is 1.52 and n, for water is 1.33)
+Answer: In water B= 0.88 therefore the critical angle of glass will be 61.6°
+because sin 61.6° =0.88
+or sin(0.88) = 61.6"
+As the angle of incidence is 45° , which is less than the critical angle 61.6", total
+internal reflection will not occur.
+Question : Light incidents at an angle of
+75° from a medium of refractive index |

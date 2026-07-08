@@ -1,0 +1,20 @@
+# Chunk 905 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.399143
+# Character count: 733
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_905
+
+========================================
+
+in a voltmeter. The transfer of electricity from one coil to another coil in this
+process (directly, without any electrical connection) is called transformer.
+We can do some amazing things with this transformer. If the number of turns of
+both the coils is the same, then for a definite AC voltage applied in the left side
+coil, we will get the same AC voltage in the right side coil. If the number of turns
+on right side is ten times of that of the left side, then the voltage becomes ten
+times. If the number of turns on the right side is ten times less, then the voltage
+will be ten times less. The coil on the left side where AC voltage is applied is
+called the primary coil and the right side coil (from where voltage is returned

@@ -1,0 +1,26 @@
+# Chunk 351 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.424792
+# Character count: 769
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_351
+
+========================================
+
+--- Page 151 ---
+Chapter 7
+.
+
+Practical Geometry
+In the previous classes geometrical figures were drawn in proving different
+propositions and in the exercises. There was no need for precision in drawing
+these figures. But sometimes precision is necessary in geometrical constructions.
+For example, when an architect makes a design of a house or an engineer draws
+different parts of a machine, high precision of drawing is required. In such
+geometrical constructions, one makes use of ruler and compasses only. We have
+already learnt how to construct triangles and quadrilaterals with the help of
+ruler and compasses. In this chapter we will discuss the construction of some
+special triangles and quadrilaterals.
+At the end of the chapter, the students will be able to —

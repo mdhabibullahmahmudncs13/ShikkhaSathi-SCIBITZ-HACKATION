@@ -1,0 +1,28 @@
+# Chunk 501 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.439595
+# Character count: 737
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_501
+
+========================================
+
+In the figure, if depression angle ZCAE = 60°, Tr E
+
+elevation angle ZADB = 30°, AC = 36 metre, “
+
+AB L DC and D, C, B lic on the same straight "
+
+line, find the lengths of the sides AD, AB and C'D.p 7) 4
+Example 5. The angle of elevation at a point of the roof of a building is 60° in
+any point on the ground. Moving back 42 metre from the angle of elevation of the
+point of the place of the building becomes 45°. Find the height of the building.
+Solution: Let, the height of the building is AB = h metres. The angle of elevation
+at the top ZACB = 60°. The angle of elevation becomes ZADB = 45° moving
+back from C' by CD = 42 metre.
+Let, BC' = x metre. n
+BD = BC + CD = (x + 42) metre.
+From AABC we get,
+tan “aon = ed or, tan 60° = 3 hm

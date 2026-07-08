@@ -1,0 +1,30 @@
+# Chunk 575 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446997
+# Character count: 754
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_575
+
+========================================
+
+3x —2y=5...(2)
+From equation (1), y = 8 — 2x... (3)
+Putting the value of y from equation (3) in equation (2) we get,
+3x —2(8—2x)=5
+or, 3x — 16 +42 =5
+or, Tx =5+ 16
+or, Tx = 21
+or, x =3
+Putting the value of z in equation (3) we get,
+y=8-2x3
+or,y=8—06
+or, y =2
+solution (x,y) = (3,2)
+Substitution method: Conveniently from any of the two equations, value of
+one variable is expressed in terms of the other variable and putting the obtained
+value in the other equation, we get an equation in one variable. Solving
+this equation, value of the variable can be found. This value can be put in any
+of the equations. But, if it is put in the equation in which one variable has been
+expressed in terms of the other variable, the solution will be easier. From this

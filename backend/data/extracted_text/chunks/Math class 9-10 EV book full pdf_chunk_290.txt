@@ -1,0 +1,25 @@
+# Chunk 290 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418987
+# Character count: 597
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_290
+
+========================================
+
+--- Page 126 ---
+Chapter 6. Lines, Angles and Triangles 121
+them. The ideas of point, straight line and plane surface have been imparted on
+this assumption. As a matter of fact, in any mathematical discussion one or more
+elementary ideas have to be taken granted. Euclid called them axioms. Some of
+the axioms given by Euclid are:
+
+1. Things which are equal to the same thing, are equal to one another.
+
+2. If equals are added to equals, the wholes are equal.
+
+3. If equals are subtracted from equals, the remainders are equal.
+
+4. Things which coincide with one another, are equal to one another.

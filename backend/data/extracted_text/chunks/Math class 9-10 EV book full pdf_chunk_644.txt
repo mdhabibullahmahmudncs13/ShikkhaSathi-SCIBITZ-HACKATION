@@ -1,0 +1,33 @@
+# Chunk 644 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453691
+# Character count: 761
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_644
+
+========================================
+
+--- Page 283 ---
+278 Mathematics Classes IX-X
+
+14. If the 16th term of an arithmetic series is —20, what will be the sum of the first
+31 terms?
+
+15. The sum of the first n terms of the series 9+7+5+--- is —144. Find the value
+of n.
+
+16. The sum of the first n terms of the series 2 +4 +6 +8 +--+ is 2550. Find the
+value of n.
+
+17. If the sum of the first 7 terms of a series is n(n + 1), find the series.
+
+18. If the sum of the first n terms of a series is n(n + 1), what is the sum of the
+first 10 terms?
+
+19. If the sum of 12 terms of an arithmetic series is 144 and the first 20 terms is
+560, find the sum of the first 6 terms.
+
+20. The sum of the first m terms of an arithmetic series is n and the first n
+terms is m. Find the sum of the first (m +n) terms.

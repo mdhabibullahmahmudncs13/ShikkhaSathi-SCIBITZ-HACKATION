@@ -1,0 +1,32 @@
+# Chunk 872 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.396136
+# Character count: 738
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_872
+
+========================================
+
+(b) Why does the resistance of conductor increase with increasing
+temperature?
+
+(c) Determine the resistance of the copper wire.
+
+(d) Analyze the logic of using copper wire.
+
+2. Alvi uses a bulb of 220V-100W during his studies for 3 hours daily. His
+brother Alif uses a table lamp of 220V-40W for 4 hours daily. The cost of each
+unit of electrical energy is 3.5 taka.
+
+(a) Write down Ohm’s law.
+
+(b) Explain, what will be the change in resistance of a conductor if the
+length is increased by 5 times (provided that the temperature, material
+and area of cross-section remain unchanged)?
+
+(c) Determine the current of the lamp used by Alif.
+
+(d) Who is more economical, Alvi or Alif (considering money)? Analyze
+with mathematical arguments.

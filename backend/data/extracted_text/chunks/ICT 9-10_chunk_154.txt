@@ -1,0 +1,27 @@
+# Chunk 154 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.842403
+# Character count: 500
+# Chunk ID: ICT 9-10.txt_0_154
+
+========================================
+
+setting diagram on the back of the hard disk.
+
+3. Entering the BIOS, check whether the hard disk is
+detected from the options of the BIOS either
+manually or automatically. If the problem is not
+resolved, connect your hard disk to a sound
+computer and check whether it works or not. If the
+problem persists, buy a new hard disk and install
+
+=) the programmes you require. Get the job done by
+| an expert.
+
+
+--- Page 48 ---
+Information and Communication Technology 43
+SInos.| Problems General Solutions

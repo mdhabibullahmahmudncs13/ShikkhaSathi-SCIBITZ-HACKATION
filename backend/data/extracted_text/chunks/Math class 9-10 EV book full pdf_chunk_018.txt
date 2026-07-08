@@ -1,0 +1,19 @@
+# Chunk 18 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.390876
+# Character count: 429
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_18
+
+========================================
+
+Basic characteristics of addition and multiplication processes of real
+numbers :
+1. If a and b are real numbers, (i) a + b is a real number and (ii) ab isa real
+number.
+2. If a and b are real numbers, (i) a +b =0b+ a and (ii) ab = ba
+3. Ifa, b, care real numbers, (i) (a+b) +c = a+ (b+c) and (ii) (ab)c = a(bc)
+4. If a is real number, there are only two real numbers 0 and 1 such that
+(i) 0#1, (ii) a+0=0+a=caand(iii)a-1=1-a=a IS

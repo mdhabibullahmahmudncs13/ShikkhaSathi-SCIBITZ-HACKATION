@@ -1,0 +1,23 @@
+# Chunk 525 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.357239
+# Character count: 794
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_525
+
+========================================
+
+This means that gold or any other metal can be heated quickly but water cannot
+be heated so easily.
+6.6 Fundamental Principles of Calorimetry
+In winter during a bath we often pour a little boiling water into a bucket of cold
+water. The boiling water slowly become cold by giving up heat to the cold water.
+The cold water of the bucket also slowly becomes hot by absorbing the heat
+from the boiling water. Within a short time, all the water will get to a
+comfortable temperature by decreasing the temperature of the boiling water and
+increasing the temperature of the cold water. If we wish, we can find things like
+the amount of heat lost or gained, and their final temperature when various
+objects of various temperature are mixed together. To do so we just have to know
+a few rules. They are:

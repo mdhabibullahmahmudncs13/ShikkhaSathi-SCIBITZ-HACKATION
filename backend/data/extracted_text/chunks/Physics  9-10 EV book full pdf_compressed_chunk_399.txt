@@ -1,0 +1,30 @@
+# Chunk 399 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340079
+# Character count: 664
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_399
+
+========================================
+
+--- Page 141 ---
+136 Physics
+Question: Under water, pressure increases by 1 atm for a 33 ft (10 m) increase
+of depth. The divers have gone a maximum depth of 1000 ft (330 m) , how much
+pressure did they have to tolerate?
+Answer: Per 10 m depth, pressure increases by 1 atm or 1 bar. Then, for 330 m
+depth, 30m _
+10 m/atm am
+Divers had to tolerate 33 atm pressure.
+Question: Calculate the pressure at a depth of 50 cm for kerosene (density 800
+kg m?), water (density 1000 kg m*) and mercury (density 13600 kg m=).
+Answer: For kerosene,
+pressure, p= hpg
+
+P =0.50m x 800 kgm x 9.8 Nkg! = 3,920 Nm?
+For water,
+
+P =0.50m x 1000 kgm? x 9.8 Nkg! = 4,900 N m?
+For mercury,

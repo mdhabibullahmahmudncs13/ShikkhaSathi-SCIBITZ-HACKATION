@@ -1,0 +1,23 @@
+# Chunk 88 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.832356
+# Character count: 757
+# Chunk ID: ICT 9-10.txt_0_88
+
+========================================
+
+Installation of software, except the operating system one, depends almost on the
+operating system itsell. However, the process of installation is almost the same.
+We need the soft or the digital copy of the piece of software to install it. It can.
+be installed from CD. DVD, pendrive, or the Internet. In most of the cases, a
+programme called ‘Auto Run” is attached with the software. When you insert a
+CD and DVD or connect a pendrive to the USB port, the ‘Auto run’ programme
+becomes activated and the piece of software seeks permission to set up. Follow
+the next steps aller giving the permission and the piece of software will be
+installed in your computer. After restarting the device, you will be able to use the
+programme.
+
+Uninstallation of Software

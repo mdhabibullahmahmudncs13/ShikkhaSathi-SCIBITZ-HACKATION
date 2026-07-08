@@ -1,0 +1,35 @@
+# Chunk 478 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.437493
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_478
+
+========================================
+
+--- Page 210 ---
+Chapter 9. Trigonometric Ratio 205
+/ | / | J | |
+[¢] N O N ON ON ON
+Again, when the angle 6 is very closed to 90°, hypotenuse OP is approximately
+equal to PN. So the value of sinf is approximately 1.on the other hand, if the
+angle 0 is equal to 90°, ON is nearly zero; the value of cos 0 is approximately 0.
+So, in agreement of formulae that are described above, we can say, cos 90° = 0,
+sin 90° = 1
+cos 90° 0
+$900 =
+«0 Sn90° 1
+1 1
+cosec 90° = ——— =~ =1
+cosee sm 90° 1
+Since one cannot divided by 0 as before, tan 90° and sec 90° are not defined.
+Note: For convenience of using the values of trigonometric ratios of the angles
+0°, 30°, 45°, 60° and 90° are shown in the following table :
+Ratio/Augld 0° | 30° [ 45° [ 60° | 90° |
+1 1
+i 0 = — ye 1
+we [oo [GF]
+3 1 1
+si 1 I —= = 0

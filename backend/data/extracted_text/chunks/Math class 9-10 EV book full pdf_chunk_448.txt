@@ -1,0 +1,19 @@
+# Chunk 448 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.434464
+# Character count: 236
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_448
+
+========================================
+
+this information to answer the following questions:
+1) Construct the triangle.
+2) Draw the circumcircle of the triangle.
+3) From an exterior point of the circumcircle, draw two tangents to it and
+show that their lengths are equal.
+w
+J
+S

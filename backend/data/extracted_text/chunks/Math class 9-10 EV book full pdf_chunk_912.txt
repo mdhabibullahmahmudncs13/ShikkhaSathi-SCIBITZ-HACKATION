@@ -1,0 +1,25 @@
+# Chunk 912 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480523
+# Character count: 463
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_912
+
+========================================
+
+Therefore, ZBAD = ZBCD [Proved].
+Activity
+1. Prove that if a pair of opposite sides of a quadrilateral is parallel and equal, it is a
+parallelogram.
+2. Given that in the quadrilateral ABCD, AB = CD and <ABD = ~<BDC. Prove that
+ABCD is a parallelogram. Aa
+D c
+Theorem 3
+The diagonals of a parallelogram bisect each other.
+Proposition: Let the diagonals AC and BD of A D
+the parallelogram ABCD intersect at O. It is
+required to prove that AO = CO, BO = DO.
+=o
+S B c

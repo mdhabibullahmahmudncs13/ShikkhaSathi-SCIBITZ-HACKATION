@@ -1,0 +1,25 @@
+# Chunk 736 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.462225
+# Character count: 715
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_736
+
+========================================
+
+as a unit and in comparison to that the bench is 5 times in length.
+At the end of the Chapter, the students will be able to
+» determine the area of polygonal region by applying the laws of area of
+triangle and quadrilateral and solve allied problems.
+» determine the circumference of the circle and a length of the chord of a
+circle.
+» determine the area of circle.
+» determining the area of a circle and its segment, solve the alied problems.
+» determine the area of solid rectangles, cubes and cylinder and solve the
+allied problems.
+» determine the area of uniform and non-uniform solids
+Area of Triangular region
+2 i . . 1 .
+4 In the previous class, we learned that area of triagular region = 3 x base x height.

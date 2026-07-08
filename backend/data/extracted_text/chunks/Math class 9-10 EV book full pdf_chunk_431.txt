@@ -1,0 +1,23 @@
+# Chunk 431 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433101
+# Character count: 769
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_431
+
+========================================
+
+perpendicular bisector of chord AB and GH is the A B
+perpendicular bisector of chord BC. But both EF x
+and GH pass through the centre and their common
+point is O. Therefore, the point O is the centre of
+the circle or of the arc of the circle.
+Tangents to a Circle
+‘We have known that a tangent can not be drawn to a circle from a point internal
+to it. If the point is on the circle, a single tangent can be drawn at that point. The
+tangent is perpendicular to the radius drawn from the specified point. Therefore,
+in order to construct a tangent to a circle at a point on it, it is required to construct
+the radius from the point and then construct a perpendicular to it. Again, if the
+point is located outside the circle, two tangents to the circle can be constructed.

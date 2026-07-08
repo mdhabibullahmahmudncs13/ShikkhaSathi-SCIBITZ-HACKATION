@@ -1,0 +1,33 @@
+# Chunk 364 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878852
+# Character count: 774
+# Chunk ID: ICT 9-10.txt_0_364
+
+========================================
+
+- By pressing the Backspace button, delete the existing measurement number
+and type new number.
+
+- Press Enter button and he selected letter or letters will either be enlarged or
+reduced according to the measurement number.
+
+Increasing or Decreasing Font Size Vertically and Horizontally
+
+To get the job done:
+
+A. Click the drop-down arrow on the right of Vertical Scale and keep the
+
+A] pressure on the mouse to get the list of measurement numbers. If a number
+X
+
+
+--- Page 116 ---
+Information and Communication Technology 111
+bigger than 100% is selected, keep the pressure on the mouse and drag. The
+font size will be vertically big. On the contrary, if a number smaller than
+100% is typed, the font size will be vertically small. 100% is the ideal
+measurement of letter.

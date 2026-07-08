@@ -1,0 +1,27 @@
+# Chunk 340 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.874611
+# Character count: 789
+# Chunk ID: ICT 9-10.txt_0_340
+
+========================================
+
+--- Page 109 ---
+104 Multimedia and Graphics
+The Direct Selection Tool or the White Tool is used to select the segment of the
+object or the entire object. A part of the object can separately be enlarged or
+shortened by selecting any anchor point of the object with the Direct Selection
+Tool.
+Grouping Object
+Ta create a group of objects
+A. Select either all or requisite objects.
+B. The selected objects will be grouped, if the Group command is given from
+the Object menu.
+Clicking on a blank space, make all the objects selection-free, and then click any
+object with the black arrow or the selection tool, and a rectangular bounding box
+will be created around the grouped objects. Thus the objects inside the selection
+box will be selected together.
+To make the grouped objects ungrouped:

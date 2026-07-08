@@ -1,0 +1,36 @@
+# Chunk 487 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.438434
+# Character count: 745
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_487
+
+========================================
+
+--- Page 216 ---
+Chapter 9. Trigonometric Ratio 211
+Determine the value ( 8-11)
+8 1 — cot?60°
+© 1+ cot?60°
+9. tan 45° - sin®60° - tan 30° - tan 60°
+1 — cos?60°
+10. —————— + sec?60°
+0 TF cos60° + sec?60
+11. cos 45° - cot?60° - cosec?30°
+Show that, ( 12- 17)
+12. c0os?30° — sin?30° = cos 60°
+13. sin 60° - cos 30° + cos 60° - sin 30° = sin 90°
+14. cos 60° - cos 30° 4 sin 60° - sin 30° = cos 30°
+15. sin 3A = cos 3A, when A = 15°.
+2tan A
+16. sin 24 = Tot when A = 45°.
+17. tan 24 = os when A = 30°.
+18. If 2cos(A + B) = 1 = 2sin(A — B) and A, B are acute angles, show that
+A=45° B =15°
+19. Tf cos(A — B) = 1, 2sin(A + B) = v/3 and A, B are acute angles, determine
+the values of A and B.
+cos A—sinA 3-1
+20. lve: ————— = ———
+0. Solve cos A+sin A 341

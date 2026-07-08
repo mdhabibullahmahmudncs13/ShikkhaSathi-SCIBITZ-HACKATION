@@ -1,0 +1,24 @@
+# Chunk 126 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.402142
+# Character count: 422
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_126
+
+========================================
+
+Solution: (996)? = (1000 — 4)% = (1000)? — 2 x 1000 x 4 + 42
+= 1000000 — 8000 + 16 = 1000016 — 8000 = 992016
+Example 4. What is the square of a +b +c +d?
+Solution: (a +b+c+d)? ={(a+b) + (c+d)}?
+= (a+b)? +2(a+b)(ctd) + (c+d)?
+=a? + 2ab +b? + 2(ac + ad + be + bd) + + 2cd + d?
+=a? +b? + + d? + 2ab + 2ac + 2ad + 2bc + 2bd + 2cd
+‘Work: Find the square with the help of the formulae:
+1) 3zy + 2ax 2) 4x —3y 3) x —5y+2z
+“
+3
+g
+8

@@ -1,0 +1,22 @@
+# Chunk 31 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.303415
+# Character count: 796
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_31
+
+========================================
+
+Oersted showed that magnets can be made by the flow of electricity. In
+1831 Faraday invented just the opposite process given by Oersted. They showed
+that electricity can be produced by varying the magnetic field. In 1864 Maxwell
+(Figure 1.03) expressed the varying electric and magnetic fields with a single
+law, the famous Maxwell equation. Here, he also showed that actually light is an
+electromagnetic wave. Electricity and magnets are not different. In fact they are
+the two forms of the same energy. This invention was well-timed because in
+1801 Young proved the wave nature of light through experiments.
+1.3.3. Introduction to Modern Physics
+From the very beginning of 19th century scientists felt that many things
+could not be explained with the help of existing physics. Dalton introduced

@@ -1,0 +1,21 @@
+# Chunk 105 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.400113
+# Character count: 642
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_105
+
+========================================
+
+coordinate system. Usually values of independent variable is set along x axis, and
+those of dependent variable along y axis.
+In order to draw a graph for the function y = f(x), some values of independent
+variable are chosen from domain, and with corresponding values of dependent
+variables ordered pairs are formed. After that these ordered pairs are placed on
+the plane. The resultant points are then connected with line which is known as
+graph of the function y = f(x).
+Example 22. Draw the graph for the function y = 2x, where —=3 <x <3
+Solution: Calculate values of y for some values of x from the domain —3 < x < 3, pS
+and draw a list. S

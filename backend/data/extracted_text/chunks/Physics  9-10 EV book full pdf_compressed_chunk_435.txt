@@ -1,0 +1,19 @@
+# Chunk 435 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.343737
+# Character count: 516
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_435
+
+========================================
+
+condition. A permanent deformation could take place. This limit is termed as the
+elastic limit. After bending a rod slightly, if it is released then it becomes straight.
+If it is bent too much then it remains curved and does not become straight.
+Therefore we can state this like:
+Strain: The relative change in length or shape which is made by applying a force
+from outside is called strain. Therefore, if force is applied on an object of
+length L , and the changed length becomes L then it’s strain is: L — Lo BS
+Lo

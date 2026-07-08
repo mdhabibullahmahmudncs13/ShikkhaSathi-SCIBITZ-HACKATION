@@ -1,0 +1,55 @@
+# Chunk 389 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881785
+# Character count: 762
+# Chunk ID: ICT 9-10.txt_0_389
+
+========================================
+
+--- Page 124 ---
+Problem Solving through Programming 119
+me Welcome to using Thanay!
+Ter EIEN
+EE
+aera
+ar
+[a
+5. Afterthat, open the Thonny software. We will see a window like the one
+below.
+’ - [=] x
+Umgusge [nga 00) [deta] ~
+Rap—
+Lets got
+When clicking the button, Let's go! a window like the one below will appear.
+Th Thoomy  vumtieds © 111 - 0 x
+Fe Bde Vem Rum Tok belp
+134 0% LL
+1
+shes
+Lod Byte + Tsay’ Bihan &
+a
+2
+
+
+--- Page 125 ---
+120 Information and Communication Technology
+
+6. Let’s understand a few important sections in this window.
+
+Boy id 0111 -— 0 «x
+he Ge Vow Mam ooh Help
+JE I © =
+
+To see the output, click here
+
+To save the programme, click here
+
+Here goes the programme name
+
+(Space to write cods)
+het
+re Here the output of the code is shown
+eT

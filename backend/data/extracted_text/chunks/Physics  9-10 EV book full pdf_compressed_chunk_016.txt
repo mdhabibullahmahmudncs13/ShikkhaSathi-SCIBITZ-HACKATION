@@ -1,0 +1,14 @@
+# Chunk 16 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.301937
+# Character count: 118
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_16
+
+========================================
+
+. Classical Physics: This contains mechanics, sound, heat and thermodynamics,
+
+d electricity and magnetism and optics.

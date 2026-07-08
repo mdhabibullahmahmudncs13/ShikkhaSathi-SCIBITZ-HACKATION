@@ -1,0 +1,22 @@
+# Chunk 432 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.343384
+# Character count: 719
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_432
+
+========================================
+
+--- Page 153 ---
+148 Physics
+amount of vapor inside it increases. Vapor is water, in a molecule of water there
+is an oxygen and two hydrogen atom and molecular mass of water is
+(16+1+1=) 18. The main element of air is nitrogen (atomic mass 14), being
+created by two atoms it’s molecular mass is (14+14=) 28 and oxygen (molecu-
+lar weight 16), is also created by two atoms, so, it’s molecular mass is (16+16=)
+32, which is much more than the molecular mass of water. So, when there is
+vapor in the air, water of less molecular mass takes the place of nitrogen and
+oxygen of higher molecular mass and so the density of air decreases. If the
+density of air decreases, the air pressure also decreases. So, it is possible to

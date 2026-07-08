@@ -1,0 +1,43 @@
+# Chunk 761 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384319
+# Character count: 779
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_761
+
+========================================
+
+--- Page 289 ---
+284 Physics
+If any charge ¢ is brought in this electric field, then it will feel F force on it and
+the magnitude of F will be,
+
+F=Eq
+
+As force F is a vector and charge q is a scalar, so, £ itself is a vector and its unit
+
+is N/C. You will see, this topic is easier to explain with the help of electric fields.
+
+Electric field cannot be seen, but to make it easy to understand, sometimes one
+
+type of completely imaginary
+
+lines are drawn, called the
+
+electric lines of force (first
+
+introduced by Michael —
+
+Faraday). Our known world is 4
+
+three dimensional, so the lines
+
+of force will spread in all
+
+directions. To show you, these . oo i
+
+are drawn in a plane (Fig Figure 10.11: Lines of force diverges from
+
+10.11). positive charge and converges into negative

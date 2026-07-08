@@ -1,0 +1,15 @@
+# Chunk 58 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.306046
+# Character count: 161
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_58
+
+========================================
+
+Table 1.03
+Velocity of light (c) 2,99,792,458 meter/second
+Plank’s constant (h) 6.62607015 x 107*joule second
+Charge of electron (e) 1.602176634 x 107" coulomb g

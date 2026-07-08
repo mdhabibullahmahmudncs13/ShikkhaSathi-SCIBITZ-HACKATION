@@ -1,0 +1,36 @@
+# Chunk 361 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425632
+# Character count: 770
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_361
+
+========================================
+
+--- Page 156 ---
+Chapter 7. Practical Geometry 151
+Drawing:
+1. From any ray DF, cut the part DE equalto p——————
+the perimeter p. Make angles ZEDL equal A A
+to Zz and ZDEM equal to Zy on the same * 7
+side of the line segment DE at D and E. B I"
+2. Draw the bisectors DG and EH of the two HAG
+angles.
+3. Let these bisectors DG and EH intersect pj a F
+at a point A. At the point A, draw I
+ZDAB equal to ZADE and ZEAC equal HAG
+to ZAED.
+4. Let the rays AB and AC intersects DE at F
+. . D B Cc E
+the point B and C' respectively.
+Then, AABC' is the required triangle.
+Proof: In AABD, ZADB = ZDAB [by construction]
+LAB =DB
+Again, AACE, ZAEC = ZEAC
+LCA=CE
+Therefore, AABC, AB + BC + CA=DB+ BC+ CE =DE =p
+ZABC = ZADB + /DAB = x + 1 = Zr
+1 1
+and ZACB = ZAEC + Z/EAC = 54Y + 54 =Zy

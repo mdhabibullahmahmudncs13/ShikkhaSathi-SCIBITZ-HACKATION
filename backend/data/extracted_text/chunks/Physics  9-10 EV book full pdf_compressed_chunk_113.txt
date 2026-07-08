@@ -1,0 +1,25 @@
+# Chunk 113 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.311507
+# Character count: 684
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_113
+
+========================================
+
+In fact, we don’t need such type of complexities; for our purpose, we can
+consider any point as the origin, which seems stationary to us. In this case we
+have to mention all the measurements are done with respect to this origin. In this
+way scientists have done all the measurements starting from the nucleus of an
+atom to the satellites launched in space, with no problems what so ever!
+
+2.2 Different Types of Motion
+
+We see various types of motions around us, vibrations, rotations and separations
+— all these are the examples of different kinds of motions. Probable motions are
+unlimited, but if we wish, we can talk about some important types of motion
+separately.
+
+Linear motion

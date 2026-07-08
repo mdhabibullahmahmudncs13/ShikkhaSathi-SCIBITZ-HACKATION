@@ -1,0 +1,28 @@
+# Chunk 292 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.865806
+# Character count: 711
+# Chunk ID: ICT 9-10.txt_0_292
+
+========================================
+
+Clustering, Integrating and Segregating Palette
+
+Numerous palettes can be panelled together. For example. Layer, Path and
+
+Channel can stay together. The names of the palette will remain as tabs. The tab
+
+which is clicked will be activated. The combined situation of several palettes is
+
+called clustered palette.
+
+- The present palette is activated as a ‘Layer Palette’. Click the layer tab and
+drag it outside the paletie to release. The Layer palette will exist as an
+individual or single palette.
+
+- Again clicking the tab of the individual Layer, release another palette
+inside by dragging it. Thick lines around the palette will be viewed. Thus
+the Layer taken by dragging will be included in the cluster.

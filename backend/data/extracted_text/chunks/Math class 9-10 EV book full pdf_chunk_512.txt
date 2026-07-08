@@ -1,0 +1,25 @@
+# Chunk 512 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440486
+# Character count: 754
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_512
+
+========================================
+
+--- Page 227 ---
+Chapter 11
+. . .
+Algebraic Ratio and Proportion
+It is important for us to have a clear conception of ratio and proportion in
+mathematics. Arithmetical ratio and proportion have been elaborately discussed
+in class VIL. In this chapter, algebraic ratio and proportion will be discussed. We
+regularly use the concept of ratio and proportion in many applications: the
+production of construction materials, food staff and goods , applying fertilizer in
+land, making beautiful shapes and design to make things attractive and good
+looking, and so on. Many problems of daily lives can also be solved by using the
+concept of ratio and proportion.
+After studying this chapter, the students will be able to
+» exp ain algebraic ratio and proportion.

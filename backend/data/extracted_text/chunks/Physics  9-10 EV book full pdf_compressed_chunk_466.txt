@@ -1,0 +1,23 @@
+# Chunk 466 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.347634
+# Character count: 736
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_466
+
+========================================
+
+--- Page 167 ---
+162 Physics
+6.1 Heat and Temperature:
+Heat is a kind of energy. We have seen that energy can do work. By applying
+force it is possible to displace a body in the direction of the force, for example
+heat is produced by burning fuel oil in a train or a car and this produced energy
+creates motion in the train or car. So this new form of energy is called heat
+energy like light, electricity or kinetic energy.
+It is interesting that if we could see on the molecular level i.e., looking at any
+substance if we see its molecules, we should call it "kinetic energy" instead of
+the "heat energy". Because what we mean by heat energy is actually nothing but
+the combined kinetic energy of the molecules of a substance. When the

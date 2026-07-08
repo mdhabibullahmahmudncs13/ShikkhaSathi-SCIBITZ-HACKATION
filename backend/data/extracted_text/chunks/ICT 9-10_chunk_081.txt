@@ -1,0 +1,17 @@
+# Chunk 81 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.831106
+# Character count: 345
+# Chunk ID: ICT 9-10.txt_0_81
+
+========================================
+
+annoyance for you.
+Besides, whenever the computer is used, some temporary files are created. If
+these files are not erased for a long time, they occupy a lot of space in the hard
+disk and slow down the speed of the computer. That is why we should erase the
+temporary files with a software. It will make some space fiee and speed up the
+computer.

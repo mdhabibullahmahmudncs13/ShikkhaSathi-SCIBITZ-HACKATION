@@ -1,0 +1,29 @@
+# Chunk 571 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446636
+# Character count: 443
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_571
+
+========================================
+
+2) Given system of equations is:
+z+3y=1
+. i 2
+Ratio of the coefficients of = is 1
+-5
+Ratio of the coefficients of x is 3
+2, 5
+We get, — # —
+get, 7 #
+.. Therefore, the system of equations is consistent and mutually independent.
+The system of equations has only one (unique) solution.
+i Br —5by="T
+3) Given system of equations is:
+6x — 10y = 15
+. i 3 1
+Ratio of the coefficients of x is 53
+. i. 5 1 IS
+Ratio of the coefficients of y is I or, 3 H

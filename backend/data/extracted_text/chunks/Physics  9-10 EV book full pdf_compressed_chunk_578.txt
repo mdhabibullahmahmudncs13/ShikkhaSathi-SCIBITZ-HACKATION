@@ -1,0 +1,20 @@
+# Chunk 578 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.364547
+# Character count: 585
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_578
+
+========================================
+
+This is due to reflection. Within the building the distance is not enough to
+hear the sound separately. When we hear something the feeling persist for
+around 0.1 s, so to hear two sounds separately, it needs separation of 0.1 s
+differences between two sounds.Velocity of sound is 330 m/s, therefore to create
+a difference of 0.1 s, sound has to travel at least 33 m.
+If we stand in front of a big wall, a building, or a high hill at least half of this
+distance (16.5 m), the sound will take 0.1 s to come back after being reflected
+and we will hear the reflection of sound or echo. S
+]

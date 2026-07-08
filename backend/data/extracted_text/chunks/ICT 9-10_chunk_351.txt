@@ -1,0 +1,25 @@
+# Chunk 351 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.877262
+# Character count: 541
+# Chunk ID: ICT 9-10.txt_0_351
+
+========================================
+
+The Use of Stroke
+
+The border of object is called Path. The measurement of making a path thick or
+
+thin is called Stroke. Objects of grouped and ungrouped path, straight. curved
+
+lines, ete. are controlled by Stroke. Controlling strokes means to make a path
+thick or thin and colored. Making a Stroke thick and thin can be done with the
+
+Stroke Palette. To get the job done
+
+A. Select the object or path. If the Stroke Palette is not viewed on the screen,
+click the Stroke command from the Window menu, and the Stroke Palette
+will be viewed.

@@ -1,0 +1,30 @@
+# Chunk 756 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383839
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_756
+
+========================================
+
+--- Page 287 ---
+282 Physics
+Question: There is a proton in the center of a hydrogen atom and an electron
+outside it. The charges of the proton and electron are +1.6x10"? Cand -1.6x10"”
+C respectively. If the distance of the orbit of the electron from the nucleus is
+0.510 m, how much attraction is found between them?
+Answer:
+Fk hte
+Tr
+Here, ¢1=+1.6x107C
+q,=-1.6x10"1°C
+k =9x 10° Nm2/C?
+r=05x10"%m
+9 —-19 -19
+therefore, fr _ 9Xx10°%x 1.6 Xx 10719 x (—1.6 x 10719) N= —022x10-12 N
+(0.5 x 10-8)2 :
+The negative sign denotes there is attractive force between the proton and the electron
+Question: How much charge should be stored in the earth and the moon so that
+the gravitational force becomes zero and the moon goes out of its orbit?

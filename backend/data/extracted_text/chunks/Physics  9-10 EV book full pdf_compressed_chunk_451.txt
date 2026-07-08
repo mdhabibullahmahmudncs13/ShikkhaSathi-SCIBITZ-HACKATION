@@ -1,0 +1,22 @@
+# Chunk 451 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.345589
+# Character count: 785
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_451
+
+========================================
+
+5.6.2 Fourth State of Substance
+Despite solids, liquids and gases, the three different sates of matter, substances
+may have a fourth state named plasma. We know the number of the positively
+charged protons in the nucleus of a molecule or an atom is equal to the number
+of negatively charged electrons outside it. That’s why the combined charge of a
+molecule or atom is zero. Under special conditions a molecule or an atom can be
+ionized, one or more electrons of some atoms can be made free, then separately
+the atoms do not remain charge neutral. A kind of a mixture of ions and electrons
+is made. Though it stays like a gas but all of the properties of gas are not true for
+it. Like we know, a gas has no fixed shape but a fixed shape of plasma canbe ~~ &
+made by a magnetic field. o

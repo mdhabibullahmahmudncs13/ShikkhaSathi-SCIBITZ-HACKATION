@@ -1,0 +1,21 @@
+# Chunk 729 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461668
+# Character count: 542
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_729
+
+========================================
+
+the side AB extended at F. Find the midpoint G of the line segment AF. At A
+of the line segment AG, draw GAK equal to Zz and draw AK || GH through G.
+Again, draw KDH || AG through D and let, KDH intersects AK and GH at K
+and H respectively. Hence AGHK is the required parallelogram.
+Proof: Join D, F. By construction AGHK is a parallelogram, where ZGAK =
+Zz. Again, area of ADAF = area of the rectangular region ABC'D and area of the
+parallelogram AGH IK = area of the triangular region DAF Therefore, AGHK is
+the required parallelogram.
+IS
+S

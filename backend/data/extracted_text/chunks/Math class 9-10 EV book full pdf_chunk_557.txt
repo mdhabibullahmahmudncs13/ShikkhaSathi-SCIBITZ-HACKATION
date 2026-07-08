@@ -1,0 +1,22 @@
+# Chunk 557 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.445529
+# Character count: 782
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_557
+
+========================================
+
+Two Variables
+[Prior knowledge of this chapter are attached to the Appendix at the end of this
+book. At first the Appendix should be read / discussed. ]
+For solving the mathematical problems, the most important topic of Algebra is
+equation. In classes VI and VII, we have got the idea of simple equation and
+have known how to solve the simple equation inone variable. In class VIII,
+we have solved the simple simultaneous equations by the methods of substitution
+and elimination and by graphs. We have also learnt how to form and solve simple
+simultaneous equations related to real life problems. In this chapter, the idea of
+simple simultaneous equations have been expanded and new methods of solution
+have been discussed. Besides, in this chapter, solution by graphs and formation

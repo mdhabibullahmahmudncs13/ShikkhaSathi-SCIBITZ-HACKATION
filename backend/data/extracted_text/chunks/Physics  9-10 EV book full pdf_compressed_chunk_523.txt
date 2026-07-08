@@ -1,0 +1,21 @@
+# Chunk 523 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.357060
+# Character count: 524
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_523
+
+========================================
+
+That is, if an amount of heat Q is required to increase the temperature from 7’ to
+T,, the specific heat will be:
+_ Q
+s=—0t
+m(T, — Th)
+Heat capacity C is the amount of heat required to increase the temperature 1K of
+a body. The amount of heat required to increase the temperature 1K of a body of
+mass 1 kg is called specific heat. So we can easily find out the heat capacity C of
+a body if we know the specific heat of that substance. If the mass of an body is
+., mand the specific heat is s, then the heat capacity will be:

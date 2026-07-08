@@ -1,0 +1,23 @@
+# Chunk 220 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.322053
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_220
+
+========================================
+
+cars are damaged and the passengers are injured. Therefore to minimize the loss
+in an accident, the easiest way is to keep the speed low. In our country, most of
+the accidents occur due to the speeding of cars. Then it becomes difficult to
+control the cars and a huge amount of energy is used up when the accident
+occurs.
+Let us consider that a head-on collision occurred between a heavy truck (m,)
+loaded with stone and a small car (m,) coming with the same velocity. Which
+one will be damaged more?
+Since a head-on collision occurred, so velocity of the small car is opposite to that
+of the truck.
+Therefore, if u is the velocity of the truck then the velocity of the car is —u. Since,
+the mass of the small car mm, is far less than the mass m, of the truck, so if m, is

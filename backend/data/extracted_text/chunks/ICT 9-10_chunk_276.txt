@@ -1,0 +1,32 @@
+# Chunk 276 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.863383
+# Character count: 791
+# Chunk ID: ICT 9-10.txt_0_276
+
+========================================
+
+ES
+
+
+--- Page 89 ---
+84 Multimedia and Graphics
+
+Selection of Tools and Acquaintance of Move Tools
+
+- 3 selection tools and 1 move tool are viewed on the top of the tool box. At the
+bottom of the right side of some tools, a small arrow sign Z is viewed. It
+indicates that in the same position, more tools of the similar types remain
+there, For example, 4 Marquee tools in the same position and 3 Lasso tools
+in different positions are there.
+
+- Place the mouse pointer on the tool, and the name of the tool will be
+viewed. Click the tool to activate it. If the mouse pointer is brought inside
+the screen, it will be viewed either in the own shape of the selected tool or
+with a plus (+) sign.
+
+- Making squares, circles and objects is possible with the marquee tool within
+the selected tool.

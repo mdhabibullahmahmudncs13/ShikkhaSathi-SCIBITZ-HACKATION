@@ -1,0 +1,26 @@
+# Chunk 423 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.431905
+# Character count: 790
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_423
+
+========================================
+
+--- Page 183 ---
+178 Mathematics Classes IX-X
+Let PT be a tangent at the point P to the circle with
+centre O and OP is the radius through the point of
+contact. It is required to prove that, PT" L OP. A
+Drawing: Take any point @Q on PT and join
+0,Q. PQ
+Proof: Since PT is a tangent to the circle at the point P, hence every point on
+PT except P lies outside the circle. Therefore, the point @) is outside of the circle.
+OQ is greater than OP that is, OQ > OP and it is true for every point ) on
+the tangent PT except P.
+.. So, OP is the shortest distance from the centre O to PT.
+Therefore, PT 1. OP [Among all the line segments drawn from an external point
+to a straight line, the perpendicular is the shortest] (Proved)
+Corollary 8. At any point on a circle, only one tangent can be drawn.

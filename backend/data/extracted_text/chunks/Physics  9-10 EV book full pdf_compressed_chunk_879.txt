@@ -1,0 +1,28 @@
+# Chunk 879 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.396786
+# Character count: 782
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_879
+
+========================================
+
+--- Page 338 ---
+Magnetic Effects of Current 333
+‘When a charge is kept in a place, an electric field is produced around it. Similarly,
+if electric current flows through a wire, a magnetic field will be is created around
+it.
+Let us assume that a wire penetrates through the middle of a cardboard
+and some small compasses are placed on the cardboard around the wire. The
+compasses will be aligned along north-south direction. Now if a current
+(moderately strong) passes through the wire, you will surprisingly notice that
+suddenly the compasses are arranging themselves one after another. You will get
+an impression that a circular magnetic field around the wire has been generated
+due to the electric current.
+1=0 I 0 I J
+[o®9| 20% ne Bec. [209 Do
+© © ©
+(> & © o @ GQ)
+D ©) © = < 0)

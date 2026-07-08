@@ -1,0 +1,28 @@
+# Chunk 157 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.842744
+# Character count: 790
+# Chunk ID: ICT 9-10.txt_0_157
+
+========================================
+
+--- Page 49 ---
+44 Computer Maintenance and Cyber Security
+[Sinos.| Problems | General Solutions
+15. | Thepoweref |1. Check the video cable whether it is properly
+the monitor is connected to the computer or not. If the other
+viewed on, but point of the video cable is not permanently
+there is no connected to the monitor, fix it firm.
+display onthe: 5; Adjust the Brightness and Contrast.
+monitor.
+16. |The printers 1. Check to see if the correct model of printer is
+not giving any selected.
+printing output. | 2. Check the power cable connected to the printer.
+3. Check whether the button of the printer is turned on.
+4. Check if the data cable of the printer connected
+properly to the computer.
+5. Opening the cover of the printer, find out whether
+any paper is jammed inside the machine.

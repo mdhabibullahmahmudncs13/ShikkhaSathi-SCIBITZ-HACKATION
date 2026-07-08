@@ -1,0 +1,15 @@
+# Chunk 212 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321386
+# Character count: 148
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_212
+
+========================================
+
+momentum! Compared to the mass and velocity momentum is a more
+fundamental quantity.
+Unit of momentum is kg m/s
+Dimension of momentum is, [p] = MLT™

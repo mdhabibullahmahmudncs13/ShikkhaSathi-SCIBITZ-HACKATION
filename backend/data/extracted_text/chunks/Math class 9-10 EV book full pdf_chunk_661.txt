@@ -1,0 +1,20 @@
+# Chunk 661 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455091
+# Character count: 404
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_661
+
+========================================
+
+In this cane it is an arithmetic series whose first term, a =108000, common
+difference d = 112500 — 108000 = 4500 and number of terms n = 26
+26
+.. Total salary he receives in 26 years = S12 x 108000 + (26 — 1) x 4500}
+Tk.
+= 13(216000 + 112500) = 13 x 328500 = 4270500 Tk.
+3) Total time from 2005 to 2031 is (2031 — 2005) or 26 years
+12
+g Deposit of 12000 Tk. after 1 year 12000 (1 + 0) = 12000 x 1.12 Tk.

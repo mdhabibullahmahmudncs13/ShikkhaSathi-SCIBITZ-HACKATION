@@ -1,0 +1,33 @@
+# Chunk 829 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390788
+# Character count: 797
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_829
+
+========================================
+
+--- Page 316 ---
+Current Electricity 311
+To analyze a circuit, some simple points discussed below are to be remembered:
+Cell — —— One way switch ——o—— Variable resistor fi
+. heostat
+Battery — | J— Two way switch — or rheosta
+Fixed resistor —AMW—
+AC source ® Fuse —
+Galvanometer —@)—
+Bulb o> —{ —
+Crossed wire h A
+mmeter —®—
+Connecting wire a Capacitor — =
+¢ Voltmeter  —(¥)—
+: oil. RTT
+Wire not —_— Coi Earth connector —
+connected -
+Figurel1.07: Some symbols that are used in a circuit.
+(a) The amount of current that comes out from the higher potential of a source
+(battery cell, generator whatever may be) after flowing through the entire circuit,
+just the same amount of current comes back to the lower potential.
+(b) The amount of current that enters at any point of a circuit, the same amount

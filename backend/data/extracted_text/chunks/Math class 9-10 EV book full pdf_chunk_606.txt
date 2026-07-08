@@ -1,0 +1,16 @@
+# Chunk 606 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.449908
+# Character count: 203
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_606
+
+========================================
+
+Again, taking some values of 2 in equation (2), we find the corresponding values
+of y and make the adjoining table:
+Ly [alo] ~1]
+IS
+& three points on the graph of the equation are: (1,4), (2,0), (3, —4).

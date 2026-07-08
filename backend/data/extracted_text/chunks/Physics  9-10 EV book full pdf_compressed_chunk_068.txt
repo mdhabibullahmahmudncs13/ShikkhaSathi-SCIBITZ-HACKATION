@@ -1,0 +1,25 @@
+# Chunk 68 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307236
+# Character count: 773
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_68
+
+========================================
+
+4. No punctuation mark or period is used with the symbols, as they are
+mathematical expressions but not the abbreviated form of anything.
+
+5. The symbol of unit is written in straight font, for example, m for metre, s
+for second etc. But the symbol of quantities are written in italic or curved
+font, for example, m for mass, v for velocity etc.
+
+6. The symbols of units are written in small letters, for example, cm, s, mol etc.
+But capital letters are used for those units which are taken from the name of scientists
+(N for Newton). If there are many letters in the unit then the first letter will be
+capital only (the unit from the name of Pascal is Pa).
+
+7. The prefix (k, G, M) of unit will be attached with the unit (m, W, Hz) with
+no space. For example, km, GW, MHz.

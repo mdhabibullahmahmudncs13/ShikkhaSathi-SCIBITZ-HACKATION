@@ -1,0 +1,29 @@
+# Chunk 669 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.374675
+# Character count: 691
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_669
+
+========================================
+
+c 299% 10° ms?
+nT 22x 10h met
+
+i.e. the velocity of light in a vacuum is 1.33 times greater than the velocity of
+light in water .
+The refractive index of the glass fiber in a Table 9.01: Refractive index
+
+. . of some substance
+fiber optic cable is 1.5.
+Therefore, the velocity of light in the fiber is
+v=3x10°ms?/1.50 = 2.00 x 10% ms™
+Refractive index is a number and it has no
+unit. As the maximum velocity of light is c¢,
+the value of »n always greater than 1 . In
+Table 9.01 the refractive index of some substances are given.
+Naturally, the refractive index of a vacuum will be 1.
+The refractive index of air is 1.00029 which is so close to 1that we will take it as
+1 during calculations.

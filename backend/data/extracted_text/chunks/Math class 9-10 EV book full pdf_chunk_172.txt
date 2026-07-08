@@ -1,0 +1,31 @@
+# Chunk 172 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.406586
+# Character count: 527
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_172
+
+========================================
+
+Solution: Let x litre of water flows in per minute by the first pipe and the tank
+can contain y litre of water.
+According to the question, the tank is filled up by first pipe in 12 minutes
+sy=12z (1)
+Again, the empty tank is filled up by the two pipes together in 96 minutes.
+oy =962— 96x14 ++ (2)
+From equation (1) we get, z = 2
+putting the value of in equation (2) we get,
+y
+=96x — —96 x 14
+Y 12
+or, y =8y — 96 x 14
+or, Ty = 96 x 14
+96 x 14
+or, y = ———=192
+7
+- Hence, total 192 litre of water is contained in the tank.
+a
+IS
+S

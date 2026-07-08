@@ -1,0 +1,21 @@
+# Chunk 38 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.304059
+# Character count: 784
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_38
+
+========================================
+
+Due to the invention of electronics and modern technology it is possible to make
+powerful particle accelerators. Accelerating the particle with high energy, new
+particles are being discovered. It is possible to arrange these particles
+systematically using the Theoretical Standard Model. It is possible to explain the
+structure of all the particles using a few elementary particles (and their
+antiparticles) though apparently we think there are an infinite numbers of new
+particles. It is not possible to explain the mass of the particles using the Standard
+Model, so to explain the mass, the existence of a new particle called the Higgs
+Boson was proposed. The identification of the Higgs Boson particle in the
+laboratory in 2013 is treated as a great success of theoretical physics.

@@ -1,0 +1,24 @@
+# Chunk 409 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.885846
+# Character count: 568
+# Chunk ID: ICT 9-10.txt_0_409
+
+========================================
+
+Test _mput = intput{ Provide a sentence as an inpui:
+
+prini{lest input)
+
+print(type(test_input))
+Then, after running the program, it will first display an input command for us.
+Provide a sentence as an input:
+Now, if we want, we can print additional words or sentences before and after
+printing the information we input. To do this, we will write the words or sentene-
+es we want to print inside the print() function within quotation marks, and then
+we will write the name of our variable after a comma. For example:
+
+test input=int(input('Insert an integer number:'))

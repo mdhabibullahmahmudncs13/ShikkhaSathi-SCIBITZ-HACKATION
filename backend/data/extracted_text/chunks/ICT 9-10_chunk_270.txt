@@ -1,0 +1,19 @@
+# Chunk 270 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.862237
+# Character count: 579
+# Chunk ID: ICT 9-10.txt_0_270
+
+========================================
+
+- The Resolution, for example, 72 Pixel, is kept unchanged.
+Images or pictures are created in Photoshop by pixels. Pixel is the smallest
+square unit of image. 72 pixels per inch mean crossing 72 lines vertically and
+horizontally in per inch space. The total number of pixels in one square inch
+will be 72'72= 5184. The number of pixels in per square inch is called
+resolution. If 130 is typed in the box of pixel, the resolution will be
+130°130=16900. If an image is enlarged, the pixels could be visible. This view
+is called pixelated. In simple words, it is called split image.

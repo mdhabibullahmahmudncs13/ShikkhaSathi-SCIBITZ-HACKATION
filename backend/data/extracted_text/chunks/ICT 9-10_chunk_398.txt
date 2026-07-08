@@ -1,0 +1,24 @@
+# Chunk 398 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.883003
+# Character count: 793
+# Chunk ID: ICT 9-10.txt_0_398
+
+========================================
+
+3
+Notice that in the above programme, we have printed the same variable
+value now again and again. But as each time the data stored in the variable was
+different, we got different values alter printing them.
+Data Type
+As we know, the computer processor has to work with whole numbers, fraction-
+al numbers. letters. words boolean or logical data ete to process the data. A data
+type usually defines how much memory (bits or bytes) a piece of data occupies
+in computer memory and describes how the processor processes the data. There
+are different types of data types in Python programme. Some Data types are
+mentioned below.
+a) int: Whole nunibers are called integer numbers in English. Se, if whole num-
+bers are stored in the variable, its data type is called int. Here int is the short form

@@ -1,0 +1,25 @@
+# Chunk 271 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.862389
+# Character count: 748
+# Chunk ID: ICT 9-10.txt_0_271
+
+========================================
+
+- From the dropdown menu of color mode in the dialogue box, RGB.
+CMYK, Bitmap, Grayscale, and from Lab Color RGB can be selected as
+all the images on the monitors of computer, television. and other electronic
+media are viewed in RGB mode. RGB is the abbreviation of red, green and
+blue.
+
+- There are three options in the ‘Background Contents’ of the dialogue box.
+The options are White, Background and Transparent.
+
+- If “White” is selected from the dropdown menu, the background will be
+white. If a colour is selected from Background toolbox, it will turn into the
+colour of the canvas. If transparent is selected, the background will be
+transparent and checkered. The background option can be selected as you
+like. White can be selected here too.

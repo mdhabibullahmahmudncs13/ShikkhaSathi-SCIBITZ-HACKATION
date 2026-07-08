@@ -1,0 +1,23 @@
+# Chunk 827 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472493
+# Character count: 786
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_827
+
+========================================
+
+--- Page 361 ---
+356 Mathematics Classes IX-X
+temperatures are variable. Similarly, in example 2, the secured marks used in the
+data are the variables.
+Discrete and Indiscrete variable: The variables used in statistics are of two
+types. Such as, discrete and indiscrete vari ables. The variables whose values
+are only integers, are discrete variables. The marks obtained in example 2 are
+discrete variables. Similarly, only integers are used in population indicated data.
+That is why, the variables of data used for population are discrete variables. A
+nd the variables whose numerical values can be any real number are indiscrete
+variables. Such as, in example 1, the temperature indicated data which can be
+any real number. Besides, any real number can be used for the data related to

@@ -1,0 +1,22 @@
+# Chunk 921 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.481560
+# Character count: 593
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_921
+
+========================================
+
+(b) Cube
+If the side of a cube is a unit, then area of each of the six faces of the
+cube=a x a sq. unit = a? sq. unit.
+Therefore, area of the whole faces of the cube = 6a? sq. unit.
+Example : The length, the breadth and the height of a rectangular solid are
+respectively 7.5 cm, 6 cm and 4 cm. Find the area of the entire faces of the solid.
+Solution : We know, if the length, the breadth and the height of a solid are
+respectively a unit, b unit and c unit, then the area of the entire faces of the
+solid = 2(ab + bc + ac) sq. unit.
+Here,a=7.5cm,b=6 cm, c=4.
+Forma-51, Mathematics, Class 9-10

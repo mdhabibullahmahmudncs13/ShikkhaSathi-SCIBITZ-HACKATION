@@ -1,0 +1,19 @@
+# Chunk 77 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307954
+# Character count: 592
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_77
+
+========================================
+
+To measure a length, we have to look at the vernier scale after measuring up to
+the last millimeter mark. The mark of the vernier scale that coincides exactly
+with any millimeter mark of the main scale is then found, and then that number
+is multiplied by the vernier constant. We will get the actual length by adding this
+amount with the length measured by the main scale. According to our procedure
+the length shown on the last scale of Figure 1.06 is 1.03 cm or 0.013 m. This
+instrument consisting of a 'main scale’ and a 'vernier scale’ is called a Slide — &
+calipers or vernier calipers a

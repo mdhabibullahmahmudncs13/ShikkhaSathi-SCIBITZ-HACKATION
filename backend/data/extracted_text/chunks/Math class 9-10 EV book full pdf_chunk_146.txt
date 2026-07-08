@@ -1,0 +1,25 @@
+# Chunk 146 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.404415
+# Character count: 752
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_146
+
+========================================
+
+--- Page 64 ---
+Chapter 3. Algebraic Expressions 59
+Middle Term Break-Up: By middle term break-up method of polynomial of
+the form of az? + bx +c would be az? + br +c = (rz +p) (sz +q) if az’ + br +c =
+rsa? + (rq + sp)x + pg. That is, a = rs, b = rq + sp and ¢ = pg. Hence,
+ac = rspq = (rq)(sp) and b = rq + sp. Therefore, to determine factors of the
+polynomial ax? + bx + ¢, ac, that is, the product of the coefficient of 2? and the
+term free from z are to be expressed into two such factors whose algebraic sum is
+equal to b, the coefficient of x.
+Example 26. Resolve into factors: 31% — x — 14
+Solution: 32? — x — 14 = 32% — Tr + 67 — 14
+=x@Bz—7) +2032 -7) = Bx —T)(z +2)
+Work: Resolve into factors:
+1) 2% +2 —562) 162° — 462° + 15x 3) 122% + 172 +6

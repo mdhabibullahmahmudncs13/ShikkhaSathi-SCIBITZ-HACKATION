@@ -1,0 +1,40 @@
+# Chunk 825 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390399
+# Character count: 748
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_825
+
+========================================
+
+--- Page 314 ---
+Current Electricity 309
+d a variable resistance or a Rheostat. A
+fixed resistance has two ends, whereas a variable resistance has an additional
+terminal in the middle, where the changed value of the resistance is obtained. It
+is shown in Figure 11.06.
+Example
+Question: The specific resistances p of silver, copper, tungsten and nichrome
+wire are 1.6x10%, 1.7x10%, 5.5x10%, 100x10* Q m respectively. Using a wire
+of 1 m? cross sectional area, make a 1 Q resistance.
+Answer:
+‘We know, R= AL
+A
+where, L is the length and A4 is the cross-sectional area.
+So,
+RA 1x1 1
+L=—="""1==
+For Silver, ° ° °
+L= 1 = 6.25% 107
+“Tex10° m
+For Copper,
+L= ! =5.9x107
+“17x00” m
+For Tungsten,
+1
+— — 7
+L=cesqge=18%10"m
+For, Nichrome L= 1 — 106
+“To0x10e ©"

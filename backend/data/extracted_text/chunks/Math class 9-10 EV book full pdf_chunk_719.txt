@@ -1,0 +1,20 @@
+# Chunk 719 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.460848
+# Character count: 379
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_719
+
+========================================
+
+on the same base BC' and lie between the pair of ~~]
+parallel lines BC and AD. It is required to prove —
+that, Aregion ABC = A region DBC. B rd
+Drawing: At the points B and C' of the line segment BC, draw perpendiculars
+BE and CF respectively. They intersect the line AD or extended AD at the
+- points E and F respectively. As a result a rectangular region EBCF is formed.
+a
+IS
+S

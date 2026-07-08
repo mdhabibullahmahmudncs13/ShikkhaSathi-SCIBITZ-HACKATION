@@ -1,0 +1,16 @@
+# Chunk 681 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456934
+# Character count: 291
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_681
+
+========================================
+
+3) Prove that, BO : OE = CO: OD B C
+Similarity
+The congruence and similarity of triangles have been discussed earlier in class VIL.
+In general, congruence is a special case of similarity. If two figures are congruent, i
+they are similar; but two similar triangles are not always congruent. S

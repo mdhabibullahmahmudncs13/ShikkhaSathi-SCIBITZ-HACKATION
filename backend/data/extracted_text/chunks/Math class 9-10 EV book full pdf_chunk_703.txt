@@ -1,0 +1,24 @@
+# Chunk 703 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.459171
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_703
+
+========================================
+
+direction. The wheels of a bicycle may rotate in the clockwise direction or in the
+anticlockwise direction. The rotation in the anticlockwise direction is considered
+the positive direction of rotation.
+This fixed point around which the object rotates is the centre of rotation. The
+angle of turning during rotation is called the angle of rotation. A full-turn means
+rotation by 360°; a half-turn is rotation by 180°.
+In the figure below, a fan with four blades rotating by 90° is shown in different
+positions. It is noted during a complete revolution in four positions (rotating
+about the angle by 90°, 180°, 270° and 360°), the fan looks exactly the same. For
+this reason, it is said that the rotational symmetry of the fan is order 4.
+D C B A D
+fee refer ef refer refs
+Bn AAN_ aD~__ AC~___ 7B

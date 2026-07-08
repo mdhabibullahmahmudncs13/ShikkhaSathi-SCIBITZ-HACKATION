@@ -1,0 +1,21 @@
+# Chunk 292 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.419148
+# Character count: 727
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_292
+
+========================================
+
+angles on the same side of it taken together less than two right angles, then the
+two straight lines, if produced indefinitely, meet on that side on which the sum of
+angles is less than two right angles.
+After Euclid stated his postulates and axioms, he used them to prove other results.
+Then using these results, he proved some more results by applying deductive
+reasoning. The statements that were proved are called propositions or theorems.
+Euclid is his ‘elements’ proved a total of 465 propositions in a logical chain. This
+is the foundation of modern geometry.
+Note that there are some incompleteness in Euclid’s first postulate. The drawing
+of a unique straight line passing through two distinct points has been ignored.

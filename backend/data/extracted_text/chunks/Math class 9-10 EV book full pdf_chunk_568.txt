@@ -1,0 +1,36 @@
+# Chunk 568 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446387
+# Character count: 785
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_568
+
+========================================
+
+mz +by=c . .
+such as, are given in the chart below:
+ax + boy = co
+system of | comparison consistent / | mutually has
+equations of oeff. inconsistent| dependent | solutions(how
+and const. independent | many)/no
+terms
+a
+(i) | mx +by=cy Ls consistent | independent| yes (only
+ax + boy =o a 2 one)
+. ay 1 [2] :
+(ii) | aye + by = ¢; — = — = — | consistent | dependent | yes
+az ba C2 : .
+ax + boy =o (infinite)
+a [2
+(tii) ayx + by = 2-1 # 2 | inconsistent independent| no
+as by" oe
+arr + boy = cy
+Now, if there is no constant termsin both the equations of a system of equations
+ie ¢; = cy = 0, then from the table:
+a b
+According to (i) if en I" the system of equations is always consistent and
+az 2
+independent of each other. In that case, there will be only one (unique) solution.
+La b Lo .

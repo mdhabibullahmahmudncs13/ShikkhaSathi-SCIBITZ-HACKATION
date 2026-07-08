@@ -1,0 +1,14 @@
+# Chunk 393 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.428686
+# Character count: 64
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_393
+
+========================================
+
+. Step 1. In AOAM and AOBM,
+
+s AM = BM [Mis the mid point of AB]

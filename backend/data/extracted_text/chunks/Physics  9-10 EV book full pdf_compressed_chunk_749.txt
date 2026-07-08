@@ -1,0 +1,34 @@
+# Chunk 749 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383253
+# Character count: 725
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_749
+
+========================================
+
+Determining the Nature of Charge
+If charge is accumulated in an object, we
+can determine whether it is positive or
+negative using an electroscope. At first,
+we have to give some known charge to the
+disc of the electroscope. If we create
+a positive charge in the glass rod by &
+
+
+--- Page 284 ---
+Static Electricity 279
+
+rubbing it with silk and then touch it to the disc, the reduction of gap between the
+
+leaves will indicate the electroscope has negative charge. If the gap increases,
+
+then it will indicate the presence of positive charge.
+
+Induction of Charge
+
+‘We can determine if an object contains charge without touching the disc. Let us
+
+imagine, a positively charged rod is brought near the disc. Then the disc will

@@ -1,0 +1,29 @@
+# Chunk 300 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330052
+# Character count: 771
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_300
+
+========================================
+
+--- Page 108 ---
+Work, Power, Energy 103
+Answer: You have done work, Fe"
+W=Fs=100 N x10 m=1000 J=1 kJ.
+Work done by the frictional force, ff
+W=Fs=-10N x10 m=-100J
+The stone has attained energy because iF AR) ) Hie
+of the work done by you. Energy has been Ho — H
+— d—
+lost due to frictional force, so heat may i H
+also be generated. Figure 4.01: when a force is applied
+on a body, frictional force acts in the
+opposite direction.
+4.3 Different forms of energy
+We use different kinds of energy for different purposes. For example, heat
+energy is needed for water to be heated, we need light energy to see anything, we
+hear by using sound energy. We run machines by using electrical energy, and we
+create electricity from electric cells by using chemical energy. We generate

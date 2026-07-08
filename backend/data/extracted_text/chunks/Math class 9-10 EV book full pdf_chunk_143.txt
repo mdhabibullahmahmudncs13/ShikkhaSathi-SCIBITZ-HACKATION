@@ -1,0 +1,24 @@
+# Chunk 143 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.403931
+# Character count: 678
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_143
+
+========================================
+
+The algebraic expressions may consist of one or more terms. So, the factors may
+also contain one or more terms. Some process of resolving expressions into factors
+will be discussed here.
+Common Factor: If any polynomial expression has common factor in every
+term, at first they are to be found out. For example,
+Example 18.  3a%b + Gab? + 12a°b* = 3ab(a + 2b + dab)
+Example 19. 2ab(z —y) + 2bc(z — y) + 3ca(z —y) = (x — y)(2ab + 2bc + 3ca)
+Perfect Square: An expression can be expressed in the form of a perfect
+square.
+Example 20. Resolve into factors: dr? +122 +9
+Solution: 42? + 122 + 9 = (22)% +2 x 2x x 3 + (3)?
+= (22 +3)? = (2x + 3)(2z +3)
+Forma-8, Mathematics, Class 9-10

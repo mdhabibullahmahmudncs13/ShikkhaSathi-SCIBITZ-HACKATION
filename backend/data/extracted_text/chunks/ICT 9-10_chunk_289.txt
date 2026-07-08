@@ -1,0 +1,23 @@
+# Chunk 289 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864880
+# Character count: 558
+# Chunk ID: ICT 9-10.txt_0_289
+
+========================================
+
+keeping different pictures on different layers, their arrangement and editing
+
+should be done.
+
+To add new layers in palette
+
+- Click the ‘Create a New Layer’ icon below the palette, a new layer will be
+added above the existing or selected layer. This layer will be a transparent
+one. To create any new object in the newly added layer, shift it elsewhere if
+required. If five layers are created in this way, layer no. 2 will be above layer
+no. 1. no. 3 will be above no. 2. no.4 will be above no. 3. If more layers are
+added, those will be arranged serially.

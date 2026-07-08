@@ -1,0 +1,30 @@
+# Chunk 307 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420559
+# Character count: 786
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_307
+
+========================================
+
+--- Page 131 ---
+126 Mathematics Classes IX-X
+6. Explain the number line.
+7. State the postulate of ruler placement.
+8. Define intersecting straight line and parallel straight line.
+Line, Ray, Line Segment
+By postulates of plane geometry, every point of a straight line lies in a plane. Let
+AB be a line in a plane and C be a point on it. The point C' is called internal to A
+and B if the points A, C' and B are different points on a line and AC'+CB = AB.
+The points A, C and B are also called collinear points. The set of points including
+A and B and all the internal points is known as the line segment AB. The points
+between A and B are called internal points.
+—
+A C B
+=
+A C B
+Angle
+When two rays in a plane meet at a point, an angle
+is formed. The rays are known as the sides of the

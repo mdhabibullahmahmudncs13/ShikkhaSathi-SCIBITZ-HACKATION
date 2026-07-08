@@ -1,0 +1,21 @@
+# Chunk 346 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.334437
+# Character count: 775
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_346
+
+========================================
+
+If we consider from the viewpoint of quantity, the conversion of maximum
+amount of energy undoubtedly takes place from the heat energy in the world.
+Heat energy is transformed into mechanical energy in all engines of all
+machines. In thermocouple ( applying heat at the junction of two different
+metals), though there are examples of conversion of heat into electrical energy
+directly, actually almost in all the cases heat energy is converted into mechanical
+energy and then mechanical energy is converted into electrical energy. (To save
+the environment we don't like the dissipation of energy now-a-days, so we use
+energy saving bulbs more instead of using light bulbs where light is produced
+due to heating) We see the transformation of heat energy into light energy from

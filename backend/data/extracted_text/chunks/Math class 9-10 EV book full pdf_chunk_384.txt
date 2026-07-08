@@ -1,0 +1,32 @@
+# Chunk 384 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427945
+# Character count: 724
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_384
+
+========================================
+
+--- Page 168 ---
+Chapter 7. Practical Geometry 163
+OB=5cm, OC=35cm, OD =45cm and ZAOB = 80° respectively.
+Construct the quadrilateral.
+
+13. The length of a side of a rhombus and an angle are 3.5 cm and 45°
+respectively: construct the rhombus.
+
+14. The length of a side and a diagonal of a rhombus are given; construct the
+rhombus.
+
+15. The length of two diagonals of a rhombus are given. Construct the rhombus.
+
+16. The perimeter of a square is given. Construct the square.
+
+17. The lengths of the hypotenuse and a side of right angled triangle are 5 ¢ m
+and 4 cm Use the information to answer the following questions:
+
+1) Find the length of the other sides of the triangle.
+
+2) Construct the triangle.(Construction is must)

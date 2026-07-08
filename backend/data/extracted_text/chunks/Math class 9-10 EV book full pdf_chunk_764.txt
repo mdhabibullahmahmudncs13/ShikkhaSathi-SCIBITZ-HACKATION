@@ -1,0 +1,29 @@
+# Chunk 764 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.466551
+# Character count: 733
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_764
+
+========================================
+
+The required length of the diagonal is 24 metre and perimeter 52 metre.
+Example 14. The lengths of two parallel sides of a trapezium are 91 cm and
+51 cm and the lengths of two other sides are 37 cm and 13 em respectively.
+Determine the area of the trapezium.
+Solution:
+Let, in trapezium ABCD; AB = 91cm. C'D = 51cm. D si C
+Let us draw the perpendiculars DF and CF on AB
+from D and C respectively. 13 37
+.. CDEF is a rectangle.
+SEF =CD=51cm A E91 F B
+Let, AE =z and DE=CF =h
+o.BF=AB—- AF =91—-(AE+EF)=91— (2 +51) =40— =z
+From the right-angled AADE we get,
+AE? + DE? = AD? or, 22 + h? = 132 or, 2 + 1h? = 169... (1)
+Again in the-right angled triangle BC'F
+BF? 4+ CF* = BC? or, (40 — 2)? + h? = 37°
+w“
+S$ or, 1600 — 80x + 2% + h? = 1369

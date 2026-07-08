@@ -1,0 +1,27 @@
+# Chunk 480 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.349081
+# Character count: 763
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_480
+
+========================================
+
+Hl | is not possible to imagine a
+N Te 1 Te n EL temperature as low as you wish. There
+|i |i il is a lowest temperature and any
+il i i temperature below this is not possible.
+1 ni ni . .
+1 il il Not only this, we can reach near this
+i 1 1 temperature but we can never reach at
+| Pc I 273.15K 1 IPF this temperature. This temperature is
+il ie te called the absolute zero temperature.
+On Celsius scale the value of this
+temperature is -273.15 °C. Therefore,
+Figure 6.02: Celsius, Kelvin and in Kelvin scale its value is zero Kelvin.
+Fahrenheit scales of temperature In other words it is said that the Kelvin
+scale has been made considering the
+absolute zero temperature as zero Kelvin.
+To make any scale of temperature two certain temperatures (or fixed points) are

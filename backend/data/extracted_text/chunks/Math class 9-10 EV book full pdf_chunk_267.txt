@@ -1,0 +1,29 @@
+# Chunk 267 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.416893
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_267
+
+========================================
+
+Example 15. In an examination of class IX of a school, total marks of «
+students obtained in mathematics is 1950. If at the same examination, marks of
+a new student in mathematics is 34 and it is added to the former total marks, the
+average of the marks become less by 1.
+1) Write down the average of the obtained marks of all students including the
+new student and separately x students in terms of x.
+2) By forming equation from the given conditions, show that, x? +357 —1950 = 0
+3) By finding the value of x, find the average of the marks in the two cases
+Solution:
+. 1950
+1) Average of the marks obtained by x students = ——
+x
+Average of the marks obtained by (x +1) students including the new student
+_ 1950 +34 1984
+CoaHl z+l
+1950 1984
+2) By th tion, — = —— +1
+) By the question, - FI

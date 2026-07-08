@@ -1,0 +1,32 @@
+# Chunk 359 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425463
+# Character count: 766
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_359
+
+========================================
+
+--- Page 155 ---
+150 Mathematics Classes IX-X
+1. From any ray BF cut the line segment BC' )
+cqual to a. At B of the line segment BC "
+draw an angle ZCBF = Zz. A
+2. Cut a line segment BD equal to d from the b—
+ray BE. n, (x
+3. Join C,D and at C' make an angle ZDCA 5
+equal to ZEDC on the side of DC" in which ‘ oF
+EF lies.
+Let the ray C'A intersect BE at A. Then, AABC' is the required triangle.
+Proof: By construction, in AACD, ZACD = ZADC
+SAD = AC
+So, the difference of two sides, AB — AC'= AB — AD = BD =d
+Now, in AABC', BC =a, AB — AC =d and ZABC = Zz
+Therefore, AABC' s the required triangle.
+‘Work:
+
+1) If the given angle is not acute, the above construction is not possible.
+‘Why ? Explore any way for the construction of the triangle under such
+circumstances.

@@ -1,0 +1,24 @@
+# Chunk 70 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307394
+# Character count: 795
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_70
+
+========================================
+
+--- Page 24 ---
+Physical Quantities and Their Measurements 19
+1.6 Measuring Instruments
+Once it was very difficult to measure different quantities of physics accurately.
+The job has become much easier due to electronics based instruments. For the
+physics that we will try to learn in this book, knowing how to measure distance,
+mass, time, temperature, electric current and voltage will be enough. Let us
+discuss what type of instruments we will use to measure these:
+1.6.1 Scale or Ruler
+A Meter scale is used to measure small lengths and definitely you may have seen
+it. Since this is 100 cm or I m long, it is called a meter scale. Since in many places
+inch-foot is familiar still now (USA is an example!) inch is marked very often
+on the other side of a meter scale. One inch equals 2.54 cm.

@@ -1,0 +1,22 @@
+# Chunk 406 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.885134
+# Character count: 458
+# Chunk ID: ICT 9-10.txt_0_406
+
+========================================
+
+Once the user enters some input, the program resumes. For example, if we write
+the following:
+test_input=input ()
+So. the test input variable will receive an input from us. However, no matter
+what type of data number, letter, etc. the input() function accepts as input within
+the program, it will receive it as a string (sir) data type. Now, let's take an input
+into a variable and print it.
+test input= input()
+print{test_input)
+prini(type(test_input)) 8
+Ef

@@ -1,0 +1,28 @@
+# Chunk 31 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.391987
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_31
+
+========================================
+
+Remarks: Repeating decimal fractions can always be converted into common
+fractions. All repeating decimal fractions are rational numbers.
+Example 5. Convert 5.23457 into a common fraction.
+Solution: 5.23457 = 523457457457...
+5.23457 x 100000 = 523457457457...
+5.23457 x 100 = 523457457...
+subtracting, 5.23457 x 99900 = 522934
+._. 522934 261467 11717
+C0234 = ——— = ———— = 5 ——
+S20 90000 © 49950 49950
+11717
+.. The ired fraction is 5———.
+e required fraction is 550-7
+Explanation: Since there are 5 digits in the decimal part, the repeating decimal
+fraction has been multiplied by 100000 (5 Os after 1). Since there are two decimal
+digits before the repeating part (1 followed by 2 0s), repeating decimal fraction
+has been multiplied by 100. The second product has been subtracted from the first.

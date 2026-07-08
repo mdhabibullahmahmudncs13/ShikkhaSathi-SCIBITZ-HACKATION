@@ -1,0 +1,32 @@
+# Chunk 161 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316243
+# Character count: 744
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_161
+
+========================================
+
+The distance — time graph of the first data set of the table is shown in figure
+a 2.09. We have taken data in integer form. From the graph we will be able to
+g
+=~
+
+
+--- Page 57 ---
+52 Physics
+find the distance of any time from 0 to 5s. For example the distance of the
+object in 2.5 second is approximately 6.25m. If we have a velocity versus
+time graph, from there we can find the velocity easily. Velocity of an object
+is the rate of change of its position. So we can see from the graph the object
+has travelled a distance of 0 m to 1 min 0 to 1 second. Therefore the average
+velocity at this time,
+
+1-0
+,od-0m_ m/s
+1s
+We can use this average velocity for the mid-time value of 0 to Is. Similarly
+the average velocity within 1 to 2s is,
+(4-1)m

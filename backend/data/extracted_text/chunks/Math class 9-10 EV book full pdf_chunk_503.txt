@@ -1,0 +1,34 @@
+# Chunk 503 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.439755
+# Character count: 790
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_503
+
+========================================
+
+--- Page 223 ---
+218 Mathematics Classes IX-X
+or, h=x+4+42 or, h h +42 [from (1)]
+ho= a Lh =— 0;
+V3
+42/3
+or, V3h = h+42V/3 or, V3h — h = 42V3 or, (V3 — 1h = 423 or, h = 71
+hh =99.373 (approx.)
+.-. Height of the building is 99.37 metre (approx.).
+Example 6. A pole is broken such that the undetached broken part makes an
+angle of 30° with the other and touches the ground at a distance of 10 metre form
+its foot. Find the length of the pole.
+Solution:
+Let, the total height of the pole is AB = h A
+metre. It breaks at the height of BC' = x metre
+without separation and makes an angle with the
+other, ZBCD = 30° and touches the ground at a
+distance BD = 10 metre from the foot. c
+Here, CD = AC = AB — BC = (h — x) metre hm
+From ABCD we get, /|
+tan ZBCD 5D tan 30° 10 xm
+an =gg Ontan30°=—
+1 10

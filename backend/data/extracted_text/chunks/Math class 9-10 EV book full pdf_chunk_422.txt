@@ -1,0 +1,24 @@
+# Chunk 422 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.431798
+# Character count: 671
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_422
+
+========================================
+
+The tangent in figure (a) is a direct common one and P
+in figure (c) it is a transverse common tangent.
+If a common tangent to a circle touches both the
+circles at the same point, the two circles are said ©
+to touch each other at that point. In such a case,
+the two circles are said to have touched internally or
+externally according to their centres lie on the same oS
+side or opposite side of the tangent. In figure (c) the
+two circles have touched each other internally and in 3
+figure (d) externally. @
+Theorem 25. The tangent drawn at any point of a circle is perpendicular to
+the radius through the point of contact of the tangent.
+Forma-23, Mathematics, Class 9-10

@@ -1,0 +1,17 @@
+# Chunk 76 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307866
+# Character count: 229
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_76
+
+========================================
+
+divide the length of the smallest division (1 mm) of the main scale by the total
+number of divisions of the vernier scale (in the figure 1.05 and 1.06 it is 10). In
+our example, the value of this :
+1mm
+VC =——= 0.1mm = 0.0001 m
+10

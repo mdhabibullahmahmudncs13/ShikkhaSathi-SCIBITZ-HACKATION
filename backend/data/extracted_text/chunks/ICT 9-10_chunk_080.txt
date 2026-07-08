@@ -1,0 +1,21 @@
+# Chunk 80 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.830618
+# Character count: 734
+# Chunk ID: ICT 9-10.txt_0_80
+
+========================================
+
+that job. We are talking about software-oriented maintenance of ICT devices.
+If the Windows Operating System of Microsoft Company is used in your 1CT
+device (in almost all the computers of the world, Windows Operating System is
+used), you have to check its status and update the operating system all the time.
+If the device is connected to the internet, the updates are done automatically.
+Other operating systems provide a similar kind of facilities too. In spite of that,
+you have to use registry clean up software to keep the machine fast. If you do not
+use this software, your machine will not work properly and it will be a matter of
+annoyance for you.
+Besides, whenever the computer is used, some temporary files are created. If

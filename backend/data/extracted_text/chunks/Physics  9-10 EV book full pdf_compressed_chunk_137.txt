@@ -1,0 +1,23 @@
+# Chunk 137 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314134
+# Character count: 765
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_137
+
+========================================
+
+a string, as in the previous example, and rotated it over your head with uniform
+speed then the rotating stone would change its direction of motion continuously.
+That is, change of velocity will occur and acceleration will takes place.
+If your motion is linear, then there is no scope of changing the direction. Then
+acceleration may occur only for the change of magnitude of the velocities
+(speed). When the magnitude of the velocity increases, then we can say
+positive acceleration is taking place along the direction of the velocity. If the
+velocity decreases, then we can say negative acceleration or deceleration is taking
+place. Now we can determine the acceleration of an object moving along a
+straight line.
+0) Example
+Question: In figure 2.06 the change of

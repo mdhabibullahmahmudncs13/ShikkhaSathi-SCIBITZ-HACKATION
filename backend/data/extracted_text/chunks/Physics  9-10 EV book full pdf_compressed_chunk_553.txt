@@ -1,0 +1,22 @@
+# Chunk 553 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.360768
+# Character count: 299
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_553
+
+========================================
+
+applies only to mechanical waves, while the remaining properties (ii-v) apply to
+
+almost all types of waves.
+
+(i) ~~ When a wave propagates through a medium, the particles of the medium
+oscillate (vibrate or go up-down) about its own position but are not
+displaced permanently with the wave.
+
+PS
+I
+=

@@ -1,0 +1,29 @@
+# Chunk 269 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.862083
+# Character count: 744
+# Chunk ID: ICT 9-10.txt_0_269
+
+========================================
+
+If you type the name in this stage, you need not to type il further. While
+closing the file, a new dialogue box will come when you will go to close the
+file.
+
+- Inthe box of ‘Width® and ‘Height” in New Dialogue Box, type numbers on
+the measuring unit ‘inch’, for example, width of 7 inches and height of 8
+inches. There 1s a dropdown menu to determine the unit of measurement on &
+the right side of these two boxes such as inches, pixels, piacas, points, cm, 2
+
+Forma-11. ICT-{9-10)
+
+
+--- Page 87 ---
+82 Multimedia and Graphics
+mm. Select the requisite unit from this dropdown menu. Fix the
+measurement by inches. Suppose that the measuring unit of the present task
+is inch, and 7 in the box of width and 8 in the box of height have been
+typed.

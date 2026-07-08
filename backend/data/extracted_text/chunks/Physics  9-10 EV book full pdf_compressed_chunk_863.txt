@@ -1,0 +1,31 @@
+# Chunk 863 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.395231
+# Character count: 778
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_863
+
+========================================
+
+--- Page 329 ---
+324 Physics
+N 1
+X Z\ =
+& AE 1) SAA
+SAR | =
+| Ro - |
+WHE
+AS: iy _
+Figure 11.16: Dangerous activities with electricity.
+@ Do Yourself
+Make a list of the dangerous activities done with electricity in Figure 11.16.
+11.6 Design of Circuit in Residence
+What a circuit should be like for supplying electricity in a household is shown
+in Figure 11.17. Electricity is supplied at home from a power station through a
+supply cable. Between them, one is live; another is neutral. The live line has high
+voltage, the neutral has zero voltage. The live line is marked red and the neutral
+line is marked blue in the figure. It first passes through an electric meter. This
+meter records how much electricity is consumed. After the meter, it is supplied
+through a consumer unit.

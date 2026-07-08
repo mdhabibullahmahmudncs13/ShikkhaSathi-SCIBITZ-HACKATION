@@ -1,0 +1,28 @@
+# Chunk 700 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458900
+# Character count: 744
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_700
+
+========================================
+
+--- Page 309 ---
+304 Mathematics Classes IX-X
+The sides of a square are equal and each of the angles is equal to one right angle.
+Similarly, in regular pentagons and hexagons, the sides are equal and the angles
+are equal as well.
+4 = 7 OT
+a a
+7 Ses
+£3 a A 4 N V4 7 QD 7
+Equilateral triangle Square Regular pentagon Regular hexagon
+Each regular polygons is a figure of symmetry. Therefore, it is necessary to know
+their lines of symmetry. Each regular polygon has many lines of symmetry as it
+has many sides.
+Equilateral triangle Square Regular pentagon Regular hexagon
+The concept of line symmetry is closely related to mirror
+reflection. A geometrical figure has line symmetry when
+one half of it is the mirror image of the other half. So, the

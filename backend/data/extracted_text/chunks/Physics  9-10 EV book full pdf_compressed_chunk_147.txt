@@ -1,0 +1,27 @@
+# Chunk 147 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315029
+# Character count: 526
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_147
+
+========================================
+
+v = at
+v  16.67m/s
+J = 2
+a=; 505 0.278 m/s
+Question: A car is moving with a velocity of 60 mile/hour, suddenly its engine
+stops. It takes 5 minutes to come at rest. What is the deceleration of the car?
+Answer: When there is acceleration, velocity increases; where as velocity
+decrease of when there is negative acceleration or deceleration.
+Again we will use s for time and m for distance.
+1 mile = 1.6 km = 1600 m
+Initial velocity of car,
+— 60 miles _ 60x 1.6 x 1000m _ /
+YE hour TT 60x05 oom
+Final velocity of car, v=0
+pe
+BS

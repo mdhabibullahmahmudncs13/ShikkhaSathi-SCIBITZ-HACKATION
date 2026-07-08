@@ -1,0 +1,28 @@
+# Chunk 865 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.475733
+# Character count: 760
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_865
+
+========================================
+
+1) 8° 2) 85° 3) 9.5° 4) 9°
+8. Which one is the median of the data?
+1) 9.5° 2) 9° 3) 8.5° 4) 8°
+9. The number of classified data included in the table is n, the lower limit of
+median class is L, the cumulative data of previous class to median class is
+F,, the frequency of median class is f,, and class interval is h. In the light
+of these information, which one is the formula for determining the median
+n h n h
+nL (5-F) x4 2) L (5 Fn) x +
+EG [A ) 1+ (5-5) Fo
+n n 0
+8) L—(5-F) x 5 4) L= (5 Fn) x 5
+10. The frequency distribution table of marks obtained in mathematics of 60
+students of class X is given below. Draw frequency diagram and ogive
+curve.
+Class interval [31 — 40[41 — 50[51 — 60[61 — 70[71 — 80[81 — 90[91 — 100
+[(Fopeny | © | 5 | © [ 2 | 5 | 7] 7 |

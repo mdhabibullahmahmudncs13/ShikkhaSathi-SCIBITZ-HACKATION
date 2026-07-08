@@ -1,0 +1,28 @@
+# Chunk 57 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.305934
+# Character count: 757
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_57
+
+========================================
+
+ength of virus mon 2% 10
+Radius of hydrogen 5x10 | Dust 7% 1077 | Vibration of [3x 1-15
+atom Green light
+B -15 _31 | Vibration of 1
+Radius of proton 9x10 Mev gamma [4 x 102
+light
+1.5.1 Units of Measurement
+Among these units second, meter and candela are defined before by some
+constants.
+From May 2019 kilogram, kelvin, mole and ampere are also defined by some
+constant of Physics. Now it is possible to measure all units very accurately using
+these constant in any laboratory in the world.
+Magnitude of fundamental constants those are essential to measure these seven
+units are specified forever. The magnitude of seven constants are shown in the
+Table 1.03
+Velocity of light (c) 2,99,792,458 meter/second
+Plank’s constant (h) 6.62607015 x 107*joule second

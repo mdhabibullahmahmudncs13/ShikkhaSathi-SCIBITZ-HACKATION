@@ -1,0 +1,34 @@
+# Chunk 500 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.439519
+# Character count: 559
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_500
+
+========================================
+
+--- Page 222 ---
+Chapter 10. Distance and Elevation 217
+Solution: Let, the height of the stick from the foot
+leaned against the tree of AB = 7 metre and angle of
+depression ZDBC = 30°.
+oS LACB = ZDBC = 30° [alternate angle]
+From right-angled AABC we get,
+in ZACB AB in 30° 7
+
+sin 2 = BC or, sin = BC D 300 B
+or. 1_7 sina0e = xm Tm
+
+"2 BC |” a)
+SBC =14 C A
+.. The required height of the stick is 14 metre.
+
+‘Work:
+
+In the figure, if depression angle ZCAE = 60°, Tr E
+
+elevation angle ZADB = 30°, AC = 36 metre, “
+
+AB L DC and D, C, B lic on the same straight "

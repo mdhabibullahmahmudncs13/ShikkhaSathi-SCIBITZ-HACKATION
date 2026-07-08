@@ -1,0 +1,20 @@
+# Chunk 905 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.479952
+# Character count: 654
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_905
+
+========================================
+
+The points 4, B, C and D are the vertices of the quadrilateral. Z4BC, ZBCD,
+ZCDA and ZDAB are the four angles of the quadrilateral. The vertices 4 and B are
+the opposite vertices of C and D respectively. The pairs of sides AB and CD, AD
+and BC are sides opposite to each other. The two sides that meet at a vertex are the
+adjacent sides. For example, the sides, AB and BC are the adjacent sides. The line
+segments AC and BD are the diagonals of ABCD. The sum of the lengths of sides is
+the perimeter of the quadrilateral. The perimeter of the quadrilateral 4BCD is equal
+to the length of (4B+BC+CD+DA). We often denote quadrilaterals by the
+symbol ‘7°. ~

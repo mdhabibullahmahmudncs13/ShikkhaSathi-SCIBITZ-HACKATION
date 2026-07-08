@@ -1,0 +1,30 @@
+# Chunk 333 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.873842
+# Character count: 738
+# Chunk ID: ICT 9-10.txt_0_333
+
+========================================
+
+There are some modes to view objects in the Illustrator programme. Any of these
+
+can be selected from the View menu as required.
+
+- In Outline Mode, the object is viewed as an outline or in a linear shape. In
+this mode, editing of the shape or structure of the object, particularly a
+detailed editing of a line or path can easily be done.
+
+- The object is viewed perfectly in Pixel Preview or Preview mode.
+
+- The image viewed in Overprint Preview Mode can be printed out.
+
+Creating Object
+
+In the preparatory stage of creating objects, the elementary process of making
+
+different kinds of shapes should be learnt, for example, squares, rectangulars,
+
+circulars, and elliptic, multi-angular, starry, and spiral shapes. To create an object

@@ -1,0 +1,31 @@
+# Chunk 110 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.400537
+# Character count: 737
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_110
+
+========================================
+
+--- Page 46 ---
+Chapter 2. Sets and Functions 41
+={(2,2),(2,4),(2,6),(3,2), (3,4), (3,6), (5,2), (5,4), (5,6)}
+N{(3,2).(3.4),(3,6),(5,2). (5,4), (5,6) }
+= {(3.2),(3,4), (3,6), (5,2), (5,4), (5. 6)} ------ (4)
+Therefore, comparing (3) and (4) we get,
+(ANC) x B= (Ax B)n(C x B)
+Example 25. Let A={4,5,6,7}, B={0,1,2.3} and R= {(z,y): x € A,y €
+Aandy =a +1}
+1) Prove that, sets A and B are mutually disjoint.
+2) Determine P(B) to show that number of elements of P(B) is 2", where n is
+the number of elements of B.
+3) Express the relation R in tabular method and determine its domain.
+Solution:
+1) Given, A ={4,5,6,7} and B ={0,1,2,3}
+So ANB={4,56,71n{0,1,2.3} =o
+Since ANB =@
+Therefore, A and B are mutually disjoint .
+2) Given,
+B={0,1,2,3}

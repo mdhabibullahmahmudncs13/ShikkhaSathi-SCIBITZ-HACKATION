@@ -1,0 +1,25 @@
+# Chunk 559 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.445686
+# Character count: 613
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_559
+
+========================================
+
+» verify the consistency of simple simultaneous equations in two variables.
+
+» verify the mutual dependence of two simple simultaneous equations in
+
+two variables
+» explain the method of cross-multiplication.
+» form and solve simultaneous equations related to real life mathematical
+problems.
+
+» solve the simultaneous equations with two variables by graphs.
+Simple simultaneous equations
+Simple simultaneous equations means two simple equations in two variables
+when they are presented together and the two variables are of same 5
+characteristics. Such two equations together are also called system of simple — &

@@ -1,0 +1,25 @@
+# Chunk 860 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.394860
+# Character count: 717
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_860
+
+========================================
+
+--- Page 328 ---
+Current Electricity 323
+flows through equipment is passed through a thin wire before entering the
+equipment. The thin wire (where the resistance is more, so °R is more i.e. more
+heat) of the fuse becomes heated and burnt, and stops the supply of electricity if
+for any reason excess current tries to flow.
+(e)Flow less connection: There are always two wires in an electric supply line,
+one with high potential (Live) and another is voltage less neutral (Neutral).
+live live
+®P pA
+neutral neutral
+Figure 11.15: Wrong and correct connection of switch.
+When a machine is used, then starting from the live wire the electricity passes
+through the machine and then returns to the source through the neutral

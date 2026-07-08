@@ -1,0 +1,29 @@
+# Chunk 157 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315912
+# Character count: 515
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_157
+
+========================================
+
+--- Page 55 ---
+50 Physics
+@ Do yourself
+Determination of velocity and acceleration at any time from a time-
+distance graph.
+(Motion and Graph)
+‘We have deduced equations of motion in the previous sections. We have
+analyzed the relations between distance travelled, velocity and
+acceleration. In this section we will analyze the same quantities but only by
+graph. We can have a kind of real feelings about different quantities of
+motion, if we analyze them graphically.
+Table 2:01
+
+CT JN A ACN
+
+2s |
+
+[ET EE a TR ET

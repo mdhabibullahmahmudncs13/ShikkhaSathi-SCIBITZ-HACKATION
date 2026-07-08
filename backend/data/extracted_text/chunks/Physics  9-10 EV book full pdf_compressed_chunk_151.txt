@@ -1,0 +1,22 @@
+# Chunk 151 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315391
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_151
+
+========================================
+
+v2 =u?+2gh
+The three laws of falling bodies of Galileo are nothing but these equations of
+motion of falling bodies.
+The first law states that all objects released from the same height will reach the
+ground at the same time i.e. it does not depend on the mass of the objects. This
+does not go with the experience of our daily lives. If a piece of paper and a piece
+of stone are released from the same height, at the same time, then the stone reaches
+the ground first and the paper reaches the ground later. This happens due to the
+resistance of air. If the experiment is done in a vacuum tube then both the paper
+and stone will reach the ground at the same time. Galileo's first law can be
+understood from the equation of falling bodies. This is because there is no mass of

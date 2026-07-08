@@ -1,0 +1,26 @@
+# Chunk 546 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.359851
+# Character count: 736
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_546
+
+========================================
+
+--- Page 195 ---
+190 Physics
+O) Example
+Question : Hang a stone of mass 10 gm from a string 1 m long. What is its time
+period? ; 1
+Answer: T=2r|-=27|555s=20s
+g 9.8
+The time period remains the same whether the mass of the stone is 10 gm or not.
+If you wish, by measuring the time period you can determine the value of g just
+now. Try and see!
+If a mass is attached to the lower end of a spring, the mass will extend the spring
+and. This state of the spring is called the equilibrium condition (Figure 7.01-0).
+Now we pull the mass downward by a short distance a and release it (Figure
+7.01). Then the mass will moving upward, crossing the equilibrium condition, it
+will move upward by a distance a. Then again it will be moving downward,

@@ -1,0 +1,27 @@
+# Chunk 797 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388258
+# Character count: 609
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_797
+
+========================================
+
+--- Page 304 ---
+Chapter Eleven
+Current Electricity
+Ry ol
+ad - gi = ¥
+| a
+mea
+g 3 -
+» 1 I
+Now-a-days, we cannot spend a single moment properly without electricity. To
+operate machines and other instruments around us, we need electricity. In the
+previous chapter we discussed static electricity. When charge flows through a
+conductor, we call it current electricity or, in brief, electricity. We will describe
+the terms required to explain current electricity and learn the rules of flow of
+electricity. In this chapter we will also discuss how we can measure electricity in
+a circuit and potential difference.

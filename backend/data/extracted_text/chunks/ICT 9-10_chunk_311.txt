@@ -1,0 +1,22 @@
+# Chunk 311 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.869731
+# Character count: 700
+# Chunk ID: ICT 9-10.txt_0_311
+
+========================================
+
+- Click the Color Stop Triangle at the lefl end of the gradient slider. and a color
+swatch will be activated at the end. Click the Color swatch and the Select
+Stop Color dialogue box will be viewed. Selecting the blue color in this
+dialogue box, click the Ok button, and blue will be the Stop Color at the
+left-end on the gradient bar. Now drag with gradient tool from one end to
+another, and a gradient of a combination blue and yellow will be created.
+
+- Ifyou select the Color Stop at the bottom edge and Opacity Stop on the top
+edge of gradient slider, a diamond shaped icon will be viewed in the middle.
+This icon indicates the middle point of the gradient from where the color
+starts diffusing.

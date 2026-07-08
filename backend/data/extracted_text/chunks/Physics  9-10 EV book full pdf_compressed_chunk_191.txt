@@ -1,0 +1,25 @@
+# Chunk 191 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319664
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_191
+
+========================================
+
+--- Page 69 ---
+64 Physics
+body move backwards. Since this inertia is due to the tendency of rest, this is
+called inertia of rest.
+‘When people get down from moving bus, train etc we see they fall downdue to
+the inertia of motion. The whole body of the person in a moving train or bus is
+in motion. When his or her leg touches the ground, the lower part of his/her
+body comes to rest, the upper part of the body keeps moving forward due to the
+inertia of motion. So the person falls down.
+@ Do Yourself
+Keep a card on a glass. Place a metal coin on the card and flip the card and
+displace it. The coin will fall into the glass.
+You definitely observed it that the object with higher mass cannot be displaced
+by higher amount by the application of an equal amount of force. But a body

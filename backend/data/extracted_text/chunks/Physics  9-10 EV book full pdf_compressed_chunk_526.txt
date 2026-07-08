@@ -1,0 +1,25 @@
+# Chunk 526 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.357330
+# Character count: 558
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_526
+
+========================================
+
+(1) The body at higher temperature gives heat to the body at the lower
+
+temperature until they reach thermal equilibrium.
+
+(2) The amount of heat given up by the bodies at higher temperature will be
+
+equal to the heat gained by the bodies at the lower temperature. (We assume
+
+that no heat is lost in this process by any other means.)
+0) Example
+Question: A piece of ice of mass 100 gm is dropped into water of 1 liter at
+temperature 30 °C. What will be the temperature of the water after melting the
+whole piece of ice? .
+(Latent heat of ice L=334 kJ/kg) sg

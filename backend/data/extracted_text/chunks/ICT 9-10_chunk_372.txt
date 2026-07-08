@@ -1,0 +1,34 @@
+# Chunk 372 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.879825
+# Character count: 694
+# Chunk ID: ICT 9-10.txt_0_372
+
+========================================
+
+the letters can be changed. A
+
+To create the outline of letters: | LG i ’ i] wes
+
+A. Select one or more than one letter | {| cv |
+or word.
+
+B. Give the Create Outline command from the Type menu or press Shift Ctrl O,
+and selected text will be transformed into the Outline.
+
+‘When the letters will be transformed into the Outline, the text will be changed
+
+into graphics. The shape of the letters can be changed following the rules of
+
+editing a Path, filling color and adding gradient.
+
+Placement of Image in Hlustrator
+
+To place an image in illustrator:
+
+A. Give the Place command from the File menu and a Place dialogue box will come.
+
+B. Select the required file from the Place dialogue box.

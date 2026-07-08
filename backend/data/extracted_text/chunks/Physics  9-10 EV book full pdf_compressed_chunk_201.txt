@@ -1,0 +1,23 @@
+# Chunk 201 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.320447
+# Character count: 742
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_201
+
+========================================
+
+--- Page 72 ---
+Force 67
+Force of gravitation is an amazing force of physics. An object that has mass
+attracts another object by the gravitational force. In this chapter, we shall discuss
+the gravitational force a little bit more in detail.
+3.2.2 Electromagnetic Force
+We have seen, now and then, that when we comb our hair with a comb it attracts
+pieces of papers. We have also seen that a magnet attracts or repulses another
+magnet. Though we think that electric and magnetic forces are different in
+nature, actually the two forces are identical. They only appear in two forms.
+Only and this electromagnetic force can attract and repulse but the other forces
+can attract only, cannot repulse. It is so much stronger than gravitational force

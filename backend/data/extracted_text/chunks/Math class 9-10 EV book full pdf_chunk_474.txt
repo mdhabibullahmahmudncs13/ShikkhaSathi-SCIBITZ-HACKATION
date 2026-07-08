@@ -1,0 +1,33 @@
+# Chunk 474 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.437113
+# Character count: 790
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_474
+
+========================================
+
+--- Page 208 ---
+Chapter 9. Trigonometric Ratio 203
+Trigonometric ratios of complementary angles
+We know, if the sum of two acute angles is 90°, one of them is called
+complementary angle to the other. For example, 30° and 60° and 15° and 75° are
+complementary angles to each other.
+In general, the angles 6 and (90° — #) are complementary angles to each other.
+Let ZXOY = 6 and P is the point on the side OY y
+of the angle. We draw PM 1 OX.
+Since the sum of the three angles of a triangle is two L
+right angles, therefore, in the right angled triangle d
+POM, ZPMO = 90°
+and ZOPM + ZPOM = one right angle = 90°
+ZOPM = 90° — ZPOM = 90° — 0 £6) a
+[Since ZPOM = Z/XOY = 0] ¢ M x
+OM
+- sin(90° — 0) — — [=
+.sin(90° — 6) op cos/ POM = cos 0
+PM
+cos(90° — 0) = oP = sin/ POM = sin 6
+OM
+Of) = —— = [=

@@ -1,0 +1,31 @@
+# Chunk 674 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.375117
+# Character count: 792
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_674
+
+========================================
+
+(Figure 9.02). Remember that refractive index of a medium has no direct relation
+with density of that medium.
+|
+i i
+8 | rarer medium raret medium i [
+i 1
+i den: medium denser medium i ns
+i 6:
+tA i
+| i
+i
+i i
+Figure 9.02 : The refracted ray bends towards the normal when entering
+from a rarer medium to a denser medium, and it goes away from the
+normal when entering from a denser medium to a rarer medium.
+Here only the incident ray and refracted rays are drawn, as refraction of light is
+discussed, but we must remember that when a ray of light goes from one
+medium to another every time some amount of light is reflected. How much light
+will be reflected and how much light will refracted depends on the angle of
+incidence. When there is an increase in the angle of incidence, the reflection

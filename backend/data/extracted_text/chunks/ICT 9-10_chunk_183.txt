@@ -1,0 +1,21 @@
+# Chunk 183 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.846160
+# Character count: 769
+# Chunk ID: ICT 9-10.txt_0_183
+
+========================================
+
+For example, all forms of the Bangladesh government are available at forms.gov.bd.
+For the convenience of the public, all the necessary forms of the Government of
+Bangladesh are stored in a web enabled database which can be accessed by anyone
+on the Internet from that address.
+Generally, data is accessed from the database of an organization through web brows-
+er software and displayed on the customer's computer, Through the use of various
+levels of middleware and other software, users can access previously protected data
+over the Internet or local area network. For example, a buyer can search online
+through a web browser to find out the price of the desired product in the website
+created through the web and database of various vendors. A buyer can even access

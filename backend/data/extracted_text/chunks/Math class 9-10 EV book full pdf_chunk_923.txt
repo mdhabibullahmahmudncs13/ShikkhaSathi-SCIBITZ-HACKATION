@@ -1,0 +1,25 @@
+# Chunk 923 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.481804
+# Character count: 617
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_923
+
+========================================
+
+Similarly, the ray OD intersects line AB at point O. Hence, ZAOD + ZBOD = 1
+straight angle = 2 right angle. [Theorem 1]
+So, ZAOC + ZAOD = ZAOD + ZBOD
+Therefore, ZAOC=/BOD [Subtracting ZAOD from both sides]
+Similarly, it can be shown that ZCOB = ZAOD [Proved]
+Theorem 6 (SAS Theorem):
+If in two triangles, two sides of one are respectively equal to two sides of the
+other, and the included angles are equal, then the two triangles are congruent.
+Special Nomination: Suppose B E
+in AABC and ADEF, AB =
+DE, AC = DF, and the AN AN
+included angle ZBAC = the A CD F
+included angle ZEDF. We
+need to prove that ZABC = ZDEF. g

@@ -1,0 +1,32 @@
+# Chunk 862 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.475283
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_862
+
+========================================
+
+--- Page 376 ---
+Chapter 17. Statistics 371
+. Mode = 41 + 5 10 = 41 + 2 x 10 = 41 + 2 = 41 + 167 = 42.67
+- EE RE TR vee
+Required mode 42.67 (approximately)
+If the frequency is maximum in the first class, the frequency of previous class is
+zero. If the frequency is maximum in the last class, the frequency of following
+class is zero.
+Exercise 17
+1. Which one indicates the data included in each class when the data are
+classified?
+1) Class interval 2) Mid-point of the class 3) Number of
+classes 4) Class frequency
+2. If the disorganized data of statistics are arranged according to the value, the
+data cluster round near any central value. This tendency of data is called
+1) Mode 2) Central 3) Mean 4) Median
+tendency
+3. Consider the table below:
+[EES
+Chegeney | 5 | 9 | 1
+(i) Class interval is 3

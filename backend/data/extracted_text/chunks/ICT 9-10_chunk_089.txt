@@ -1,0 +1,25 @@
+# Chunk 89 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.832544
+# Character count: 784
+# Chunk ID: ICT 9-10.txt_0_89
+
+========================================
+
+Suppose that you do not need to vse the software anymore. What will you do
+then? Most of the users keep the software in the hard disk, However, it occupies
+a space and erates problem to run the ICT device smoothly. Therefore, it is wise
+to uninstall unnecessary software.
+How will we uninstall the software? The Operating System Software helps us 10
+get the task done. The nature of all kinds of Operating System Software is almost
+same. However, it is easier to uninstall software from a device ran by the android
+operating system, especially in the touch-screen smartphones. Select the
+application from the settings and touch the particular software. A menu will be
+viewed on the screen. Click the space where uninstall is written and the piece of
+software will be uninstalled.
+
+“
+8

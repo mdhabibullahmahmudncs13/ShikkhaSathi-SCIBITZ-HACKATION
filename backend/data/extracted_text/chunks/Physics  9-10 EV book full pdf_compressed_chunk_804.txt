@@ -1,0 +1,26 @@
+# Chunk 804 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388785
+# Character count: 745
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_804
+
+========================================
+
+TQ
+A battery cell or a generator which supplies electric energy has an
+electromotive force or emf. When a battery cell or a generator is connected
+to a circuit, this electromotive force brings the charge through the whole
+circuit.
+The amount of potential a battery +15V -15V
+produces is its electromotive force or emf. i |
+In English it is called “force” but in
+Bengali it is “energy”. Actually, this emf 1 1
+or electromotive force is not force or allie 1
+energy at all. We said earlier that in i) ho
+physics terms like “force” and “energy” @ )
+are very specific. We cannot use one word Figure 11.02: It is possible to
+instead of the other. Unfortunately this make positive and negative
+has been done here. But don’t be voltage by a battery cell

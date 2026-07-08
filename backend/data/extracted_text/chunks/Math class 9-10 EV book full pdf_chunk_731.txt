@@ -1,0 +1,31 @@
+# Chunk 731 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461828
+# Character count: 685
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_731
+
+========================================
+
+BC and AB = 2. 3
+Based on the information mentioned above,
+answer question no. 3 and 4:
+B D Cc
+3. BD = what?
+1) 1 2) V2 3) 2 4) 4
+4. What is the height of the triangle?
+4 2
+1) — 2) V3 3 2 1) 2/3
+) 7 ) 7
+5. Prove that, the diagonals of a parallelogram divide the parallelogram into
+four equal triangular regions.
+6. Prove that, the area of a square is half the area of the square drawn on its
+diagonal.
+7. Prove that, any median of a triangle divides the triangular region into two
+regions of equal area.
+8. A parallelogram and a rectangular region of equal area lie on the same side
+of the bases. Show that, the perimeter of the parallelogram is greater than
+I that of the rectangle.
+&

@@ -1,0 +1,23 @@
+# Chunk 367 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.336434
+# Character count: 570
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_367
+
+========================================
+
+8. A boy of 40 kg can reach the roof top using the stairs in 12 s. The number of
+steps of the stairs is 20 and the height of each step is 20 cm.
+(a) What is the weight of the boy?
+(b) What is the height reached by the boy?
+(c) What is the work done to reach the roof top?
+(d) What is the power he uses to reach the roof?
+
+9. It is more advantageous to produce nuclear energy than the power station that
+uses fuel because no green house gas is produced.
+(a) What are the other advantages of using nuclear energy?
+
+8 (b) What are the disadvantages of using nuclear energy?

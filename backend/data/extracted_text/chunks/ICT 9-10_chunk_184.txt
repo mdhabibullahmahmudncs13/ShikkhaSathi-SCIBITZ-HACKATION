@@ -1,0 +1,21 @@
+# Chunk 184 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.846273
+# Character count: 782
+# Chunk ID: ICT 9-10.txt_0_184
+
+========================================
+
+created through the web and database of various vendors. A buyer can even access
+the seller's website from the comfort of his home through web browser software.
+Web Client: On the Internet and World Wide Web, a user or client usually sends a
+request for data or information to the web server using HTTP (Hypertext Transfer
+Protocol) or HTTPS (Hypertext Transfer Protocol Secure) protocol. Client requests
+are usually sent through the web browser and the result of the request is received
+from the web server which is usually displayed in the web browser itsell. TCP/IP
+(Transmission Control Protocol / Internet Protocol) protocol is a type of communi-
+cation protocol used on the Internet to send messages .
+Downloading: Downloading over a computer network is the process of getting

@@ -1,0 +1,29 @@
+# Chunk 376 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.880279
+# Character count: 797
+# Chunk ID: ICT 9-10.txt_0_376
+
+========================================
+
+‘Which one is correct?
+A idl B. 1&1
+C. ii &iii D. iii & iii
+Read the chapter below, and answer the question nos. 5 & 6:
+Mr. Rakib is the chief executive of a renowned company. A foreign delegate
+will come to visit his company tomorrow. He has made a presentation in his
+laptop and he will show it to them. He took the help of a piece of Software for
+the presentation.
+5. Which Software is suitable for Mr. Rakib for his representation?
+A. Microsoft Word B. Microsoft Powerpoint
+C. Microsoft Excel D. Microsoft Access
+6. The Software which is used by Mr. Rakib—
+i. will make the presentation impressive by using animation.
+il. will show the activities of the company by using sound and video.
+iii. will prepare the accounts of his company.
+Which one is correct?
+A i&il B. 1&1
+C. ii &iii D. iii &iil

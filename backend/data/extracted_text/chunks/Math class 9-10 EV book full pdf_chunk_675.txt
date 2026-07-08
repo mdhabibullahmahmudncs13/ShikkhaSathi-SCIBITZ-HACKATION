@@ -1,0 +1,36 @@
+# Chunk 675 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456324
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_675
+
+========================================
+
+--- Page 297 ---
+292 Mathematics Classes IX-X
+Theorem 29. If a line segment divides the two sides or their produced sections
+of a triangle proportionally, it is parallel to the third side.
+Special Nomination: In the triangle n A
+ABC the line segment DE divides the
+two sides AB and AC or their produced
+sections proportionally. That is, AD : D E
+DB = AE : EC. It is required to prove B ¢
+that DE and BC are parallel. B CD E
+Drawing: Join B, E and C', D.
+Proof:
+AADE AD
+Step 1. ABDE DB [Triangles with equal height]
+ANADE AE
+and ADEC ~ BC [Triangles with equal height]
+AD AE
+Step 2. But DB EC [Given]
+ANADE  AADE . .
+Step 3. Therefore, ABDE — ADEC [ from (i) and (ii)]
+ABDE = ADEC
+
+Step 4. But ABDE and ADEC are on the same side of the common base DE.
+
+So they lie between a pair of parallel lines.

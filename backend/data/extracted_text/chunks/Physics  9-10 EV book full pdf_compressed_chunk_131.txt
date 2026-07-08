@@ -1,0 +1,25 @@
+# Chunk 131 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.313655
+# Character count: 789
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_131
+
+========================================
+
+Y= 20 minutes © 20x 60s oS
+Notice that, we have used the word average speed instead of the word
+speed. Because, while you are riding the cycle, sometimes you rode fast and
+sometimes you rode slow. So we cannot talk about the ‘instantaneous’ speed,
+rather we can talk about the average speed in the time interval.
+Let us try to determine velocity now. Like speed, we cannot calculate
+instantaneous velocity. In this time interval, you rode the cycle at different
+velocities. The velocity has changed due to the motion being fast or slow. Again
+the velocity has changed due to the change of direction. Considering these
+changes, the magnitude of the average velocity will be:
+Average velocity = displacement/time
+Magnitude of average velocity = Magnitude of displacement/time
+
+3 km 3x 1000 m

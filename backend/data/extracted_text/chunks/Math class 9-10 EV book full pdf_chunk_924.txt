@@ -1,0 +1,39 @@
+# Chunk 924 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.481897
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_924
+
+========================================
+
+--- Page 408 ---
+Appendix 403
+
+Proof:
+
+1. Place ZABC on ZDEF in such a way that point A coincides with point
+D, and side AB coincides with side DE. Point C will fall on the same side
+of DE as point F. Since AB=DE, point B will coincide with point E.
+
+2. Since /ZBAC=/EDF and side AB coincides with side DE, side AC will
+coincide with side DF (by angle equality).
+
+3. Since AC=DF, point C will coincide with point F (by side equality).
+
+4. Now, since point B coincides with point E and point C coincides with
+point F, side BC will completely coincide with side EF.
+
+Therefore, ZABC coincides with ZDEF.
+
+.. ZABC=/DEF (Proved)
+
+Theorem 7
+
+If two sides of a triangle are equal, then the angles opposite those sides are also
+
+equal.
+
+Special Nomination: Suppose in triangle ABC, AB=AC.

@@ -1,0 +1,30 @@
+# Chunk 964 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.405523
+# Character count: 786
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_964
+
+========================================
+
+--- Page 367 ---
+Exercise
+General questions
+1. If a neutron can turn into a proton emitting a beta particle, then why are
+not all neutrons inside a nucleus gradually converted into protons?
+2. The resistance of a resistor increases with an increase in temperature,
+but why does the resistance of a semiconductor decrease with an
+increase in temperature?
+3. What is radioactivity? Explain.
+4. Explain the difference between alpha and beta particles.
+5. What is an integrated circuit?
+Mathematical questions
+1. The amount of C , in a fossil is 16 times less than expected. How old is
+the fossil?
+Put the tick mark ) on correct answer
+1. What do you mean by an alpha particle emitting from a radioactive element?
+(a) a hydrogen nucleus
+(b) a helium nucleus
+(c) a neutrally charged particle

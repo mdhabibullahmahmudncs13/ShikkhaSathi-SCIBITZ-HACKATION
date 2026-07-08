@@ -1,0 +1,39 @@
+# Chunk 350 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.877077
+# Character count: 790
+# Chunk ID: ICT 9-10.txt_0_350
+
+========================================
+
+Fill Color
+
+To fill color in any object: re 8
+
+A. Select the object. [7 ee T=]
+
+B. Click the Fill Indicator box of the | —— Cl
+Color Palette, activate it. The  —
+activated Fill Swatch will stay
+above the Stroke icon.
+
+C. Click the requisite color in Color Spectrum Bar.
+
+- The selected object will be filled with the color in Color Spectrum Bar. On
+the extreme right of the Color Spectrum Bar, a Swatch of black and white
+color will be found. If the black swatch is clicked, the object will be filled
+entirely with a black color, and if the white swatch is clicked, the object will
+
+gq be filled entirely with a white color.
+Ld
+
+
+--- Page 112 ---
+Information and Communication Technology 107
+
+The Use of Stroke
+
+The border of object is called Path. The measurement of making a path thick or

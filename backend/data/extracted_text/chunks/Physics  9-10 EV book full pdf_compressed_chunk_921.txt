@@ -1,0 +1,21 @@
+# Chunk 921 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.401297
+# Character count: 773
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_921
+
+========================================
+
+by emitting a kind of radiation. We call this process radioactivity. The radiation
+that comes out from the nucleus is called a radioactive ray.
+It is not the fact that when proton number exceeds 82 (atomic number more than 82)
+only then the nucleus becomes radioactive. Any nucleus of other atoms may be
+radioactive too. We have classified atoms on the basis of their electron number
+which is equal to the number of protons. External properties, nature, chemical
+properties; every feature of an element depends on the classification of
+electrons. So the number of neutrons of an atom can be different even if the
+number of electrons and protons is equal. These types of elements, with different
+numbers of neutrons, are called isotopes of that element. So, an isotope of an

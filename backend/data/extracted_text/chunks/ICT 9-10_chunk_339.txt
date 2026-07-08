@@ -1,0 +1,29 @@
+# Chunk 339 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.874495
+# Character count: 766
+# Chunk ID: ICT 9-10.txt_0_339
+
+========================================
+
+For selecting more than one object together
+
+- After selecting the first object. keep pressing the shift button and select the
+next object. Tn this way. select as many objects as required. When all the
+objects are selected only one bounding box will square them.
+
+- By clicking and dragging the resize box of the bounding box, all the objects
+will be enlarged and shortened together.
+
+- Click the mouse pointer on an empty space on the screen. the object will be
+selection-free. If any particular object requires to be selection free from
+numerous selected objects, click the object while pressing the Shift burton.
+
+Direct Selection Tool
+
+The white tool on the right of the Selection tool is called the Direct Selection
+
+Tool. This tool is called the White Arrow. =

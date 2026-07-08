@@ -1,0 +1,36 @@
+# Chunk 750 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383334
+# Character count: 796
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_750
+
+========================================
+
+imagine, a positively charged rod is brought near the disc. Then the disc will
+
+have negative charge due to induction (Figure 10.08). To make induction of
+
+negative charges, negative charge from other parts of the electroscope will have
+
+to come in the disc and as a result positive charge will be created in the gold
+
+leaves too. This positive charge will push gold leaves apart.
+
+Instead of bringing a positively charged object, if we bring a negatively charged
+
+object, then there will be gap too between the gold plates. This time it will be due
+
+to accumulation of negative charges there.
+
+10.4 Electric Force
+
+‘We have seen earlier that opposite charges attract each other and similar charges
+
+repel each other. But we do not
+
+know yet how attraction or
+
+repulsion works. To know this, we r

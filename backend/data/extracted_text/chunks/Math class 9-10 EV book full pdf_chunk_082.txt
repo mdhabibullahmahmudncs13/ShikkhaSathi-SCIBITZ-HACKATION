@@ -1,0 +1,29 @@
+# Chunk 82 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.397387
+# Character count: 565
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_82
+
+========================================
+
+ANB ANBNC
+Example 9. IfP={reN:2<2<6}andQ={r€N:xiscvenand
+x < 8}, determine PN Q. BS
+
+
+--- Page 34 ---
+Chapter 2. Sets and Functions 29
+Solution: Given,
+P={zeN:2<z<6}={34,506}
+Q={reN:xisevenand x <8} ={2,4,6,8}
+SL PNQ=1{3.4506}n{24,6,8} = {4.6}
+The set to be determined is {4,6} PNQ
+Disjoint Set
+If there is no element common to any two sets, then these two sets are called
+disjoint sets. Let A and B be two sets. If ANB = @ then A and B are said
+to be mutually disjoint sets.
+Work: If U = {1,3,5,9,7,11}, E = {1,59} and F = {3,7,11}, then
+determine EU F¢ and EN F*.

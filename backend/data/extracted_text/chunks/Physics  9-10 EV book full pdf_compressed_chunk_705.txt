@@ -1,0 +1,21 @@
+# Chunk 705 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378344
+# Character count: 757
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_705
+
+========================================
+
+(ii) The rays which are parallel with the principle axis, (Figure 9.20 XP) will
+(PS) appear to diverge from the focal point (F) after refraction.
+(iii) If the direction of the light ray is reversed then it goes back through
+the way it came. Therefore, if any ray goes (Figure 9.20, SP) towards
+the focus then it will be refracted in parallel with the principle axis.
+Now we can find out how the image of an object will be in a concave lens.
+Suppose an object XY is kept near a concave lens. (Figure 9.20) To make the
+analysis easy, we have taken the point Y of that object on the principle axis YR.
+To find where the image of a point will be formed, at least two rays should be
+drawn from that point. But we can find the image of Y without drawing two rays.

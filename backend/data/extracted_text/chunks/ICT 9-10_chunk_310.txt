@@ -1,0 +1,22 @@
+# Chunk 310 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.869475
+# Character count: 440
+# Chunk ID: ICT 9-10.txt_0_310
+
+========================================
+
+- Gradient Editor Dialogue box can be viewed by clicking on the gradient bar.
+
+- Color Stop triangles can be viewed on ’ gL
+the left and the right end of the ===
+gradient slider of the gradient editor 7 =
+dialogue box. and the Opacity Stop i =
+triangles are found on the top of the Ea
+same dialogue box. Suppose that the = £
+starting color of a linear gradient is $= ~
+red and the finishing touch is yellow. : J
+To use blue instead of red —

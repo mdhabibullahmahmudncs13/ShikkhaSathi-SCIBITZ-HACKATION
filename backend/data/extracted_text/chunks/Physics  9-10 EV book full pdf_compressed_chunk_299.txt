@@ -1,0 +1,28 @@
+# Chunk 299 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.329973
+# Character count: 642
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_299
+
+========================================
+
+Doing positive work — giving energy to the object.
+Doing negative work — taking away energy from the object.
+You can clearly understand that energy has no direction and it is a scalar
+quantity. As we produce energy by doing work or do work spending energy,
+these two have the same unit and the same dimension.
+Unit of energy: J (Joule)
+Dimension of energy [W] = ML2T 2
+a
+|.
+
+Example
+
+Q J
+Question: You have moved an object 10 m by applying a force of 100 N on it.
+If the frictional force is 10 N in the opposite direction, then what is the amount
+of work done by you? What is the amount of work done by the frictional force? 8
+(Figure 4.01) ~

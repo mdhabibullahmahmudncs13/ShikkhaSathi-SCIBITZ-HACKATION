@@ -1,0 +1,21 @@
+# Chunk 72 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307549
+# Character count: 740
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_72
+
+========================================
+
+type, which can be performed by using an interesting scale called vernier scale.
+Slide calipersor vernier calipers
+Let us consider that the length of an object comes in between
+4 and 5 millimeter marking i.e. the length of the object is greater than 4 mm and
+less than 5 mm. We can use the veriner scale to find how much fraction is greater
+than 4 mm. This scale is attached to the main scale and can be moved forward
+and backward (Figure 1.05). In the example shown in the figure the length of 9
+mm of main scale is divided into 10 divisions on the vernier scale. Therefore every
+division of the vernier scale equals = mm, i.e. less than a millimeter by =
+millimeter. If the initial mark of the vernier scale coincides with any mark of the

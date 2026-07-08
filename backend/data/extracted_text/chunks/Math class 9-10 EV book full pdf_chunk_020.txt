@@ -1,0 +1,25 @@
+# Chunk 20 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.391065
+# Character count: 587
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_20
+
+========================================
+
+numbers and they are mutually Trime and ¢ > 1.
+2g and z cannot be equal, that is 2¢ # Z
+.v/2 cannot be expressed in the form ; , that is V2 # ;
+.+/2 is an irrational number. o
+Work: Prove that v/3 is an irrational number.
+Example 2. Prove that when one is added to the product of 4 consecutive
+natural numbers this becomes a perfect square.
+Solution: Let the consecutive integers be x, x +1, © +2, +3
+If we add 1 to the product of these 4 integers we get:
+w(x +1)(z+2)(z +3) +1
+=z(z+3)(z+1)(r+2)+1
+= (2? +32) (a? + 3x +2) + 1
+=a(a+2)+1 [Assume 2? + 32x =a |
+g =a*+2a+1=(a+1)?=(2>+3z +1)?

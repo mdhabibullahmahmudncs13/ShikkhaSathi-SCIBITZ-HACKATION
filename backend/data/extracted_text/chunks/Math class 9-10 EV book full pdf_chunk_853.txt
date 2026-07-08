@@ -1,0 +1,30 @@
+# Chunk 853 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474550
+# Character count: 545
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_853
+
+========================================
+
+--- Page 372 ---
+Chapter 17. Statistics 367
+30-35
+36 41
+12-47
+ET IN I TE
+60-65
+[w=]
+Here, n = 70 and Z = 2 or 35
+Therefore, median is the value of 35th term. 35th term lies in the class
+(48-53). Hence the median class is (48-53).
+cS L=48,F.=31,f,=25 and h=6
+So median = 48 + (35 — 31) x = =48+4 x > = 48 + 0.96 = 48.96
+J ia)
+Required median 48.96.
+
+3) The table useful to draw the frequency polygon is given below: The median
+of the class prior to the first class would be 26.5 and the median of the class
+following the last class would be 68.5.

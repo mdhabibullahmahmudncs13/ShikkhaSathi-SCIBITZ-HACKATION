@@ -1,0 +1,32 @@
+# Chunk 424 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.889029
+# Character count: 720
+# Chunk ID: ICT 9-10.txt_0_424
+
+========================================
+
+Enter Choice: 2
+Eater number of Meters: 60
+Feel : 196.800
+To check muluple conditions in a Python program, the elif statement is used
+alongside the if...else statement, meaning else if. The elif statement is placed
+between the if and else statements. The elif statement is popular as an alternative
+to using multiple if statements in a program. In other words. elif is used to check
+multiple conditions in a program. The format for using the elif statement is as
+follows:
+if {Conditional}:
+Blockl
+=lif (Conditional?) :
+Block?
+Sees
+DafaultBlack:
+B1ackM;
+Practical Problem #7: Write a Python program to determine if a given
+number is positive, negative, or zero.
+Solution: The code for the program is provided below. n
+8
+8

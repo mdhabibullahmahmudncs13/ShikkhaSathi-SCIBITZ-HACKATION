@@ -1,0 +1,23 @@
+# Chunk 755 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383750
+# Character count: 294
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_755
+
+========================================
+
+charge will not feel any force.
++5 +3
+so, (E99, G90
+x2 (1-x)2
+5(1 — x)? = 3x?
+2x2 —10x+5=0
+_ 10 £100 — 40
+x= 2
+x =4.435 or 0.565
+As the value of x will be between 0 and 1, so the value of x must be 0.565.
+(Can you try what it would be if the value of x was 4.435?)
+Forma-36, Physics, Class 9-10

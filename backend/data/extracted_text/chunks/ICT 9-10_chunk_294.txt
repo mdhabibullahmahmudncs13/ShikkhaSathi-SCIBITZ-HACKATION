@@ -1,0 +1,35 @@
+# Chunk 294 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.866266
+# Character count: 661
+# Chunk ID: ICT 9-10.txt_0_294
+
+========================================
+
+- Click on the icon of Create a New Layer below the palette, and a new
+Layer will be added above the selected layer. This will be Layer no. 1, and
+it will be transparent too.
+
+- A rectangular selection will be created on Layer 1 with the Rectangular
+Marquee Tool, and that will be filled with green colour.
+
+- The rectangular object can be shified elsewhere by the Move tool.
+
+B. Insert Layer no. 2 in the panel. and make a circular object:
+
+- Click on Layer no. 1. and it will be selected.
+
+- Click the icon of ‘Create a new layer’ below the palette, and it will be a
+transparent layer.
+
+2
+Ei
+Forma-12, ICT(9-10)
+
+
+--- Page 95 ---
+90 Multimedia and Graphics
+Or

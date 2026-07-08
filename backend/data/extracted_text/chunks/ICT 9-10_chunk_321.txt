@@ -1,0 +1,21 @@
+# Chunk 321 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.872461
+# Character count: 376
+# Chunk ID: ICT 9-10.txt_0_321
+
+========================================
+
+(CMYK/Preview) is the size of visible area and presentation of color mode. The
+
+entire part stretching to the right is the title bar.
+
+- If any name is not given during opening a file. it can be given after
+completing and saving the work too. Files are given different names, and
+when a file is opened, its name is viewed on the title bar to the right of the
+
+“ application.
+8

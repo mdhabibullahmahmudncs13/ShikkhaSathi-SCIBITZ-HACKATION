@@ -1,0 +1,23 @@
+# Chunk 575 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.364258
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_575
+
+========================================
+
+propagation of the wave and the direction glass.
+of vibration is the same. The velocity of
+sound depends on the property of the medium. In gaseous mediums its velocity
+is low, in liquids greater, and in solids it is much more. The velocity of sounds
+depends on the temperature and humidity of the medium. The intensity of sound
+is proportional to the square of the amplitude of the wave. Therefore, if the
+amplitude of a wave is high, the intensity of the sound will be high and if the
+amplitude is low, the intensity will be low.
+@ Do Yourself:
+Take two plastic glasses. Make two small holes on the bottom of the glasses
+with a hot safety pin. Put thread through this hole and tie the thread inside
+the cup (Figure 7.12). Tie the two plastic glasses with long thread. One

@@ -1,0 +1,26 @@
+# Chunk 418 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.888091
+# Character count: 776
+# Chunk ID: ICT 9-10.txt_0_418
+
+========================================
+
+Sample results obtained by running the program:
+Please enter your mark: 85
+You have passed in the subject.
+if...else Statement
+In Python, the if statement is used to execute a specific action or statement based
+on a condition. The else statement, meaning "otherwise," is used along with if to
+specify an alternative action when the condition is not met. Therefore, this struc-
+ture is known as the if...else statement. The format for using the if...else state-
+ment is as follows:
+Af Senaicion: [“mogyorie_ |
+sien igen Body af else
+Here it is mentionable that the condition used in if...else control typically
+consists of one or more logical or relational expressions. A colon is placed after
+the if Condition statement.
+Tf the condition is true, the tasks specified in the <<

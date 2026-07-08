@@ -1,0 +1,27 @@
+# Chunk 207 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.320936
+# Character count: 729
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_207
+
+========================================
+
+--- Page 74 ---
+Force 69
+We can apply an unbalanced
+force on the object without cutting
+the thread too. If by pulling the i
+object we displace it slightly T Li
+along one side, then the tension —
+of the thread and the weight will | = ©
+not work in the opposite w
+direction. Then the two forces 4
+ie. tension of the thread and Figure 3.02: The force is balanced in the first
+weight of the body will combine figure. In second figure, as soon as the pendulum
+and produce a resultant force. is released; a resultant force will act, so the
+When the object is just released, pendulum will start movement.
+this resultant force will start working on the object and the body will oscillate.
+This is another example of the unbalanced force.

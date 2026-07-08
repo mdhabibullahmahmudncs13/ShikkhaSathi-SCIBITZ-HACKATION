@@ -1,0 +1,19 @@
+# Chunk 708 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378605
+# Character count: 199
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_708
+
+========================================
+
+The things which are seen in the case of convex mirror are true in the case of
+concave lens.
+
+(a) Its position will be in between the center and focus of the lens.
+
+(b) It is virtual
+
+(c) Itis erect.

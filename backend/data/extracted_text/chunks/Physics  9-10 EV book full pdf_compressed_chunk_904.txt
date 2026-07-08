@@ -1,0 +1,21 @@
+# Chunk 904 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.399037
+# Character count: 778
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_904
+
+========================================
+
+voltage source is connected. Since the wire is connected by winding the iron
+core, so when current will flow the core will be magnetized and the magnetic
+lines of force will pass through the rectangular iron core.
+Since we have connected AC voltage source, the magnetic strength inside the
+core will increase or decrease and will change its direction, i.e. the magnetic field
+will change continuously. On the other side of the iron core, there is wire winding
+also (definitely covered with insulator). The magnetic field will change
+continuously in that coil through the iron core, and this change will produce an
+electromotive force (emf) in the coil of the right side. If we wish, we can see it
+in a voltmeter. The transfer of electricity from one coil to another coil in this

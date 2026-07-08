@@ -1,0 +1,28 @@
+# Chunk 333 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.423020
+# Character count: 775
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_333
+
+========================================
+
+5 cE F
+Theorem 9. (ASA criterion)
+If two angles and the included side of a triangle are equal to two corresponding
+angles and the included side of another triangle, the triangles are congruent.
+Let, in AABC and ADEF, /B = /E, ZC = A »
+ZF and the side BC' = the corresponding side
+EF. Then the triangles are congruent, i.e: ZN
+ANABC = ADEF ’ cr r
+Theorem 10. (Hypotenuse-side criterion)
+If the hypotenuse and one side of a right-angled triangle are respectively equal
+to the hypotenuse and one side of another right-angled triangle, the triangles are
+congruent.
+Let AABC and ADEF be two right angled 4 b
+triangles, in which the hypotenuse AC =
+hypotenuse DF and AB = DE. Then, AABC =
+ADER B [a F
+There is a relation between the sides and angles of a triangle. This relation is

@@ -1,0 +1,19 @@
+# Chunk 256 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.859963
+# Character count: 251
+# Chunk ID: ICT 9-10.txt_0_256
+
+========================================
+
+4. The dialogue box called Insert Picture will come if the File button below
+Insert Box is clicked as the radio button of Picture or Texture Fill is selected.
+Select the picture opening the folder of the dialogue box that contains the
+picture.
+
+a
+Q
+ES

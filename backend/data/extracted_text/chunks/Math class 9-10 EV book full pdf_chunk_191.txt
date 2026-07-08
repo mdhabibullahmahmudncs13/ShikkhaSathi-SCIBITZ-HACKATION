@@ -1,0 +1,23 @@
+# Chunk 191 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.408593
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_191
+
+========================================
+
+Exponents and Logarithms
+Very large or very small numbers or expressions can easily be expressed by using
+exponents. As a result, calculations and solution of mathematical problems
+become easier. Scientific or standard form of a number is expressed by using
+exponents. Therefore, every student should have the knowledge of exponents
+and its applications.
+Exponents be get logarithms. Multiplication and division of numbers or expressions
+and exponent related calculations have become easier with the help of logarithms.
+Use of logarithm in scientific calculations was the only way before calculators and
+computers became available. Still the use of logarithm is important as the alternative
+of calculator and computer.
+In this chapter, exponents and logarithms have been discussed in detail.

@@ -1,0 +1,29 @@
+# Chunk 833 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472963
+# Character count: 787
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_833
+
+========================================
+
+class interval along with z-axis and frequency along with y-axis. The class
+interval along with z-axis has started from 45.5. The broken segments A
+have been used to show the presence of previous squares starting from from
+origin to 45.5.
+Y
+25)
+so LET]
+rll PENEEN
+to TEE [1]
+slo LEE EET |
+iy PANU (FI
+45.5 50.5 55.5 60.5 65.5 70.5
+2) The mid-points of the opposite sides parallel to the base of rectangle of the
+histogram have been fixed for drawing frequency polygon from histogram.
+The mid-points have been joined by line segments to draw the frequency
+polygon (shown in the adjacent figure). The mid-points of the first and the
+a last rectangles have been joined with z-axis representing the class interval
+S by the end points of line segments to show the frequency polygon attractive

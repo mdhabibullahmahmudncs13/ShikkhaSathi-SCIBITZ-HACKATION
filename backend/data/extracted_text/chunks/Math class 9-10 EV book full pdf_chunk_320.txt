@@ -1,0 +1,33 @@
+# Chunk 320 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.421729
+# Character count: 663
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_320
+
+========================================
+
+--- Page 137 ---
+132 Mathematics Classes IX-X
+In the figure the line PQ intersects the straight lines
+AB and CD at E and F respectively and E is
+
+1) ZPEB = corresponding ZEFD or, 4 B
+
+2) ZAEF = alternate ZEFD or, Cc F D
+
+3) ZBEF + ZEFD = 2 right angles 7)
+Therefore, the straight lines AB and C'D are parallel.
+Corollary 1. The lines which are parallel to a given line are parallel to each
+other.
+Exercises 6.2
+
+1. Define interior and exterior of an angle.
+
+2. If there are three different points in a line, identify the angles in the figure.
+
+3. Define adjacent angles and locate its sides.
+
+4. Define with a figure of each: opposite angles, complementary angle,

@@ -1,0 +1,22 @@
+# Chunk 356 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.335290
+# Character count: 763
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_356
+
+========================================
+
+Figure 4.06: Energy production from nuclear reaction
+In this reaction, the three neutrons that have come out, actually come out with
+huge speed, so the other uranium (330) nuclei cannot capture them very
+easily. If by some means their kinetic energy can be lowered, then they will be
+captured by other uranium (233U) nuclei and thus will break it creating some
+more energy and releasing three new neutrons. In a nuclear power plant, this
+work is done, so when the speed of the emerging neutrons goes down, they again
+break other nucleuses and this process continues. This process is called a chain
+reaction.
+In this process, a huge amount of heat energy is produced, using this heat energy
+water is vaporized and turbine is rotated with the help of this vapor and

@@ -1,0 +1,32 @@
+# Chunk 445 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.434204
+# Character count: 770
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_445
+
+========================================
+
+--- Page 191 ---
+186 Mathematics Classes IX-X
+PP B
+Os
+C
+AB and AC are the tangents of the circle BC'D. Centre of the circle in O
+and ZBAC = 60°. According to this information answer the questions (7 -
+8)
+7. What is the value of ZBOC ?
+1) 300° 2) 270° 3) 120° 4) 90°
+8. If D be the midpoint of the arc BDC then
+(i) £BDC = /BAC
+1
+(ii) ZBAC = 54BOC
+(iii) £BOC = £DBC + ZBCD
+‘Which one of the following is correct?
+1) iand i 2) and iii 3) ii and iii 4) i, ii and iii
+9. Draw a tangent to a circle which is parallel to a given straight line.
+10. Draw a tangent to a circle which is perpendicular to a given straight line
+11. Draw two tangents to a circle such that the angle between them is 60°.
+12. Draw the circumcircle of the triangle whose sides are 3 ¢ m, 4 c.m. and 4.5

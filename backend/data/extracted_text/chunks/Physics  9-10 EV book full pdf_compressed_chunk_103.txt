@@ -1,0 +1,34 @@
+# Chunk 103 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.310449
+# Character count: 787
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_103
+
+========================================
+
+--- Page 36 ---
+Chapter Two
+Motion
+pe
+
+There are many kinds of motions around us. When a person rides a cycle, it's a
+kind of motion. When a car moves, that is another kind of motion. When a plane
+flies, it is also a motion. When the earth revolves round the sun, it is also a
+motion. When a hanging bulb oscillates, it is a kind of motion. When a bullet
+ejects from a rifle, it's a motion also. Apparently it seems that all these several
+types of motions are of different types. But you will be surprised and happy to
+know that all these motions can be explained by a few number of quantities. In
+this chapter those quantities, their units, dimensions and the relationship among
+them will be discussed.
+
+8
+
+5
+
+
+--- Page 37 ---
+32 Physics
+® By the end of this chapter we will be able to-

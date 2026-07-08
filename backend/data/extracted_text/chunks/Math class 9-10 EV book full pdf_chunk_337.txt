@@ -1,0 +1,26 @@
+# Chunk 337 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.423436
+# Character count: 702
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_337
+
+========================================
+
+But this is also against the supposition.
+Step 2. Therefore, the side AC is neither equal to nor less than AB.
+AC > AB (Proved).
+There is a relation between the sum or the difference of the lengths of two sides
+and the length of the third side of a triangle.
+Theorem 13. The sum of the lengths of any two sides of a triangle is greater
+than the third side.
+>
+Let ABC be a triangle. Let BC be the greatest side 2
+of the triangle. Then, AB + AC > BC.
+"
+Corollary 5. The difference of the lengths of any two sides of a triangle is
+smaller than the third side.
+Let ABC be a triangle. Then the difference of the lengths of any two of its sides
+is smaller than the length of third side, i.e: AB — AC" < BC. g

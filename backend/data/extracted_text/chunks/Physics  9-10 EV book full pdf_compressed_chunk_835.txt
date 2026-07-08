@@ -1,0 +1,29 @@
+# Chunk 835 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391335
+# Character count: 695
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_835
+
+========================================
+
+Solution: Voltage at D is zero
+Voltage at A is 6V
+Forma-40, Physics, Class 9-10
+
+
+--- Page 319 ---
+314 Physics
+What may be the voltage at E, how can it be determined, many of us may be
+confused about this. Actually the case is very simple. When current flows
+through a resistance, the voltage changes. There is no chance of current flow in
+this part BE of the circuit. It can go nowhere after reaching E starting from B.
+So, the voltage at B and E (and any point between them) does not change, the
+voltage at B remains the same at E.
+To determine the voltages of B and E, the current has to be determined. If
+current is I, then i v_ 6V 1 \
+
+TR O5Q+10Q+15Q 5
+So, voltage difference from A to B, 1

@@ -1,0 +1,27 @@
+# Chunk 738 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.381925
+# Character count: 705
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_738
+
+========================================
+
+--- Page 279 ---
+274 Physics
+10.2 Static Electricity by Friction
+If a glass rod is rubbed by a piece of silk, (Figure 10.02) electrons start to move
+from the glass to the silk. So the glass rod is positively charged and the silk
+negatively. This happens because silk has more affinity for electrons than the
+glass. Again if a plastic is rubbed using a flannel ( or wool), electrons will move
+to plastic from the flannel. Because plastic has more affinity for electrons than
+the flannel.
+. pe flannel a AT
+sk AEP Be N22
+rei ER plastic AE 5) \ ED
+glass Pd , \ dln y
+: 4 Ea N=] a A
+Figure 10.02: If glass is rubbed with silk and a plastic is rubbed with flannel
+positive and negative charges can be produced,

@@ -1,0 +1,28 @@
+# Chunk 412 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.886532
+# Character count: 763
+# Chunk ID: ICT 9-10.txt_0_412
+
+========================================
+
+This is the Modulo operator. Using this operator, you can divide the
+variable on the left side by the variable on the right side to get the
+remainder.
+Practical Problem # 1: Let's create a program to take two numbers as input
+and print their sum.
+Solution: The program to take two integers as input and print their sum is given
+below-
+numi = int(input(‘Insert the first integer:'))
+num?2 = int(input('Insert the second integer:'))
+result = num l+num?2
+print('The sum of, num], 'and’. num?2, "is". result)
+‘When you run the above program, you can input any two numbers of your choice,
+and then it will calculate the sum of those numbers, displaying the result as shown
+below.
+Insert the first integer: 50
+Insert the second integer: 100
+The sum of 50 and 100 is 150

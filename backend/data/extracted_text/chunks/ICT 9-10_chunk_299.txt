@@ -1,0 +1,31 @@
+# Chunk 299 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.867532
+# Character count: 797
+# Chunk ID: ICT 9-10.txt_0_299
+
+========================================
+
+- Any picture of any layer can be edited whenever required. The picture of a
+single layer can be edited once.
+
+To change a layer into Target Layer:
+
+- Click the mouse pointer on the layer, and the layer will be changed into the
+Target Layer. The Layer will be viewed and selected then.
+
+Changing the Opacity of the Layer
+
+- Opacity is the intensity of colour. In the opacity text box on the right side
+above the Layer palette, 100% is viewed as the full iniensity of colour. If
+you put mouse pointer on Opacity, it will be transformed into a
+two-pointing arrow. When it will be dragged to the left. the opacity will
+decrease, and when it will be dragged to the right, the opacity will increase.
+
+- Or by typing a numerical figure in the opacity textbook the opacity can be
+changed.
+
+Removing Layer

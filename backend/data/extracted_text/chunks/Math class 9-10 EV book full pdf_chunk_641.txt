@@ -1,0 +1,29 @@
+# Chunk 641 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453444
+# Character count: 753
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_641
+
+========================================
+
+n-th term = a + (n — 1)d =1200 4 (n — 1) 100=1100+100n
+.. The series is 1200 4 1300 + 1400 + - - - + (1100+100n)
+2) We know, n-th term =a + (n — 1)d
+.". deposit in the 18 th month = a + (18 — 1)d = 1200 + 17 x 100 = 2900 Tk.
+Again, summation of first n-terms = Hea + (n — 1)d}
+.. deposit in first 18 months = Br x 1200 + (18 — 1) x 100} Tk.
+=9(2400 + 1700) = 36900 Tk.
+3) Let, he deposits 106200 Tk. in n months.
+According to the question, aed + (n — 1)d} = 106200
+or, 22 x 1200+ (n — 1) x 100} = 106200
+or, n(2400 + 100n — 100) = 212400
+or, 100n? + 2300n — 212400 = 0
+or, n? 4+ 23n — 2124 = 0
+or, n? + 59n — 36n — 2124 = 0
+or, (n+59)(n — 36) = 0
+So, n= —59 or, n = 36
+Number of months cannot be negative. .
+.. The required time: 36 months or 3 years. g

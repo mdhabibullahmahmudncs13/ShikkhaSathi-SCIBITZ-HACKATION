@@ -1,0 +1,27 @@
+# Chunk 439 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.892515
+# Character count: 754
+# Chunk ID: ICT 9-10.txt_0_439
+
+========================================
+
+--- Page 143 ---
+138 Information and Communication Technology
+1 The counter initial value with the appropriate
+=i I data type is set in the CounterInitialization
+while (condition); | Part
+The final value of the counter variable or the
+nN condition to determine the final value is
+fiiimiad given in the Condition part. the decre-
+ment/increment value of the counter variable
+Stop is defined while revolving each time in the
+| | decrement/increment part. Statements asso-
+ciated with the While Loop will continue to
+be executed until the condition is true. The loop terminates whenever the
+condition becomes false.
+The statement associated with the While Loop is usually a compound
+statement. If necessary, another While Loop or for loop can be used within

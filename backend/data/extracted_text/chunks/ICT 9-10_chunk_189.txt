@@ -1,0 +1,17 @@
+# Chunk 189 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.846986
+# Character count: 326
+# Chunk ID: ICT 9-10.txt_0_189
+
+========================================
+
+-
+Various words used in Web Browsing sofi- kn i Com i
+ware are given in the next page -
+URL: The complete address of a web site or page is called URL. The full form of
+URL is Uniform Resources Locator: For example: http://www .shikha.com: But note
+that only www.shiklcha.com or shikkha.com is not called URL. A URL has three §

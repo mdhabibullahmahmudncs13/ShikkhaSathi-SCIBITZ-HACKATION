@@ -1,0 +1,39 @@
+# Chunk 925 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.481979
+# Character count: 488
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_925
+
+========================================
+
+If two sides of a triangle are equal, then the angles opposite those sides are also
+
+equal.
+
+Special Nomination: Suppose in triangle ABC, AB=AC.
+
+We need to prove that ZABC=ZACB.
+
+Drawing: Draw the bisector of ZBAC as AD such J
+
+that it intersects BC at point D.
+
+Proof: In triangles AABD and AACD:
+
+1) AB=AC (Given) B 5 c
+
+2) AD is a common side
+
+3)Included angles ZBAD=/CAD (By construction)
+
+Therefore, AABD=AACD [Side-Angle-Side Theorem]
+
+.. ZABD=/ACD
+
+Hence, ZABC=/ACB (Proved)
+
+©“
+8

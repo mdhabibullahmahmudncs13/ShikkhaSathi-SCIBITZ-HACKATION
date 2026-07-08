@@ -1,0 +1,28 @@
+# Chunk 693 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458312
+# Character count: 533
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_693
+
+========================================
+
+alternative method.
+Example 1. Divide a line segment of length 7 ¢ m internally in the ratio 3: 2.
+Solution: Draw any ray AG. From AG, cut a
+line segment AB = 7 ¢ m. Draw an angle ZBAX x
+C
+at A. From AX, cut the lengths AE = 3 c.m. B
+and EC = 2 cm from EX. Join B,C. At >
+E, draw an ZAED equal to ZACB whose side 2
+intersects AB at D. Then the line segment AB 4 3) 3G
+is divided at D internally in the ratio 3 : 2.
+‘Work:
+3
+Draw a triangle similar to a particular triangle whose sides are —x the sides
+2)
+of the given triangle.
+FS
+Bl

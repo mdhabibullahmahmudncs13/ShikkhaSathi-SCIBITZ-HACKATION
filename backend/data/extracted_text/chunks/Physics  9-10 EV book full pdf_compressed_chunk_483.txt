@@ -1,0 +1,39 @@
+# Chunk 483 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.349529
+# Character count: 759
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_483
+
+========================================
+
+--- Page 171 ---
+166 Physics
+6.2.1 Relation among different scales:
+A definite temperature is expressed in the Celsius, Kelvin and Fahrenheits scale
+as T, T, and 7 respectively. Then we can write:
+T,—0  T¢—27315  Tp—32
+100-0  373.15-273.15 212-32
+Or,
+Te Tq—27315 Tp—32
+100 100 180
+The readings of Kelvin and Fahrenheit scales with respect to 7, will be respectively:
+Te = Tg —273.15°
+5 o
+Te = 9 (Tp — 32)
+a
+€"
+Example
+Question: At which temperature are the readings in Celsius and Fahrenheit scales
+equal?
+Answer: The relation between Celsius and Fahrenheit scale is
+5
+Te = 5 (Ty = 32°)
+9Te =5Tp — 5x 32°
+If 7. and 7, are equal then we get:
+4T¢ = —5 x 32° = —160°
+T, = —40°
+That is, the temperature which shows - 40° C the same temperature also
+shows - 40° F.

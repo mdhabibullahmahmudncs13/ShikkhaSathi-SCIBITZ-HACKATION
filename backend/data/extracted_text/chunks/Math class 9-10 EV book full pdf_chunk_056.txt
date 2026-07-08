@@ -1,0 +1,35 @@
+# Chunk 56 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.394401
+# Character count: 585
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_56
+
+========================================
+
+those digits exactly as they are. However, for finding approximation up to certain
+decimal places we need to check the next digit. If that digit is 5 or more, 1 should
+be added to the last position. Otherwise it will be kept in tact.
+Example 20. Find square root of 13, and write down its approximate value up
+to 3 decimal places.
+Solution:
+3) 13 ( 3.605551...
+9
+66 ) 400
+396
+7205 ) 40000
+36025
+72105 ) 397500
+360525
+721105 ) 3697500
+3605525
+7211101 ) 9197500
+7211101
+1986399
+the desired square root is 3.605551. .., and desired approximation up to 3
+decimal places is 3.606 i.
+<
+IS
+Bl

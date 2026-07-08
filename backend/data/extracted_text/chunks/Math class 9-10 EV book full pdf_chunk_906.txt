@@ -1,0 +1,29 @@
+# Chunk 906 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480036
+# Character count: 760
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_906
+
+========================================
+
+--- Page 400 ---
+Appendix 395
+Types of Quadrilateral
+Parallelogram:A parallelogram is a quadrilateral with
+opposite sides parallel. The region bounded by a
+parallelogram is also known as parallelogram. Parallclogram
+Rectangle:A rectangle is a parallelogram with a
+right angle. The region bounded by a rectangle is a
+rectangular region.
+Rectangle
+Rhombus:A rhombus is a parallelogram with equal
+adjacent sides, i.e., the opposite sides of a rhombus are
+parallel and the lengths of four sides are equal. The
+region bounded by a rhombus is also called rhombus. Rhombus
+Square: A square is a rectangle with equal adjacent
+sides, i.e., a square is a parallelogram with all sides
+equal and all right angles. The area bounded by square
+is also called a square. Square

@@ -1,0 +1,30 @@
+# Chunk 674 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456225
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_674
+
+========================================
+
+proportional |
+Step 2. The heights of AADE and ADEC are equal
+cL —— = = [The bases of the triangles of equal height are
+proportional |
+Step 3. But ABDE = ADEC [On the same base DE and between same
+pair of lines]
+. AADE  AADE
+""ABDE  ADEC
+AD AE
+Step 4. Therefore, DB EC
+ie, AD: DB = AE : EC
+Corollary 1. If the line parallel to BC of the triangle ABC intersects the sides
+. AB AC AB AC
+AB and AC at D and E respectively, then iD - AE and BD CE
+Corollary 2. The line through the mid point of a side of a triangle parallel to
+another side bisects the third line.
+The proposition opposite of theorem 28 is also true. That is if a line segment
+=o divides the two sides of a triangle or the line produced proportionally, it is parallel
+S to the third side. Here follows the proof of the theorem.

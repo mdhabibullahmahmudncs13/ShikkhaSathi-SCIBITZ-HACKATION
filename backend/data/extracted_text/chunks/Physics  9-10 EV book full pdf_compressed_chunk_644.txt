@@ -1,0 +1,28 @@
+# Chunk 644 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.371866
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_644
+
+========================================
+
+--- Page 238 ---
+Reflection of Light 233
+would be the same as the object. These three different cases can be written precisely
+when the object is outside the focal distances. If any object is placed outside the focal
+length, the images will be as follows:
+
+(a) The position of the image depends on the position of the object. When the
+object is placed within the focal point and at concave mirror's center, the
+image will be formed outside the center. As the object is placed outside the
+center of curvature of the concave mirror, the image be formed inside the
+center. If the object is placed at the center, the image will also form at the
+center.
+
+(b) The image is real. So, as we can say that if the image itself is the object, the
+object becomes the image.
+
+(c) The image is inverted.

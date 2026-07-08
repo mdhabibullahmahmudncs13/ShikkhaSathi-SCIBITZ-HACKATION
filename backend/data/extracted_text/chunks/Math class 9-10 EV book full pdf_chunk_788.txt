@@ -1,0 +1,32 @@
+# Chunk 788 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468546
+# Character count: 733
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_788
+
+========================================
+
+--- Page 347 ---
+342 Mathematics Classes IX-X
+Example 26. In the figure, ABCD is a square whose length of each side is 22
+metre and region AED is a half circle. Determine the area of the whole region.
+Solution: Let the length of each side of the square ABCD be a.
+.-. Area of square region = a? £
+Again, AED is a half circle. YN
+A 2 D
+22
+.. Radius of the half circle r = Bl metre = 11 metre. oo
+1
+Therefore, area of the half circle = mr? H 0
+2 B [4
+.. Area of the whole region = Area of the square ABC'D + area of the half circle
+AED
+1
+=(a®+ 37%)
+1
+= (222 + 7% 3.1416 x 11%) = 674.07 square metre (approx.)
+The required area is 674.07 square metre (approx.)
+Example 27. In the figure, ABCD is a rectangle whose length is 12 metre the

@@ -1,0 +1,37 @@
+# Chunk 284 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864272
+# Character count: 744
+# Chunk ID: ICT 9-10.txt_0_284
+
+========================================
+
+Saving File
+
+- Give the ‘Save’ command from the ‘Tile’ menu, and the “Save As’ dialogue
+box will be viewed.
+
+- Inthe box of “File Name” of the 'Save As’ dialogue box, type the name of the
+file, for example, Practice’.
+
+- (Click the ‘Ok’ button in the dialogue box, and the file will be saved as
+
+eo “Practice”.
+&  - ‘Practice’ can be opened for further work later.
+
+
+--- Page 92 ---
+Information and Communication Technology 87
+
+Layer
+
+An idea of Layer is required before creating objects or editing photos. Almost at
+
+every stage of editing photos, you have to work through Layer.
+
+Layer 1s the screen of editing photos or the phases of a canvas. In this process,
+
+editing can be done by putting numerous transparent canvases one after another.

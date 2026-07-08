@@ -1,0 +1,24 @@
+# Chunk 76 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.396634
+# Character count: 436
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_76
+
+========================================
+
+Observation: If order of elements in the set are changed or certain element is
+repeated set is not changed.
+
+Difference of Sets
+
+Let A = {1,2,3,4,5} and B = {3,5}. If we delete the elements of set B from
+that of A then we get {1,2,4} and is denoted by A\ B or A — B and is read A
+delete B.
+
+A-B={1,2345)}— {3,5} ={1,2.4}
+
+Example 6. If P= {x:2 isa factor of 12 } and Q = {x : z is a multiple of 3 5
+and xz < 12}, then determine P — Q. =

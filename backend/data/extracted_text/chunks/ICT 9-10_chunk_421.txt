@@ -1,0 +1,27 @@
+# Chunk 421 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.888572
+# Character count: 755
+# Chunk ID: ICT 9-10.txt_0_421
+
+========================================
+
+Aum = int{input('Insert a number= '))
+num$2 {= 0:
+print{'The number is odd‘)
+size :
+print{' The number is even’)
+Sample Output from Running the Program:
+Insert & gumber = 67
+The number is odd
+Practical Problem #5: Write a program to determine whether a given year is a
+leap year or not.
+Solution: To know if a year 1s a leap year, we need to divide the year number by
+400. If the remainder is zero, il is a leap year. Otherwise, the year number has Lo
+be divided by 100. If the remainder is zero, it is not a leap year. On the other
+hand, if the remainder is not zero, then we need to divide the year number by 4
+again. Tf the remainder is zero, then the year is a leap year; otherwise, it is not.
+year - inc (input{'Enter the vear (4 Digit) to check :'1)

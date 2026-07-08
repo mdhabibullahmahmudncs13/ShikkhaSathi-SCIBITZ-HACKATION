@@ -1,0 +1,22 @@
+# Chunk 162 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316326
+# Character count: 767
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_162
+
+========================================
+
+VES Doms
+We can use this velocity as data for the time 1.5 s within 1 to 2s. Similarly
+we see the average velocity between 2 s and 3 s is 5 m/s, between 3 and 4 s
+is 7 m/s and between 4 s and 5 s is 9 m/s. We see these data points are on a
+straight line on a graph paper and we can connect the points by drawing a
+straight line. Although we have put the data for time 0.5, 1.5, 2.5, 3.5 and 4.5
+s, but we can find the velocity at any time after drawing a straight line
+through these points. For example at time 3 s the velocity is 6 m/s.
+We will be able to find the acceleration in the same way after drawing the
+velocity -time graph of figure 2.09. Acceleration is the rate of change of
+velocity. Since the velocity- time graph is a straight line, so in this case we

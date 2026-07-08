@@ -1,0 +1,15 @@
+# Chunk 803 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388714
+# Character count: 232
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_803
+
+========================================
+
+continuous flow of electricity, and for that it needs energy. If # amount of
+work is done to bring QO amount of charge from low potential to high
+potential in a battery, then the electromotive force or e.m.f of the battery
+* EMF = w

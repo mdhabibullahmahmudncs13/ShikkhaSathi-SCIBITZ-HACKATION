@@ -1,0 +1,28 @@
+# Chunk 738 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.462394
+# Character count: 406
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_738
+
+========================================
+
+Similarly, area of AABC'
+1. 1
+= be sind = 50a sinB
+3. Three sides of a triangle are given:
+Let in AABC, BC' =a, CA =D and A
+AB =c.
+.. Perimeter of the triangle 2s = a + b+ c. © b
+We draw AD L BC.
+Let, BD = x, then CD =a— x B D C
+In right-angled AABD and AACD «a —>
+AD? = AB? — BD? and AD? = AC? — CD?
+AB? — BD? = AC? — CD?
+or, ?—1*=b — (a — x)?
+or,  — 1? =b — a® + 2ax — 1?
+or, 2ar = c* +a — 1?
+GE a o
+Sm d

@@ -1,0 +1,22 @@
+# Chunk 338 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.874399
+# Character count: 634
+# Chunk ID: ICT 9-10.txt_0_338
+
+========================================
+
+- If any object is selected with the Selection Tool, rectangular, circular or
+hounding box is created around the object. Four hollow boxes on four
+corners and four on the four arms will be visible. These boxes are called
+Resize Box. Clicking and dragging on the resizing boxes, the size of the
+object can be enlarged and reduced. Keep pressing shift and drag, and the
+object will be bigger or smaller according to proportion.
+
+- Clicking the centre of the selected object with the Selection Tool or on any of
+the arms or any part of the object and dragging, it will be shifted to anywhere.
+
+For selecting more than one object together

@@ -1,0 +1,23 @@
+# Chunk 75 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307784
+# Character count: 741
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_75
+
+========================================
+
+Vernier scale ~g
+oT
+Main scale Fd
+Figure 1.05: Main scale and movable vernier scale
+If we keep the vernier scale in such a way that it does not start from a millimeter
+mark rather it starts with a slight Ces mm) displacement (Figure 1.06) then the
+number of = mm displacements by which it has moved will be the mark
+of the vernier scale coinciding with the millimeter mark of the main scale! Therefore,
+it is very easy to measure a length using a vernier scale. First of all, we have to know
+the difference between one division of vernier scale and one division of the main
+scale- this is called the vernier constant-- in brief VC. This can be calculated if we
+divide the length of the smallest division (1 mm) of the main scale by the total

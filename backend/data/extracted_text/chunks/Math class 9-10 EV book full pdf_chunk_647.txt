@@ -1,0 +1,41 @@
+# Chunk 647 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453933
+# Character count: 705
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_647
+
+========================================
+
+--- Page 284 ---
+Chapter 13. Finite Series 279
+Formulas of series
+Determination of the sum of squares of the first n natural numbers
+Let S,, be the sum of squares of the first n natural numbers.
+ie, Sy =12422 43% +. +n?
+we know,
+PP =3rt43r—1=(r—1)*
+or, rf —(r—1P%=3?-3r+1
+in the above identity, putting » = 1,2,3,--- ,n we get,
+1PP—00=3-12-3-1+1
+2 -19=3.22-3.2+1
+3 -29=3.32-3.3+1
+n= (n—1P=3n"-3-n+1
+adding we get,
+nf — 0% =3(12+22 +3 + +n?) = 31 4243+ +n) + (1+1+1+--- +1)
+. E 1 1
+or, n® = 38, — ntl ERRESRTo ne tb)
+PR] 1
+or, 38, = n® + Sintl) —n
+a 20° + 3n% + 3n — 2p _ 20 +3n% +n In n(2n® +3n +1)
+BN 2 B 2 BN 2
+Cn2n*+2n+n+1)  a{2n(n+1)+1n+1)}
+BN 2 BN 2
+1)(2 1
+or, 35, — rr enh
+n(n+1)(2n +1)
+SoS = —%
+a
+5

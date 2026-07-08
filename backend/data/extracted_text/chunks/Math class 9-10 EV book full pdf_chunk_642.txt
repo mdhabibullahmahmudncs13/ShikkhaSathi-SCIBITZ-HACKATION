@@ -1,0 +1,29 @@
+# Chunk 642 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453527
+# Character count: 751
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_642
+
+========================================
+
+--- Page 282 ---
+Chapter 13. Finite Series 277
+Exercise 13.1
+1. What is the number of terms of the series 13 + 20 4 27 + 34 + --- + 1117
+1) 10 2) 13 3) 15 4) 20
+2. The series 548 + 114 14 4 --- +62
+(i) is a finite series (ii) is a geometric series
+(#22) 19th term of the series is 59
+which one of the following is correct?
+1) and ii 2) and iii 3) ii and 7ii 4) i, ii and 4ii
+Based on the following information answer questions 3 — 4.
+T+13+19425+--- is a series.
+3. Which one is the 15th term of the series?
+1) 85 2) 91 3) 97 4) 104
+4. What is the summation of first 20 terms of the series?
+1) 141 2) 1210 3) 1280 4) 2560
+5. Find common difference and the 12th term of the series 2—5—12—19—---.
+6. Which term of the series 8 + 11 + 14 + 17 +--+ is 3927

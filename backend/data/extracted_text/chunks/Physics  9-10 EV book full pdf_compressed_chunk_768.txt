@@ -1,0 +1,21 @@
+# Chunk 768 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384941
+# Character count: 766
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_768
+
+========================================
+
+you can better understand what occurs in these situations. When you encounter a
+high potential and touch it, a charge will flow from that higher potential to your
+body, as your body's potential is lower. The amount of charge that flows depends
+on various factors within your own body.
+The potential of the object you touch can be either positive or negative. In one
+scenario, electrons may leave your body, while in another, they may enter
+it—Dboth scenarios represent electric current, just in opposite directions.
+It's crucial to recognize that charge flows due to the difference in potentia not the
+value of the potential itself. For example, a crow perched on a high-voltage elec-
+tric wire does not suffer an electric shock because its potential matches that of

@@ -1,0 +1,30 @@
+# Chunk 834 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.473040
+# Character count: 742
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_834
+
+========================================
+
+--- Page 363 ---
+358 Mathematics Classes IX-X
+Y
+c
+. LP]
+TAS
+FREED NE
+SL AEE EE EN]
+iy VAND2N 74 5 I I AN
+45.5 50.5 55.5 60.5 65.5 70.5
+Frequency Polygon: The diagram drawn by joining frequency
+indicated points opposite to the class interval of indiscrete data by line
+segments successively is frequency polygon.
+Example 4. Draw polygon of the following frequency distribution table.
+Frequency | 8 | 10 | 15 | @ | 5 | a | 15 | 7
+Solution: Histogram of frequency distribution is drawn taking each square of
+graph paper as 10 units of class interval along with z-axis and each square of
+graph paper as 5 units of frequency along with y-axis. The mid-points of the
+sides opposite to the base of rectangle of histogram are identified which are the

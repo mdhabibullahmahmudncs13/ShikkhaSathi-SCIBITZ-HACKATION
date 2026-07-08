@@ -1,0 +1,50 @@
+# Chunk 764 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384578
+# Character count: 615
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_764
+
+========================================
+
+lines of force is less, and there is a point in the middle where the magnitude of 8
+
+
+--- Page 290 ---
+7
+E=k%
+q=5C
+q;=-16x10"1C
+r=10m
+k = 9 x 10° Nm?/c?
+9
+p= 20S ye =4.5x 10° N/C
+
+
+--- Page 291 ---
+286 Physics
+Figure 10.13: Lines of force for +q
+and -2q charge.
+
+Question: A charge of 3 C is experiencing a force of 10 N. What is the electric
+field?
+Answer: We know F=¢E
+So, F
+
+E=—
+
+q
+Here, F=10N
+q=3C
+Therefore, pe F10N —-
+Tq 3c 7
+Question: If there are two charges q and -2q close to each other, what will be
+their lines of force?
+Answer: This is shown in Figure 10.13.
+g
+
+
+--- Page 292 ---
+Static Electricity 287

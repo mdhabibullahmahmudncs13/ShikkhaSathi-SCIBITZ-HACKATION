@@ -1,0 +1,22 @@
+# Chunk 168 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316807
+# Character count: 628
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_168
+
+========================================
+
+Let the marble or pencil or pen move on the inclined plane and start
+counting one, two, three and so on. Up to which number could you count
+for the the marble, pencil or pen to reach the lower end of the inclined
+plane. Calculate the actual time by multiplying with the approximate
+multiple.
+5. Repeat the experiment several times and calculate the average time.
+6. Calculate the speed, dividing the length of inclined plane by the average
+time. This is average speed.
+7. Increase the slope of the inclined plane by placing another book.
+Measure the new height after placing the second book. Calculate the slope
+for this height.

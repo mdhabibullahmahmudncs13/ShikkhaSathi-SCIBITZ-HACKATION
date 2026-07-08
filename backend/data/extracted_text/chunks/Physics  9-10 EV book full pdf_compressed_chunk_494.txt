@@ -1,0 +1,22 @@
+# Chunk 494 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.351099
+# Character count: 456
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_494
+
+========================================
+
+--- Page 176 ---
+Effect of Heat on Matter 171
+Certainly we can write:
+Similarly we can assume a cube of L length, width and height. Its volume at
+temperature 7, is | and the volume becomes 7, after increasing the temperature
+to T,, so we have
+
+Vy = [Ly + aly (T, = TD?
+According to the same argument, also here if we avoid the parts with o* and o,
+then no problem will arise in our analysis or calculation. So only the first two
+terms will be present, i.e.

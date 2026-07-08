@@ -1,0 +1,29 @@
+# Chunk 57 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.394480
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_57
+
+========================================
+
+--- Page 24 ---
+Chapter 1. Real Numbers 19
+Example 21. Calculate values and approximate values of 4.4623845... up to
+1,2,3,4 and 5 decimal places ?
+Solution: For the decimal fraction 4.4623845...
+Value up to 1 decimal place is 4.4 but its approximate value up to 1 decimal
+digit is 4.5
+Value up to 2 decimal places is 4.46 and approximate value is 4.46
+Value up to 3 decimal places is 4.462 and approximate value is 4.462
+Value up to 4 decimal places is 4.4623 and approximate value is 4.4624
+Value up to 5 decimal places is 4.462238 and approximate value is 4.46238
+Work: Calculate square root of 29 to 2 decimal places, and approximate it
+to 2 decimal places.
+Exercises 1
+1. Which numbers are irrational?
+5 16 8 5
+1) 0.3 2 — 3) {= 4) —
+) ) V9 ) Var ) V3

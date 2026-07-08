@@ -1,0 +1,22 @@
+# Chunk 831 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390953
+# Character count: 751
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_831
+
+========================================
+
+--- Page 317 ---
+312 Physics
+Now we are ready to analyse a circuit. We may think that we have understood
+the circuit completely if we can find out the potential difference in any part of
+the circuit and how much current is flowing through that part. There may be
+many components in a circuit like battery cell, resistance, capacitor, diode,
+transistor etc. But now we will analyze the circuit composed of only the battery
+cell and resistance. In a circuit, resistances are connected with copper wires,
+though we have seen that copper wire has a specific resistance. But in reality, the
+resistance of the connecting wires is very small with respect to the resistances
+we use in a circuit, so , we do not consider it at all. We will assume that the wire

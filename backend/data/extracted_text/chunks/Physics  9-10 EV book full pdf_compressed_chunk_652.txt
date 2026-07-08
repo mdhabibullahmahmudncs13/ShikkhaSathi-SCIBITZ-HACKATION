@@ -1,0 +1,25 @@
+# Chunk 652 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.372830
+# Character count: 460
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_652
+
+========================================
+
+D| @.t
+Figure 8.26: In ordinary mirror the left and right are interchanged, where as two
+3 mirrors are kept at right angles to leave left and right unchanged.
+BS
+
+
+--- Page 241 ---
+236 Physics
+An important point to note is, when a good reflection is necessary, quite a
+different kind of reflection is done instead of using an ordinary plane mirror. We
+will see in the next chapter how light is reflected by a completely transparent
+medium.
+
+8.8.2 Convex Mirror

@@ -1,0 +1,25 @@
+# Chunk 166 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316631
+# Character count: 758
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_166
+
+========================================
+
+--- Page 59 ---
+54 Physics
+Procedure:
+1. Taking a plank or a bench or a table, measure its length (L) by a ruler or
+meter scale. This distance will be the distance travelled by the object.
+2. By placing a book under one end of the plane plank or bench or table let
+us make it inclined. Measure the height (h) of that end Dividing height
+by length, find the slope (sin =h/L).
+3. Put a marble or a pencil or a pen on the inclined plane and make sure
+that it can roll.
+4. You have to measure the time taken by the marble to travel the length of
+the inclined plane. A stop watch is needed to measure the time accurately.
+But it is unlikely to have a stop watch available. (Now a days stop watch
+option is available in many mobile phones. You use the method given

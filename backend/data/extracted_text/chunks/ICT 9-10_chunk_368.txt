@@ -1,0 +1,36 @@
+# Chunk 368 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.879337
+# Character count: 781
+# Chunk ID: ICT 9-10.txt_0_368
+
+========================================
+
+mouse pointer on the closed path. the Type
+
+
+--- Page 117 ---
+112 Multimedia and Graphics
+Tool will take the shape of the Area Type Tool.
+
+C. Click on the anchor point of the path, and the insertion point will be placed
+inside the closed path, which will be used as a Text Box or Text Container.
+
+D. Start the work of typing.
+
+E. When you will reach the right edge of a line, the insertion pointer will
+automatically go down the next line. If typing continues in this way, the
+next line will be automatically started.
+
+Typing in the Path
+
+Typing inside and outside the closed path, and below and above the open path
+
+can be done with the Path Type Tool of Illustrator. Typing inside and outside a
+
+circular object like making a monogram can be done.
+
+Typing outside Circular Objeet

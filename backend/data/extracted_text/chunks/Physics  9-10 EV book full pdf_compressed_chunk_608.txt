@@ -1,0 +1,23 @@
+# Chunk 608 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368116
+# Character count: 297
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_608
+
+========================================
+
+--- Page 222 ---
+Reflection of Light 217
+Answer: The image will be seen in the mirror. An image of that image will be
+seen eventually in two mirrors. Therefore, as shown in the figure, an infinite
+number of images will be formed.
+mirror mirror
+
+; pod, dd, :
+
+-{] boo | }
+
+i PARAS d, PAY IA id, Lbs

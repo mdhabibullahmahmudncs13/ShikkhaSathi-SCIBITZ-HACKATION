@@ -1,0 +1,27 @@
+# Chunk 830 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390872
+# Character count: 649
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_830
+
+========================================
+
+just the same amount of current comes back to the lower potential.
+(b) The amount of current that enters at any point of a circuit, the same amount
+of current will come out from that point, that is, there is no creation or
+destruction of current in a circuit. No charge is created here, only transfer of
+charge occurs.
+(c) In a circuit Ohm's law is true for two points in any part, that is, if the potential
+difference of those two points is divided by the resistance of that part, the current
+flowing through the circuit can be determined.
+A [3 A x B
+v ) R ) R
+0 c o c
+=
+{a} (o)
+a Figure 11.08: Two circuits with a battery cell and a resistor.
+g
+BS

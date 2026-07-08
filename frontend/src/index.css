@@ -1,0 +1,145 @@
+@import "tailwindcss";
+
+/* Import Bengali font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* Dashboard Layout Fixes */
+
+/* Ensure sidebar stays fixed and doesn't overflow */
+.dashboard-sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 16rem; /* 256px / w-64 */
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Prevent progress bars from overflowing their containers */
+.progress-bar-container {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 9999px;
+}
+
+.progress-bar {
+  height: 0.25rem;
+  border-radius: 9999px;
+  transition: width 0.3s ease-in-out;
+  max-width: 100%;
+}
+
+/* Ensure sidebar items don't overflow */
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  overflow: hidden;
+}
+
+.sidebar-item-content {
+  flex: 1;
+  min-width: 0; /* Allow flex item to shrink below content size */
+  overflow: hidden;
+}
+
+/* Fix main content area to account for sidebar */
+.dashboard-main {
+  margin-left: 0;
+}
+
+@media (min-width: 1024px) {
+  .dashboard-main {
+    margin-left: 16rem; /* 256px / w-64 */
+  }
+}
+
+/* Ensure dropdown menus have proper z-index */
+.dropdown-menu {
+  position: absolute;
+  z-index: 50;
+  right: 0;
+  margin-top: 0.5rem;
+}
+
+/* Fix notification dropdown positioning */
+.notification-dropdown {
+  position: absolute;
+  right: 0;
+  margin-top: 0.5rem;
+  z-index: 50;
+  max-height: 24rem;
+  overflow-y: auto;
+}
+
+/* Ensure welcome banner stays contained */
+.welcome-banner {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+
+/* Fix header spacing and alignment */
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 640px) {
+  .dashboard-header {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .dashboard-header {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+/* Ensure text truncation works properly */
+.truncate-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Fix mobile sidebar overlay */
+.sidebar-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Smooth transitions for sidebar */
+.sidebar-transition {
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Prevent horizontal scroll on mobile */
+body {
+  overflow-x: hidden;
+}
+
+/* Ensure all containers respect their bounds */
+* {
+  box-sizing: border-box;
+}
+
+/* Fix for progress bar parent containers */
+.subject-progress-wrapper {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}

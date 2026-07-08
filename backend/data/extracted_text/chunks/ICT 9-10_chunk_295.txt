@@ -1,0 +1,33 @@
+# Chunk 295 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.866479
+# Character count: 738
+# Chunk ID: ICT 9-10.txt_0_295
+
+========================================
+
+2
+Ei
+Forma-12, ICT(9-10)
+
+
+--- Page 95 ---
+90 Multimedia and Graphics
+Or
+
+- Ifthe New Layer command is selected from the dropdown menu of the layer
+palette, the New Layer dialogue box will be viewed. In the square space of
+the Name of the dialogue box, Layer 2 will be viewed. Type Circle in the
+Name box and press the Ok button. and the dialogue box will disappear. A
+new layer named Circle will be inserted above layer no.1 in the layer palette.
+
+- Now create a circular selection with the Circular Marquee Tool so that half
+of the circle will rest on the green field and the other half on the white.
+
+- The selection will be filled with red colour. and a red circle will be viewed
+in thumbnail of Layer circle.
+
+C. Preparing Text Layer

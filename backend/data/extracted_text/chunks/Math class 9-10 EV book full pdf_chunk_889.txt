@@ -1,0 +1,27 @@
+# Chunk 889 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.478427
+# Character count: 590
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_889
+
+========================================
+
+Inclusion to Chapter 3
+Reduction of fractions
+Reduction of a fraction means to transfer the fraction to its lowest terms. For
+this purpose, both the numerator and denominator are to be divided by their
+common divisor or factor. If there is no common divisor or factor in between
+numerator and denominator of a fraction, such fraction is said to be in its lowest
+terms.
+2p.
+Example 1. Reduce the fraction Aa’be
+6ab’c
+. 4a’be _ 2x2xaxaxbxc 2a
+Solution : Ta Ta
+6ab“c  2x3xaxbxbxc 3b
+2g, .
+Alternative method : 49 be _ 2abcx2a _ 2a [HCF. of numerator and
+6ab’c  2abcx3b 3p denominator is 2 abc]

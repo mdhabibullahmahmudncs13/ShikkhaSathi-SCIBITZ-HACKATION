@@ -1,0 +1,32 @@
+# Chunk 544 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.359621
+# Character count: 746
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_544
+
+========================================
+
+the position of the end of the spring is at a distance x from its equilibrium
+position, then the restoring force Fof the spring is given by:
+F = —kx
+The harmonic or oscillatory motion that obeys Hooke’s law is called simple
+harmonic motion. This is one of the most important motions in physics.
+m
+T=2r|—
+k
+In your book, there is no scope of deducing it, but there is no harm in knowing
+it.
+If the spring constant of a spring is & and m is the attached mass, then the time
+period of the mass is,
+[A
+T=2rx|—
+9
+If instead of being a spring, it would be a pendulum and if the length of the
+pendulum is / and gravitational acceleration is g, then the time period is:
+1
+T=2rm|—
+9
+(No, there is no mistake, whether you hang a light mass or a heavy mass,

@@ -1,0 +1,25 @@
+# Chunk 46 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.393503
+# Character count: 757
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_46
+
+========================================
+
+Note: In order to clarify addition at the rightmost digit we have solved the
+addition in a different way:
+3.89 = 3.89898989[89
+2.178 = 2.17878787|87
+5.80798 = 5.80798798|79
+11.97576576(55
+Here after the end of repe ating part some more digits have been taken. These extra
+digits have been separated by a vertical line. Then the addition has been performed.
+From the addition of digits just after the vertical line 2 in hands has been added
+to the digits just before the vertical line. It may be noted here the digit on the
+right side of the vertical line is the same as the first digit of repeatation. Therefore
+both the sums ore the same.
+Example 11. Add 8.9478, 2.346 and 4.71.
+Solution: In order to make repeating decimal fractions similar we must have 3

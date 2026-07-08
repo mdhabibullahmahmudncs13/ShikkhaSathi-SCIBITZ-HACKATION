@@ -1,0 +1,15 @@
+# Chunk 185 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.846384
+# Character count: 295
+# Chunk ID: ICT 9-10.txt_0_185
+
+========================================
+
+cation protocol used on the Internet to send messages .
+Downloading: Downloading over a computer network is the process of getting
+information from a remote system to a local system. That is, to store any information
+from the computer network or the Internet on one's own computer or device, For

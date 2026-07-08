@@ -1,0 +1,26 @@
+# Chunk 383 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881048
+# Character count: 566
+# Chunk ID: ICT 9-10.txt_0_383
+
+========================================
+
+type of program called a translator. By converting instructions into machine
+
+code through a translator, the computer can understand our commands and com-
+plete the specified tasks accordingly.
+
+The translation system or translator program in a computer for programming
+
+languages can be of two types:
+
+a) Compiler: In some translation systems, if all the instructions we give are
+correct, they will be converted into machine code all at once. This translation
+process is called compiling, and the software that performs this translation is
+
+g known as a compiler.
+a

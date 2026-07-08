@@ -1,0 +1,26 @@
+# Chunk 318 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.871509
+# Character count: 637
+# Chunk ID: ICT 9-10.txt_0_318
+
+========================================
+
+- The units of measurement are found in Units box. The users of our country
+are familiar with the measurement of inches, but points, picas, millimetres,
+centimetres, pixel, etc. can be used to work more precisely. Click the
+drop-down arrow in the unit box. and a detailed drop-down list will be
+visible. The requisite unit of measurement can be fixed from this list. “
+
+- Pictures of two people are viewed on the right of Onentation. If you click 5
+
+Forma-13, ICT(9-10)
+
+
+--- Page 103 ---
+98 Multimedia and Graphics
+the first one, the position of paper will be portrait, and it will be in
+landscape position if the second one is clicked.

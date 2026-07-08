@@ -1,0 +1,35 @@
+# Chunk 209 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.410899
+# Character count: 748
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_209
+
+========================================
+
+--- Page 93 ---
+88 Mathematics Classes IX-X
+Proof: Let, log,M =z, log,N =y
+So M=a", N=a¥
+Now, MN =a" -a¥ = a"
+clog (MN) =a +y
+or, log, (MN) = log,M + log,N [putting the values of x,y]
+dog, (MN) = log, M + log, N (proved)
+Note: log, (MNP...) =log,M +log,N + log,P +...
+Note: log, (M + N) # log, M + log, N
+Formula 8 (log of quotient). tog, AF = log, M — log, N
+Proof: Let, log,M =z, log, N =y
+M=a", N=a
+Now, ud = Z =a?
+CL log, =zr—y
+N
+so log, 57 = log, M — log, N (proved)
+Formula 9 (Log of power). log, M" = rlog, M
+Proof: Let, log, M =x, -.M =a”
+or, (M)" = (a*)" or, M" =a"
+clog, MT = ra or, log, M" = r log, M
+log, M” = rlog,M (proved)
+Note: (log, M)" and rlog,M may not be equal.
+For example, (log,4)” = (log,2%)° = 2° = 32, log, = 5-2 = 10 # 32

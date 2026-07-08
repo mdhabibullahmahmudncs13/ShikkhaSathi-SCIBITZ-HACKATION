@@ -1,0 +1,20 @@
+# Chunk 567 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.363324
+# Character count: 395
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_567
+
+========================================
+
+Therefore, using the information of the two figures, we can say
+v=Af =1mx5Hz=5 m/s
+Question: In figure 7.09 a wave is shown, where A, B, C, D and E is markedas
+different positions. At which positions are the phases equal?
+Answer: At A and C, phases are equal.
+At A and B, though the amplitudes are equal their phases are opposite.
+At D and E, though they are equal, phases are not equal. pe
+2
+BS

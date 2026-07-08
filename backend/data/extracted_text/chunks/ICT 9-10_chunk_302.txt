@@ -1,0 +1,33 @@
+# Chunk 302 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.867983
+# Character count: 762
+# Chunk ID: ICT 9-10.txt_0_302
+
+========================================
+
+- Ifyou choose Flatten Image. all the layers will be combined.
+
+- If there is any invisible layer, an inquiring message will come whether it
+will be removed or not. Click the Yes button, and the invisible layers will be
+removed and the visible layers will be merged.
+
+Cut, Copy, Paste and Paste into
+
+You may select any object or image either fully or partially, and cut, copy and
+
+paste il. If you paste any object after culling or copying, a new layer is created,
+
+and the object is pasted on the new layer. If any transparent layer is created
+before pasting, any cut or copied object can be pasted on the layer.
+
+The Use of Crop Tool
+
+The border of pictures collected \ \
+
+from different sources can not be [8 Ed =
+
+perfect or precise. It can be [§ LT = - “ul

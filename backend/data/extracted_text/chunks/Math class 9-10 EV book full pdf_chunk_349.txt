@@ -1,0 +1,25 @@
+# Chunk 349 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.424440
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_349
+
+========================================
+
+22. Prove that, sum of the three medians of a triangle is less than the perimeter
+of the triangle.
+
+23. An industrious father called upon his only son and said that he hid gold in a
+nearby forest which he bought with his earned money. When the son asked
+about the position of the gold, he informed him that there were two similar
+trees A and B and a stone S. After reaching from S to A, he would have
+to go perpendicularly the same distance to find the point C'. Again coming
+from S to B, he would have to travel the same distance perpendicularly to
+find the point D. Then he would find the gold at the midpoint of the line
+CD. The son found the trees A and B but unfortunately did not find S.
+Will the son able to find the gold? If so, then how?
+
+Forma-19, Mathematics, Class 9-10

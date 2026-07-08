@@ -1,0 +1,28 @@
+# Chunk 133 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.402901
+# Character count: 795
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_133
+
+========================================
+
+--- Page 57 ---
+52 Mathematics Classes IX-X
+8. Ifa+b=+7anda—b=+/5, prove that, Sab(a® +b?) = 24
+9. Ifa+b+c=9and ab+ bc + ca = 31, what is the value of a® + b> + ¢*?
+10. If a® +b? + ¢* = 9 and ab + be + ca = 8, what is the value of (a +b +c)? ?
+11. Ifa+b+c=6and a’ +b? + ¢* = 14, what is the value of (a — b)? + (b—
+eo)? + (c—a)??
+12. If x = 3, y = 4 and z = 5, what is the value of 92% + 16y* 4 42> — 24xy —
+16yz + 12zx ?
+13. Express (a + 2b)(3a + 2¢) as the difference of two squares.
+14. Express 22 + 10x + 24 as the difference of two squares.
+15. Ifa* +a? +b" = 8 and a® + ab+ b* = 4, find the value of, 1) a? +? 2) ab
+Formulae of Cubes
+Formula 6. (a+ b)* = a® + 3a’b + 3ab® + b° = a® + b° + 3ab(a + b)
+Proof: (a+b)* = (a+ b)(a +b)?
+= (a+ b)(a* + 2ab +b?)
+= a(a® + 2ab + b*) + ba” + 2ab + b%)

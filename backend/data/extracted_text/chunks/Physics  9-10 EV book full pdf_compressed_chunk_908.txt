@@ -1,0 +1,23 @@
+# Chunk 908 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.399874
+# Character count: 731
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_908
+
+========================================
+
+secondary coilis found from conservation of electrical power.
+Vp np
+hence, Ve Ip = Vs Is ~~ SO,Is = 7) Ip = (2) Is
+The transformer has a greater number of turns in the secondary coil than the
+primary coil and due to this, the AC voltage applied in the primary coil increases
+in the secondary coil is called a step-up transformer. For transmission of
+electricity, a step up transformer is used to increase the voltage by many times.
+The transformer which has less turns in the secondary coil than the primary coil
+and due to this, the AC voltage applied in the primary coil decreases in the
+secondary coil. This is called a step down transformer.
+Example
+Question: The number of turns in the primary coil of a transformer is 100 and

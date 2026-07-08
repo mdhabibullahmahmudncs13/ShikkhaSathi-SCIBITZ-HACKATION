@@ -1,0 +1,16 @@
+# Chunk 780 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467885
+# Character count: 247
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_780
+
+========================================
+
+=r.
+We know, any angle produced by an arc at the centre A r
+of a circle is proportional to the arc.
+So, at this stage we can accept that the area of two circular segments of the»,
+same circle are proportional to the two arcs on which they stand. =

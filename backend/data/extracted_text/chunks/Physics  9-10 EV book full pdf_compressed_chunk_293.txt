@@ -1,0 +1,19 @@
+# Chunk 293 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.329414
+# Character count: 498
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_293
+
+========================================
+
+work. But in physics, neither the person nor the machine does the work, always
+the force applied does the work. This force may be applied by a person or a
+machine.
+Let us assume that, you have pushed an object to a distance s by applying a force
+F and left it after setting it in motion. The object has travelled an additional
+distance d and at last it has stopped. How much work is done?
+The amount of work done is W=Fs, as no force was applied while traversing the
+distance d, so no work is done.

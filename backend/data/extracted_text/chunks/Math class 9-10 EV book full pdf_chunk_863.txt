@@ -1,0 +1,27 @@
+# Chunk 863 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.475545
+# Character count: 455
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_863
+
+========================================
+
+1) Mode 2) Central 3) Mean 4) Median
+tendency
+3. Consider the table below:
+[EES
+Chegeney | 5 | 9 | 1
+(i) Class interval is 3
+(ii) Median class is 8° — 10°
+(#77) Temperature is a discontinuous variable
+‘Which of the following is true?
+1) and ii 2) i and ii 3) ii and ii 4) i, ii, and iii
+4. To draw histograms we need -
+(7) Discontinuous class interval along x axis
+(ii) Frequency along y axis
+N (#77) Class mid-point
+IS
+BS ‘Which of the following is true?

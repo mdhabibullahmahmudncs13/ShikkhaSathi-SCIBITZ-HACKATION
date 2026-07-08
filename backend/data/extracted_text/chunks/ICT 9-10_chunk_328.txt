@@ -1,0 +1,28 @@
+# Chunk 328 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.873222
+# Character count: 780
+# Chunk ID: ICT 9-10.txt_0_328
+
+========================================
+
+- When the Fill swatch is active, click on the colour of Color Spectrum Bar of
+the color palette. The side of the selected object will be filled with that
+color. Similarly, when the stroke swatch is active and the color that will be
+clicked on the Color Spectrum Bar, the strokes of the objects will be filled
+
+8 with that color. The color mside the object will remain unchanged.
+
+
+--- Page 106 ---
+Information and Communication Technology 101
+
+- Stokes can be thick for a clear view. For having this effect, select the stroke
+command from the Window menu. and Stroke palette will be viewed on the
+screen. Select at least 10 from the weight drop-down menu in the Stroke
+palette. In this stage, if color is imposed or changed. it will be clearly visible.
+
+Color, Gradient, and None

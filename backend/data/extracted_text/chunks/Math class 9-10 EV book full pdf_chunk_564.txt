@@ -1,0 +1,27 @@
+# Chunk 564 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446080
+# Character count: 762
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_564
+
+========================================
+
+A A .  2r4y=12 .
+1) As discussed earlier, the system of equations 3 has unique (only
+r—y=
+one) solution. Such systems of equations are called consistent. Comparing
+the coefficient of and y (taking the ratio of the coefficients) of the two
+2 1
+equations, we get, 1 # —7 any equation of the system of equations cannot
+be expressed in terms of the other. That is why, such systems of equations
+are called mutually independent. In the case of consistent and mutually
+independent system of equations, the ratios are not equal. In this case, the
+constant terms need not to be compared.
+. 20 —y=6
+2) Now we shall consider the system of equations . Can these
+dr —2y =12
+two equations be solved?
+Here, if both sides of first equation are multiplied by 2, we shall get the

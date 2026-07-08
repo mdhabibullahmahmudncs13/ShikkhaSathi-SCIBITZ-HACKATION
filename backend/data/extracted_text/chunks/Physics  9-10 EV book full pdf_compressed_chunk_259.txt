@@ -1,0 +1,36 @@
+# Chunk 259 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.326271
+# Character count: 796
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_259
+
+========================================
+
+--- Page 92 ---
+Force 87
+0) Example
+Question: Suppose you are standing on a totally frictionless surface. Your mass
+is 50 kg and there is a stone of mass 100 kg in front of you. You have decided
+to push the stone with a force of 50 N and will move it from one end to the
+other end. What will be the velocity of the stone after 10 s? (Figure 3.14)
+100 kg
+60 kg
+Lo) 3 A
+__ ia ) b)
+Pes Fly
+LI ?
+hg Wes,
+=
+Figure 3.14 : When a person pushes a stone, the stone also
+pushes the person in return.
+Answer: When you push the stone with a force of 50 N, then according to
+Newton’s third law the stone will push you also with a force of 50 N. The
+acceleration of the stone will take place to the right.
+E50 sme
+a=—=10 m/s“ =0.5m/s
+Your acceleration will be exactly towards left,
+_F_ 50 1g 2
+a=_=g;m/s = 1m/s

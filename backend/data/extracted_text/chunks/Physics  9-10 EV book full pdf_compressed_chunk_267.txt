@@ -1,0 +1,24 @@
+# Chunk 267 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.327018
+# Character count: 790
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_267
+
+========================================
+
+--- Page 95 ---
+90 Physics
+of a cycle, it presses the wheel and ceases the motion of the rotating wheel due
+to kinetic friction. The kinetic friction depends on the weight of the moving
+body, the more the weight, the more the kinetic friction. If an object has a mass
+M, then its weight W= Mg is a force. Then the kinetic friction can be written as,
+f= uW, u is the coefficient of kinetic friction.
+Rolling friction: When an object moves by rolling or revolving on a surface
+then the friction that develops is called the rolling friction. Among all the
+frictional forces, this is the least, so we attach wheels on all kind of vehicles. It
+is very easy to pull suitcases attached with wheels, if suitcases have no
+wheels, it would become very difficult for us to pull it on the floor.
+"Re Ra

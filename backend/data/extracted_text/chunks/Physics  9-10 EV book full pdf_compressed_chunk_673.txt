@@ -1,0 +1,28 @@
+# Chunk 673 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.375032
+# Character count: 787
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_673
+
+========================================
+
+--- Page 251 ---
+246 Physics
+If the first medium is air then taking n =1, (Figure 9.02)
+we can write _ sing
+Ny =—-+
+sin 6,
+As the value of n, is greater than 1, 6, < 6, i.c after refraction, the ray of light
+will bend towards the normal . We say the medium is denser if the value of n is
+greater . We are not calling the medium denser due to its mass . Here the
+meaning of a denser medium the that the value of n is more . Therefore,
+according to the second law of refraction, when a ray of light enters from a rarer
+medium to a denser medium, the refracted ray bends towards the normal. When
+it enters from a denser medium to a rarer medium, it goes away from the normal
+(Figure 9.02). Remember that refractive index of a medium has no direct relation
+with density of that medium.
+|
+i i

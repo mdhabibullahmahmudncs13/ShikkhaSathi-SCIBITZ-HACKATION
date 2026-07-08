@@ -1,0 +1,36 @@
+# Chunk 426 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.432236
+# Character count: 761
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_426
+
+========================================
+
+--- Page 184 ---
+Chapter 8. Circle 179
+
+hypotenuse PO = hypotenuse PO and OA = OB [." Radius of the same circle]
+. APAO = APBO [Hypotenuse-side unanimity of right angled
+triangle]
+o. PA=PB (Proved)
+
+Remarks:
+
+1. If two circles touch each other externally, all the points of one excepting the
+point of contact will lie outside the other circle.
+2. If two circles touch each other internally, all the points of the smaller circle
+
+excepting the point of contact lie inside the greater circle.
+
+Theorem 27. If two circles touch each other externally, the point of contact of
+
+the tangent and the centres are collinear.
+
+Let the two circles with centres at A and B touch
+
+cach other externally at O. It is required to prove r
+
+that the points A, O, B are collinear.

@@ -1,0 +1,23 @@
+# Chunk 405 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340724
+# Character count: 792
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_405
+
+========================================
+
+immersed condition the weight of the potato or fruit is less!
+5.3.2: Floatation and Immersion of a Body
+You have surely understood why an object floats and why an other object is
+immersed. You know an object experiences an upward force due to buoyancy
+which is equal to the weight of the water displaced by the object when it is
+immersed in water. The object will float if that force is greater than the weight of
+the object.
+Just the portion of the object which is immersed so that it will displace water
+equal to the weight of the body, only that portion will be immersed exactly, the
+remaining part will not be immersed in water.
+If the weight of the body is greater than the weight of the displaced water the
+body will sink in water. But it seems that the weight of the body when immersed

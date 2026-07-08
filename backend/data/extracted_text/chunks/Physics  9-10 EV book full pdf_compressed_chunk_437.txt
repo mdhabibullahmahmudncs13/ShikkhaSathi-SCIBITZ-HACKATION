@@ -1,0 +1,28 @@
+# Chunk 437 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.343944
+# Character count: 795
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_437
+
+========================================
+
+understand Hooke’s law. According to this law, ‘within elastic limits stress
+
+is directly proportional to strain’.
+
+stress o strain
+Therefore,
+Stress = constant x Strain.
+That is, there is a constant relating stress to strain for each material; the name of
+this constant is modulus of elasticity.
+It will be easy to understand if we discuss two things:
+i) Let us suppose that the length of a wire of cross-sectional area Ais , ,
+a body of weight 7 is hanged from it and due to this hanged force the wire is
+elongated from LZ, to L (Figure 5.11). This elongated length creates a counter
+force T in the wire (Here the letter 7 is used to mean the word ‘tension’.
+Generally, when a wire is pulled then the force acting in it is named as tension).
+.. Therefore Stress is 7/4 and strainis L — Lo
+8 Lo

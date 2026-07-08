@@ -1,0 +1,27 @@
+# Chunk 877 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.396557
+# Character count: 742
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_877
+
+========================================
+
+--- Page 337 ---
+332 Physics
+12.1: Magnet
+All of you have seen a magnet. If a magnet is brought close to iron like materials,
+then it attracts the iron. There is nothing visible between the magnet and iron but
+an invisible force is pulling it. When observing that for the first time, one kind
+of surprise is developed in all.
+Those of you who have played the magnets must have noticed (Figure 12.01)
+that there are two poles of a magnet. The similar poles repel, while the dissimilar
+poles attract each other.
+“ os
+7 Co
+Figure 12.01: Dissimilar poles of a magnet attract, and similar poles repel.
+The poles are generally named the north and south poles.
+If a bar magnet is suspended freely, it always points towards the north-south
+direction.

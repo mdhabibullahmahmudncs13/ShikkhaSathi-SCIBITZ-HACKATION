@@ -1,0 +1,22 @@
+# Chunk 285 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864379
+# Character count: 467
+# Chunk ID: ICT 9-10.txt_0_285
+
+========================================
+
+editing can be done by putting numerous transparent canvases one after another.
+
+If the canvas is transparent, editing becomes easier as the existing photos can be
+
+watched, but if the canvas of the upper layer is not transparent, the editing of the
+
+lower layer cannot be seen. If any photo with colour background is opened,
+
+Background" will be written on the layer palette. The background will not be
+
+transparent in spite of being white because white is a colour.

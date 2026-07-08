@@ -1,0 +1,27 @@
+# Chunk 98 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.309952
+# Character count: 773
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_98
+
+========================================
+
+7. Among the seven SI units, one is little bit different from the others. Can you
+say which one and why?
+8. If you and everything around you suddenly becomes half in size, will you
+be able to understand the changes?
+9. Will you be able to measure the radius of the earth?
+Mathematical questions
+1. Express the numbers given below using the prefixes in Table 1.05
+(a) 10" Flops (b) 10° bytes (¢) 10 gm (d) 107° m
+2. In one year how many seconds are there? (for fun express in terms of 7 )
+3. How many meters are there in a light year?
+inn
+4. When measuring the length of
+a bar with a vernier scale, it looks Ll
+as in figure 1.12. What is the 1 cm
+length of the bar? Figure 1.12: Reading of a vernier scale
+5. The dimension of energy is ML*T?, in SI units what is its unit? 8

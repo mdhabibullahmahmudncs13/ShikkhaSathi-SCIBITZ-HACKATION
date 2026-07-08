@@ -1,0 +1,37 @@
+# Chunk 671 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455924
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_671
+
+========================================
+
+--- Page 295 ---
+290 Mathematics Classes IX-X
+Geometric proportions
+We have learnt to find the area of a triangular region. Two necessary concepts
+of ratio are to be formed from this.
+1. If the heights of two triangles are equal, their bases and areas are
+proportional.
+A D
+B a CE d F
+Let the bases of the triangles ABC" and DEF be BC = a, EF = d
+respectively and the height in both cases be h.
+1
+Hence, the area of the triangle ABC = 3 x a x h, the area of the triangle DEF
+1
+=-xdxh
+3 xd
+Therefore, the area of the triangle ABC": area of the triangle DEF
+1 1
+=gxaxh:gxdxh=a:d=BC:EF
+2. If the bases of two triangles are equal, their heights and areas are
+proportional.
+A D
+B roy c EQ b F
+Let the heights of the triangles ABC and DEF be AP = h, DQ = krespectively
+and the base in both cases be b.
+1

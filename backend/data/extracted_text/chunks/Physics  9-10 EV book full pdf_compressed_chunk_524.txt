@@ -1,0 +1,18 @@
+# Chunk 524 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.357152
+# Character count: 197
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_524
+
+========================================
+
+--- Page 185 ---
+180 Physics
+C=ms
+The heat capacity of 10 kg gold is
+C=10x 230JK?! = 2300 JK?!
+In comparison the heat capacity of 10 kg water is
+C=10x 4200 JK! =42,000]JK" i.e. about 20 times more.

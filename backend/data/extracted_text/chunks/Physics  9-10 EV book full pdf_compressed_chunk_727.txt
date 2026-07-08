@@ -1,0 +1,38 @@
+# Chunk 727 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.380376
+# Character count: 796
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_727
+
+========================================
+
+--- Page 273 ---
+X ¥
+F
+¥ F ¥
+(a) (6)
+Figure 9.34: (a) An object kept inside of the focal length of a convex
+lens (b) an object kept outside of the focal length of a convex lens.
+
+4. Draw the rays for object XY and show the position of the image as accurately
+as possible (figure 9.34 a).
+5. Draw the rays for object XY and show the position of the image as accurately
+as possible (figure 9.34 b).
+Choose the correct answer.
+1. Where will the image of an object be when it is placed in a denser medium
+and looked at from a rarer medium?
+
+a) raised upward b) gone downward
+
+c) remained at the same place d) moved aside
+Answer the questions 2 & 3 from Figure 9.35
+2. What is the angle of refraction here?
+
+a) 0° b) 90° N
+
+c) 180° d) 45°
+3. What will happen if the angle of incidence is Q 0 i
+bigger?

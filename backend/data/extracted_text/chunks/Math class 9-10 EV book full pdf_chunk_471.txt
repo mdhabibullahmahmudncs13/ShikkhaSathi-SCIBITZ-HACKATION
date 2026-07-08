@@ -1,0 +1,29 @@
+# Chunk 471 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.436797
+# Character count: 620
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_471
+
+========================================
+
+determined geometrically.
+Trigonometric ratios of the angles 30° and 60° :
+Let, /ZXOZ = 30° and P is a point on OZ. Let ,
+us draw PM L OX and extend PM to @Q so that »
+MQ = PM. Add O, Q and extend to Z. d
+Now for APOM and AQOM PM = QM ps
+OM common side and included ZPMO = included =A ‘
+o MX
+ZQMO = 90° ~~
+ APOM = AQOM
+co ZQOM = ZPOM = 30° ]
+and ZOQM = ZOPM = 60° ? ps
+Again, ZPOQ = ZPOM+ZQOM = 30°+30° = 60°
+-. AOPQ is an equilateral triangle.
+IfOP =2a then PM = PQ = sop = a [since AOPQ is an equilateral triangle.]
+Form the right-angled AOPM we get,
+OM = OP? = PM? = \Jda* — a = \/3a
+Forma-26, Mathematics, Class 9-10

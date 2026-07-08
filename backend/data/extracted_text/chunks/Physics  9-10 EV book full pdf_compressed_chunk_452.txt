@@ -1,0 +1,24 @@
+# Chunk 452 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.345715
+# Character count: 723
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_452
+
+========================================
+
+--- Page 160 ---
+State of Matter and Pressure 155
+Gases can be turned into plasma by giving excessive heat; plasma also be made
+by a powerful electric field. In our house, plasma is created in a tube light. There
+is also plasma in the luminous advertisement of neon light. The light which is
+seen during thunder is also plasma and the substances which remain in the far
+stars is also in the plasma state. At present, we use nuclear energy in fission
+process by breaking a heavy nucleus. We try to use plasma for creating energy in
+fusion process combining the light nucleuses and now this is a very important
+field of research in physics.
+@ Do Yourself
+Density of a substance
+Objective: Determine the density of a substance

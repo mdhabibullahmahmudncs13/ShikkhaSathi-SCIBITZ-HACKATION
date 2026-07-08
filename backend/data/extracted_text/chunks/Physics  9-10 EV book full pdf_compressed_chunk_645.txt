@@ -1,0 +1,24 @@
+# Chunk 645 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.371982
+# Character count: 650
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_645
+
+========================================
+
+(b) The image is real. So, as we can say that if the image itself is the object, the
+object becomes the image.
+
+(c) The image is inverted.
+
+(d) The height of the image will depend upon its position. If it is formed in
+between the focal point and the center of curvature, the height of the image
+will be greater than the object. The nearer to the focal point, the greater it
+is. If the object is outside the center of curvature, its height will be shorter
+than the real object. If the object is placed at the center of curvature, the
+size of the image will be the same as the object.
+
+Characteristics of the image formed by a concave spherical mirror:

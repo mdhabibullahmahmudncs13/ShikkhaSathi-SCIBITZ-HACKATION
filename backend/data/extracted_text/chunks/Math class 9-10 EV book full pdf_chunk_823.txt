@@ -1,0 +1,26 @@
+# Chunk 823 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472154
+# Character count: 746
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_823
+
+========================================
+
+Hence the range = (14 —6) +1 =9
+If the class interval is considered to be 3, the numbers of class will be 2 or 3
+Considering 3 to be the class interval, if the data are arranged in 3 classes, the
+frequency table will be:
+Temperature (in celcius) | Tally
+WI
+FETS
+ter aw
+‘Work: Form two groups of all the students studying in your class. Find the
+frequency distribution table of the weights (in Kgs) of all the members of the
+groups.
+Cumulative Frequency: In Example 1 considering 3 the class interval and
+determining the number of classes, the frequency distribution table has been made.
+The number of classes of the mentioned data is 3. The limit of the first class is
+6° — 8°. The lowest range of the class is 6° and the highest range is 8°. The

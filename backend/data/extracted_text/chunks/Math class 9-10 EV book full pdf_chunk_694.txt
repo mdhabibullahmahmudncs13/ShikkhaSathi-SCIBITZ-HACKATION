@@ -1,0 +1,37 @@
+# Chunk 694 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458396
+# Character count: 740
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_694
+
+========================================
+
+--- Page 306 ---
+Chapter 14. Ratio, Similarity and Symmetry 301
+Exercise 14.2
+1. In AABC, if the line DE parallel to BC' intersects AB and AC at D and
+FE respectively, then-
+(i) AABC and AADE are similar.
+(i) AD CE
+“BD TAB
+_ ANABC BC?
+(iii) ——— = —
+ANADE DE?
+Which one of the following is true?
+1) and ii 2) i and ii 3) ii and ii 4) i, @i and ii
+Use the information from the adjacent figure to answer
+the questions 2 and 3:
+2. What is the ratio of the height and base of AABC? A
+nL 9 4 3 2 gy 2 V, Ne
+2 5 5 1 JES .
+3. What is the area of AABD in square units? —L2_1——0s
+1) 6 2) 20 3) 40 4) 50
+4. If in AABC, PQ || BC, then which one of the
+following is true? A
+1) AP: PB=AQ:QC
+2) AB: PQ = AC: PQ P 0
+3) AB: AC = PQ: BC 5 c
+4) PQ:BC = BP: BQ

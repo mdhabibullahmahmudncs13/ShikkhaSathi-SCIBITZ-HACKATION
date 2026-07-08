@@ -1,0 +1,33 @@
+# Chunk 235 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.323916
+# Character count: 769
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_235
+
+========================================
+
+--- Page 84 ---
+Force 79
+force ( Figure 3.07) acting between them is F, then
+mpm;
+F= G2
+Tr
+Here, G is the gravitational constant and its value is:
+6.67 x 1011 Nm?kg 2
+We have to remember that the mass mz, attracts mass m, towards itself by the
+force F; also the mass m, attracts mass m, towards itself.
+Of the two masses, if one is our earth
+and we consider that the mass of the r
+earth is M and we let another body of m m,
+mass m be kept over the earth’s surface, . oo
+. Figure 3.07: Gravitational
+then, the earth will attract the mass m
+3 force between two masses
+towards its centre by a force F.
+mM
+F=6Fe
+This force is actually the weight of the object. Here, R is the distance of the
+object of mass m from the centre of the earth. This is not the distance of mass m

@@ -1,0 +1,35 @@
+# Chunk 858 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474964
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_858
+
+========================================
+
+--- Page 374 ---
+Chapter 17. Statistics 369
+2) The table to determine mode is given below:
+[Class [31 —40[41 — 50]51 — 60[61 — 70[71 — 80[81 — 90[91 — 100
+Frauenyl 4 | 6 | 5 | | 9 | 7 | 4
+fi
+Mode = L + ——— x h
+fit fa
+Here, the maximum numbers of repetition of frequency is 12 which lies in
+the class (61-70).
+CS L=6lf1=12-8=4f,=12-9=3h=10
+Mode = 614+ —— x 10 = 61+ Sx 10 = 61+ 2 _ 6115.7 = 66.7
+443 7 7
+Required mode 66.7
+3) The table to draw the ogive curve is given below:
+TE 0-10
+Sw | wew | sm
+oi 50-70
+7] CE TI I
+ston 50-00
+on 20-11
+Using convenient scaling along X axis where —“— (sign indicates 0 — 30
+and taking per square unit as 5 units of cumulative frequency along Y axis
+points along higher limits of classes have been marked. Then these marked

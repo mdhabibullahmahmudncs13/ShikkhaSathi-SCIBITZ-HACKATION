@@ -1,0 +1,18 @@
+# Chunk 439 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.344188
+# Character count: 148
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_439
+
+========================================
+
+cylinder.
+Due to the application of pressure P, its volume is reduced to V (Figure 5.12).
+Here P is the stress and the Strain is:  _y
+0
+Vo wo
+IS)
+BS

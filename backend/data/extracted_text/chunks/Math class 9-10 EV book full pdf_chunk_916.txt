@@ -1,0 +1,25 @@
+# Chunk 916 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480844
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_916
+
+========================================
+
+ZAOB = ZBOC =I right angle.
+Similarly, it can be proved that, ZCOD = 2D0A = 1 right
+angle. (Proved)
+Activity
+1. Prove that the diagonals of a square are equal and bisect each other.
+2. A worker has made a rectangular concrete slab. In how many different
+ways can he be sure that the slab is really rectangular?
+8.4 Area of Quadrilaterals
+A quadrilateral region is divided into two triangular region by one of its
+diagonals. So, the area of the quadrilateral region is equal to the sum of area of
+the triangular regions. In our previous classes, we have learnt how to find areas
+of square and rectangular regions. We have seen that rectangle and
+wy parallelogram with same base and height have equal areas. Here, the methods of
+& finding the area of rhombus and trapezium have been discussed.

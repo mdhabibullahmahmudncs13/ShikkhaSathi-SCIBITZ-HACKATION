@@ -1,0 +1,28 @@
+# Chunk 310 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420806
+# Character count: 706
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_310
+
+========================================
+
+have the same vertex A, a common side AC and A D
+are on opposite sides of AC. ZBAC and ZC AD are
+adjacent angles.
+Perpendicular and Right angle
+If two adjacent angles are on the same line and equal,
+then each of the related adjacent angle is a right
+angle or 90° : The two sides of a right angle are mutually
+perpendicular. In the adjacent figure two angles Cc
+ZBAC and ZDAC are produced at the point A of
+BD by the ray AC. A is the vertex of these two
+angles.
+AC is the common side of the angles ZBAC and B A D
+ZDAC. The tow angles lie on the tow sides of the
+common side AC. If ZBAC and ZDAC are equal,
+then each of the two angles is right angle. The line
+segments AC and BD are mutually perpendicular.
+g

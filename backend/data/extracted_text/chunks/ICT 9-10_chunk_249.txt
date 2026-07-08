@@ -1,0 +1,37 @@
+# Chunk 249 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.858532
+# Character count: 695
+# Chunk ID: ICT 9-10.txt_0_249
+
+========================================
+
+- On the left side of the slide making window, the small version of the slide is
+
+shown in thumbnail view.
+
+Saving Presentation
+
+- Give the Save command from the file menu. and Save as dialogue box will
+
+come.
+
+- Type the name of the file in Save as dialogue box. Suppose that the name is
+
+‘My Country.”
+
+- Click the button ‘Ok’ in the dialogue box, and the presentation will be
+
+saved as ‘My Country”.
+
+- The file can be opened next time to complete the unfinished work.
+
+Adding New Slide
+
+Many slides may be included in a single presentation. To add a new slide
+
+1. Select the command of New Slide' on the ribbon of the “Home' menu or
+Press Ctrl+M from the keyboard. A new slide will be added.

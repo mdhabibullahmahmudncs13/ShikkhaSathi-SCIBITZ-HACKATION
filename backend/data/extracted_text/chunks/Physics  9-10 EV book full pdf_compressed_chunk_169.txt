@@ -1,0 +1,47 @@
+# Chunk 169 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316892
+# Character count: 633
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_169
+
+========================================
+
+8
+
+
+--- Page 60 ---
+Motion 55
+8. Let the marble, pencil or pen roll on the inclined plane again. Measure
+the time by counting the numbers and calculate the speed again. Increase
+the slope gradually and calculate the average speed every time.
+
+9. Draw a graph by plotting sin along the X-axis and average speed along
+Y-axis. From the graph calculate the speed for any slope.
+cm cm h/L s m/s m/s
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+Discussion: Describe the relation between slope and speed?
+Discuss what necessary measures should be taken to perform the experiment
+with more accuracy?
+
+Investigation 2.02
+Playing with different kinds of motion.

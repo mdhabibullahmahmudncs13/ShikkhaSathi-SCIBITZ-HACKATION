@@ -1,0 +1,22 @@
+# Chunk 96 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.833856
+# Character count: 784
+# Chunk ID: ICT 9-10.txt_0_96
+
+========================================
+
+Information Security and Cyber Risk
+Information has become one of the most valuable resources today. There are two
+main fypes of access: open information and confidential information. Open data
+is freely accessible to everyone and can be shared without restrictions. Examples
+include news, articles, and press releases from organizations or institutions. It is
+made [or public use and does not require any complex security. On the other
+hand, confidential information is restricted to authorized individuals or organiza-
+tions and is protected by legal obligations. For example, commercial contracts,
+., national identity cards, passwords, etc. Disclosure of confidential information
+§ without permission may result in legal complications or financial compensation.
+Forma-4, ICT- 9-10

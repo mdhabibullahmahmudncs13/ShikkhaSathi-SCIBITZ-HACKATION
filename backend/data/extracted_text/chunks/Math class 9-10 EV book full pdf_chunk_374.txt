@@ -1,0 +1,28 @@
+# Chunk 374 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426965
+# Character count: 520
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_374
+
+========================================
+
+--- Page 163 ---
+158 Mathematics Classes IX-X
+Drawing: Bisect the diagonals a and b into two Ln
+equal parts. From any ray AX, cut the line “—
+!
+
+segment AB equal to c. With centre at Aand B 7°
+
+b
+draw two arcs with radius 5 and 3 respectively ¢————
+on the same side of AB . Let the arcs intersect F™\ 0 cp
+at 0. Join A,0 and B,O. Extend AO to AE ~N._—/
+and BO to BF. Now cut 3= OC from OF and 7)
+b [AN
+5= OD from OF. Join A, D; D, Cand B, C. 4 < BX
+Therefore, ABCD is the required parallelogram.
+Proof: In AAOB and ACOD,

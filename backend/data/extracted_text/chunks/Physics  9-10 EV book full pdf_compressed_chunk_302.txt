@@ -1,0 +1,20 @@
+# Chunk 302 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330215
+# Character count: 586
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_302
+
+========================================
+
+obtained due to position, shape and motion of the object is called mechanical
+energy. There are two forms of mechanical energy; these are kinetic energy and
+potential energy.
+4.3.1 Kinetic Energy
+‘We have discussed earlier that the ability to do work is energy. Everyone of us
+knows that when an object is in motion, it can push another object and set it into
+motion resulting in the object moving a certain distance due to the pushing.
+. Making another object move means, definitely a force has been applied there
+d and traversing a distance due to this force means work is done there!

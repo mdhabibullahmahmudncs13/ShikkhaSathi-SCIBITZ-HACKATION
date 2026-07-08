@@ -1,0 +1,16 @@
+# Chunk 67 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.395843
+# Character count: 256
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_67
+
+========================================
+
+Solution: The elements of A are 7,14, 21,28.
+Here, each element is a multiple of 7 and not exceeding 28.
+oA ={z: zis a multiple of 7 and 0 < x < 28}
+Example 2. Express B = {x : x, is a divisor of 28} by using roster method.
+Solution: Here, 28=1x28=2x14=4x7

@@ -1,0 +1,28 @@
+# Chunk 13 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.390435
+# Character count: 767
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_13
+
+========================================
+
+q
+fraction is called proper and if p > ¢ then the fraction is termed improper. For
+| 1121 n fracti 3455 " .
+example —, —, —, —, ...etc are proper fractions. —, —, —-, —, ...etc are improper
+Py y 3 prop 7331 Prot
+fractions.
+Pp
+Rational Number: Numbers of the form ~ are called rational when p and ¢
+q
+. 3 11 5
+are integers and ¢ # 0. For example, i= 3, 5 = 5.5, 3= 1.666, ... etc are
+rational numbers. Any rational number can be expressed as ratio of two mutually
+prime numbers. All integers and fractions are rational numbers.
+Irrational Number: If a number cannot be expressed in the form 2 here Pp
+q
+and ¢ are integers and ¢ # 0, then it is called an irrational number. Root of a
+natural number not equal to perfect square or its fraction is an irrational number. g

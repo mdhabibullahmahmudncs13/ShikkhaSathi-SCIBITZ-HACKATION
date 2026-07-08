@@ -1,0 +1,23 @@
+# Chunk 695 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458481
+# Character count: 445
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_695
+
+========================================
+
+5. Prove that if each of the two triangles is similar to a third triangle, they are
+
+congruent to each other.
+
+6. Prove that, if one acute angle of a right-angled triangle is equal to an acute
+
+angle of another right-angled triangle, the triangles are similar.
+
+7. Prove that the two right-angled triangles formed by the perpendicular from
+. the vertex containing the right angle are similar to each other and also to
+IS
+S the original triangle.

@@ -1,0 +1,45 @@
+name: "my-continue-config"
+version: "1.0"
+
+models:
+  - title: Llama 3.1 8B
+    provider: ollama
+    model: llama3.1:8b
+  - title: Qwen2.5-Coder 1.5B
+    provider: ollama
+    model: qwen2.5-coder:1.5b-base
+  - title: Nomic Embed
+    provider: ollama
+    model: nomic-embed-text:latest
+  - title: DeepSeek Coder 6.7B
+    provider: ollama
+    model: deepseek-coder:6.7b
+  - title: Mistral 7B
+    provider: mistral
+    model: open-mistral-7b
+    apiKey: YcrmhZzRnggGAFornrLBUILBj87z2KOJ
+
+chatModel:
+  title: Llama 3.1 8B
+  provider: ollama
+  model: llama3.1:8b
+
+tabAutocompleteModel:
+  title: Qwen 2.5 Coder 1.5B
+  provider: ollama
+  model: qwen2.5-coder:1.5b-base
+
+embeddingsProvider:
+  title: Nomic Embed
+  provider: ollama
+  model: nomic-embed-text:latest
+
+contextProviders:
+  - name: code
+  - name: docs
+  - name: diff
+  - name: terminal
+  - name: problems
+  - name: folder
+  - name: codebase
+  - name: currentFile

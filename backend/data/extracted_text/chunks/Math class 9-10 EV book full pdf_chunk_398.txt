@@ -1,0 +1,25 @@
+# Chunk 398 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429102
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_398
+
+========================================
+
+--- Page 173 ---
+168 Mathematics Classes IX-X
+Exercise 8.1
+1. Prove that the straight line joining the middle points of two parallel chords
+of a circle passes through the centre and is perpendicular to the chords.
+2. Two chords AB and AC of a circle subtend equal angles with the radius
+passing through A. Prove that, AB = AC.
+3. A circle passes through the vertices of a right angled triangle. Show that,
+the centre of the circle is the middle point of the hypotenuse.
+4. A chord AB of one of the two concentric circles intersects the other circle
+at points C' and D. Prove that, AC' = BD.
+5. If two equal chords of a circle intersect each other, show that two segments
+of one are equal to two segments of the other.
+6. Show that, the two equal chords drawn from two ends of the diameter on

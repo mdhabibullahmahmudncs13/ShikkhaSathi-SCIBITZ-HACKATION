@@ -1,0 +1,39 @@
+# Chunk 836 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.473188
+# Character count: 765
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_836
+
+========================================
+
+--- Page 364 ---
+Chapter 17. Statistics 359
+Work: Draw frequency polygon from the marks obtained in Bangla by the
+students of your class in first terminal examination.
+
+Example 5. The frequency distribution table of the marks obtained by 50
+
+students of class X in science are given. Draw the frequency polygon of the data
+
+(without using histogram):
+
+Class 31 —40(41 —50(51 — 60/61 — 70/71 — 80/81 — 90/91 — 100
+
+interval
+
+Freqweny | 6 | % | 0 | | 5 | 7 | 7
+Solution: Here the given data are discrete. In this case, it is convenient to draw
+frequency polygon directly by finding the mid-point of class interval.
+
+1+ 4
+
+The Mid-point of the first class interval (31 — 40) is 22 =35.5
+
+Class 31 —40}41 — 50{51 — 60/61 — 7071 — 80|81 — 90|91 — 100
+
+interval
+
+Midpoint

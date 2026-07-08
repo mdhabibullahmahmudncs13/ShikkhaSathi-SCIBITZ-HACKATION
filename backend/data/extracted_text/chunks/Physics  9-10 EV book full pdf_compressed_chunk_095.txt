@@ -1,0 +1,22 @@
+# Chunk 95 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.309602
+# Character count: 371
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_95
+
+========================================
+
+Therefore the error in your measurements:
+Length: 10 + 0.5 cm
+Breadth: 54 0.5 cm
+Height: 4 + 0.5 cm
+Your measured volume: 10 cm x 5 cm X 4 cm = 200 cm?
+Probable smallest volume:
+(10 — 0.5) cm x (5 — 0.5) cm x (4 — 0.5) cm = 149.625 cm*®
+Probable largest volume:
+(10 + 0.5) cm X (5 + 0.5) cm x (4 + 0.5) cm = 259.875 cm?
+Therefore the volume,
+149.625 cm® < V < 259.875 cm?

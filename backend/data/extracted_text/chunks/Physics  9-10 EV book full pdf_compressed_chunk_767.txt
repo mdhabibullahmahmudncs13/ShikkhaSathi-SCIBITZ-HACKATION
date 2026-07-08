@@ -1,0 +1,26 @@
+# Chunk 767 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384850
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_767
+
+========================================
+
+--- Page 293 ---
+288 Physics
+Answer: For the equal and opposite charges equipotential lines are shown
+in figure 10.15. On the left side the potential is positive and it turns negative on
+the rightside by decreasing equally. Just at the center, the potential is zero.
+HC 9)
+LONE ers
+* AHO
+Figure 10.15: Equipotential lines for opposite charges.
+10.6.1 Potential Difference
+You have likely noticed various warnings on electric lines, such as "Danger: Ten
+Thousand Volts." Electric shock is a serious and potentially life-threatening
+hazard; there have been many instances where careless individuals have lost
+their lives due to electric shocks. If you grasp the concept of electrical potential,
+you can better understand what occurs in these situations. When you encounter a

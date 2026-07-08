@@ -1,0 +1,22 @@
+# Chunk 431 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.890698
+# Character count: 509
+# Chunk ID: ICT 9-10.txt_0_431
+
+========================================
+
+= for statement
+= while statement
+= continue, break and pass statement.
+Various statements are discussed below-
+In a Python program, for statement is used to execute a statement two or more
+times. The for loop is suitable only when we know how many times the loop will
+be executed. Usually, he number of iterations of a for loop is calculated using a
+variable. This type of variable is called counter variable, Following is the format
+of for statement:
+for Counter nl ELA 1ETation 1h Conabelan
+// Statement(s)

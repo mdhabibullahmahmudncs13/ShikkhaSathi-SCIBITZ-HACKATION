@@ -1,0 +1,23 @@
+# Chunk 951 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404263
+# Character count: 778
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_951
+
+========================================
+
+--- Page 363 ---
+358 Physics
+numbers in our daily life. But in electronics numbers are expressed by binary
+numbers, because they can be easily processed (voltage as 1 and zero voltage as
+0). The number system expressed with the digits ‘0’ and ‘1° is a binary number
+system. (Figure. 13.04)
+The greatest contribution of electronics is the computer. The exchange of all data
+or processing of all data in a computer is processed by digital electronics. Digital
+electronics is also used in the internet and computer networks to exchange data.
+Sound, image or video etc. start as analog signals (and is used as analog signal
+too) but they are stored, processed and sent as digital signal. Noise can spoil the
+quantity of analog signals very easily by entering the signals. Once it is

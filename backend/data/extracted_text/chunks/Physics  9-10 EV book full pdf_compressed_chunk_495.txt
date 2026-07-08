@@ -1,0 +1,24 @@
+# Chunk 495 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.351226
+# Character count: 780
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_495
+
+========================================
+
+V, = 13 +3al3(T, — Ty)...
+But we know Vv, =13
+That is , Vy = Vy + 3aVy(T, = Ty)
+So, Vo =Vi +i (T, = Ty)
+Certainly we can write
+In our practical life we have to keep in mind the issue of expansion of solids. You
+have seen the gap between the rails of rail tracks. This has been done taking
+thermal expansion into consideration. If no space was left for expansion, the rail
+lines would bend. Cavities develop in teeth due to lack of regular brushing. The
+dentist fills these cavities with a special type of substance. The co-efficient of
+expansion of the substance has been made very carefully which is equal to that
+of the teeth. If the co-efficient of expansion were less than that of teeth, it would
+come out from the cavity while eating something hot! Again, if the co-efficient

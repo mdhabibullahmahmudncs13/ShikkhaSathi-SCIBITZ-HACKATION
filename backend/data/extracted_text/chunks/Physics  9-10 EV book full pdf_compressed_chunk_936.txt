@@ -1,0 +1,36 @@
+# Chunk 936 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402926
+# Character count: 770
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_936
+
+========================================
+
+Example
+
+Question: The half life of a radioactive element of 1 kg is 100 years. What will be
+
+its mass after 200 years?
+
+Answer: Mass does not change directly due to radioactivity. Only three fourth
+
+of the nuclei of the radioactive element will emit radioactive particles in 200
+
+years.
+
+Forma-45, Physics, Class 9-10
+
+
+--- Page 359 ---
+354 Physics
+13.1.5 Uses of Radioactivity
+
+There are many different uses of Radioactivity. If a small amount of
+radioactive sample is inserted into the body, information about the body
+can be detected by observing the movement of the radioactive sample from
+outside the body. Generally those radioactivity samples have a very low
+half life, it may a few minutes, thus the radioactivity of the samples will be
+finished within an hour.

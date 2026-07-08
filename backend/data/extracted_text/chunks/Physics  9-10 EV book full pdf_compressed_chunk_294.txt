@@ -1,0 +1,37 @@
+# Chunk 294 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.329496
+# Character count: 761
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_294
+
+========================================
+
+--- Page 106 ---
+‘Work, Power, Energy 101
+
+0) Example
+
+Question: Your mass is 50 kg. You have climbed up a 10 storied building, how
+
+much work have you done? (Height of each floor is 3 m)
+
+Answer: If your mass is 50 kg, your weight is 50 x 9.8=490 N. This weight is a force,
+
+that is acting downwards. If you want to climb up, you have to exert an equal
+
+force upwards to draw yourself up.
+
+So, upward applied force: 490 N
+
+Distance travelled upwards: 10 x 3 m=30 m
+
+So the amount of work done, 490 N x30 m =14700 J=14.7 kJ
+
+Suppose, a moving object is coming towards you, you try to stop the object by
+
+applying force F, the object pushes you backwards by a distance s. How much
+
+work was done by the force applied by you? Certainly you have noticed that, this

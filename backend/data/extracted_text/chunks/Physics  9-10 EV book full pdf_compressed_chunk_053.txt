@@ -1,0 +1,25 @@
+# Chunk 53 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.305506
+# Character count: 769
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_53
+
+========================================
+
+--- Page 18 ---
+Physical Quantities and Their Measurements 13
+1.5 Physical Quantities and Their Measurements
+We all know that water becomes ice when it is cooled; it becomes vapor when it
+is heated. Peoples have been observing it from the very ancient times. This
+knowledge alone cannot be science completely, unless we can say at what
+condition and at what temperature water becomes ice after freezing or raising
+the temperature at what condition and at what temperature does it start to boil
+and becomes vapors. This means, in order to be science, everything has to be
+measured. The most important point of science is to be able to explain
+everything accurately after measuring them.
+Table 1.01: Seven physical quantities in SI unit
+| mme | seond | 5
+Electric current

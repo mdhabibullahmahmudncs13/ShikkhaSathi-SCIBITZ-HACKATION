@@ -1,0 +1,44 @@
+# Chunk 472 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.436885
+# Character count: 785
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_472
+
+========================================
+
+--- Page 207 ---
+202 Mathematics Classes IX-X
+Let us find the trigonometric ratios:
+ingoro PM a 1 ape OM _V3a_ V3
+METEOR Ta rN Top TT 2
+PM a 1
+tan 30° = — = — = —
+OM 3a /3
+OP 2a oP 2a 2
+300 = — = 2 _ 9 30° = = 4 2
+cosec 30 PA Pp , sec 30 OM = Ba V3
+OM 3a -
+cot 30° = ira V3
+In the same way,
+in 60° = oM = V3a = v3 0s 60° = Ll _a 1
+OTOP Tw TNT oP Ta
+. OM 3a
+tan 60° = Ma = V3
+OP 2a 2 OP 2a
+cosec 60° = —— = —— = — se == —=2,
+cosec 60 OM Va V3 sec 60° Pil p R
+PM a 1
+cot 60° = — = — = —
+OM ~~ 3a V3
+Trigonometric ratios for 45° : z
+Let us assume ZX OZ = 45° and P is a point on OZ. »
+Draw PM 1 OX
+In the right-angled AOPM, ZPOM = 45" Za
+-, ZOPM = 45 ‘
+So PM = OM = a (denote) ya
+Now, OP? = OM? + PM? = ® + a* = 2a? ‘ oom x
+or, OP = 2a
+From the definitions of trigonometric ratios we get,

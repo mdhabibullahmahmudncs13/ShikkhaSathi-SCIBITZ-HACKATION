@@ -1,0 +1,23 @@
+# Chunk 919 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.401074
+# Character count: 769
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_919
+
+========================================
+
+--- Page 354 ---
+Radioactivity and Electronics 349
+13.1 Radioactivity
+We all know, there is a nucleus at the center of an atom, and there are protons and
+neutrons in the nucleus. The number of revolving electrons around the nucleus
+is equal to the number of protons in it. The radius of the nucleus is about one
+lakh times smaller than the radius of the atom. But the actual mass of the atom is
+the mass of its nucleus even though its size is small, because the mass of the
+electron is 1836 times less than that of the proton or neutron.
+A proton is positively charged, so the nucleus cannot be formed only with
+protons because the protons will be thrown off due to strong repulsion force. So
+there is charge-less neutrons with protons in the nucleus, and nuclei become

@@ -1,0 +1,31 @@
+# Chunk 352 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.877416
+# Character count: 785
+# Chunk ID: ICT 9-10.txt_0_352
+
+========================================
+
+B. When the object or path remains selected, click the downward arrow of the
+Weight box in Stroke Palette and keep pressing the mouse, many
+measurenient units will be shown in the dropdown list. Select a number from
+the list as required. If a small number is selected, the stroke will be thin, and
+if a large number is selected, the stroke will be thick.
+
+C. A measurement unit can be typed TR
+directly in the Weight box, if eign SIEH|
+required. The fraction of a number wema@l |» BES
+can be used too. The thickness and erst RD
+thinness can be determined from [Rete i
+0-1000 points.
+
+Pen and Pencil Tool
+
+The main reason of the Illustrator programme being popular is the use of Pen
+
+Tool. It is possible to make complex and very small design and do the editing
+
+work with the Pen Tool.

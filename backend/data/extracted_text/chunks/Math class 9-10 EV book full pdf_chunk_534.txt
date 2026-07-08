@@ -1,0 +1,30 @@
+# Chunk 534 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.442778
+# Character count: 655
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_534
+
+========================================
+
+--- Page 238 ---
+Chapter 11. Algebraic Ratio and Proportion 233
+Exercise 11.1
+
+1. If the sides of two squares are a and b metre respectively, what will be the
+ratio of their areas?
+
+2. If the area of a circle is equal to the area of a square, find the ratio of their
+perimeter.
+
+3. If the ratio of two numbers is 3 : 4 and their L.C.M. is 180, find out the two
+numbers.
+
+4. The ratio of absent and present students of a day in your class is found to
+be 1: 4.Express the number of absent students in percentage with respect
+to the total number of students.
+
+5. A thing is first bought and then sold with 28% loss. Find the ratio of buying
+and selling cost.

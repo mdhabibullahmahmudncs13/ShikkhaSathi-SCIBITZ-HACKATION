@@ -1,0 +1,22 @@
+# Chunk 285 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418545
+# Character count: 411
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_285
+
+========================================
+
+are different. The first one is plane while the second one is curved.
+Two-dimensional surface: A surface is two dimensional; it has only length and
+breadth and is said to have no thickness. Keeping the two dimension of a box
+unchanged, if the third dimension is gradually reduced to zero, we are left with a
+face or boundary of the box. In this way, we can get the idea of surface from a
+solid.
+A—  —
+EE
+i"
+IS
+S

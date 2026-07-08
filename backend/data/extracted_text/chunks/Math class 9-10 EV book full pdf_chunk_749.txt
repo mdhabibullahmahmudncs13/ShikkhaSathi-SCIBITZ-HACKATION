@@ -1,0 +1,30 @@
+# Chunk 749 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.464687
+# Character count: 731
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_749
+
+========================================
+
+3. The perimeter of an isosceles triangle is 16 m. If the length of equal sides is
+: of base, find the area of the triangle.
+
+4. The lengths of the two sides of a triangle are 25 cm, 27 cm and perimeter
+is 84 cm. Find the area of the triangle.
+
+9 5. When the length of each side of an equilateral triangle is increased by 2
+S metre, its area is increased by 6/3 square metre. Find the length of side of
+
+
+--- Page 331 ---
+326 Mathematics Classes IX-X
+the triangle.
+
+6. The lengths of the two sides of a triangle are 26 m., 28 m. respectively and
+its area is 182 square metre. Find the angle between the two sides.
+
+7. The length of equal sides of an isosceles triangle is 10 m and area 48 square
+metre. Find the length of the base.

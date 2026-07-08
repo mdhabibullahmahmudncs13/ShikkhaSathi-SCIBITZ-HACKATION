@@ -1,0 +1,30 @@
+# Chunk 331 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.873600
+# Character count: 770
+# Chunk ID: ICT 9-10.txt_0_331
+
+========================================
+
+- The size of the screen will be bigger when clicked with the Zoom Tool on
+screen. With the increasing size of the screen, the object will remain on the
+screen enlarged. If it becomes enormously enlarged, some objects will not be
+viewed on the screen. Clicking on the screen and dragging with the
+hand-tool, that part can be brought on the screen.
+
+- Press the Alt bution while the Zoom Tool is active, and the Zoom Tool will
+be transformed into the Zoom Out Tool. Keep pressing the Alt button and
+continue clicking with the Zoom Out Tool, the size of the screen will
+gradually become smaller.
+
+- Press Ctrl - or Ctrl = button to complete the work of Zoom out and 5
+Zoom in. ~
+
+
+--- Page 107 ---
+102 Multimedia and Graphics
+
+Changing the Positioning of Page By Hand Tool

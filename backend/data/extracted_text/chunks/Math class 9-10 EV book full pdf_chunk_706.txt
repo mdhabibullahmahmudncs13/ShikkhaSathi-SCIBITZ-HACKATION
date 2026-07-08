@@ -1,0 +1,29 @@
+# Chunk 706 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.459504
+# Character count: 772
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_706
+
+========================================
+
+--- Page 311 ---
+306 Mathematics Classes IX-X
+Observe also that every object occupies same position after one complete
+revolution. So every geometrical object has a rotational symmetry of order 1.
+For finding the rotational symmetry of an object, one needs to consider the
+following matter.
+1) The centre of rotation
+2) The angle of rotation
+3) The direction of rotation
+4) The order of rotational symmetry
+‘Work:
+1) Give examples of 5 plane objects from your surroundings which have
+rotational symmetry.
+2) Find the order of rotational symmetry of the following figures.
+(@ (b) © @ ©
+Line symmetry and rotational symmetry
+We have seen that some geometrical shapes have only line symmetry, some have
+only rotational symmetry and some have both line symmetry and rotational

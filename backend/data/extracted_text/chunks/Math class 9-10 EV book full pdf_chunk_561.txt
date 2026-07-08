@@ -1,0 +1,33 @@
+# Chunk 561 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.445845
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_561
+
+========================================
+
+Now, we fill in the following chart from the equation 2x-+y=12:
+Value of y | Value of L.H.S (22 + y)
+SATE
+(ESTE)
+Gro-1
+ETE
+(SS I ER I
+The equation has infinite number of solutions. Among those, four solutions are:
+(=2.16), (0,12), (3,6), (5,2).
+Again, we fill in the following chart from another equation r —y = 3:
+Value of y | Value of L.H.S (z —y)
+25-3
+EC BT NF
+EE FF = SI
+[ES EE TR
+The equation has infinite number of solutions. Among those, four solutions are:
+(=2.-5), (0,3), (3,0), (5,2).
+If the two equations discussed above are considered together a system, both the
+equations will be satisfied simultaneously only by (5,2). Both the equations will
+not be satisfied simultaneously by any other values.
+“ Therefore, the solution of the system of equations 2x +y = 12 and  —y = 3 is
+IS

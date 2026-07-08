@@ -1,0 +1,42 @@
+# Chunk 683 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.376185
+# Character count: 726
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_683
+
+========================================
+
+--- Page 255 ---
+250 Physics
+n,sin90° =n, sin 6,
+sinf, = on
+ny
+|
+a a
+m ns o
+8 [A LY
+” % “
+9, Be 6-0¢ 0:2 0c
+Figure 9.06: When passing from a denser medium to a rarer medium, total internal
+reflection of light may occur .
+ie 1, 5in90° = n, sin 6,
+. ny
+or sing, =—
+na
+If we know the values of 7, and n, we could calculate an angle ¢, for which
+the above law is true. Therefore, the law can be expressed as
+n \
+6, = sin™t (2) EN D.
+ny 5 a S(O) SY
+n, for glass = 1.52 and 3 Lo
+ny for air = 1.00 be ud & [= A=
+n, 1.00
+—=—==0.66 . . .
+n, 1.52 Figure 9.07 : Most teeming reflection
+occurs in total internal reflection .
+It is possible to show that, sin 41.8° = 0.66 or sin~1(0.66) = 41.8°,
+therefore the critical angle 6, = 41.8° a
+g

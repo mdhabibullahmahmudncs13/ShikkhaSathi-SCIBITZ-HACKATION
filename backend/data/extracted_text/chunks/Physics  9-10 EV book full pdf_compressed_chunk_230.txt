@@ -1,0 +1,24 @@
+# Chunk 230 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.323067
+# Character count: 687
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_230
+
+========================================
+
+We should remember that Newton’s second law of motion is true not only for
+linear motion, but this is true for any type of motion. We have known about grav-
+itational force, by using Newton’s second law, we will be able to explain the
+motion of the planets revolving around the sun due to the gravitational force. But
+in this book, we will limit the use of Newton’s second law only to linear motion.
+If force is applied on an object, then by using Newton’s second law, its
+acceleration can easily be determined. (If force is divided by mass, acceleration
+can be found). If acceleration is known, the velocity or distance travelled
+
+.
+can be determined by using the laws of motion. a
+
+B51

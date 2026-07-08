@@ -1,0 +1,36 @@
+# Chunk 834 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391242
+# Character count: 503
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_834
+
+========================================
+
+--- Page 318 ---
+Current Electricity 313
+I= y_3 A=10A
+TRO1+2° 7
+V=RI=1QX1A=1V
+3V—-1v=2V
+1 points has been found, verify whether
+Ohm's law works or not?
+| i
+A x A 8
+my mn o E
+Ri=S50 Rem 200
+av i) 20 BY y= 100, Fy
+R= 150
+[1] wr c ° o
+i | Va |
+@ C]
+
+Figure 11.09: Two circuits composed of a battery and more than one resistor.
+Question: Determine the voltages at the points A, B, C, D and E of the circuit
+in figure 11.9 (b).
+
+Solution: Voltage at D is zero
+Voltage at A is 6V
+Forma-40, Physics, Class 9-10

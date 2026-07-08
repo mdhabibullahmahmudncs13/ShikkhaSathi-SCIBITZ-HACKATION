@@ -1,0 +1,38 @@
+# Chunk 137 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.403309
+# Character count: 766
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_137
+
+========================================
+
+--- Page 59 ---
+54 Mathematics Classes IX-X
+Example 14. If x = 37, what is the value of 82° + 722% + 216x + 216?
+Solution: 82% + 722? + 216 + 216
+=(22)° +3 (22)? 6+ 3-22 (6) + (6)°
+= (2+ 6)> = (2 x 37+ 6)* | substituting the values
+= (74+ 6)% = (80) = 512000
+Example 15. If z —y = 8 and zy = 5, what is the value of 2° — y+ 8(z +y)*?
+Solution: 2% — y* + 8(x + y)?
+= (z—y)* + 3zy(z — y) + 8{(z — y)> + day}
+= (8) +3 x5 x 8+48(82 +4 x 5) [substituting the values]
+=8 +15x8+8(8 +4x5)
+=8 +15x8+8x 84
+= 8(8% + 15 + 84) = 8(64 + 15 + 84)
+= 8 x 163 = 1304
+Example 16. Ifa = V3+V2, prove that, a® + ES =18V3
+a
+Solution: Given that, a = v/3 + v2
+ES
+Ta VBeV2
+V3-v2
+= —————————— [multiplying numerator and denominator by (V3 —V2
+VEDA VD) | :
+3—-V2 — V2
+VE vig
+(V3) - (v2: 3-2
+1

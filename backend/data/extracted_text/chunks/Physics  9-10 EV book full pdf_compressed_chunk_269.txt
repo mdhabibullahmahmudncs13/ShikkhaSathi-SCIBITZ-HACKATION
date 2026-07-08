@@ -1,0 +1,28 @@
+# Chunk 269 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.327186
+# Character count: 733
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_269
+
+========================================
+
+--- Page 96 ---
+Force 91
+@ Do Yourself
+— em R
+CARY 3
+aya ¥
+Re es
+Figure 3.18: Measurement of kinetic friction
+Static friction and Kinetic friction
+Take several empty match boxes. Fill up the boxes with soil to make
+them slightly heavier. Now put a match box on a book and keep sliding
+the book gradually (Figure 3 .18). Due to the static friction the match will
+not slide at first. When the book becomes sufficiently inclined, then
+along the slope a force works. At the instant when this force equals the
+sliding frictional force, then the match box will start sliding. You will see
+that only for a particular angle of inclination the match will start moving.
+Putting one or more match boxes over the first one repeat the experiment;

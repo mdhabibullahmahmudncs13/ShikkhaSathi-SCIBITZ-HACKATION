@@ -1,0 +1,22 @@
+# Chunk 450 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.345461
+# Character count: 765
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_450
+
+========================================
+
+applied on that object. Hitting the wall, the gas molecules apply a force on the
+wall. According to Newton’s third law, the wall also applies a counter force on
+the molecule thus reflecting the molecule.
+An enormous number of molecules thus hit the walls of the container and this
+combined force appears as the pressure of the gas.If the temperature of the gas is
+increased, then the kinetic energies of the molecules will increase and the
+molecules will hit the wall harder. This means the pressure will be increased.
+We will see in the next chapter that due to the application of heat, temperature
+increases and as a result pressure also increases.
+5.6.2 Fourth State of Substance
+Despite solids, liquids and gases, the three different sates of matter, substances

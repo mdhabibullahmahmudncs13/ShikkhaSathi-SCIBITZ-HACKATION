@@ -1,0 +1,31 @@
+# Chunk 917 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480918
+# Character count: 795
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_917
+
+========================================
+
+--- Page 405 ---
+400 Mathematics Classes IX-X
+(a) The Area of Trapezium Region
+ABCD is a trapezium. Where AB || CD, AB = a, CD = b and perpendicular
+distance = A. Construct DA | CE at C.
+~. AECD is a parallelogram. From the figure,
+area of trapezium = area of parallelogram AECD + area of triangle CEB
+! D b C
+= bxh+—(a=b)xh
+1
+= —(a+b)xh A
+F@+b) LE 5
+Area of trapezium region = average of the sum of two parallel sides x height
+Activity :
+1. Find the area of trapezium region by an alternative method.
+(b) The Area of Rhombus
+The diagonals of a rhombus bisect each other at right angles. If we know
+the lengths of two diagonals, we can find the area of rhombus.
+Let the diagonals AC and BD of a rhombus ABCD intersect each other
+at O. Denote the lengths of two diagonals by « and b respectively.

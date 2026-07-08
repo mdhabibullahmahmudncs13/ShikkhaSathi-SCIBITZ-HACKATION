@@ -1,0 +1,33 @@
+# Chunk 124 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.312870
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_124
+
+========================================
+
+--- Page 43 ---
+38 Physics
+2.4 Distance and Displacement
+
+We are quite familiar with the word ‘distance’ but we do not use the word
+‘displacement’ in our daily life. We want to understand the relation between the
+two words- distance and displacement with the help of an example. A curved
+path is shown in figure 2.04. The distance travelled with respect to the point A
+is denoted by the number 1, 2, 3 in kilometer.
+
+Let us consider you are at point A (i.e.
+
+your position is point A). Now you have = rE
+
+reached point B by 4 km way by yd a \
+riding a bicycle along the curved path. | J ™N
+
+We can say the distance between point A A\Y/& oo ))
+
+and point B is 4 km. Distance is a scalar ~~ / Js
+quantity, so to express the distance Sh J
+between the points A and B we need not fz

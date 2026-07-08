@@ -1,0 +1,21 @@
+# Chunk 191 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.847297
+# Character count: 474
+# Chunk ID: ICT 9-10.txt_0_191
+
+========================================
+
+web page by selecting the name of a web page.
+Reload/Refresh: Reload/Refresh cornmand should be given to know whether there
+has been any change in the middle while reading the web page whose data is con-
+stantly changing. Reload / Refresh command is very important especially for
+dynamic webpages.
+Stop: When data is downloaded on a web page and midway it is decided not fo view
+that web page, then the download must be stopped by clicking on the Stop button.
+JL —
+Search
+Go

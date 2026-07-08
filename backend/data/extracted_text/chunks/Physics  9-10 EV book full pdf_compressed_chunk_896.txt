@@ -1,0 +1,27 @@
+# Chunk 896 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.398264
+# Character count: 760
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_896
+
+========================================
+
+12.3 Electromagnetic Induction
+
+We see a lot of machines that rotates around us, it may seem to us that this is the
+magnet and the biggest contribution of the magnetic field! Actually the biggest
+contribution of magnets and magnetic fields is electromagnetic induction, that
+is, the production of electricity with the help of magnetic fields.
+
+Scientist Oersted first showed that if the magnetic field is changed through a
+conducting loop, then an electromotive force is developed within the loop,
+which can flow current through the loop. This property is used to build an
+electric generator, where by changing the magnetic field through a conducting
+loop, generates eleetricity.
+
+If the two ends of a coil are connected
+
+with an ammeter and a bar magnet is =H

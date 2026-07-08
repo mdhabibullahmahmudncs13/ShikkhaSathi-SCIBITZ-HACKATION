@@ -1,0 +1,26 @@
+# Chunk 870 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.395951
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_870
+
+========================================
+
+--- Page 333 ---
+3. If the point D of the circuit shown in Figure 11.19 (a) is connected with the
+earth, what are the voltages at the points A, B, C and D? What is the value of I?
+4. If instead of point D, the point C is connected with the earth of the circuit
+shown in Figure 11.19 (a), then what is the voltage? What is the magnitude of I?
+5. If the point D of the circuit shown in Figure 11.19 (b) is connected with the
+carth, what are the voltages at the points A, B, C and D?
+Put the tick ) mark on the correct answer
+1. What are the materials through which electric current can flow very easily?
+
+(a) insulator (b) bad conductor
+
+(c) semiconductor (d) conductor
+2. If three resistances of values 2Q , 3Q and 4 Q) are connected in series, then
+what will be the equivalent resistance?

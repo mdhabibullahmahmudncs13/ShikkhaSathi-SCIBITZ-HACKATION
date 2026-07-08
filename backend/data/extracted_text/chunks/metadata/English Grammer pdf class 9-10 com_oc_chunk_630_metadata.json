@@ -1,0 +1,17 @@
+{
+  "subject": "english",
+  "grade": 9,
+  "chapter": null,
+  "topic": null,
+  "language": "english",
+  "page_number": null,
+  "textbook_name": "NCTB English (Class 9)",
+  "source_file": "English Grammer pdf class 9-10 com_oc.txt",
+  "chunk_index": 630,
+  "extraction_timestamp": "2026-01-09T16:41:06.096750",
+  "character_count": 4,
+  "word_count": 2,
+  "line_count": 3,
+  "text_file_path": "data/extracted_text/chunks/English Grammer pdf class 9-10 com_oc_chunk_630.txt",
+  "chunk_id": "English Grammer pdf class 9-10 com_oc.txt_0_630"
+}

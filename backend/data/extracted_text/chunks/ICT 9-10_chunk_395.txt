@@ -1,0 +1,28 @@
+# Chunk 395 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.882549
+# Character count: 709
+# Chunk ID: ICT 9-10.txt_0_395
+
+========================================
+
+3. No other symbols such as @, $, %,», etc. can be used in the name of the variable. g
+
+Forma-16, ICT-(%-10)
+
+
+--- Page 127 ---
+122 Information and Communication Technology
+
+4. Python is a case-sensitive programming language. So, if the same letter is
+lowercase and uppercase, Python will treat them as two different variables.
+For example, My_variable and my_variable will be treated as two different
+variables.
+
+5. Keywords are saved words in Python programme. We cannot use keywords
+as the name of variables or functions or any other identifiers. In Python 3.10,
+there are 35 saved keywords. For example, False, True, None, and, as, break,
+class, continue, if, else, except, while, return, for, global etc.

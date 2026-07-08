@@ -1,0 +1,27 @@
+# Chunk 21 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.821125
+# Character count: 786
+# Chunk ID: ICT 9-10.txt_0_21
+
+========================================
+
+--- Page 10 ---
+Information and Communication Technology and Our Bangladesh 5
+Protocol, Arpanet was invented. The inter connection among the computers
+through network started developing since then, and the invention of the internet
+was the outcome. In 1971, American programmer Raymond Samuel Tomlinson
+introduced the first electronic mail communication through ARPANET. He is
+the pioneer of inventing the e-mail system.
+[ | After the invention of the microprocessor,
+personal computer was made by using this
+device in the USA. Steve Jobs (1955-2011)
+and his two friends Steve Wozniak and
+Ronald Wayne started a company named
+Apple Computer on April 1, 1976. This
+company 1s one of the biggest organisations
+in the world. The development of the
+personal computer has been carried out by

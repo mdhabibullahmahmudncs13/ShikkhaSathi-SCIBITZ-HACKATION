@@ -1,0 +1,24 @@
+# Chunk 66 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307072
+# Character count: 516
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_66
+
+========================================
+
+Therefore,
+. . . i L —
+dimensions of velocity: [221 | -=LT?!
+time T
+. . . [distance L 2
+dimensions of acceleration: ———|= — = LT
+time T?
+In this book, when we will speak about a new quantity, we will try to mention
+the dimension of it at the same time. You will see that, this always will help you
+to understand the quantity, in a different way. To indicate the dimensions of a
+quantity in this book, it will be shown within third brackets. For example, force
+F is expressed as [F]= MLT.
+Forma-3, Physics, Class 9-10

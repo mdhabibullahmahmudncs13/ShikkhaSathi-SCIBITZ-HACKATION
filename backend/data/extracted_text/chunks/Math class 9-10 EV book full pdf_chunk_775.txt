@@ -1,0 +1,27 @@
+# Chunk 775 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467474
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_775
+
+========================================
+
+10. The perimeter of a rhombus is 180 cm and the smaller diagonal is 54 cm.
+Find its other diagonal and the area.
+
+11. Difference of the length of two parallel sides of a trapezium is 8 cm and
+their perpendicular distance is 24 cm. If the area of the trapezium is 312sq.
+cm, find the lengths of the two parallel sides of the trapezium.
+
+12. The lengths of two parallel sides of a trapezium are 31 cm and 11 cm
+respectively and two other sides are 10 and 12 cm respectively. Find the
+area of the trapezium.
+
+13. The distance from the centre to the vertex of a regular octagon is 1.5 metre
+Find the area of the regular octagon.
+
+14. The length of a rectangular flower garden is 150 metre and breadth is 100 metre. pS
+For nursing the garden, there is a path of width 3 metre along its length and =~ &

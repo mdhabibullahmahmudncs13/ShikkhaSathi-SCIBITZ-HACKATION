@@ -1,0 +1,36 @@
+# Chunk 342 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.423894
+# Character count: 675
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_342
+
+========================================
+
+--- Page 147 ---
+142 Mathematics Classes IX-X
+
+3) Drawing: Produce PA to D such that PA = AD. Add Q, D.
+Proof:
+In triangle AQAD and APAR, 4
+QA = AR, AD = PA
+and the included ZQAD = the included c B
+ZPAR = NAN
+ AQAD = APAR and QD = PR LAT
+Now, in APQD. PQ + QD > PD Q
+or, PQ + PR > 2PA | Ais the mid point
+of PD | b
+Similarly, PQ + QR > 2QB  PR+ QR > 2RC
+oS PQ+PR+PQ+QR+PR+QR>2PA+2QB+2RC
+or, 2PQ + 2QR + 2PR > 2PA + 2QB + 2RC
+or, PQ + QR + PR> PA+ QB + RC
+o.PA+QB+ RC <PQ+QR+ PR
+
+Exercises 6.3
+
+1. The lengths of three sides of a triangle are given below. In which case it is
+possible to draw a triangle (the numbers are in unit of length)?
+1) 56.7 2) 57,14
+3) 3,4, 7 4) 2,4,8

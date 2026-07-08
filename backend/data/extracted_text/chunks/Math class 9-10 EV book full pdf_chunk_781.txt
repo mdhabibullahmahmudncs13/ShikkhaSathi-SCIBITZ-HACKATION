@@ -1,0 +1,38 @@
+# Chunk 781 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467967
+# Character count: 748
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_781
+
+========================================
+
+--- Page 344 ---
+Chapter 16. Mensuration 339
+Let us draw a radius r with centre O. The
+circular segment AOB stands on the arc APB whose c
+measurement is #. Draw a perpendicular OC" on OA - B
+Area of circular segment AOB Pp
+©" Area of circular segment AOC ra
+Measurement of ZAOB 4
+~ Measurement of ZAOC'
+or Area of circular segment AOB Ka
+Arca of circular segment AOC ~~ 90°
+[-ZAO0C = 90°]
+[4
+or, Area of circular segment AOB = 90 x area of circular segment AOC
+0 1
+= 50 x 1 x area of the circle
+[4 1 N
+= x — .
+90s XX
+0 ,
+=—— xr?
+3600
+So, area of circular segment = 0 x mr?
+i BH = 3600
+Example 19. The radius of a circle is 8 cm and a circular segment subtends
+an angle 56° at the centre. Find the length of the arc and area of the circular
+segment.

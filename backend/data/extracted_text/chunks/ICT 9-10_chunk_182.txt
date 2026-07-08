@@ -1,0 +1,21 @@
+# Chunk 182 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.846042
+# Character count: 430
+# Chunk ID: ICT 9-10.txt_0_182
+
+========================================
+
+--- Page 57 ---
+52 Information and Communication Technology
+Web Server and Web Client
+A-website has two parts. Namely- webserver and web client. Client software takes
+user input and sends data to the server called request. According to the data of the
+client. server sends a response. Webserver is a special kind of Hardware or Software
+that can provide services to a lot of clients at the same.
+Web Server Browser
+HTTP RESPONSE
+—

@@ -1,0 +1,27 @@
+# Chunk 194 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.408927
+# Character count: 753
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_194
+
+========================================
+
+--- Page 86 ---
+Chapter 4. Exponents and Logarithms 81
+Exponents or Indices
+In class VI, we have got the idea of exponents and in class VII, we have learnt
+the exponential rules for multiplication and division. Expressions associated with
+exponent and base are called exponential expression.
+‘Work: Fill in the blanks
+Successive multiplication
+of the same expression | Exponential expression | base [power or exponent
+EEE EE EE
+YTS I EE
+EET I EN
+If a is any real number, successive multiplication of n as is a"; that is, a x a x
+ax ...%a (n times a) = a", where n is a positive integer. Here, n is index or
+power and a is base. Conversely a" =a x a X a X ... X a (n times a).
+Exponents may not only be positive integers, they may be negative integers or

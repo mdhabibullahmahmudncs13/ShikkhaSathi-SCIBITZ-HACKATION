@@ -1,0 +1,21 @@
+# Chunk 383 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427859
+# Character count: 506
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_383
+
+========================================
+
+are 60° and 45°.
+10. Construct a parallelogram with the following data:
+1) The lengths of two diagonals are 4 cm, 6.5 cm and the included
+angle is 45°.
+2) The length of a side is 4 c.m. and the lengths of two diagonals are 5
+can. 6.5 cm.
+11. The sides AB and BC and the angles ZB, ZC and ZD of the quadrilateral
+ABCD are given. Construct the quadrilateral.
+12. The four segments made by the intersecting points of the diagonals of a 5
+quadrilateral ABCD and an included angle between them are OA = 4 ¢ m, S

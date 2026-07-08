@@ -1,0 +1,33 @@
+# Chunk 771 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467150
+# Character count: 757
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_771
+
+========================================
+
+--- Page 340 ---
+Chapter 16. Mensuration 335
+or, 100006% — b* = 23040000
+or, b' — 100006 + 23040000 = 0
+or, bt — 64006 — 36006% + 2304000 = 0
+or, (b2 — 6400)(b* — 3600) = 0
+0% — 6400 = 0 or b* — 3600 = 0
+or, b* = 6400 or b* = 3600
+hb =80or b= 60
+1f b = 80, then 3 -AD- DE -sinZADE = 1200
+or, 3 x 50 x 80 x sinZADE = 1200
+or, sinZADE = 0.6
+. ZADE = 36.87° (approx.)
+Sum of three angles of AADE = 73.74° + 36.87° + 36.87° = 147.48°
+But sum of three angles of any triangle = 180°, So b # 80
+If b = then 60, 3 -AD- DE -sinZADE = 1200
+or, 5 x 50 x 60 x sinZADE = 1200
+or, sin/ADE = 0.8
+o.ZADE = 53.13° (approx.)
+Sum of three angles of AADE = 73.74° 4- 53.13° 4- 53.13° = 180°, .". b = 60
+.. The perimeter of the triangle (50 + 50 + 60) cm = 160 cm
+Exercises 16.2

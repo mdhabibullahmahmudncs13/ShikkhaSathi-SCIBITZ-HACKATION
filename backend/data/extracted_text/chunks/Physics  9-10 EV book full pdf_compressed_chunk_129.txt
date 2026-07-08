@@ -1,0 +1,26 @@
+# Chunk 129 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.313486
+# Character count: 738
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_129
+
+========================================
+
+Speed is the rate of change of distance with respect to time. Therefore, if you
+have covered 100 m distance in 20 second, your speed will be;
+100 m
+VE 5m/s
+The dimension of speed [vy] = 17-1
+Velocity is the rate of change of displacement with respect to time. Therefore, if
+the change of your position along a certain direction is 50 m in 20 second, then
+magnitude of your velocity will be;
+_ 50m _ 25 m/
+V=o0s 0m
+And that certain direction is the direction of velocity.
+As velocity is a vector quantity, we will have to fix its direction.
+The dimension of velocity [v] = LT™*
+. Here, one thing has to be noticed. If we consider only linear motion, then there
+Sis no difference between velocity and speed, the magnitude of velocity is the

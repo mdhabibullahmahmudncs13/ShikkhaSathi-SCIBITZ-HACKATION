@@ -1,0 +1,20 @@
+# Chunk 489 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.350375
+# Character count: 374
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_489
+
+========================================
+
+Length, breadth and height of a solid are expand equally in three directions by
+the application of heat. To analyze this expansion three quantities named
+co-efficient of linear expansion, co-efficient of area expansion and co-efficient
+of volume have been introduced.
+— BH gp (pg
+[] |
+Figure 6.04: Length, cross section and volume of a solid are increased by heating. a
+IS
+8

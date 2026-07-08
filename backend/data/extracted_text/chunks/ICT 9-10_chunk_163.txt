@@ -1,0 +1,30 @@
+# Chunk 163 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.843809
+# Character count: 777
+# Chunk ID: ICT 9-10.txt_0_163
+
+========================================
+
+--- Page 52 ---
+Internet and Introduction of Web 47
+Internet
+
+‘We have already learned that the Internet is a global network that connects com-
+puters and devices around the world. It is used to enable people or devices to
+share information and communicate with each other via wire or wireless. It is
+also used to browse websites, send emails or chat with friends. It uses digital
+content.
+
+Digital Content
+
+If any content is preserved, expressed or exchanged as digital data, that is digital
+content. [Towever, it can be preserved either in a digital or in an analogue
+system. Digital contents can be exchanged either as files of the computer or of
+the digital system. Written information, images, sounds or videos anything could
+be digital contents.
+
+Types of Digital Content

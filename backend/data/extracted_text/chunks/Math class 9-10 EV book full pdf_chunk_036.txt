@@ -1,0 +1,31 @@
+# Chunk 36 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392408
+# Character count: 774
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_36
+
+========================================
+
+--- Page 16 ---
+Chapter 1. Real Numbers 11
+number. If we convert this repeating decimal number into common fraction, we
+will see that all of them are equal.
+oo 64537 — 645 63892
+4537 = S20f — m0 Doe
+64557 9900 9900
+ons 0453737 — 645 6453092 63892
+6453737 = ——————— = ————— = ———
+999900 999900 9900
+.. 6453737 — 64537 6389200 63892
+6.453737 = —— = ———— =
+990000 990000 9900
+In order to convert into similar repeating decimal fractions every repeating decimal
+must have equal number of digits in nonrepeating part. Repeating part must
+have number of digits equal to lowest common multiple of digits in all repeating
+parts.
+Example 8. Convert 5.6, 7.345, and 10.78423 into similar repeating decimal
+fractions.
+Solution: Repeating decimal fractions 5.6, 7.345, and 10.78423 have

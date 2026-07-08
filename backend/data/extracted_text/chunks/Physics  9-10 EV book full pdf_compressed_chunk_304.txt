@@ -1,0 +1,27 @@
+# Chunk 304 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330384
+# Character count: 555
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_304
+
+========================================
+
+W =Fs
+According to Newton’s second law we know,
+F=ma
+Again, from the equations of motion we know that if an object starts its motion
+from rest,
+Then s = Sat? and v = at
+Then work, W = Fs = mas = ma X Sat? = Sma? = Fm?
+Therefore we can say if a force / makes a displacement s of an object then the
+kinetic energy that is generated:
+1
+T= Sm?
+Zmv
+The velocity v is in the square form in kinetic energy, so to double the velocity
+of an object we will need to apply four times of the energy.
+‘When learning the equations of motion, we noticed that
+v2 =u? + 2as

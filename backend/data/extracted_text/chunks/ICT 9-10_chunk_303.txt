@@ -1,0 +1,33 @@
+# Chunk 303 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.868156
+# Character count: 674
+# Chunk ID: ICT 9-10.txt_0_303
+
+========================================
+
+The Use of Crop Tool
+
+The border of pictures collected \ \
+
+from different sources can not be [8 Ed =
+
+perfect or precise. It can be [§ LT = - “ul
+
+on required to cut off the edges or jd n Gy ¥e
+2
+
+
+--- Page 98 ---
+Information and Communication Technology 93
+unnecessary parts, In spite of that, the image can also be tilted to one side.
+Before starting editing, this kind of problem can be mended. The Crop tool is
+used to cut off the unnecessary parts of an image. Crop means cutting off.
+
+- The border of this old picture is uneven, and the first step of editing the
+picture will be cropping out the uneven edges. To get it done:
+
+- Select the Crop tool from the toolbox;

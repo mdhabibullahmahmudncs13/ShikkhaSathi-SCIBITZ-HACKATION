@@ -1,0 +1,26 @@
+# Chunk 816 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389705
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_816
+
+========================================
+
+--- Page 311 ---
+306 Physics
+flows, we will see that
+a) The higher the potential difference the higher the current flow.
+b) If potential difference is negative, the electric current also changes
+direction.
+If we put the result of the experiment on a graph, it will be like figure 11.04 (a):
+Therefore,
+TV
+If we do the same experiment by using a wire of some other materials, we will get
+similar results. But the slope of the straight line may be different. (Figure
+11.04(b)) Now if we analyze the results of these two experiments, we will
+understand that for a certain potential difference, the current that flows through
+the first conductor is more than the current that flows through the second
+conductor for the same potential difference. It is as if the flow of current is easier

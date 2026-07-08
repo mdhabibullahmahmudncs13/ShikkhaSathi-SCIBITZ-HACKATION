@@ -1,0 +1,30 @@
+# Chunk 550 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.444869
+# Character count: 736
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_550
+
+========================================
+
+--- Page 245 ---
+240 Mathematics Classes IX-X
+If the perimeter of a triangle is 36 cm and the ratio of length of its side is
+3:4 :5, then answer question 8 and 9:
+8. What is the length of its greatest side in ¢ m?
+15 2) 9 3) 12 4) 15
+9. What is the area of the triangle in square cm?
+1) 6 2) 54 3) 67 4) 90
+
+10. Weight of 1 cubic c.m wood is 7 decigram. What is the percentage of weight
+of the wood to the weight of equal volume of water?
+
+11. Distribute Tk. 300 among a, b, ¢, d in such a way that the ratios are a’s part
+: b's part = 2:3, b's part : ¢’s part = 1:2 and ¢'s part : d’s part 3: 2.
+
+12. Three fishermen have caught 690 pieces of fishes. The ratios of their parts
+
+2 4 5
+are 73 and 2 How many fishes will each of them get?

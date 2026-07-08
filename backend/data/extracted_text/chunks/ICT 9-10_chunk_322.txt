@@ -1,0 +1,22 @@
+# Chunk 322 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.872571
+# Character count: 746
+# Chunk ID: ICT 9-10.txt_0_322
+
+========================================
+
+--- Page 104 ---
+Information and Communication Technology 99
+Different kinds of tools and options for designing and drawing are arranged in
+Toolbox & Palette. Designing and drawing can be done by using these tools
+and options, and editing work is possible to get the image in its expected form.
+Names of the Necessary Tools of the Toolbox
+Names of the necessary tools should be known before starting work. Ellipse,
+polygon. star, and spiral tools stay on the linear position in the toolbox. These are
+called "Group Tools”. A Right-angeled triangle is attached with these tools. If a
+triangle sign is attached with the tool, it means that more tools are kept in the
+same position. If you click the visible tool in the box and continue pressing the

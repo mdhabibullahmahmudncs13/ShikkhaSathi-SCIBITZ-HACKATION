@@ -1,0 +1,29 @@
+# Chunk 425 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.889227
+# Character count: 734
+# Chunk ID: ICT 9-10.txt_0_425
+
+========================================
+
+--- Page 137 ---
+132 Information and Communication Technology
+nun = int (input ('Insert a number: '})
+if num > 0:
+priat('The number is positive’)
+elif num < 0:
+print ('The number is negative’)
+else :
+print (‘It is zera')
+The sample result obtained by running the program-
+Insert a number + 7
+The number is positive,
+The match Statement
+In Python programming, the match statement is used for similar work of elif
+statement i.e. to execute a particular statement from multiple statements. In fact.
+instead of using more number of elif statements, the match statement is used.
+Additional case and break statements can be used with the match statement. In
+an elif statement, the appropriate statement is selected based on a conditional or

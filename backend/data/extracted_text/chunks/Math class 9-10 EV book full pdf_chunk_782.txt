@@ -1,0 +1,27 @@
+# Chunk 782 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468054
+# Character count: 687
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_782
+
+========================================
+
+an angle 56° at the centre. Find the length of the arc and area of the circular
+segment.
+Solution: Let, radius of the circle r = 8 cm, length of arc is s and the angle
+subtended by the circular segment is § = 56°.
+rf 3.1416 x 8 x 56°
+We know, s = TR Tr Fa 7.82 cm (approx.) and
+Area of circular segment = bo x mr? = 56 x 3.1416 x 8 square cm = 31.28
+one SCBment = 3600 “360 sduare em = St
+square cm (approx.)
+Example 20. If the difference between the radius and circumference of a circle
+is 90 cm, find the radius of the circle.
+Solution: Let the radius of the circle be 7.
+.. Diameter of the circler is 2r and circumference = 277
+" As per question, 277 — 2r = 90
+IS
+s or, 2r(m — 1) = 90

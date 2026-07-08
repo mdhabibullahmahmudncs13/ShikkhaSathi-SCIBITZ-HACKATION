@@ -1,0 +1,24 @@
+# Chunk 479 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.437599
+# Character count: 384
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_479
+
+========================================
+
+Ratio/Augld 0° | 30° [ 45° [ 60° | 90° |
+1 1
+i 0 = — ye 1
+we [oo [GF]
+3 1 1
+si 1 I —= = 0
+ERNE IE IRR
+EIRENE SRNR
+Observe: Easy method for remembering of the values of trigonometric ratios of
+some fixed angles.
+(i) If we divide the numbers 0, 1, 2, 3 and 4 by 4 and take square root of
+a the quotients, we get the values of sin 0°, sin 30°, sin 45° sin 60° and sin 90°
+S respectively.

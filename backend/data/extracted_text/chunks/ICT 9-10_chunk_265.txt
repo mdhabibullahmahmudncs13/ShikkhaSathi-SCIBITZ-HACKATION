@@ -1,0 +1,33 @@
+# Chunk 265 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.861614
+# Character count: 793
+# Chunk ID: ICT 9-10.txt_0_265
+
+========================================
+
+the presentation on Our Country. For this
+
+- Keep the introductory slide of the presentation open.
+
+- Clicking the Movie drop-down on the ribbon of the Insert menu. get “Movie
+from the file’ command. Select the command and ‘Insert Movie dialogue
+box’ will come.
+
+- A movie file will be selected from the video folder of the Insert Movie
+dialogue box.
+
+- Click the Ok button of the dialogue box.
+
+- A message box with a question “How do you want the movie to start in the
+slide show?” will appear.
+
+- The Messaging box will contain two buttons ‘Automatically’ and ‘When
+Clicked.
+
+- The Messaging box will disappear if required button is pressed, and the
+video file will be added to the slide. You can place the file anywhere on the
+slide by dragging if and resize it by dragging the resize box.

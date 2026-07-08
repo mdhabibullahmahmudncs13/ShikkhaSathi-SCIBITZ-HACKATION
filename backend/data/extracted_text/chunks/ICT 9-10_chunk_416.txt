@@ -1,0 +1,24 @@
+# Chunk 416 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.887462
+# Character count: 604
+# Chunk ID: ICT 9-10.txt_0_416
+
+========================================
+
+ifcondition: — If statements
+Statement (s) to be executed if
+Storernent fust be ow If v
+The condition used in the if statement can generally be one
+or more logical or relational expressions, which are writ- ___» ™¢
+ten after the if. The if condition statement must be
+followed by a colon. — ER
+If the value of this condition is true, the tasks described on
+the line following the il will be executed. Eras
+This part is also called the body of the if. Any valid simple or compound state-
+ment can be present here.
+g 1I' the condition is false, the control will not go to the body of the if. As a result,
+=

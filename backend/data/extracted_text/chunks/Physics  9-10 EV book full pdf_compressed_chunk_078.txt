@@ -1,0 +1,25 @@
+# Chunk 78 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308039
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_78
+
+========================================
+
+--- Page 26 ---
+Physical Quantities and Their Measurements 21
+ARAL MR
+RHR AE
+HARLAN HA
+Figure 1.06: Vernier scale displaced by one, two and three divisions
+Instead of the vernier scale we can use a special type of scale called a screw
+gauge to measure lengths. In a screw gauge when the screw (Figure 1.07)
+rotates, the scale moves forwards or backwards, the threads of the screw are kept
+very fine. After a complete rotation of the screw, the screw with the attached
+scale may advanced by Imm. This displacement of the screw is called the pitch of
+the screw. The circular part of the instrument, by the rotation of which the screw
+moves forwards or backwards is divided into 100 equal parts. For the rotation of
+only one division of the circular scale, the screw advances by = of the pitch.

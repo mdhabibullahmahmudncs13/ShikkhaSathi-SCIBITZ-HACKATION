@@ -1,0 +1,16 @@
+# Chunk 341 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.874980
+# Character count: 224
+# Chunk ID: ICT 9-10.txt_0_341
+
+========================================
+
+box will be selected together.
+To make the grouped objects ungrouped:
+A. Click an object. and the grouped objects will be selected.
+B. Give the Ungroup command from the Object menu, and the grouped objects
+will be ungrouped.

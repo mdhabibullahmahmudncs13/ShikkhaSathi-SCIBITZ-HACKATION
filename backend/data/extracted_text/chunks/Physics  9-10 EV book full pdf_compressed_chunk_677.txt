@@ -1,0 +1,32 @@
+# Chunk 677 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.375356
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_677
+
+========================================
+
+--- Page 253 ---
+248 Physics
+45° i 60 |
+air | m=1 air | m=1
+other NN m=16 other i m=?
+medium + medium +
+{8 i as®
+(a) (b)
+Figure 9.04: (a) Angle of incidence of light is 45° (b) Angle of
+incidence is 60° and angle of refraction is 45°
+Answer : We know n;siné, = n; sin 6,
+1X sin60°= n,sin45°
+_sin60°_
+"= nase
+9.1.3 Relative refractive index
+We said that the refractive index of a medium is always greater than 1. Because
+, as the refractive index of a medium is a comparison of the velocity of light in
+that medium with the velocity of light in a vacuum, it will be greater than 1.
+Sometimes the refractive index of a medium is expressed in comparison with
+another medium. Then the refractive index may be less than 1 depending on
+which medium is being compared with which.

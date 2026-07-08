@@ -1,0 +1,17 @@
+# Chunk 380 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.880728
+# Character count: 368
+# Chunk ID: ICT 9-10.txt_0_380
+
+========================================
+
+Programming Language
+We use various languages to express our thoughts, such as Bengali, English,
+French, Latin, Spanish, etc. However, a computer cannot directly understand
+these languages. To give any instructions to a computer, we need to write them
+in a language that the computer can understand. Computers and any electronic
+devices can only understand 0 and 1. Bi

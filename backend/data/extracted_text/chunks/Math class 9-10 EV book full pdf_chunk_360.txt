@@ -1,0 +1,20 @@
+# Chunk 360 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425549
+# Character count: 375
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_360
+
+========================================
+
+2) The base, the base adjacent angle and the difference of the other two
+sides of a triangle are given. Construct the triangle in an alternate
+method.
+
+Construction 3. Two angles adjacent to the base and the perimeter of a
+triangle are given. Construct the triangle.
+Let the perimeter p and base adjacent angles Zz and Zy be given. It is required
+to construct the triangle.
+B

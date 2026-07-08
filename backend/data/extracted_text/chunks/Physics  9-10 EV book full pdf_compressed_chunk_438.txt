@@ -1,0 +1,40 @@
+# Chunk 438 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.344058
+# Character count: 797
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_438
+
+========================================
+
+--- Page 155 ---
+150 Physics
+Table 5.02: Young's modulus of different substances
+N T L—1L
+Therefore, — oc =
+Boe oo
+O T L—L
+nT
+Alm |
+Here, Y is a constant. The name of this constant is Young’s modulus. As strain
+has no unit, the unit of Y is Nm Young’s modulus of some substances are given
+in the table 5.02.
+Th
+Example
+pe
+Question: How does the length of a substance change with the change of the value
+of the Young’s modulus?
+Answer: Rate of change of length
+L—-Ly_ 1 3)
+Ly Yu
+Therefore, if 7/4 remains the same, the higher the value of Y is, change in length
+will be less.
+(ii) Let us consider, in normal condition a gas of volume Vis contained in a
+cylinder.
+Due to the application of pressure P, its volume is reduced to V (Figure 5.12).
+Here P is the stress and the Strain is:  _y
+0
+Vo wo
+IS)

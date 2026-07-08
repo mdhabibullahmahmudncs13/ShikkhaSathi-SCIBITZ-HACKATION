@@ -1,0 +1,30 @@
+# Chunk 309 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420726
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_309
+
+========================================
+
+--- Page 132 ---
+Chapter 6. Lines, Angles and Triangles 127
+Straight angle
+The angle made by two opposite rays at their
+common end point is a straight angle. In the adjacent
+figure, a ray AC is drawn from the end point A of the «<o———e—e—>
+ray AB. Thus the rays AB and AC have formed an ¢ A B
+angle ZBAC at their common point A. ZBAC is a
+straight angle. The measurement of a right angle is
+2 right angles or 180°.
+Adjacent angle
+If two angles in a plane have the same vertex, a
+common side and the angles lie on opposite sides of B c
+the common side, each of the two angles is said to be
+an adjacent angle of the other.
+In the adjacent figure, the angles ZBAC and ZCAD
+have the same vertex A, a common side AC and A D
+are on opposite sides of AC. ZBAC and ZC AD are
+adjacent angles.

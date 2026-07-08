@@ -1,0 +1,21 @@
+# Chunk 830 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472730
+# Character count: 739
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_830
+
+========================================
+
+with the weights /heights of the members.
+Diagram of Data: We have seen that the collected data under investigation
+are the raw materials of the statistics. If the frequency distribution and
+cumulative frequency distribution table are made with them, it becomes clear to
+comprehend and to draw a conclusion. If that tabulated data are presented
+through diagram, they become easier to understand as well as attractive. That
+is why, presentation of statistical data in tabulation and diagram is widely and
+frequently used method. In class VIII, different types of diagram in the form of
+line graph and histogram have been discussed elaborately and the students have
+been taught how to draw them. Here, how frequency polygon, pie-chart, ogive

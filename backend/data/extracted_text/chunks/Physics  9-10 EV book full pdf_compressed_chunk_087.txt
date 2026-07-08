@@ -1,0 +1,22 @@
+# Chunk 87 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308783
+# Character count: 799
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_87
+
+========================================
+
+extent a measusement is accurate . The reliability of a result will be increased if
+we can inform how accurate the result is when we publish the result of an
+experiment. You can report the measurement of the accuracy of your
+experiment if you know some conventional rules for finding the accuracy of an
+experiment.
+Suppose, you are measuring the length of an object by a scale. How accurately
+you will measure the length of the object depends on how finely your scale is
+graduated. If the scale is graduated in 1 cm intervals then you will express your
+result for length in some definite number of cm. But the real length of the object
+is not exactly equal to this mentioned number of cm but perhaps very close to it,
+so there is a possibility of uncertainty in your measured length. That is why, we

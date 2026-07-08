@@ -1,0 +1,24 @@
+# Chunk 446 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.345044
+# Character count: 771
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_446
+
+========================================
+
+Solid : Molecular properties Reflection in solids
+Molecules are rigid in their own There is a definite shape
+position
+There is almost no distance among | Can not be compressed by pressure
+the molecules
+Molecules are confined to their own | Cannot be made to flow
+positions
+5.6.1 Molecular Kinetic Theory of Matter
+If a solid substance is kept on a table, the solid exerts a kind of pressure on the table, on
+the area of the table which it touches. If we want to put some liquid on the table instead
+of solid, it will not work; the liquid will spread over the table. Liquids have to be
+contained in a pot and the liquid exerts pressure not only on the bottom of the container
+but it exerts pressure on the walls of the container in all directions. (If a hole is created in

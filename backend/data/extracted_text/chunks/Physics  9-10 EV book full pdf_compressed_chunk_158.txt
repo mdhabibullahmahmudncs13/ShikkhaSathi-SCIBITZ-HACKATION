@@ -1,0 +1,22 @@
+# Chunk 158 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316001
+# Character count: 750
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_158
+
+========================================
+
+[CT TI
+We need to mention something here. Whenever we have discussed distanc-
+es travelled, velocity or acceleration we always considered a
+standard situation. We considered that when an object moves, there is no
+friction and the object does not lose its energy by any other means. That
+does not happen in real life. That is why it is not so easy to collect real data
+for distances travelled, velocity or acceleration. For performing a real
+experiment an air track is used in the laboratory, where an object is kept
+floating in an air layer so that no friction is present. To measure the change
+of position of an object with respect to time, electric sparks or electronic
+signals are used. We will not get such type of data in our daily lives easily.

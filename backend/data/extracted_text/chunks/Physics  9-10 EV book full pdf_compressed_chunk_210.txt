@@ -1,0 +1,22 @@
+# Chunk 210 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321203
+# Character count: 689
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_210
+
+========================================
+
+if the rope becomes completely straight then the resultant force cannot be
+
+made zero by neutralizing the weight 7 of the book.
+3.4 Momentum
+Let a truck and a bicycle hit a small car with the same velocity. In this collision
+which one will damage the small car more the cycle or truck? Definitely the
+truck, because the truck is much heavier than the cycle. Though the
+velocity of the cycle and the truck are the same, but the momentum of the truck
+is much more than that of the cycle since the truck has greater mass. Simply, the
+momentum is defined as the product of the mass and the velocity. If the mass of
+an object is m and its velocity is V then the momentum p' can be expressed as:

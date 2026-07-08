@@ -1,0 +1,22 @@
+# Chunk 804 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.469832
+# Character count: 351
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_804
+
+========================================
+
+--- Page 353 ---
+348 Mathematics Classes IX-X
+As per question, 2(ab + be + ca) = 262
+or, (10 — 22)(9 — 2x) + (9 — 22)(7 — 2) + (7 — 22)(10 — 22) = 131
+or, 90 — 387 + 42% + 63 — 32x + 42? + 70 — 34x + 42 — 131 = 0
+or, 122% — 104 +92 = 0
+or, 32% — 26x +23 =10
+or, 322 — 3x — 23x +23 =0
+or, 3x(x — 1) = 23(x — 1) = 0
+or, (x —1)(3z—23)=0
+or,z—1=0or3z—23=0

@@ -1,0 +1,32 @@
+# Chunk 54 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.394235
+# Character count: 395
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_54
+
+========================================
+
+called infinite decimal fractions. For example, 5.134248513942301 ... is an infinite
+decimal fraction. Square root of 2 is an infinite decimal fraction. Let us calculate
+square root of 2.
+1) 2 ( 1.4142135...
+1
+24) 100
+96
+281) 400
+281
+2824 ) 11900
+11296
+28282 ) 60400
+56564
+282841 ) 383600
+282841
+2828423 ) 10075900
+8485269
+28284265 ) 159063100
+141421325
+17641775
+Forma-3, Mathematics, Class 9-10

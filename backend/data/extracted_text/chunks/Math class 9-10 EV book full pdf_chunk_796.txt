@@ -1,0 +1,28 @@
+# Chunk 796 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.469177
+# Character count: 760
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_796
+
+========================================
+
+--- Page 350 ---
+Chapter 16. Mensuration 345
+Area of the whole surface of the rectangular solid ki {
+= 2( area of the surface of ABCD + area of . E
+the surface of ABGH + area of the surface of A .
+BCFG) : :
+=2(AB x AD + AB x AH + BC x BG) pr ie
+= 2(ab + ac + bc) = 2(ab + be + ca)
+I o
+3. Volume of the rectangular solid = length x width x height = abe
+Example 28. The length, width and height of a rectangular solid are 25 cm,
+20 cm and 15 em respectively. Determine its area of the whole surface, volume
+and the length of the diagonal.
+Solution: Let, the length of the rectangular solid is a = 25 cm, width b = 20
+cm and height ¢ = 15 cm
+.-. Area of the whole surface of the rectangular solid = 2(ab + be + ca)
+=2(25 x 20 4 20 x 15 + 15 x 25) = 2350 square cm

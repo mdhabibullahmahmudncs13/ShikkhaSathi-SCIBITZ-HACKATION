@@ -1,0 +1,44 @@
+# Chunk 406 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429776
+# Character count: 739
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_406
+
+========================================
+
+at the centre O and ZBAC at a point A of the circle A
+
+ABC.
+
+‘We need to prove that ZBOC = 2/BAC
+
+Drawing: Suppose, the line segment AC’ does not
+
+© . Cc
+
+pass through the centre. In this case, draw a line B
+
+segment AD at A passing through the centre.
+
+Proof:
+
+Step 1. In AAOB the external angle ZBOD = /BAO + ZABO [An
+exterior angle of a triangle is equal to the sum of the two interior opposite
+angles]
+
+Step 2. In AAOB, OA =0B [- Radius of same circle]
+
+Therefore, ZBAO = ZABO [.- Base angles of an isosceles triangle are
+equal]
+
+Step 3. From steps (1) and (2), ZBOD = 2/BAO
+
+Step 4. Similarly, from AAOC, ZCOD = 2/CAO
+
+Step 5. From steps (3) and (4),
+
+ZBOD + ZC0D = 2/BA0O +2/C AO [by adding]
+This is the same as ZBOC = 2/BAC (Proved)

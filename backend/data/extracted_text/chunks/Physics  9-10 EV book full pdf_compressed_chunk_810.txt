@@ -1,0 +1,22 @@
+# Chunk 810 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389244
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_810
+
+========================================
+
+11.1.3 Direction of electric flow
+We have seen that if two bodies of different potentials are connected by a
+conductor, charge starts flowing and it continues until the potentials become
+equal and we say electric current is flowing. Many of you may have started
+thinking because when we talked about equalizing two different potentials by
+flow of charge, we said that it is true for negative charges, as only negatively
+charged electrons can go from one place to another. Then what happens in case
+of positive charge? As the positive ions are strongly bounded in their own
+positions, how does positive charge move from one place to another?
+You may have already realized what happens in that case. The deficiency of
+electron is positive charge. So increasing the deficiency by moving electrons

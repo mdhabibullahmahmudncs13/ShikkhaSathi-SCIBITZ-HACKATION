@@ -1,0 +1,39 @@
+# Chunk 104 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.400032
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_104
+
+========================================
+
+If PM = 2 and PN = y, then coordinates of point P are (x,y).
+[TTT TTT TITAS I TTT TT TTTT
+[EEEEEENEEEEE NL JEEEEEEEERE
+[EEEEEEEEEEEE IEEEEEREEEEE
+ET re TET
+re a fl
+[ENEEEEEEEE YI EEEERENEanREN
+[ENEEEEEEEELN a nrFSEE EERERE
+[EEEEEEEEEEEE ENEANE A EEERE
+TT TT
+[EENEEEEEEEEE A NEEEA REREEE
+EXT AX
+yi
+AL ZY EEE P|
+[EEEEEEEEEELY ENEERF INEEEE
+[EEEEEEEEEEEE INEEEERERERE
+[ENEEEEEEEEEE A EEEEEEEEEEE
+EEE rr
+[ENEEEENEEEEE ENEEEEEEREEE
+[EEEEEEEEEEEE INEEEEREEERE
+[EEEEEEEEEEEE INEEEEEEEERE
+[EEEEEEEEEEEE INEEEEEEEEEE
+EE TT
+EE Tr rr yr TT
+[EEEEEEEEEEEC EEEEEEEEEEE
+Here x is called abscissa and y is called ordinate. These coordinates are called
+Cartesian coordinates. It is very easy to depict a function using Cartesian
+coordinate system. Usually values of independent variable is set along x axis, and

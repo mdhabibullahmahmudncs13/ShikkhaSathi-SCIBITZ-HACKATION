@@ -1,0 +1,24 @@
+# Chunk 449 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.434545
+# Character count: 761
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_449
+
+========================================
+
+--- Page 193 ---
+Chapter 9
+. . .
+Trigonometric Ratio
+In our day to day life we make use of triangles, and in particular, right-angled
+triangles. Many different examples from our surroundings can be drawn where
+right triangles can be imagined to be formed. In ancient times, with the help
+of geometry men learnt the technique of determining the width of a river by
+standing on its bank. Without climbing the tree they knew how to measure the
+height of the tree accurately by comparing its shadow with that of a stick. In all
+the situations given above, the distances or heights can be found by using some
+mathematical technique which come under a special branch of mathematics called
+Trigonometry. The word “Trigonometry” is derived from Greek words ‘tri’ (means

@@ -1,0 +1,38 @@
+# Chunk 123 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.401829
+# Character count: 771
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_123
+
+========================================
+
+--- Page 52 ---
+Chapter 3. Algebraic Expressions 47
+a? +2ab +b = (a+b)?
+a’ —2ab+b* = (a —b)*
+adding, 2a” + 2b* = (a +b)? + (a — b)?
+or, 2(a® +b?) = (a +b)? + (a — b)*
+ne? 02
+Hence, (a® + %) = (a+) +(a=bf +9) _— b) O
+2 2
+Corollary 6. ab= ath) a=b
+2 2
+Proof: From Formula 1 and Formula 2,
+a? +2ab+b* = (a+b)?
+a’ —2ab+ b> = (a —b)*
+subtracting, 4ab = (a + b)* — (a — b)?
+2 2
+or, ab = (a+b)? (a—b)
+4 5 4 iN
+a+b a—
+hence, ab = | —— | — | —— [m}
+ence, al ( 3 ) ( 3 )
+Remark: By applying the Corollary 6 product of any two quantities can be
+expressed as the difference of two squares.
+Formula 3. a? —b* = (a+b)(a—b)
+Therefore, the difference of the squares of two expressions = sum of two expressions
+x difference of two expressions.
+Formula 4. (z+ a)(z +b) = 2% + (a + b)x + ab

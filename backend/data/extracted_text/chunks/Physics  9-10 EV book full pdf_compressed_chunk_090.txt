@@ -1,0 +1,27 @@
+# Chunk 90 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.309029
+# Character count: 576
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_90
+
+========================================
+
+Figure 1.11 : The length of the object
+
+beside the scale is nearly 7 mm
+Forma-4, Physics, Class 9-10
+
+
+--- Page 31 ---
+26 Physics
+Now we can discuss how accuracy can be measured. The measurement of
+accuracy is the absolute error. Observing the name we understand that this is the
+difference of the measured value with respect to the actual value. You can
+definitely understand that when we measure anything we don’t know the actual
+value. So, instead of absolute error we use the most probable error. Therefore in
+our previous example the absolute error is
+
+|£0.5 mm| = 0.5 mm

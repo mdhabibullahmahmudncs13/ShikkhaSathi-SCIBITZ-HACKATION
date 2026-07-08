@@ -1,0 +1,21 @@
+# Chunk 771 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.385261
+# Character count: 786
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_771
+
+========================================
+
+This illustrates that the voltage difference is what truly matters, not the absolute
+value of the voltage itself—a vital concept for everyone to understand.
+However, when it comes to measuring voltage levels, it is useful to have a
+specific reference voltage. In everyday life, we consider the Earth to have zero
+potential. The Earth is so immense that adding or removing a small amount of
+charge does not affect its potential. Consequently, all measurements are made
+relative to this zero potential. You may have noticed that heavy electrical equip-
+ment is consistently well-grounded (Earthing). This grounding ensures that if a
+significant amount of charge unexpectedly enters the system—due to an acci-
+dent, for example—it can quickly and safely discharge into the ground, minimiz-

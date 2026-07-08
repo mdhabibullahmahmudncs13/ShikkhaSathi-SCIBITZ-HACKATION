@@ -1,0 +1,17 @@
+# Chunk 506 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.353243
+# Character count: 351
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_506
+
+========================================
+
+is increased by applying heat. cylinder so that it always applies
+equal pressure to the gas contained
+in the cylinder.
+By applying pressure, liquids or solids cannot be compressed very much. But a
+gas can be compressed very easily. Therefore, at first we have to know the
+relation between the pressure and volume of a gas. It is called the ideal gas §

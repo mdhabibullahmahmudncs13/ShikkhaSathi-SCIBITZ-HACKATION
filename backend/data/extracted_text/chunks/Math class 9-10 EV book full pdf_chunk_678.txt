@@ -1,0 +1,30 @@
+# Chunk 678 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456617
+# Character count: 673
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_678
+
+========================================
+
+and the line segment AD from vertex A divides
+the side BC' at D such that BD : DC = BA : n
+AC. Tt is required to prove that AD bisects
+ZBAC ie. ZBAD = LCAD
+Drawing: Draw at C' the line segment CE
+parallel to DA, so that it intersects the side BA i D re
+produced at E.
+Proof:
+Step 1. For ABCE DA || CE [by construction]
+BA: AE = BD: DC [theorem 28]
+Step 2. But BD: DC = BA: AC [supposition]
+S.BA: AE = BA: AC [from step 1 and step 2]
+CAE = AC
+Therefore, ZACE = LZAEC [base angles of isosceles triangle are equal]
+Step 3. But ZAEC = ZBAD [ corresponding angles]
+and ZACE = ZCAD [alternate angles]
+Therefore, ZBAD = ZCAD [from step 2]
+PS
+EB .. the line segment AD bisects ZBAC

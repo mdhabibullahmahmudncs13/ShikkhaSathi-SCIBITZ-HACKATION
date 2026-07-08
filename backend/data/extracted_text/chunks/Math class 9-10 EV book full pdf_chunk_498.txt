@@ -1,0 +1,36 @@
+# Chunk 498 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.439356
+# Character count: 779
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_498
+
+========================================
+
+--- Page 221 ---
+216 Mathematics Classes IX-X
+105 105v/3
+or, 3x = 105 or, r=— or, r=—— or, x = 35v/3
+V3 3
+cox = 60.622 (approx.)
+.. The required distance of the point on the ground from the foot of the tree is
+60.62 metre (approx.).
+Work: In the picture, AB is a tree. From the information given in the
+picture
+A
+1) Find the height of the tree. >
+2) Find the distance of the point C' on the A
+ground from the foot of the tree. PVA ¢
+20m B
+Example 3. A ladder of 18 metre long touches the roof of a wall and makes
+an angle of 45° with the horizon. Find the height of the wall.
+Solution: Let, the height of the wall AB = h metre, length of ladder AC" =18m
+and makes angle ZACB = 45° with the ground.
+. AB
+From AABC we get, sin/ACB = ac
+h
+sin 45° = —
+or, sin 45 IT
+Or 1 h in 45° 1 A

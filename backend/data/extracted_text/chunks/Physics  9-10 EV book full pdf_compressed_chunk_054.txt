@@ -1,0 +1,23 @@
+# Chunk 54 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.305602
+# Character count: 767
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_54
+
+========================================
+
+everything accurately after measuring them.
+Table 1.01: Seven physical quantities in SI unit
+| mme | seond | 5
+Electric current
+In this universe anything we can measure is called a quantity. In this physical
+world there are innumerable quantities which can be measured. For example, we
+can name, length, breadth, volume, weight, temperature, colour, rigidity,
+position, velocity, internal material, electrical conductivity, non-conductivity,
+elasticity, heat conductivity, non-conductivity, density, specific heat, pressure,
+melting point, etc, and we cannot finish this list. In brief, in the physical world
+the quantities are endless. You may think that to measure these infinite number
+of quantities, we have to prepare the definitions and units for these infinite

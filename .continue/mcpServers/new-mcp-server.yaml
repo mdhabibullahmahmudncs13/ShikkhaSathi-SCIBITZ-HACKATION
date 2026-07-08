@@ -1,0 +1,118 @@
+# Example 1: Playwright Browser Automation
+# Enables browser automation, web scraping, screenshots
+name: Playwright MCP Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: Browser Automation
+    command: npx
+    args:
+      - -y
+      - "@playwright/mcp@latest"
+    env: {}
+
+---
+
+# Example 2: File System Access
+# Provides file read/write operations
+name: Filesystem MCP Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: Filesystem
+    command: npx
+    args:
+      - -y
+      - "@modelcontextprotocol/server-filesystem"
+      - "/path/to/your/workspace"
+    env: {}
+
+---
+
+# Example 3: GitHub Integration
+# Access GitHub repos, issues, PRs
+name: GitHub MCP Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: GitHub
+    command: npx
+    args:
+      - -y
+      - "@modelcontextprotocol/server-github"
+    env:
+      GITHUB_PERSONAL_ACCESS_TOKEN: "your-token-here"
+
+---
+
+# Example 4: SQLite Database
+# Query SQLite databases
+name: SQLite MCP Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: SQLite
+    command: npx
+    args:
+      - -y
+      - "@modelcontextprotocol/server-sqlite"
+      - "/path/to/your/database.db"
+    env: {}
+
+---
+
+# Example 5: Web Search (Brave)
+# Search the web using Brave Search API
+name: Brave Search MCP Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: Brave Search
+    command: npx
+    args:
+      - -y
+      - "@modelcontextprotocol/server-brave-search"
+    env:
+      BRAVE_API_KEY: "your-api-key-here"
+
+---
+
+# Example 6: PostgreSQL Database
+# Query PostgreSQL databases
+name: PostgreSQL MCP Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: PostgreSQL
+    command: npx
+    args:
+      - -y
+      - "@modelcontextprotocol/server-postgres"
+    env:
+      POSTGRES_CONNECTION_STRING: "postgresql://user:password@localhost:5432/dbname"
+
+---
+
+# Example 7: Multiple Servers Combined
+# You can run multiple MCP servers at once
+name: Multi-Server Setup
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: Browser
+    command: npx
+    args:
+      - -y
+      - "@playwright/mcp@latest"
+  - name: Filesystem
+    command: npx
+    args:
+      - -y
+      - "@modelcontextprotocol/server-filesystem"
+      - "."
+  - name: SQLite
+    command: npx
+    args:
+      - -y
+      - "@modelcontextprotocol/server-sqlite"
+      - "./data.db"

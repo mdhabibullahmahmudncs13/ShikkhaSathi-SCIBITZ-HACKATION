@@ -1,0 +1,27 @@
+# Chunk 727 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461507
+# Character count: 798
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_727
+
+========================================
+
+Again ZOEF = Zax[since EF||C'B by construction].
+So the parallelogram ECGF is the required parallelogram.
+Construction 14. Construct a triangle with area of the triangular region equal
+to that of a quadrilateral region.
+D c
+A B E
+Let ABCD be a quadrilateral region. It is required to construct a triangle such
+that area of the triangular region is equal to that of a rectangular region ABCD.
+Drawing: Join D, B. Through C, draw C'E parallel to DB which intersects
+the side AB extended at E. Join D, E. Then, ADAE is the required triangle.
+Proof: ABDC and ABDE lie on the same base BD and CE || DB
+(by construction).
+area of ABDC = area of ABDE.
+area of ABDC area of AABD = area of ABDE+ area of AABD
+area of the quadrilateral region ABC'D = area of AADE. Therefore, AADE
+g is the required triangle.

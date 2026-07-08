@@ -1,0 +1,20 @@
+# Chunk 357 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.335370
+# Character count: 711
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_357
+
+========================================
+
+water is vaporized and turbine is rotated with the help of this vapor and
+electricity is produced from the generator. This type of power plant is called a
+nuclear power plant. It is possible to get thousands of megawatt power from such
+a power plant very easily. The wastage material that is produced after the nuclear
+reaction is terribly radioactive; so many types of precautionary measures have to
+be taken when processing them. If the excess neutrons that emerge after a
+nuclear reaction are absorbed somewhere else by any means, then the nuclear
+reaction ceases. There is a special type of rod called a control rod to absorb the
+neutrons in a nuclear reactor. These are used to control the nuclear reactor.

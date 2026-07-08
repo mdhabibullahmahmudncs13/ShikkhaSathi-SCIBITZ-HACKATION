@@ -1,0 +1,27 @@
+# Chunk 709 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378715
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_709
+
+========================================
+
+(a) Its position will be in between the center and focus of the lens.
+
+(b) It is virtual
+
+(c) Itis erect.
+
+(d) It is small.
+9.4.2 Convex Lens
+The images in convex lens are amazing. The image which we got from a
+concave mirror, is the same as the images in a convex lens. We have seen in the
+case of a convex mirror that if a parallel ray falls on it, then it converges at the
+focal point. The same thing happens in the case of a convex lens, if parallel rays
+fall on it, they will meet at the focal point (Figure 9.21) and again spread out.
+Therefore, using previous logic we can say that if light diverges from a point and
+the source of the divergent light (Figure 9.22) is placed in the focal point of a
+lens, then while passing through the lens, rays of light will emerge as parallel a

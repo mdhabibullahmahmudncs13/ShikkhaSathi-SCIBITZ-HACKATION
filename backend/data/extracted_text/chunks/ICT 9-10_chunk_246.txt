@@ -1,0 +1,26 @@
+# Chunk 246 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.858090
+# Character count: 783
+# Chunk ID: ICT 9-10.txt_0_246
+
+========================================
+
+Select the "Microsoft Office Power [== = — = =~ = a =
+Point’ command from this list and the pr] EE =
+first slide will be shown on the | |
+screen. In the main part of the slide. | =
+- “Click to add title” and *Click to add ent
+subtitle’ are written on the box. Co
+Click both the writings and a text
+box will be shown with the insertion =
+pointer. Type a title and subtitle while IEaee — 2
+the insertion pointer is in the box. If you click outside the box without
+writing anything those two writings will be viewed again.
+- Click the textbox border and press delete button after selecting, the textbox
+with the writing will be deleted.
+Select the textbox icon from the ribbon of the ‘Home’ menu and take the
+insertion pointer inside the screen and the insertion pointer will be changed

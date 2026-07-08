@@ -1,0 +1,25 @@
+# Chunk 583 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.365030
+# Character count: 731
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_583
+
+========================================
+
+done a little below the earth. Sound 7 NT =i
+of the blast hits the different layers a
+of the soil and returns after dt 1
+reflection. The reflected wave is —— \ \W a E——
+detected by a special type of __ _ N/ / a]
+receiver named a geophone (Figure \/
+7.13). Analyzing all information a =~ —=—— == == —
+perfect three dimensional picture of
+the soil is formed, from which gas Figure 7.13: Information about different
+or oil is present or not is layers of the earth can be known, by the
+determined. Since we know the reflection of sound.
+position of the source of sound and the geophone, the distance of the different
+layers of soil can be calculated accurately from the time required for the sound a
+to reach from source to geophone. “

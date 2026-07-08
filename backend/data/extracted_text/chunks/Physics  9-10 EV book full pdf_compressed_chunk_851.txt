@@ -1,0 +1,21 @@
+# Chunk 851 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.393341
+# Character count: 731
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_851
+
+========================================
+
+Since the amount of electrical energy supplied per second is VI, if the
+potential is increased by 10 times, it is possible to supply the same energy using
+10 times less current. If 10 times less current is supplied, 100 times less heat
+energy will be dissipated. This is because the resistance R of the wire is the same
+in both cases.
+Now you may think that the loss of heat energy can also be written as /*/R and
+in that case the heat energy loss will be 100 times due to 10 times increase of
+voltage. It is to be remembered that when we found the energy loss per second
+as V%/R, we then saw V was the potential difference between the two sides of the
+resistance. The ¥ which we are discussing here is not the potential difference

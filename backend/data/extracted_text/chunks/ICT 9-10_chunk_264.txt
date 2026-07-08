@@ -1,0 +1,35 @@
+# Chunk 264 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.861510
+# Character count: 745
+# Chunk ID: ICT 9-10.txt_0_264
+
+========================================
+
+--- Page 85 ---
+80 Multimedia and Graphics
+
+Apply Sound to Transition
+
+Keep the slide open to add sound to the transition, and select the name of a sound
+
+from the drop-down list of Transition Sound. Camera is selected for the first
+
+slide. Click Apply to All button for applying the same sound to all the slides.
+
+If different sound is required to apply in every slide, separate application of
+
+sound following the same process for every slide will be needed.
+
+Add Video to the Slide
+
+Video can be added to any slide, if necessary. Usually video is added to the
+
+introductory slide. Suppose that video will be added to the introductory slide of
+
+the presentation on Our Country. For this
+
+- Keep the introductory slide of the presentation open.

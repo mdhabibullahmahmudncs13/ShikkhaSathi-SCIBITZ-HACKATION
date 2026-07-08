@@ -1,0 +1,39 @@
+# Chunk 175 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.406868
+# Character count: 745
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_175
+
+========================================
+
+--- Page 78 ---
+Chapter 3. Algebraic Expressions 73
+. I I. 100
+If selling price is Tk. 1, cost price is Tk. ———.
+100 =r
+Again, if cost price is Tk. 100, selling price at the profit of s% is Tk. (100 + s).
+100 100 +
+.. if cost price is Tk. 00—7 selling price at the profit of s% is Tk. (“ x
+100
+100 —r
+100 +s
+= Tor
+100 +s
+Therefore, in Tk. To number of oranges is to be sold is n.
+. . 100 —r
+In tk. 1 number of oranges is to be sold is n x =
+100 —
+Hence, R=) oranges are to be sold per taka.
+Example 40. What is the profit of Tk. 650 in 6 years at the rate of profit Tk.
+7 percent per annum ?
+Solution: We know, I = Pnr
+Here, P =Tk.650 n = 6 year, percent per annum s = Tk.7
+a s 7
+©1000 100
+7
+1 =6 — =273
+he 50 x 6 x 100
+Hence, profit is Tk. 273.

@@ -1,0 +1,28 @@
+# Chunk 362 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.335889
+# Character count: 769
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_362
+
+========================================
+
+--- Page 126 ---
+Work, Power, Energy 121
+new quantity called efficiency. Efficiency can be expressed in percentage as:
+_- __ amount of work __ amount of work —energy wasted
+Efficiency = rT — Xx 100 = E——— xX 100
+0) Example
+Question: If an object of mass 10 kg is lifted 10 min 15 s using a motor of 1000
+W, then what is the amount of wasted energy? What is its efficiency?
+Answer:
+Amount of work: 10 xX 9.8 x 10] = 9,800]
+Energy given: 1000 x 15] = 15,000]
+Energy wasted: 15,000 — 9,800 = 5,200
+Effici = 800) X 100% = 65.3 %
+iciency = 15,000] 0 = 653%
+You will be surprised to know that, energy is wasted in every step of production
+of electricity in a power plant, and if all these wastage is taken into account,
+the efficiency of the power plant can drop down to 30%.

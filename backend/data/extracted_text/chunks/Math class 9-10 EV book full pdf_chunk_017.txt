@@ -1,0 +1,33 @@
+# Chunk 17 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.390788
+# Character count: 787
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_17
+
+========================================
+
+--- Page 9 ---
+4 Mathematics Classes IX-X
+——
+[postive] pee sie
+| infinite
+" n infinite ||decimal
+[oie] monprimimopemproper mined se
+repeated | [without
+repeatatio
+‘Work: Show the position of the following numbers in the classification of
+3 9 4 .
+real numbers T 5, —7,V13,0, 1, 7 12, 2 1.1234, 0.323
+Example 1. Find an irrational number between v/3 and 4.
+Solution: Here, v/3 = 1.7320508 . ..
+Suppose, a and b are two irrational numbers between v/3 and 4.
+Where a=v/3 +1 and b=v/3 +2
+Obviously a and b are both irrational numbers and both are between v/3 and 4.
+That is, v3 <V3+1<v3+2< 4
+oa and b are the two desired irrational numbers.
+In fact, we can construct countless number of such irrational numbers.
+Basic characteristics of addition and multiplication processes of real
+numbers :

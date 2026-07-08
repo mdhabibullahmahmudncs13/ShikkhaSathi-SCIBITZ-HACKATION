@@ -1,0 +1,15 @@
+# Chunk 88 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308865
+# Character count: 242
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_88
+
+========================================
+
+so there is a possibility of uncertainty in your measured length. That is why, we
+add that amount of uncertainty with the measured result. Therefore, if we see the
+length is close to 4 cm, we will say the length of the object is:
+(4.0 £0.5)cm

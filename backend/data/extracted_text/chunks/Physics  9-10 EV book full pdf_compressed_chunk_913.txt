@@ -1,0 +1,16 @@
+# Chunk 913 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.400438
+# Character count: 271
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_913
+
+========================================
+
+an insulated wire, a magnetic field B is produced. What will be the magnetic
+field if the number of turns is 100?
+2. In the above case, to increase the number of turns by 50 more, if by
+mistake 50 turns are given in the reverse direction, what will be the magnetic
+field?

@@ -1,0 +1,38 @@
+# Chunk 662 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455167
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_662
+
+========================================
+
+--- Page 291 ---
+286 Mathematics Classes IX-X
+Deposit of 12000 Tk. after 2 years 12000 x (1.12)? Tk.
+Deposit of 12000 Tk. after 3 years 12000 x (1.12)* Tk.
+Total deposited amount after 26 years = 12000 x 1.124+12000 x (1.12)? - +
+upto 26 th term.
+= 12000{1.12 4 (1.12)2 4 --- + (1.12)%}
+B (112% -1 18.04
+= 12000 x 1.12 x ToT 12000 x 1.12 x 012
+= 2020488 Tk. (approx.)
+Exercise 13.2
+1. a,b,c and d are four consecutive terms of an arithmetic series. Which one
+of the following is true?
+c+d b+c b+d atc
+1) b=—"2 2) a= ——o0 f= — 4) d= ——
+) 3 ) a 3 3) ¢ 3 ) d 2
+2. ForneN
+2,
+(0) Tn="5"
+2
+1
+(ii) Yon? = ed + 1)(n +2)
+2002 + on + 1
+(iii) Son — alba
+‘Which one of the following is true?
+1) and ii 2) i and iii 3) ii and iii 4) i, ii and iii
+On the basis of the following series, answer questions 3 and 4.

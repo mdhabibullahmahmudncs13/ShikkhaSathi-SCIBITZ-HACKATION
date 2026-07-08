@@ -1,0 +1,26 @@
+# Chunk 245 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324985
+# Character count: 767
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_245
+
+========================================
+
+we get:
+T1-5g=5a
+For the 5 kg mass, T_1 acts upward. Using Newton's second law horizontally for
+the mass m, we obtain:
+“T2+T1=m(-a)
+Here, the force T_2 acts to the left, the force T_1 acts to the right, and the
+acceleration of the mass mis directed to the left.
+The mass mexperiences a downward gravitational forcemg and an upward
+normal force N in the vertical direction, Because the resultant of the two forces
+is zero, the mass m does not accelerate in the vertical direction. Now, applying
+Newton's laws of motion vertically to the 10 kg mass, we find:
+T2-10g=10(-a).
+For the 10 kg mass, T_2 acts upward.
+By solving the three equations above, we find that the combined acceleration of
+the objects is given bya=5g/(10+5+m) and the total force acting on the mass is

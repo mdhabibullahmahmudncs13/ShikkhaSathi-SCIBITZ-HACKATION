@@ -1,0 +1,34 @@
+# Chunk 934 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402752
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_934
+
+========================================
+
+--- Page 358 ---
+Radioactivity and Electronics 353
+0 it cannot be influenced by an
+
+electric or magnetic field. Because it is charge less, it cannot directly ionize
+
+atoms or molecules, but the electrons can ionize atoms or molecules in different
+
+processes and from that we can understand the presence of gamma ray. To stop
+
+gamma rays with energy equal to that of alpha and beta particles, a thick layer of
+
+lead of several centimeters is needed.
+
+13.1.4 Half Life
+
+It is not possible to say the exact moment when a definite radioactive nucleus
+
+will emit radioactive rays. Physics can only predict the probability of its
+
+radiation. So the concept of Half Life is used to determine the amount of
+
+radioactivity. The time in which half of the nucleus disintegrates (or radiates) is

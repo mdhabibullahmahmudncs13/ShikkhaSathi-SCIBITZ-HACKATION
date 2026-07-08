@@ -1,0 +1,29 @@
+# Chunk 753 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383580
+# Character count: 680
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_753
+
+========================================
+
+Charge of electron : —1.6 x 107° C
+
+Charge of proton : +1.6 x 107° C
+You can see, if ¢, and g, both are positive or negative, then the value of I is
+positive and they will repel one another. If one charge is positive and the other is
+negative, then the value of F will be negative, which means the direction of the
+force is changed, that is, the charges will attract one another. We have seen this
+earlier and now the formula shows this too.
+
+Example
+Question: A +1 C charge and a -1 C charge are placed at a distance of 10 cm.
+How much force is acting between them?
+Answer: Two opposite charges will attract each other. The force acting between
+them: (Figure 10.10 a)
+
+F=k fz
+r
+3

@@ -1,0 +1,16 @@
+# Chunk 74 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307702
+# Character count: 214
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_74
+
+========================================
+
+--- Page 25 ---
+20 Physics
+Therefore no mark of the vernier scale will coincide with the millimeter mark of
+the main scale, finally the 10" mark will coincide again with the ninth millimeter
+mark of the main scale.

@@ -1,0 +1,36 @@
+# Chunk 177 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.318212
+# Character count: 712
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_177
+
+========================================
+
+--- Page 63 ---
+58 Physics
+
+©) Exercise
+
+General questions
+
+1. Velocity is zero but acceleration is not zero —is it possible? If possible,
+
+explain.
+
+2. Velocity is changing but speed is not changing. Is it possible? If possible show
+it.
+
+3. The acceleration due to gravity on the moon is 6 times less than that of earth.
+If a stone is released from a definite height towards earth, at which velocity it
+will hit the ground, if the same stone is released from the same height.
+
+4. Ts there any place from where you go 1 km south and then 1 km east,
+continuing 1 km north will you reach the same place?
+
+5.Do we travel double the distance at double the time in case of uniform
+acceleration?
+
+Mathematical question

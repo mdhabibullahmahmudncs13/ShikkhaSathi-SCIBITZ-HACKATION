@@ -1,0 +1,22 @@
+# Chunk 898 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.398470
+# Character count: 725
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_898
+
+========================================
+
+--- Page 345 ---
+340 Physics
+During this experiment, to change the magnetic field in the coil, we brought the
+magnet towards the coil away from it. If we could change the magnetic field in
+an other way, then we would observe the same thing.
+Another way of changing the magnetic field in the coil is to bring another coil
+near it (instead of bringing the magnet) and producing magnetic field in the
+second coil by flowing current through it. If a battery and a switch are connected
+with the second coil to produce magnetic field in it, then by turning the switch
+‘on’, a magnetic field can be produced in the coil, again turning the switch “off”,
+the magnetic field can be removed. Keeping the second coil near the first coil,

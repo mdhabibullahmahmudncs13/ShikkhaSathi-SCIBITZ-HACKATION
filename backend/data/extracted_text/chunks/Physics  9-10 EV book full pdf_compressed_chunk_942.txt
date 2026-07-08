@@ -1,0 +1,22 @@
+# Chunk 942 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.403559
+# Character count: 790
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_942
+
+========================================
+
+Edison Effect. In 1904, John Flemming (on the basis of the Edison effect) first
+created a vacuum tube with two electrodes, which worked as a rectifier i.e., it
+converted an alternating current into a direct current. This vacuum tube is
+considered as the introduction to electronics. At that time the exchange of
+information was started by radio waves. Guglielmo Marconi needed such type of
+vacuum tube to control of the radio waves. (It is noted that Marconi was
+mentioned as the inventor of radio, but in recent times the contribution of
+Bengali scientist Jagadish Chandra Bose is also acknowledged.)
+In 1906 Lee De Forest invented another vacuum tube by adding a third
+electrode, which is known by the name triode. This triode can control the flow
+of electricity and used as an amplifier.

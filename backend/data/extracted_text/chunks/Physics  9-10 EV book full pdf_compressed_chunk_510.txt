@@ -1,0 +1,21 @@
+# Chunk 510 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.355583
+# Character count: 751
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_510
+
+========================================
+
+vibrations increase and the molecular bonds become weak. They start to move
+rolling upon one another and we call it a liquid. If the temperature is increased
+further, the molecules start to move freely. We called it a gas. Now we observe
+this more deeply and we will be introduced to different quantities which are
+related to the change of state of matter.
+‘When heat is applied to a solid, its temperature goes up. (we will know later at
+what rate the temperature will rise and on what factor it depends.)
+If the temperature (at a definite pressure) reaches a definite value, the solid starts
+to melt. This process is called fusion and the temperature at which the fusion
+starts is called the melting point. If we continue to measure the temperature,

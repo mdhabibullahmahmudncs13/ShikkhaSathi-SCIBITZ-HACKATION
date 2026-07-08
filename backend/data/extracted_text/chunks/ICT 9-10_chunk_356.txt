@@ -1,0 +1,34 @@
+# Chunk 356 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.877964
+# Character count: 722
+# Chunk ID: ICT 9-10.txt_0_356
+
+========================================
+
+G. Click on the right below.
+
+A wave-like open path object can be created in this way.
+
+Editing Path
+
+A path cannot be created according to the expectation at the first attempt. After
+
+creating the path, give it the expected shape through editing. By editing the path,
+
+new anchor points can be added, and it can be removed if required or Cropped
+
+up or the two separated parts can be connected too. In this way, a change can be
+
+made as many times as required.
+
+Adding Anchor Point —t AN
+
+To add an anchor point at any point of the path: A fi \ i
+
+A. Select the Add Anchor Point Tool from | / ul IS \ ’
+toolbox, and bring the mouse pointer
+inside the screen, a plus sign (+) will be found on the right below the Pen Tool.

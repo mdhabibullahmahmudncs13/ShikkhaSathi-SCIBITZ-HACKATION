@@ -1,0 +1,30 @@
+# Chunk 480 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.437693
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_480
+
+========================================
+
+--- Page 211 ---
+206 Mathematics Classes IX-X
+(#1) If we divide the numbers 4, 3, 2, 1 and 0 by 4 and take square root of
+quotients, we get the values of cos 0°, cos 30°, cos 45°, cos 60° and cos 90°
+respectively.
+(iii) If we divide the numbers 0, 1, 3 and 9 by 3 and take square root of the
+quotients, we get the values of tan 0°, tan 30°, tan 45° and tan 60° respectively.
+(It is noted that tan 90° is undefined).
+(iv) If we divide the numbers 9, 3, 1 and 0 by 3 and take square root of the
+quotients, we get the values of cot 30°, cot 45°, cot 60° and cot 90° respectively.
+(Tt is noted that cot 0° is undefined).
+Example 13. Find the values :
+1 — sin45° ,
+1) ———— + tan?45°
+) Tost TY
+2) cot 90° - tan 0° - sec 30° - cosec 60°
+3) sin 60° - cos 30° + cos 60° - sin 30°
+1 — tan®60°
+4 - §in260°

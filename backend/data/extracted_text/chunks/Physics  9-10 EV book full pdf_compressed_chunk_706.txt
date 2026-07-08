@@ -1,0 +1,14 @@
+# Chunk 706 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378433
+# Character count: 242
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_706
+
+========================================
+
+drawn from that point. But we can find the image of Y without drawing two rays.
+It is possible to draw a ray along the principle axis YR, so we know the image of
+3 this point will be formed on this axis. We will get the image of point Y if we

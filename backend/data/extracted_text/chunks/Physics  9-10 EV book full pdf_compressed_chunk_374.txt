@@ -1,0 +1,30 @@
+# Chunk 374 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.337354
+# Character count: 786
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_374
+
+========================================
+
+--- Page 131 ---
+126 Physics
+save energy.
+Which one is correct?
+a)i b) ii c) ii and iii d) i. ii and iii
+6. What type of energy is stored when a spring is stretched?
+(a) Kinetic energy (b) Potential Energy
+(c) Heat Energy (d) Chemical Energy
+Creative questions
+1. A boy of mass 40 kg and a young man of mass 60 kg start running from the
+ground floor and reach the roof top at the same time. Both of them ran with the
+same velocity of 30 m/min.
+(a) What is power?
+(b) What do you mean by the work 50J?
+(c) Find the kinetic energy of the young man.
+(d) Explain with mathematical logic whether the power of both are equal or
+not.
+2. Jeny resides in the 5th floor of a building. The height of each stair is 20 cm.
+There are 22 stairs in each floor and Jeny needs 4 minutes time to reach the

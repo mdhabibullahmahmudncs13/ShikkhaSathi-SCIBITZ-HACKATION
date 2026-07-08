@@ -1,0 +1,17 @@
+# Chunk 10 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.390083
+# Character count: 372
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_10
+
+========================================
+
+root of 2, for the purpose of geometrical drawing. In the nineteenth century
+European mathematicians gave real numbers complete shape by systematization.
+In order to satisfying daily needs students are required to have clear
+understanding about real numbers. In this chapter real numbers have been
+discussed in detail.
+At the end of this chapter students will be able to -

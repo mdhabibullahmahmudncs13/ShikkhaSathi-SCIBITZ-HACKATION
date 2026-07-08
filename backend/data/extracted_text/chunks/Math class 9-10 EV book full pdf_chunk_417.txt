@@ -1,0 +1,26 @@
+# Chunk 417 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.431368
+# Character count: 734
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_417
+
+========================================
+
+Secant and Tangent of the circle
+Consider the relative position of a circle and a straight line in the plane. Three
+possible situations of the following given figures may arise in such a case:
+1) The circle and the straight line have no common points
+2) The straight line has cut the circle at two points
+3) The straight line has touched the circle at a point.
+Pr APP "
+® >
+B,
+0 Q
+9 (a) Tb ©
+A circle and a straight line in a plane may at best have two points of intersection.
+If a circle and a straight line in a plane have two points of intersection, the straight
+line is called a secant to the circle and if the point of intersection is one and only
+one, the straight line is called a tangent to the circle. In the latter case, the

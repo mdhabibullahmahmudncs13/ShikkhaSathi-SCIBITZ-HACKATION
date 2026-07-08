@@ -1,0 +1,23 @@
+# Chunk 765 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384671
+# Character count: 713
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_765
+
+========================================
+
+--- Page 292 ---
+Static Electricity 287
+
+Therefore, to bring a test charge q from a distance r; along a straight line,
+work has to be done against the repulsive force. The closer the charge q, is
+brought to charge q, the greater the repulsive force it will feel, and thus more
+work must be done. According to Coulomb's law, if the distance between
+charges q and q, is infinite, there will be no force acting between them.
+If work W is done in bringing an extremely small positive test charge q,, at con-
+stant velocity, from an infinite distance to a distance r from the charge q, then
+the work done per unit test charge is called the electric potential V of charge q at
+that point. The potential is expressed as:

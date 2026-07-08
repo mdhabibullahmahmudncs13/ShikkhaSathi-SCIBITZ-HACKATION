@@ -1,0 +1,16 @@
+# Chunk 107 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.310902
+# Character count: 356
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_107
+
+========================================
+
+position and the direction would have different values; but we can specify
+certainly the position with respect to the new reference point. That is, to specify
+the position of any object, it has to be mentioned with respect to a reference
+point. This reference point is not an absolute one; we can conveniently choose
+any point as reference point or origin.

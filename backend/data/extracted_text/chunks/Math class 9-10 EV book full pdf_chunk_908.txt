@@ -1,0 +1,45 @@
+# Chunk 908 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480197
+# Character count: 744
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_908
+
+========================================
+
+--- Page 401 ---
+396 Mathematics Classes IX-X
+
+Activity:
+
+1. Identify parallelograms, rectangles, squares and rhombuses from objects
+of your day to day life.
+
+2. State whether True or False :
+
+(a) A square is a rhombus and also a rectangle.
+
+(b) A trapezium is a parallelogram.
+
+(c) A parallelogram is a trapezium.
+
+(d) A rectangle or a rhombus is not a square.
+
+3. A square is defined as a rectangle with equal sides. Can you define a square
+by using a rhombus?
+
+Theorems related to Quadrilaterals
+
+Different types of quadrilaterals have some common properties.
+
+These properties are proved as theorems.
+
+Theorem 1
+
+The sum of four angles of a quadrilateral equals to four right
+
+angles.
+
+Proposition: Let 4BCD be a quadrilateral and AC be D [

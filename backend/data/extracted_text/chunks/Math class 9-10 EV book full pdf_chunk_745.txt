@@ -1,0 +1,30 @@
+# Chunk 745 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.463022
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_745
+
+========================================
+
+--- Page 329 ---
+324 Mathematics Classes IX-X
+or, V4a? — 3600 = 80
+or, 4a? — 3600 = 6400 [by squaring]
+or, 4a? = 10000
+or, a? = 2500
+soa =50
+The length of equal sides of the triangle is 50 cm.
+Example 6. From a certain place two roads run in two directions making an
+angle of 120°. From that place, persons move in the two directions with speed of
+10 km per hour and 8 km per hour respectively. What will be the direct distance
+between them after 5 hours ?
+Solution: Let two persons start from A with velocities 10 km/hour and 8 km/hour
+respectively and reach B and C' after 5 hours. Then after 5 hours, the direct
+distance between them is BC. From C perpendicular CD is drawn on BA
+produced.
+AB =5x10 km = 50 km, AC = 5 x 8 kin = 40 km
+and ZBAC = 120° [S
+SL ZDAC = 180° — 120° = 60°

@@ -1,0 +1,18 @@
+# Chunk 639 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453282
+# Character count: 390
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_639
+
+========================================
+
+Example 5. What is the sum of first 30 terms of the series 7+ 12 + 17 +---?
+Solution: First term of the series a = 7, common difference d = 12-7 =75
+It is an arithmetic series. Here, number of terms n = 30
+‘We know that the sum of first n-terms of an arithmetic series ,
+S$, = 22a + (n—1)d}
+So, the sum of 30 terms Szy = Dio S74 (30 —1)5} = 15(14 +29 x 5)
+g = 15(14 + 145) = 15 x 159 = 2385

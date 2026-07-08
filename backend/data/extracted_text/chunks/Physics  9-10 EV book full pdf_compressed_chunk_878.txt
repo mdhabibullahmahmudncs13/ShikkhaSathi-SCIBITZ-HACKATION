@@ -1,0 +1,23 @@
+# Chunk 878 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.396703
+# Character count: 746
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_878
+
+========================================
+
+The poles are generally named the north and south poles.
+If a bar magnet is suspended freely, it always points towards the north-south
+direction.
+The pole which directs towards the north direction is called the north pole, and
+the pole which directs towards the south is called the south pole. This occurs due
+to the fact that the earth itself has a magnetic field; when a magnet is suspended;
+the magnet aligns itself along that field.
+We can discuss how two magnets attract one another. But first we have to know
+from where the force of a magnet comes.
+12.2: Magnetic Effects of Current
+Those of you who have handled magnets cannot imagine that it is not different
+from electricity, and a magnet can be made by electricity or flow of charges! a

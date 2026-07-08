@@ -1,0 +1,36 @@
+# Chunk 370 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.879582
+# Character count: 737
+# Chunk ID: ICT 9-10.txt_0_370
+
+========================================
+
+D. Click the text with the Direct Selection Tool and the Eyebeam between the
+Path and the text will be selected.
+
+E. By clicking the edge above or below the Eyebeam and dragging it in a
+circular way the text can be shifted elsewhere.
+
+Arranging Writing in Open Path
+
+A. An Open Path can be created with the Pencil or Pen Tool.
+
+B. Click on the selected Path with the Path Tool, and the insertion pointer will
+be placed on the Path.
+
+C. Type following the usual rule. PLL &
+
+- The Path and the Text will be selected | 4 pS
+
+4g if the text is clicked with the Direct
+H
+
+
+--- Page 118 ---
+Information and Communication Technology 113
+Selection Tool, and the text can be shifted elsewhere by clicking and dragging
+the Eyebeam while selected.

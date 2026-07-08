@@ -1,0 +1,19 @@
+# Chunk 627 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451975
+# Character count: 325
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_627
+
+========================================
+
+Sequence
+Let us note the following relation:
+1 2 3 4 cee n cee
+1 1 4 1 1
+2 4 6 3 A
+Here, every natural number n is related to twice the number 2n. That means, the
+set of positive even numbers {2,4,6,---} is obtained by a method from the set pS
+of natural numbers {1,2,3,---}. This arranged set of even number is a sequence. 5

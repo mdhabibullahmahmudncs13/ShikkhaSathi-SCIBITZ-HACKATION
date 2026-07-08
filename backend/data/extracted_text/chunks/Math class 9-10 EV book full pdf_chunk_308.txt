@@ -1,0 +1,27 @@
+# Chunk 308 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420645
+# Character count: 527
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_308
+
+========================================
+
+—
+A C B
+=
+A C B
+Angle
+When two rays in a plane meet at a point, an angle
+is formed. The rays are known as the sides of the
+angle and the common point as vertex. In the figure, P
+two rays OP and OQ make an angle ZPOQ at their
+common point O. O is the vertex of the angle ZPOQ.
+The set of all points lying in the plane on the @ side 5 2
+of OP and P side of OQ is known as the interior
+region of the ZPOQ. The set of all points not lying
+in the interior region or on any side of the angle is
+called exterior region of the angle.
+B

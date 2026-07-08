@@ -1,0 +1,17 @@
+# Chunk 79 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308121
+# Character count: 425
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_79
+
+========================================
+
+only one division of the circular scale, the screw advances by = of the pitch.
+Therefore, with this scale up to = mm = 0.01 mm of length measurement is
+possible. This is called the least count of the screw gauge.
+Figure 1.07: A slide calipers with vernier scale and a screw gauge
+.. Now-a-days instead of the vernier scale, attached dials or digital slide calipers
+£ are available by which lengths can be measured accurately.

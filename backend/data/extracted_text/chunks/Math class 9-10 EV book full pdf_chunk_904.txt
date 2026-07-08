@@ -1,0 +1,25 @@
+# Chunk 904 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.479868
+# Character count: 757
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_904
+
+========================================
+
+» Verify and logically prove the properties of quadrilateral.
+» Construct quadrilaterals from given data.
+» Find the area of quadrilaterals by the formula of triangles.
+»> Construct rectangular solids.
+» Find the area of surfaces of cubic and rectangular solids.
+Quadrilateral
+A quadrilateral is a closed figure bounded by four line B
+segments. The closed region is also known as
+quadrilateral. The quadrilateral has four sides. The four
+line segments by which the region is bounded, are the » c
+sides of the quadrilateral.
+In the figure any three points of the points 4, B, C, D are not collinear. The
+quadrilateral ABCD is constructed by the four line segments AB, BC, CD and DA.
+The points 4, B, C and D are the vertices of the quadrilateral. Z4BC, ZBCD,

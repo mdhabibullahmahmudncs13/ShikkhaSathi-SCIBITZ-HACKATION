@@ -1,0 +1,28 @@
+# Chunk 696 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.377514
+# Character count: 770
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_696
+
+========================================
+
+--- Page 261 ---
+256 Physics
+9.3.4 Lens
+A lens is created using two spherical sides or a A
+spherical side and a plane Using lenses, starting > original direction
+from spectacles, sensitive optical instruments :. J light
+like telescopes and microscopes are TA =
+made. A lenses are also used in video 7 cr
+projectors and cameras. In this chapter, emithed light
+we’ll broadly discuss about lenses, direction
+types of lenses and their properties. . . .
+Figure 9.13: In prism rays of light
+deviate towards the base of the
+9.4 Types of lenses prism
+In convex and concave mirrors, we've seen that, when light enters these mirrors,
+sometimes it focuse to a point (converging ray) or sometimes it diverges
+(diverging ray) and the image is formed. That image is sometimes real and

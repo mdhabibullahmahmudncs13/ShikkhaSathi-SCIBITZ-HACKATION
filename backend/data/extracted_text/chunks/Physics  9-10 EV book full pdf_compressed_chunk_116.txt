@@ -1,0 +1,31 @@
+# Chunk 116 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.311794
+# Character count: 655
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_116
+
+========================================
+
+same direction.
+
+Not rr motion dhe 3 motion
+Figure 2.01: Example of translational motion
+
+There is no obligation that the translational motion will be straight. But the
+
+example of translational motion is not easily available in the case of a curved
+
+path. Figure 2.01 shows how a plane has to move for every point of the plane
+
+travelling equal distances in the same direction. The figure also shows why the
+
+example of translational motion on a curved path is so rare.
+
+Periodic Motion
+
+If the motion of a moving object passes repeatedly through a definite point in
+
+the same direction in the same manner in a definite interval of time, then this motion

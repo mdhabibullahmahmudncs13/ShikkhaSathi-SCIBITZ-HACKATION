@@ -1,0 +1,27 @@
+# Chunk 390 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.428441
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_390
+
+========================================
+
+--- Page 170 ---
+Chapter 8. Circle 165
+Interior and Exterior of a Circle
+If O is the centre of a circle and 7 is its radius, the set
+of all points on the plane whose distances from O are
+less than 7 is called the interior region of the circle
+and the set of all points on the plane whose distances
+from O are greater than r is called the exterior region R Q
+of the circle. The line segment joining two points of
+a circle lies inside the circle.
+The line segment drawn from an interior point to an exterior point of a circle
+intersects a circle at one and only one point. In the figure, P is the interior point
+and @Q is the exterior point of the circle. The line segment PQ intersects the circle
+at R only.
+Chord and diameter of a circle
+The line segment connecting two different points of

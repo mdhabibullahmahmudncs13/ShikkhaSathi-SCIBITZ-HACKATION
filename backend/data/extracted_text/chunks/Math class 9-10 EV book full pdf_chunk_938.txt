@@ -1,0 +1,48 @@
+# Chunk 938 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.483346
+# Character count: 608
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_938
+
+========================================
+
+--- Page 415 ---
+410 Mathematics Classes IX-X
+Solution : The given equations are
+2y+5z=16.......... (1)
+y—2z=-lccce.(2)
+From (2) we get, y =2z = 1... 3)
+Putting the value of in equation (1) we get, 2(2z — 1) + 5z = 16
+or, 4z-2+5z=16
+or, 9z=16 +2
+or, 9z=18
+18
+or z=—
+9
+Lz=2
+Here, putting the value of z in (3) we get
+y=2x2-1
+=4-1
+Ly=3
+.. Required solution is (y, 2) = (3,2).
+Example 4. Solve the equations
+2 1
+===
+xy
+4-9
+xy
+Solution : The given equations are
+2 1
+TT Les (1)
+4 9
+< 3 == 1 verre. (2)
+Putting 1. u and Ra v, we get
+x y ?
+from (1) and (2)
+ut V=loiceiceeeeee (3)
+FE ON ))
+from (3), we get Pp.
+RN) H

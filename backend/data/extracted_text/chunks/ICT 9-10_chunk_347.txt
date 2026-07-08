@@ -1,0 +1,37 @@
+# Chunk 347 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.876181
+# Character count: 706
+# Chunk ID: ICT 9-10.txt_0_347
+
+========================================
+
+Cancelling Layer
+
+A. By selecting the Layer and the Delete command from the pop-up menu on
+the layer palette, the selected layer will be cancelled.
+
+- In the process of deleting a layer of artwork or an object. a cautionary
+message like ‘Delete Layer?” will be viewed. Click the ‘Ok’ button. and the
+layer will be deleted. Click the “No” button, and the deleting process will be
+stopped. But by clicking and dragging the layer, on to the Delete icon, no
+such message will be viewed. o
+
+BS
+
+Forma-14, ICT-(9-10)
+
+
+--- Page 111 ---
+106 Multimedia and Graphics
+
+Merging Layers
+
+After creating and editing objects of two or more layers, they can be merged
+
+together. To get the job done:
+
+A. Select the layers.

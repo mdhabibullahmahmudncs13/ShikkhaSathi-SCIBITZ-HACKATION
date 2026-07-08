@@ -1,0 +1,30 @@
+# Chunk 668 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.374581
+# Character count: 775
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_668
+
+========================================
+
+--- Page 248 ---
+g
+a
+
+
+--- Page 249 ---
+244 Physics
+You know that when light moves from one medium to another, three different
+events may happen . One is reflection, where some amount of light come back
+to the first medium while entering the second medium and we have discussed
+this in the previous chapter. Another one is refraction, when light passes from the
+first medium to the second. We will discuss this in this chapter. Another one is
+absorption, when some amount of light is absorbed, which we will not discuss
+here.
+
+rough a medium this velocity decreases. In a medium, the factor by
+which the velocity of light reduces is the refraction of light of that medium .
+For instance the velocity of light in water is 2.26x10% ms therefore the
+refractive index of water is

@@ -1,0 +1,30 @@
+# Chunk 701 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.377984
+# Character count: 757
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_701
+
+========================================
+
+--- Page 263 ---
+258 Physics
+out roughly in the same direction, there is no deviation .
+In the case of those lenses in which light ray passing through it, the direction of
+the ray remains unchanged is called a thin lens. (Figure 9.17). We can say that
+the point of the middle of a thin lens through which light rays do not deviate
+when passing through it is called the center of that lens (Figure 9.17, point O)
+or the Optical center.
+pi rd pe -
+yd A Pe ps
+E’ ~
+pF Fd ra
+r=
+Figure 9.17: When passing through a thick lens rays of light deviate a little;
+when passing through a thin lens light rays do not change direction.
+9.4.1 Concave lens
+While discussing about convex and Nal ’
+concave mirrors, we first learned | a
+about convex mirrors. In the case of =

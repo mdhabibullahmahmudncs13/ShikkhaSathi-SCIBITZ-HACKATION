@@ -1,0 +1,24 @@
+# Chunk 432 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.890826
+# Character count: 587
+# Chunk ID: ICT 9-10.txt_0_432
+
+========================================
+
+In the Counter Initialization section, the initial value of the counter variable is
+set. This is called the initialization or the beginning of the loop. In the Condi-
+tion section, the final value of the counter variable or the condition for deter-
+mining the final value is given. Statements associated with the for loop contin-
+ue to be executed until the counter variable reaches its final value or as long as
+the condition is true.
+Practical Problem #10: Write a program to display a specific text multiple
+times.
+Solution: Let's say, the text ‘ICT’ will be displayed 5 times.
+
+5
+
+BS

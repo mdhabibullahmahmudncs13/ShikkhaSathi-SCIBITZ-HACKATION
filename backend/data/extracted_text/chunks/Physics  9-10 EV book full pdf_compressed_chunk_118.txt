@@ -1,0 +1,21 @@
+# Chunk 118 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.312227
+# Character count: 739
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_118
+
+========================================
+
+Simple Harmonic Motion
+Simple harmonic motion is a special type of periodic motion. In case of
+oscillatory motion the object oscillates on both sides of a definite point. This
+specific point is called the equilibrium point. At the extreme ends of its path, the
+particle's velocity is zero. As the particle moves from one end toward the equi-
+librium point, its velocity gradually increases, reaching a maximum at the equi-
+librium point. As it continues toward the opposite end, its velocity decreases
+gradually untilitagain becomes zero. The particle then reverses direction, moving
+back in the same manner until it reaches the original end and briefly stops. This
+entire process takes one period. This pattern of the motion gets repeated

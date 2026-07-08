@@ -1,0 +1,24 @@
+# Chunk 294 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.419519
+# Character count: 744
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_294
+
+========================================
+
+--- Page 127 ---
+122 Mathematics Classes IX-X
+are accepted without any proof. Since the fifth postulate is related to parallel
+lines, it will be discussed later.
+Plane Geometry
+It has been mentioned earlier that point, straight line and plane are three
+fundamental concepts of geometry. Although it is not possible to define them
+properly, based on our real life experience we have ideas about them. As a
+concrete geometrical conception space is regarded as a set of points and straight
+lines and planes are considered the subsets of this universal set. That is,
+Postulate 1: Space is a set of all points and plane and straight lines are the
+sub-sets of this set.
+From this postulate we observe that each of plane and straight line is a set and

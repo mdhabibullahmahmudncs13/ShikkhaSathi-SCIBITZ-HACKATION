@@ -1,0 +1,28 @@
+# Chunk 412 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.430821
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_412
+
+========================================
+
+--- Page 179 ---
+174 Mathematics Classes IX-X
+Theorem 23. The sum of the two opposite angles of a quadrilateral inscribed
+in a circle is two right angles.
+Let ABCD be a quadrilateral inscribed in a circle D
+with centre O. It is required to prove that, ZABC +
+ZADC = 2 right angles and /BAD + /BCD = 2 A c
+right angles.
+Drawing: Join O, A and O,C'. B
+Proof:
+Step 1. Standing on the same arc ADC, the angle at centre reflex
+ZAOC = 2 (ZABCat the circumference)
+that is, reflex ZAOC' = 2ZABC' [The angle subtended by an arc at the centre
+is double of the angle subtended by it at the circle]
+Step 2. Again, standing on the same arc ABC, the angle at the centre ZAOC = 2
+(£ZADC at the circumference)
+that is, ZAOC' = 2/ADC [The angle subtended by an arc at the

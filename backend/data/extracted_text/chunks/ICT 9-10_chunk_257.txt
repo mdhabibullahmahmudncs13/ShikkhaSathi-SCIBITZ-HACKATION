@@ -1,0 +1,26 @@
+# Chunk 257 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.860180
+# Character count: 753
+# Chunk ID: ICT 9-10.txt_0_257
+
+========================================
+
+--- Page 83 ---
+78 Multimedia and Graphics
+5. Click the Insert Box button of the dialogue box, and it will disappear, and
+the picture will be set as the background of the slide.
+6. To remove the imposed background —
+Click the Solid Fill radio button of the dialogue box of Format Background
+and make it active. Click the drop-down arrow of Color, the palette will be
+viewed on the screen. Select White from this color palette.
+7. Click the Close button of the dialogue box.
+Insert Picture in Slide
+Sometimes, it may require to insert a picture on the slide.
+To insert a picture into a slide
+1. Click the icon of Picture on the ribbon of [S55 rm wows
+the Insert menu, and the dialogue box of |= =S® 2d SoA 00 oe
+Tnsert Picture will come on the screen, rE

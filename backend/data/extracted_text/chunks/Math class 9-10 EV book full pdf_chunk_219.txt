@@ -1,0 +1,26 @@
+# Chunk 219 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.411904
+# Character count: 774
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_219
+
+========================================
+
+--- Page 98 ---
+Chapter 4. Exponents and Logarithms 93
+Characteristics of Common Log
+Let a number N be expressed in the scientific form as
+N =a x10", where N > 0,1 <a<10and ne Z
+Taking base 10 log of both sides we get.
+log, N = log,o(a x 10") = log,a + log;,10™ = log, ya + nlog,,10
+ology oN =n + logyga [1.7 logy10 = 1]
+Suppressing the base 10, we have, logN = n + loga
+n is called the characteristic of log/V.
+Note: It is evident from the table that characteristic of a number having m
+digits to the left of decimal point is 1 less than the number of digits to the left of
+decimal sign and that will be positive. That is if the mentioned number of digits
+is m, the characteristic of logarithm will be m-1.
+N Scientific form Exponent Number of digits on the| Characteristic

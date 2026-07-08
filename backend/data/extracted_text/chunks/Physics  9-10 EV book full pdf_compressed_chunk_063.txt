@@ -1,0 +1,29 @@
+# Chunk 63 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.306823
+# Character count: 765
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_63
+
+========================================
+
+eo The light coming from a single candle can be said one candela.
+
+You see that none of them are perfect measurements, but easy to realize. If you
+
+are habituated with this measurement, when in future you will calculate
+
+anything, then you will have a sense of proportion about it.
+
+1.5.2 Prefix
+
+To study science or physics we have to measure different things. Sometimes we
+
+need to measure the length of a galaxy (6x10* m), or sometimes we have to
+
+measure the radius of the nucleus (1x10"* m). To measure this huge difference
+in the distance it is not wise to use the same type of numbers. So internationally
+some SI prefixes have been made. Due to this multiplier we will be able to
+express a large or small number by a small prefix. These prefixes are shown in

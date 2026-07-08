@@ -1,0 +1,27 @@
+# Chunk 65 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.306987
+# Character count: 761
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_65
+
+========================================
+
+1.5.3 Dimension
+We already know that though there is an infinite number of quantities around
+us, we can measure them with the help of seven units only. We have to know, in
+which units a quantity can be expressed. Often we also need to know how this
+quantity is formed with which fundamental quantities (length L, time 7, mass M
+etc.). The power of different fundamental quantities in a quantity is called its
+dimension. For example, we will see next that force is the product of mass and
+acceleration. Again, acceleration is the rate of change of velocity with time. And
+velocity is the rate of change of position with time.
+Therefore,
+. . . i L —
+dimensions of velocity: [221 | -=LT?!
+time T
+. . . [distance L 2
+dimensions of acceleration: ———|= — = LT
+time T?

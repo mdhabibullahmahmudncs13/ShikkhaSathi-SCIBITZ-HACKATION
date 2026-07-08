@@ -1,0 +1,27 @@
+# Chunk 395 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.428857
+# Character count: 547
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_395
+
+========================================
+
+Prove the theorem.
+Theorem 18. All equal chords of a circle are equidistant from the centre.
+Let AB and C'D be two equal chords of a circle with »
+centre O. It is to be proved that the chords AB and EE
+CD are equidistant from the centre O. C LN
+Drawing: Draw from O the perpendiculars OF %
+and OF to the chords AB and C'D respectively. Join AB
+0, Aand O, C.
+Proof:
+Step 1. OE L AB and OF L CD
+Therefore, AE = BE and CF = DF [ The perpendicular from the
+centre bisects the chord]
+SAE = JAB and CF = 30D
+Step 2. But AB =CD [supposition] N
+3
+AE =CF S

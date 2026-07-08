@@ -1,0 +1,35 @@
+# Chunk 429 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.432927
+# Character count: 720
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_429
+
+========================================
+
+3. AB is a diameter of a circle and BC' is a chord equal to its radius. If the
+tangents drawn at A and C' meet each other at the point D, prove that,
+ACD is an equilateral triangle.
+
+4. Prove that a circumscribed quadrilateral of a circle having the angles
+subtended by opposite sides at the centre are supplementary.
+
+5. PA and PB aretwo tangent from the point P external to circle with centre
+0.
+
+1) Construct the figure according to the stimulus.
+
+2) Prove that, PA = PB
+
+3) Prove that, the segment OP is perpendicular bisector of the tangent
+chord.
+
+6. Given, O is the centre of the circle and two tangents PA and PB touch
+the circle at the point A and B respectively. Prove that, PO is the bisector
+of ZAPB.
+
+“
+8
+Bl

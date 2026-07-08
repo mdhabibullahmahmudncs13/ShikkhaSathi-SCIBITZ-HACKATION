@@ -1,0 +1,24 @@
+# Chunk 197 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.320136
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_197
+
+========================================
+
+--- Page 71 ---
+66 Physics
+3.1.2 Force
+Actually Newton’s first law of motion can be the definition of force. Force is
+that quantity the application of which a stationary object start move and a body
+moving, with a uniform velocity change its velocity. From Newton's first law we
+can understand, what is force but cannot measure it. But from the second law, we
+will learn to measure force.
+When you use force in your daily life for different purposes, you may realize that
+for the application of some forces it is necessary to come in contact with the
+object (e.g. to lift heavy objects with the help of a crane, to push anything or
+coming to rest of moving objects due to friction). Whereas you may have noticed
+that for the application of some other forces, it is not necessary to come into

@@ -1,0 +1,28 @@
+# Chunk 277 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.863491
+# Character count: 752
+# Chunk ID: ICT 9-10.txt_0_277
+
+========================================
+
+- Making squares, circles and objects is possible with the marquee tool within
+the selected tool.
+
+- By pressing the shift button and dragging Rectangular Marquee Tool, a
+perfect square, and pressing the shift button and dragging Elliptical Marquee
+Tool, a perfect circle can be drawn. I you drag while pressing the Alt button,
+selections of square and circle can be extended from the centre point.
+
+Shifting of Selection
+
+- After making the square of selection by Rectangular Marquee Tool,
+remove the finger from the mouse, and the selection of square will be
+viewed on the screen.
+
+- Ifyou take the mouse pointer inside the selection, a rectangular icon will be
+viewed below the pointer. Pressing and dragging, the selection can be
+shifted elsewhere.

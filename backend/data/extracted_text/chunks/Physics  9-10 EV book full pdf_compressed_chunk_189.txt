@@ -1,0 +1,22 @@
+# Chunk 189 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319446
+# Character count: 767
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_189
+
+========================================
+
+that it is not true. If a body in uniform velocity stops then we have to realize that
+force has been applied by some means. Friction, air resistance etc. actually stops
+a moving body by applying force in the opposite direction. If all these forces
+could be withdrawn, then we would find that a body in uniform motion keeps its
+perpetual motion for ever.
+3.1.1 Inertia
+The characteristic that a stationary body wants to be stationary or a body in
+motion wants to keep its motion, unless a force is applied, is called inertia. When
+a car at rest suddenly starts moving we move backwards, this is an example of
+inertia. The lower part of the body is attached to the car. When the car starts
+moving, the lower part of the body moves with the car but the upper part of the

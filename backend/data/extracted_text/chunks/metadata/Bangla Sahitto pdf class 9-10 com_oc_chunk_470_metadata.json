@@ -1,0 +1,17 @@
+{
+  "subject": "bangla",
+  "grade": 9,
+  "chapter": null,
+  "topic": null,
+  "language": "bangla",
+  "page_number": null,
+  "textbook_name": "বাংলা সাহিত্য (নবম ও দশম শ্রেণি)",
+  "source_file": "Bangla Sahitto pdf class 9-10 com_oc.txt",
+  "chunk_index": 470,
+  "extraction_timestamp": "2026-01-09T16:41:04.117610",
+  "character_count": 695,
+  "word_count": 140,
+  "line_count": 18,
+  "text_file_path": "data/extracted_text/chunks/Bangla Sahitto pdf class 9-10 com_oc_chunk_470.txt",
+  "chunk_id": "Bangla Sahitto pdf class 9-10 com_oc.txt_0_470"
+}

@@ -1,0 +1,37 @@
+# Chunk 360 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878329
+# Character count: 774
+# Chunk ID: ICT 9-10.txt_0_360
+
+========================================
+
+A. Select the Type Tool from the toolbox.
+
+B. Click any blank space of the screen.
+
+C. Change the keyboard into Bangla for typing in Bangla.
+
+D. Click “Character” in ribbon on the screen, and the Character Palette will be
+viewed. Select the font from the Font Pop-up menu of the Character Palette.
+
+E. Start typing following the rules of word processing. Click any letter with
+the Selection Tool. and a line will be viewed below it. This line is called
+‘Baseline’.
+
+Editing Writing -
+
+The requisite commands will be found in the Type menu and in the Character
+
+Palette.
+
+
+--- Page 115 ---
+110 Multimedia and Graphics
+
+Select the Character from the Type command of the Window menu. or press Ctrl
+
+T, and the Character Palette will be viewed floating on the screen. When it is

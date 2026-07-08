@@ -1,0 +1,31 @@
+# Chunk 426 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.889413
+# Character count: 780
+# Chunk ID: ICT 9-10.txt_0_426
+
+========================================
+
+an elif statement, the appropriate statement is selected based on a conditional or
+relational expression. But, in a match statement, the appropriate statement is
+usually selected based on the value of a valid variable. The format of the match
+statement is:
+match MatchFxp:
+case valuel :
+Blackl
+case Value2 :
+Blzck2
+case Valued :
+Blackd
+case _ :
+DefaultBlock
+Blockl
+Here, the expression used with the match statement is called match expression
+matchExp. In the case statement, possible values for the match expression mat-
+chExp variable are provided. There should be at least one space between the case
+keyword and the possible values of the match expression variable, and it ends
+with a colon. A case statement usually has a default statement at the end, which
+ends with a colon,

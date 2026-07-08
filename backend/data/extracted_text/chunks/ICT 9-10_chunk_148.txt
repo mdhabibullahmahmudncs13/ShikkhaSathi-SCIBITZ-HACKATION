@@ -1,0 +1,24 @@
+# Chunk 148 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.841613
+# Character count: 578
+# Chunk ID: ICT 9-10.txt_0_148
+
+========================================
+
+| reason for at least half of the display problems.
+3. The system 1. Open the Casing.
+becomesvery |2. Remove the CPU or processor fan from the
+heated, and motherboard, but don't remove the processor.
+abruptly shuts | 3. Perhaps the heat sink is filled with dust that creates
+down. copled@bstruction on the free flow of air. As a result, CPU
+can not be
+4, Clean up the heat sink and fan, and install again.
+Now, after closing the cabinet, turn on the computer
+again.
+5. Ifthe problem is not solved, take the computerto a
+Fs) service centre, and talk to an experienced
+5 mechanic,

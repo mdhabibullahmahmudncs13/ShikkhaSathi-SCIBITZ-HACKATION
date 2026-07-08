@@ -1,0 +1,18 @@
+# Chunk 340 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.333776
+# Character count: 551
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_340
+
+========================================
+
+from one place to another. Though around us there are many types of
+energy, we supply electrical energy first to our residence but we don’t supply
+other forms of energy. In our daily lives, we see the transformation of electrical
+energy into mechanical energy in electric fans or other motors. (Though actually
+magnetic energy is not different from electrical energy, even then in motor or
+..  clectrical fan we see electrical energy converts first into magnetic energy and
+§ then converts into mechanical energy.) In the electric iron or heater it is

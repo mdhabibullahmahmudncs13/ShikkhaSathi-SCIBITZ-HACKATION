@@ -1,0 +1,23 @@
+# Chunk 416 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.341617
+# Character count: 766
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_416
+
+========================================
+
+--- Page 148 ---
+State of Matter and Pressure 143
+5.4 Air Pressure
+Air has a certain pressure (Figure: 5.06). We do not feel this pressure distinctly
+because a pressure is also exerted outside from inside of our bodies. So these two
+pressures neutralize one another. There is no air in space, so there is no pressure
+of air, so there is nothing to neutralize the inner pressure of our body and in such
+an environment human bodies may explode instantly due to this inner pressure.
+For this reason the astronauts always wear pressure protected space suits. The
+pressure on the earth surface is 10°N/m?, which means if you imagine an area of
+Im? on the earth surface, then the weight of the column of air on it is 10°N, this
+is approximately the weight of an elephant !

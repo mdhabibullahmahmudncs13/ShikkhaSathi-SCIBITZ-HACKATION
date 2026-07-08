@@ -1,0 +1,28 @@
+# Chunk 743 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.462870
+# Character count: 473
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_743
+
+========================================
+
+4 (a+1)
+3 3
+According to the question, SEM +1)2— SER =3V3
+Co 3
+or, (a+1)*—a*=12 ans by 2
+or,a*+2a+1—a?=12o0r,2a=11or,a=55
+The required length is 5.5 metre.
+Example 5. The length of the base of an isosceles triangle is 60 cm. If its area
+is 1200 sq. metre, find the length of equal sides.
+Solution: Let the base of the isosceles triangle be b = 60 cm and the length of
+equal sides bea.
+b
+Area of the triangle = Vie? — 2
+b
+According to the question, Tv 4a? — 1? = 1200
+a a
+60

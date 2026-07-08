@@ -1,0 +1,23 @@
+# Chunk 701 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458984
+# Character count: 440
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_701
+
+========================================
+
+reflection. A geometrical figure has line symmetry when
+one half of it is the mirror image of the other half. So, the
+line of symmetry is also called the reflection symmetry.
+‘Work:
+1) The line of symmetry is given, find the other hole.
+2) Identify the lines of symmetry in the following geometrical figures.
+(1) An isosceles triangle (2) A scalene triangle
+(3) A square (4) A rhombus (5) A regular hexagon
+(6) A pentagon (7) A circle
+“
+g
+8

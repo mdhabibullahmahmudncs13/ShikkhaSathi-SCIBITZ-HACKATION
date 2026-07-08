@@ -1,0 +1,25 @@
+# Chunk 510 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440317
+# Character count: 768
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_510
+
+========================================
+
+--- Page 226 ---
+Chapter 10. Distance and Elevation 221
+18. A tree is broken by a storm such that the broken part makes an angle of 30°
+with the other and touches the ground at a distance of 12 metre from it.
+Find the length of the whole tree.
+19. Standing any where on the bank of a river, a man observed that the angle
+of elevation of a 150 metre long tree exactly straight to him on the other
+bank is 30°. The man started for the tree by a boat. But he reached at 10
+metre away from the tree due to current.
+1) According to the stem show the above description by a figure.
+2) Find the width of the river.
+3) Find the distance from the starting point to the destination.
+20. Forming 60° angle with ground an 16 metre long ladder touches the top of
+the vertical wall.

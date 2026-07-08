@@ -1,0 +1,26 @@
+# Chunk 101 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.310282
+# Character count: 764
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_101
+
+========================================
+
+--- Page 35 ---
+30 Physics
+Creative questions
+1. Rashed, with his newly purchased scale, measured the length of his pencil and
+the length came to 11.73 cm. His friend Sujon said that this measurement may
+not be correct. Rashed said that he obtained the same result measuring by the
+scale several times. When they went to the teacher, he instructed them to use a
+vernier scale of constant 0.005 cm. Rashed measured the correct length by the
+vernier scale.
+(a) ~~ What is the vernier constant ?
+(b) ~~ Why are units required to express the amount of a quantity?
+(¢c) Find a division of vernier scale is equal to what number of divisions of
+main scale.
+(d) The frist measurement of length measured by Rashed was irrelevant to
+accurate measurement, explain with logic.

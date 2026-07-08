@@ -1,0 +1,28 @@
+# Chunk 314 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.870394
+# Character count: 752
+# Chunk ID: ICT 9-10.txt_0_314
+
+========================================
+
+- If any part of the picture is selected before coming of the dialogue box,
+creasing or reducing brightness and contrasting only the selected part can
+be done by giving the command.
+
+Activate the Preview check box in the dialogue box by clicking it, and the work
+
+of the changing color can be viewed instantly. If the changed form does not seem
+
+satisfactory, press the Alt button of the keyboard and the Cancel button of the
+dialogue box will be changed into a Reset button. Keep pressing the Alt burton
+and click the Reset button, and the work previously done will be cancelled.
+
+Hiustrator
+
+Painting with Adobe Tllustrator: Adobe Illustrator is the programme of drawing
+
+pictures, illustrations, making logos and designs. Just as the scope of making

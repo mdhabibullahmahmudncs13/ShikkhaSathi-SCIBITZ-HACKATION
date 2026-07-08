@@ -1,0 +1,32 @@
+# Chunk 49 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.393737
+# Character count: 518
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_49
+
+========================================
+
+digit in different way.
+8.243 =8.2434343434
+5.24673 = 5.24673673/67
+2.99669760(67
+The desired result is 2.99669760|67. We have obtained the same results in both
+the cases.
+Example 13. Subtract 16.437 from 24.45645.
+Solution: LL
+24.45645 = 24.45645
+16.437 =16.43743
+8.01902 [if 7 is subtracted from 6, we have 1 in
+hand]
+—1
+8.01901
+The desired result is 8.01901
+Note: In the following is explained why 1 is subtracted from the rightmost
+digit in different way.
+24.45645 = 24.45645|64
+16.437 = 16.43743|74
+8.01901|90 "
+B

@@ -1,0 +1,36 @@
+# Chunk 359 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878239
+# Character count: 691
+# Chunk ID: ICT 9-10.txt_0_359
+
+========================================
+
+thin, and filled with color. After creating closed paths with the Pencil or Pen
+
+Tool, it can be filled with any color.
+
+Writing Job
+
+Writing is mandatory for the covers of books, magazines, posters,
+
+advertisements. cards, etc. The Type Tool is used for writing in Llustrator, Six
+
+kinds of Type Tools are found in Illustrator. Arrangement of writing can be done
+
+in three ways with these Type Tools. for example, Point Text. Area Text and Path
+
+Text.
+
+Point Text
+
+In the Point Text process, the way of typing is very easy. To type in this process:
+
+A. Select the Type Tool from the toolbox.
+
+B. Click any blank space of the screen.
+
+C. Change the keyboard into Bangla for typing in Bangla.

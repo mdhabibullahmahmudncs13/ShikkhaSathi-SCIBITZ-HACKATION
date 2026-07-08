@@ -1,0 +1,22 @@
+# Chunk 276 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.417813
+# Character count: 530
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_276
+
+========================================
+
+--- Page 122 ---
+Chapter 5. Equations in One Variable 17
+30. The base and height of a right angle triangle are respectively (xz — 1) cm.
+and x cm. and the length of the side of a square is equal to the height of
+the triangle. Again, the length of a rectangular region is (z + 3) cm. and
+its breadth is x cm.
+1) Show the information in only one picture.
+2) If the area of the triangular region is 10 square centimetre, what is its
+height?
+3) Find the successive ratio of the areas of the triangular, square and
+rectangular regions.

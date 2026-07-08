@@ -1,0 +1,25 @@
+# Chunk 402 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429416
+# Character count: 562
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_402
+
+========================================
+
+points A and B of the circle divide the circle into two
+arcs. The terminal points of both arcs are A and B
+and there is no other common point of the two arcs
+other than the terminal points.
+Arc cut by an Angle
+An angle is said to cut an arc of a circle if
+1. each terminal point of the arc lies on the sides
+of the angle,
+2. cach side of the angle contains at least one A B
+terminal point and P
+3. Every interior point of the arc lies inside the
+angle. The angle shown in the figure cuts the
+APB arc of the circle with centre O.
+Forma-22, Mathematics, Class 9-10

@@ -1,0 +1,16 @@
+# Chunk 183 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.318840
+# Character count: 238
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_183
+
+========================================
+
+EE CO
+(a) Define acceleration.
+(b) Why is the acceleration due to gravity the example of uniform acceleration?
+(¢) Calculate the value of s for event no.1 in the table.
+(d) Comment on event two through mathematical analytical perspective.

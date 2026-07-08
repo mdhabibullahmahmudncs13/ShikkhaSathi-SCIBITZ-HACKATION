@@ -1,0 +1,20 @@
+# Chunk 106 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.835493
+# Character count: 229
+# Chunk ID: ICT 9-10.txt_0_106
+
+========================================
+
+In a DDOS attack, multiple computers or devices flood a website or online
+service with traffic, slowing it down or causing it to crash. The attack aims to
+impersonate the system so genuine users cannot access or use it.
+
+1
+
+g
+
+EB

@@ -1,0 +1,40 @@
+# Chunk 85 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.397750
+# Character count: 779
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_85
+
+========================================
+
+equal or (z,y) = (a,b) if and only if x = a and y = b.
+
+Example 11. If (22 + y,3) = (6,2 — y) then, determine (x.y).
+
+Solution: Given,(2r + y,3) = (6,7 —y)
+
+As per conditions of ordered pairs,
+
+ry =06---(1)
+
+T—y=3-(2)
+
+By adding equations (1) and (2) we get 3z =9 or z = 3
+
+Putting value of z in equation (1) we get, 6 +y =6 or y =0
+
+cory) = (3,0)
+
+(Cartesian Product)
+
+Mr Karim decided to colour interior wall of his rooms using white or blue colour,
+
+and outside wall using red, yellow or green. The set of colours of interior wall
+
+is A = {white, blue} and that of outside wall is B = {red, yellow and green }
+
+Mr Karim can colour walls of his rooms by (white, red), (while, yellow), (white,
+
+green), (blue, red), (blue, yellow), (blue, green) ordered pairs. The above ordered

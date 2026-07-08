@@ -1,0 +1,39 @@
+# Chunk 144 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.404047
+# Character count: 712
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_144
+
+========================================
+
+--- Page 63 ---
+58 Mathematics Classes IX-X
+Example 21. Resolve into factors: 92% — 30xy + 25>
+Solution: 922 — 30zy + 25¢>
+
+= (37)% — 2 x 37 x 5y + (5y)°
+
+= (3x — 5y)* = (3x — 5y) (3x — 5y)
+Difference of two squares: Expressing an expression as the difference of two
+squares and then applying the formula a? — b* = (a + b)(a — b).
+Example 22. Resolve into factors: a — 1+ 2b — b?.
+Solution: a —1+2b—b? =a” — (b* — 20+ 1)
+
+=a (b=1 = {a+ (b-DHe— 6-1)
+
+=(a+b—-1)(a—b+1)
+Example 23. Resolve into factors: a® + 645"
+Solution: a’ + 64b" = (a?)? + (80%)?
+
+= (a?)? +2 x a® x 8b” + (8b*)? — 16a%’
+
+= (a? + 8b%)? — (dab)?
+
+= (a + 8b” + dab) (a® + 8b* — 4ab)
+
+= (a® + dab + 8b*)(a® — dab + 8b?)
+
+Work: Resolve into factors:

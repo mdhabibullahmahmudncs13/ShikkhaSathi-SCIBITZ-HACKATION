@@ -1,0 +1,47 @@
+# Chunk 145 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314852
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_145
+
+========================================
+
+--- Page 50 ---
+Motion 45
+Science the velocity is changing every moment hence we cannot write the
+equation s = vt but if we consider an average velocity then we can write
+s=Vt
+In the case of a uniformly accelerated
+particle, the average velocity over a 2
+specific time interval is equal to the veloc- = — =
+ity at the midpoint of that interval. 3 v
+Tl
+|
+pouty _ut@tan
+2 2 [] Vz t
+1 time (s)
+V=u+zat
+2 Figure 2.08: Average velocity is the
+
+mid time velocity of the initial and
+
+final velocity.
+Therefore the travelled distance is,
+
+s=Vt
+( + 1 ) t
+s=(ut+za
+2
+1
+s=ut+-at?
+Inall the equations of motion we have already deduced the time 7 is present. We
+can deduce another equation in which is absent.
+Such as:
+v=u+at
+1
+v?=(u + atf’=u? + 2uat + a*t*> = u* + 2a (ue + Fat?)
+a
+Bl

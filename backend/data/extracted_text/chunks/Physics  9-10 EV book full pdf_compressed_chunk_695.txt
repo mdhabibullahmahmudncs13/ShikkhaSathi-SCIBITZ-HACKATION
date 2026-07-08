@@ -1,0 +1,26 @@
+# Chunk 695 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.377423
+# Character count: 729
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_695
+
+========================================
+
+cannot move towards the main ray. Though in a prism the direction of light
+
+changes, it is important for another reason. After entering the prism, how much
+
+the ray of light will deviates from the main direction depends on the refractive
+
+index of the prism. We know that the refractive index depends on the wavelength
+
+or the color of light. So there is a different refractive index for different colors.
+
+Therefore, if there exists different colors in the same ray of light, when passing
+
+through a prism the ray of light of each color will change its direction in different
+I. angles. Therefore we will see that when coming out from the prism the light is
+H separated into its component colors. This was first shown by Newton.

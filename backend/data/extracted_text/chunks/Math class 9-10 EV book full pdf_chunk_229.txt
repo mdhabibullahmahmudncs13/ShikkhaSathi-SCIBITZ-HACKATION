@@ -1,0 +1,26 @@
+# Chunk 229 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.412790
+# Character count: 638
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_229
+
+========================================
+
+following numbers by using calculator:
+1) 27 2) 63.147 3) 1.405 4) 0.0456
+5) 0.000673
+15. Find the common logarithm of the product/quotient (approximate value
+upto five decimal places) :
+1) 5.34 x 8.7 2) 0.79 x 0.56 3) 22.2642 + 3.42
+4) 0.19926 + 32.4
+16. If log2 = 0.30103, log3 = 0.47712 and log7 = 0.85410, find the value of the
+following expressions :
+1) log9 2) log28 3) log42
+17. Given, z = 1000 and y = 0.0625
+1) Express = in the form ab", where a and b are prime numbers.
+2) Express the product of z and y in scientific form.
+3) Find the characteristic and mantissa of the common logarithm of xy.
+Forma-13, Mathematics, Class 9-10

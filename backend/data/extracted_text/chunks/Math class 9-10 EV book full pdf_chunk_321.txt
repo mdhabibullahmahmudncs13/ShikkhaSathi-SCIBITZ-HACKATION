@@ -1,0 +1,23 @@
+# Chunk 321 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.421831
+# Character count: 740
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_321
+
+========================================
+
+supplementary angle, right angle, acute and obtuse angle.
+Triangle
+A triangle is a figure closed by three line segments. The line segments are known
+as sides of the triangle. The point common to any pair of sides is the vertex. The
+sides form angles at the vertices.
+A triangle has three sides and three angles. Triangles are classified by sides into
+three types: equilateral, isosceles and scalene.
+By angles triangles are also classified into three types: acute angled, right angled
+and obtuse angled.
+The sum of the lengths of three sides of the triangle is the perimeter. By triangle
+we also denote the region closed by the sides. The line segment drawn from a
+vertex to the mid-point of opposite side is known as the median. Again, the

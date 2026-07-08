@@ -1,0 +1,22 @@
+# Chunk 219 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321975
+# Character count: 751
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_219
+
+========================================
+
+marble.
+Finding the velocities of two objects after collision and using that concept we
+will be able to explain the incidents of road accidents easily.
+3.5.2 Safe Journey: velocity and Motion
+In the next chapter we will be able to understand kinetic energy in detail when
+we will learn about energy. But already we know that the kinetic energy can be
+expressed by mu? while reading about collisions. The topic is very important
+for discussion regarding travelling. The term kinetic energy contains the square
+of the velocity, this means if the velocity is doubled then energy will increase by
+four times. When two cars in an accident collide, then due to this energy both
+cars are damaged and the passengers are injured. Therefore to minimize the loss

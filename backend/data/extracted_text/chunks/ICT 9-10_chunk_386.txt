@@ -1,0 +1,19 @@
+# Chunk 386 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881377
+# Character count: 367
+# Chunk ID: ICT 9-10.txt_0_386
+
+========================================
+
+--- Page 123 ---
+118 Information and Communication Technology
+on the type of work and to some extent on personal interest. For those new to
+programming, Python can be an excellent starting point. Python is a fun and
+beginner-friendly programming language "
+with simple syntax, and it is widely used in { h 0 n
+fields like web development, data
+science.and automation,

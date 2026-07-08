@@ -1,0 +1,40 @@
+# Chunk 168 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.406255
+# Character count: 490
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_168
+
+========================================
+
+qr = (zr =5)(¢ +15) + (1)
+
+qr = 45000 +++ (2)
+From equation (1) we get,
+
+gz = (¢ — 5)(q + 15)
+
+or, gv = qr — 5g + 152 — 75
+
+or, 5¢ = 15x — 75 = 5(3x — 15)
+Cog =3r—15
+Putting the value of ¢ in (2), we get,
+
+(3x — 15) x x = 45000
+
+or, 32% — 152 = 45000
+
+or, #2 — 52 = 15000 [dividing both sides by 3]
+
+or, 22 — 5x — 15000 = 0
+
+or, x2 — 125 + 120x — 15000 = 0
+
+or, x(x — 125) + 120(x — 125) = 0
+
+or, (x —125)(z + 120) = 0
+
+,. Therefore, (x — 125) = 0 or (x +120) = 0
+B or, x = 125 or, x = —120

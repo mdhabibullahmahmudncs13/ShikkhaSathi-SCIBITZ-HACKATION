@@ -1,0 +1,31 @@
+# Chunk 765 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.466633
+# Character count: 776
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_765
+
+========================================
+
+--- Page 337 ---
+332 Mathematics Classes IX-X
+or, 1600 — 80x + 169 = 1369 [From (1)]
+or, 1600 + 169 — 1369 = 80x
+or, 80x =400 ;. x =5
+Now putting the value of z in equation(1) we get,
+524 h? = 169 or, h* = 169 — 25 = 144 ~ h = 12
+. 1
+Area of the trapezium ABCD = 348 +CD)-h
+1
+= 701 +51) x 12 square cm = 71 x 12 square cm = 852 square cm
+The required area is 852 square cm.
+Area of regular polygon
+The lengths of all sides of a regular polygon are equal. Again, the angles are
+also equal. Regular polygon with n sides produces n isosceles triangles by adding
+centre to the vertices.
+So, area of the regular polygon = nx area of one triangular region
+ABCDEF --- is a regular polygon whose centre is
+O. It has n sides and the length of cach side is a. D
+We join O, A:and O, B. E

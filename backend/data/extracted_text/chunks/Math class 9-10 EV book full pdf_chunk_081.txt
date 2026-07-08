@@ -1,0 +1,19 @@
+# Chunk 81 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.397265
+# Character count: 328
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_81
+
+========================================
+
+The set consisting of common elements of two or more sets is known as
+intersection set Let A and B be two sets. The intersection of sets A and B is
+denoted by A MN B and read as A intersection B. In set building notation
+ANB={z:zec Aand x € B}
+
+ANB ANBNC
+Example 9. IfP={reN:2<2<6}andQ={r€N:xiscvenand
+x < 8}, determine PN Q. BS

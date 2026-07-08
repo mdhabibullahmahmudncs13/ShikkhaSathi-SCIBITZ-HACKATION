@@ -1,0 +1,20 @@
+# Chunk 909 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.399988
+# Character count: 546
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_909
+
+========================================
+
+secondary coil. This is called a step down transformer.
+Example
+Question: The number of turns in the primary coil of a transformer is 100 and
+the number of turns in the secondary coil is 1000. 10 V DC is applied in the
+primary coil. What is the voltage in the secondary coil?
+Answer: Zero. Transformer does not work with DC voltage.
+Question: The number of turns in the primary coil of a transformer is 100 and
+the number of turns in the secondary coil is 1000. 12 V AC is applied in the
+primary coil. What is the voltage in the secondary coil? s

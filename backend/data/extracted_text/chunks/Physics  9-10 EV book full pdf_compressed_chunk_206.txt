@@ -1,0 +1,16 @@
+# Chunk 206 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.320844
+# Character count: 331
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_206
+
+========================================
+
+Now if the thread is cut then the tension of the thread 7 will not work on the
+object. Only the force of gravity of the earth or weight will be acting downwards.
+Here, the force of gravity or weight of the body is the unbalanced force. Owing
+to this unbalanced force, the object will fall down with the acceleration due to
+gravity.

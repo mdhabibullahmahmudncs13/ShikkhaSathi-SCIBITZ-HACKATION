@@ -1,0 +1,22 @@
+# Chunk 812 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389391
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_812
+
+========================================
+
+--- Page 310 ---
+Current Electricity 305
+If the unit of charge is the Coulomb (C) and of time is second (t), then the unit
+of electric current is ampere A. Interesting thing is, to find the unit of charge we
+said, if one ampere electric current flows for one second then the amount of
+charge that flows is called 1 Coulomb. Electric current is the rate of flow of
+charge; if 1 ampere current flows from A to B, it means 1 coulomb positive
+charge has been moved from A to B. Which actually means that the amount of
+electrons equivalent to 1 Coulomb charge has been moved from B to A.
+Therefore, you see that the direction of electric current is opposite to the
+direction of flow of electrons. (All problems could have been solved if we

@@ -1,0 +1,31 @@
+# Chunk 392 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.882197
+# Character count: 734
+# Chunk ID: ICT 9-10.txt_0_392
+
+========================================
+
+the screen, the object will transform into string.
+
+Using Variables in the Programme (Variable) RE a
+
+To store any information within a programme, we will use a Z -
+
+variable. A variable is like a box within which certain infor- voi (=)
+
+mation can be stored. The word variable means inconsistent. —- :
+
+That is, if we want, we can store a piece of information in one line of the programme,
+
+then change that information in another line and store another piece of information. Tt
+
+may be noted that in Python it is not necessary to cite the data type of a variable. Even
+after setting the data type, it can be changed any time.
+
+Naming the Variables
+
+We all have a specific name, and everyone can recognize us by that name. Similarly,

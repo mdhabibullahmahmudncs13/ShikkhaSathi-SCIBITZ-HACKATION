@@ -1,0 +1,23 @@
+# Chunk 84 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.831659
+# Character count: 787
+# Chunk ID: ICT 9-10.txt_0_84
+
+========================================
+
+the attack of virus, malware and spyware, and they can safely use their devices.
+Now many anti-virus, anti-malware, and anti-spyware software can be
+downloaded free of cost from the internet and used to protect the computer. Even
+these pieces of software can be updated from the internet.
+The computer users can run disk clean ups and disk defragmentors © keep the
+usual speed of the computer. These programmes are attached with the
+operating system. These two pieces of software clean up the space of hardware
+and arrange the files in such an order so that the speed of the computer is kept
+up.
+Installation and Uninstallation of Software
+We know that the ICT devices are operated with software. These pieces of
+software have to be installed in the computer or in other devices. When we

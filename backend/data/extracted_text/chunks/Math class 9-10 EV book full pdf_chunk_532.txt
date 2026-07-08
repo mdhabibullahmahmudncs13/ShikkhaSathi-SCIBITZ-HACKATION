@@ -1,0 +1,52 @@
+# Chunk 532 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.442520
+# Character count: 778
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_532
+
+========================================
+
+--- Page 237 ---
+232 Mathematics Classes IX-X
+a )
+3 = kor a=bk=dk? k= di
+LHS = (a? + 0* + A) (b> + ¢* + d?)
+= {(dk*)? + (dk?)* + (dk)? }{(dk?)* + (dk)? + d*}
+= (d?k® + d®k* + dk?) (d?k* + d2k* + d?)
+= PRE + K+ 1) (K+ K+ 1)
+= dR (kK + R241)?
+RHS = (ab + be + cd)?
+= (dk*- dk? + dk? - dk + dk - d)*
+= (d25 + dP + dk)?
+= {h(E + K+ 1)?
+= d'R2(k + 2 + 1)? = LHS
+co (a + 02+ A) (VP + E+ dP) = (ab + be + cd)?
+10,
+3) Given that, z = —Pe
+pPt+aq
+x 2q
+or, — = ——
+‘op pg
+5, 2q +
+or, THO 2atptg [by componendo-dividendo]
+x=5p 29—p—q
+x +5p  p+3q
+or, —— =——...(1
+z=5 q—p @
+1
+Again, x = 10pq.
+Pt+q
+x 2p
+or, — = ——
+5g ptyq
+5 2,
+or, THe _2ptpta [ by componendo-dividendo]
+T=5¢ 2p—p—q
+r+5¢ 3p+q
+or, — = —...(2
+T=5¢ p—q ®
+Here, by adding equations (1) and (2) we get,
++5 T+5¢ pig, 3p+q _p+3¢ 3p+gq

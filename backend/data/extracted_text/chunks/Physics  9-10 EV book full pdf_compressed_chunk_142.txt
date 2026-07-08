@@ -1,0 +1,31 @@
+# Chunk 142 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314547
+# Character count: 718
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_142
+
+========================================
+
+--- Page 49 ---
+44 Physics
+motion, then retardation starts. If the car ceases its motion, then both its velocity
+and acceleration become zero. You may think that the examples of uniform
+acceleration are rare.
+There is an amazing example of uniform acceleration which we see in our
+surroundings. That is the acceleration due to gravity. Near the earth’s surface, the
+value of this acceleration is 9.8 ms™. If we release an object from rest from above the
+carth, then its velocity increases according to the equation v = gz.
+2.7 Equations of Motion
+Since we discuss only linear motion, the quantities we have talked about so far
+are:
+
+u: initial velocity
+
+a: acceleration
+
+t: elapsed time
+
+v: velocity after elapsed time

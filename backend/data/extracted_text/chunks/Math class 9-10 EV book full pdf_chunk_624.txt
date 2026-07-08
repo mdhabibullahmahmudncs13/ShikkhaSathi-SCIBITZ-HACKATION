@@ -1,0 +1,29 @@
+# Chunk 624 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451666
+# Character count: 452
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_624
+
+========================================
+
+22. It takes 5 seconds for two trains of 100 and 200 metre lengths to cross each
+
+other when they pass in the opposite direction and 15 seconds in the same
+direction. Find the velocity of the two trains.
+
+23. How many con ecutive integers are needed so that their product is divisible
+by 50407
+
+24. How many times the hour hand and minute hand of a clock make an angle
+of 30 degree with each other? Find the times.
+
+PS
+9
+&
+
+
+--- Page 275 ---
+Chapter 13

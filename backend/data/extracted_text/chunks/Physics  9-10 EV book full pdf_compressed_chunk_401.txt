@@ -1,0 +1,30 @@
+# Chunk 401 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340241
+# Character count: 774
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_401
+
+========================================
+
+--- Page 142 ---
+State of Matter and Pressure 137
+5.3.1 Archimedes principle and
+It is sure all of you know =F
+Archimedes principle and the story [AY ass 4
+behind this. The principle is easy, SUR:
+‘If a body is immersed in a liquid, a g
+the weight of the body is reduced by [—— 4
+an amount equal to the displaced Ig i
+liquid’. Now we "ll find this principle. A
+A cylinder is immersed in some
+amount of liquid is shown in figure
+5.04 (This can be any object of any
+shape, but for convenience of
+calculation we took a cylinder). Let
+us suppose that the height of the Figure 5.04: The weight of a body is
+cylinder is /, cross-sectional area of reduced by an amount equal to the weight
+top and bottom of the cylinder is 4. of the displaced water.
+We imagine that the cylinder is

@@ -1,0 +1,21 @@
+# Chunk 785 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.386656
+# Character count: 745
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_785
+
+========================================
+
+shockwave. The sound of a thunderbolt is a kind of shockwave. Although the
+flashing of light and sound are created at the same time, we see the light first,
+since the speed of light is so much that it reaches us within the next moment. The
+speed of sound is 330 m/s which means it takes 3 s for it to travel one kilometer.
+That is why; we can guess the distance at which the lightning is created by
+calculating how many seconds later we hear the sound of thunder. Roughly
+3 seconds for a kilometer.
+Since electric current flows down from the clouds during a lightning, it usually
+strikes tall structures. So to protect tall buildings from thunderbolts, more than
+one pointy metal needle is set up on the roof. This current is then transferred to

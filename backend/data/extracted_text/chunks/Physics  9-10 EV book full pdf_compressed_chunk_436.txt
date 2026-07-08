@@ -1,0 +1,34 @@
+# Chunk 436 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.343837
+# Character count: 735
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_436
+
+========================================
+
+--- Page 154 ---
+State of Matter and Pressure 149
+It is seen that the deformation has no
+unit, it is only a number. a
+Stress: The force per unit area that |
+develops within a substance due to L.
+deformation is called stress. 1 L
+If a force is applied on a body of cross T
+sectional area 4 and as a result
+deformation occurs, then if this
+deformation develops a resistive force
+F, then stress is: yo
+Li lv
+A
+You see it is similar to pressure and its Figure 5.11: Deformation occurs in
+unit is Pa or Pascal. a bar if stress is created by applied
+force.
+
+Hooke’s law: If we have understood stress and strain, it is easy to
+
+understand Hooke’s law. According to this law, ‘within elastic limits stress
+
+is directly proportional to strain’.

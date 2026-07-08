@@ -1,0 +1,24 @@
+# Chunk 367 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426238
+# Character count: 703
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_367
+
+========================================
+
+sides 8 cm.
+2) Base 5 cm, base adjacent angle 45° and the difference of the two other
+sides 1 cm.
+3) Base adjacent angles 60° and 45° and the perimeter 12 cm.
+3. Construct a triangle when the two base adjacent angles and the length of
+the perpendicular from the vertex to the base are given.
+4. Construct a right-angled triangle when the hypotenuse and the sum of the
+other two sides are given.
+5. Construct a triangle when a base adjacent angle, the height and the sum of
+the other two sides are given.
+6. Construct an equilateral triangle whose perimeter is given.
+7. The base, an obtuse base adjacent angle and the difference of the other two
+sides of a triangle are given. Construct the triangle. ES

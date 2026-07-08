@@ -1,0 +1,23 @@
+# Chunk 352 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.334968
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_352
+
+========================================
+
+form of heat energy and this cannot be regained for further use. This dissipation
+of energy actually is not the limitation of technology. It is a rule restricted by
+physics.
+At the very beginning of learning science many don’t know it and they try to
+make an everlasting machine for transformation of energy from one form to
+another form. (A motor is rotating the generator and producing electricity, again
+using this electricity the motor is rotating. This is an example of perpetual
+machine. It will never work).
+4.6 Relation between mass and energy
+You know, in the theory of relativity by Einstein it is said that the mass of
+an object and the energy are identical things. If the mass m is transformed into
+energy, then this energy is E, and its amount is £ = mc?, here c is the light

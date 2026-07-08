@@ -1,0 +1,19 @@
+# Chunk 446 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.893626
+# Character count: 286
+# Chunk ID: ICT 9-10.txt_0_446
+
+========================================
+
+8. What is Casting Constructor Function? Write the name of some functions.
+9. Write two programmes to determine the sum of all positive numbers from
+1 to 100 using for loop and while loop. Analyze which programme is conve-
+nient.
+10. Explain break and continue statements.
+The End
+Py
+BS

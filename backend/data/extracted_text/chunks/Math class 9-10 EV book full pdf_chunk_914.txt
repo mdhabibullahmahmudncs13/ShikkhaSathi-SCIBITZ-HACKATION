@@ -1,0 +1,28 @@
+# Chunk 914 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480687
+# Character count: 570
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_914
+
+========================================
+
+Proposition: : Let the diagonals AC and D Cc
+BD of the rectangle ABCD intersect at O.
+It is required to prove that,
+(i) AC = BD
+(ii) 40 =CO, BO=DO.
+a= B
+Proof:
+Justification
+(1) A rectangle is also a parallelogram. [Diagonals of a parallelogram
+Therefore, 40 =CO, BO=DO. bisect each other]
+(2) Now between AABD and AACD,
+AB=DC [ Opposite sides of a
+and AD = AD. parallelogram are equal ]
+/DAB = /ADC [ each angle is a right angle]
+Therefore, AABD =AACD. [ ASA theorem]
+Therefore, AC =BD (Proved)
+Activity : 1. Prove that every angle of a rectangle is the right angle. ES

@@ -1,0 +1,24 @@
+# Chunk 190 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.847144
+# Character count: 772
+# Chunk ID: ICT 9-10.txt_0_190
+
+========================================
+
+--- Page 59 ---
+54 Information and Communication Technology
+parts. namely (1) protocol name, (2) hosimame and (3) Name with location of the
+filename. For example-
+http://www.google.com/maps
+Note that there is only one website with one name in the world.
+Home page: The main page of an organization, company or person's web site is
+called Home page. It is usually set on the Start page. The web page that is set as the
+start page on the web server is the user's homepage. That is. the page that appears as
+soon as the web address is typed in the browser is the home page.
+Bookmark: Bookmark is a web page list. From where you can directly go to that
+web page by selecting the name of a web page.
+Reload/Refresh: Reload/Refresh cornmand should be given to know whether there

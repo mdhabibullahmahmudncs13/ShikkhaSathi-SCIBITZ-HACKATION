@@ -1,0 +1,19 @@
+# Chunk 247 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.858230
+# Character count: 399
+# Chunk ID: ICT 9-10.txt_0_247
+
+========================================
+
+Select the textbox icon from the ribbon of the ‘Home’ menu and take the
+insertion pointer inside the screen and the insertion pointer will be changed
+info a text pointer. ( create a box, dragging)
+- The insertion pointer will be on the box.
+- The keyboard will be transformed into ‘Bangla’ for typing in Bangla.
+- Select font, fontsize; colour, etc. from the toolbar and ribbon for typing work.
+io
+g

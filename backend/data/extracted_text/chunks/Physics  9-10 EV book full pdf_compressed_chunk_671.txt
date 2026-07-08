@@ -1,0 +1,32 @@
+# Chunk 671 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.374859
+# Character count: 774
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_671
+
+========================================
+
+--- Page 250 ---
+Refraction of light 245
+In vacuum v = 3 x 10% ms /1.00 = 3 x 10° ms™*
+In air v=3x10%ms"/1.00029 = 3 x 10% ms!
+Inwater v=3x10°ms!/1.33 = 2.26 x 10° ms!
+In normal glass v =3 x 10° ms™'/1.52 = 2x 10° ms!
+In diamond v = 3 x 108 ms!/2.42 = 1.24 x 10° ms"
+To determine the refractive index of a
+medium is, the wavelength of light
+for which the refractive index is
+measured must be stated, because the first medium
+refractive index depends on the 90° (]
+wavelength of light.
+9.1.1 Laws of refraction .
+second medium
+What we need to understand the Boi
+N . 1
+laws of refraction are already known.
+In the case of reflection of light we
+have imagined a normal from the Figure 9.01 : Refraction of light from
+point of incident. We do the same first medium to the second

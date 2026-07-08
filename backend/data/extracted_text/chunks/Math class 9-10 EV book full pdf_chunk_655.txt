@@ -1,0 +1,33 @@
+# Chunk 655 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.454572
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_655
+
+========================================
+
+--- Page 288 ---
+Chapter 13. Finite Series 283
+b the series — nt 27 11
+So, the general term of the series = 128 x 5 =n TC gii7 gis
+Example 9. first and the second terms of a geometric series are 27 and 9.
+Find the 5th and the 10th terms of the series.
+Solution: The first term of the given series a = 27, the second term = 9
+9 1
+The common ratio r = — = =
+1 1) 10] T 97 3 )
+1 27x11
+The fifth term = ar®' = 27x (=| == ==
+© 3) "2x3 3
+1’ 3 11
+and the tenth term = ar'®! = 27 x (3) SE 33 7m
+Determination of the sum of a Geometric series
+Let the first term of the geometric series be a, common ratio r and number of
+terms n. If S,, is the sum of n terms,
+Sy =atartar’ +a" Fam (1)
+and r+ S, = ar + ar’ +ar® + +a" + ar” [multiplying (1) by r |... (2)
+Subtracting, S, — rS, =a — ar"
+or, Sp(1—7r)=a(l —r")

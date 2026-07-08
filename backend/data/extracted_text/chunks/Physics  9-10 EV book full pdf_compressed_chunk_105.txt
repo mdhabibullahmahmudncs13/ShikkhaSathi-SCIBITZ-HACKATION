@@ -1,0 +1,20 @@
+# Chunk 105 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.310638
+# Character count: 722
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_105
+
+========================================
+
+When an object does not change its position with respect to time, then it
+is at rest. And when an object changes it position with time, then it is in motion.
+Now we need to explain the term 'position' properly. In our daily conversation
+we use the word 'position’ in different ways, but in physics the word "position
+has a definite meaning. If you are asked, what is the position of your school and
+if your answer is 'Jhiltuli', your answer is correct but the position of your school
+remains unknown. If you reply, your school is 1 kilometer from the gate of your
+residence; the position of your school is still unknown. Though the position of
+the gate of your residence is known to us, yet we cannot tell exactly in which

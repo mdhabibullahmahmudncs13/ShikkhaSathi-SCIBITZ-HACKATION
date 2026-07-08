@@ -1,0 +1,34 @@
+# Chunk 308 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.868824
+# Character count: 774
+# Chunk ID: ICT 9-10.txt_0_308
+
+========================================
+
+Gradient, Reflected Gradient and Diamond Gradient.
+
+Blurring of a color [rom the
+
+beginning to the end is called
+
+blend. The color blurs from the
+
+beginning edge to another in
+
+linear blend. On the contrary, in radial blend, the color diffuses either from the
+
+centre to the periphery or the periphery to the centre.
+
+To create linear blend with gradient tool
+
+- A selection of 3 inches width and 2 inches high can be created.
+
+- After selecting (he gradient tool, bring the mouse on the canvas, and it will
+be transformed into a plus (+) sign. Now drag it from the lefi-middle of the
+selection to the other end, and release the pressure of the finger from the
+mouse pointer. It will be viewed that the selection starting with deep black
+color gradually diffuses to the end.

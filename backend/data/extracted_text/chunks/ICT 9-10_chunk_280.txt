@@ -1,0 +1,24 @@
+# Chunk 280 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.863859
+# Character count: 497
+# Chunk ID: ICT 9-10.txt_0_280
+
+========================================
+
+- The feather effect will be activated by pressing enter button after writing
+different numerical figures in the box. Fill colour by using either the
+rectangular marquee tool or the elliptical marquee tool, and the effect of
+feather will be visible then. The effect will be still viewed after pasting the
+cut or copied object.
+
+Select with Lasso Tool and Polygonal Lasso Tool
+
+- Select the lasso tool in the toolbox, FEE———
+
+Numerous selections can be made With |e ry
+lasso tool such as By = i
+2 I

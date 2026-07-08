@@ -1,0 +1,25 @@
+# Chunk 952 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404351
+# Character count: 631
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_952
+
+========================================
+
+quantity of analog signals very easily by entering the signals. Once it is
+converted into digital signals, noise cannot enter it very easily. So, the quality of
+digital signals remains unchanged.
+on AA
+a) | [\
+| {
+[fond I [ill
+(b)
+Figure 13.04: (a) Analog and (b) Digital signals
+A special type of IC is made to process digital signals. These IC’s have become
+efficient gradually. That is, they can process a large number of signals at a very
+short time accurately. Therefore, as time goes by, the process of digitizing is
+becoming easier and it is needless to say that everything around us is being
+converted into digital world. §

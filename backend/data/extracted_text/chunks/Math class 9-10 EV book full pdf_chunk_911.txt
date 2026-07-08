@@ -1,0 +1,33 @@
+# Chunk 911 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480440
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_911
+
+========================================
+
+--- Page 402 ---
+Appendix 397
+Theorem 2
+The opposite sides and angles of a parallelogram are equal.
+Proposition: Let ABCD be a
+parallelogram and AC and BD be its two A D
+diagonals. It is required to prove that
+(a) AB = CD and AD = BC
+(b) £BAD =ZBCD,Z4ABC = ZADC. B C
+Proof:
+(1) ABI DC and AC is their transversal,
+therefore, ZBAC = ZACD . [alternate angles are equal ]
+(2) Again, BC|| AD and AC is their transversal,
+therefore, ZACB = 2ZDAC . [alternate angles are equal
+(3) Now in AABC and AADC, «BAC = ZACD,
+ZACB = «DAC and AC is common.
+ AABC = AADC.
+Therefore, AB=CD,BC = AD and ZABC = ZADC.| [ ASA theorem ]
+Similarly it can be proved that ABD = ABDC
+Therefore, ZBAD = ZBCD [Proved].
+Activity
+1. Prove that if a pair of opposite sides of a quadrilateral is parallel and equal, it is a

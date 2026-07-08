@@ -1,0 +1,31 @@
+# Chunk 420 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.888423
+# Character count: 759
+# Chunk ID: ICT 9-10.txt_0_420
+
+========================================
+
+--- Page 135 ---
+130 Information and Communication Technology
+Practical Problem #3: Create a Python program that checks il a citizen is
+eligible to vote based on their age.
+Solution: In Bangladesh, any citizen who is 18 years old or older is considered
+eligible to vote. The program will take the citizen's age as input. The code for the
+program is provided below.
+age = int (input('Please entar your age: '))
+if age >= 18:
+print ('¥ou are #ligible for voting')
+else -
+print{'¥eu are not eligible for voting’)
+Practical Problem #4: Write a Python program to determine if a number is
+even or odd.
+Solution: The code for the program is given below.
+Aum = int{input('Insert a number= '))
+num$2 {= 0:
+print{'The number is odd‘)
+size :
+print{' The number is even’)

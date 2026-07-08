@@ -1,0 +1,28 @@
+# Chunk 732 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461908
+# Character count: 692
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_732
+
+========================================
+
+--- Page 323 ---
+318 Mathematics Classes IX-X
+9. X and Y are the mid points of the sides AB and AC' of AABC'". Prove that
+1
+the area of AAXY = larea of the triangular region AABC).
+
+10. ABCD is a trapezium. The sides AB and C'D are parallel to each other.
+Find the area of the region bounded by the trapezium ABCD.
+
+11. P is any point interior to the parallelogram ABCD. Prove that the area of
+APAB + the area of APCD = Samca of the parallelogram ABCD).
+
+12. A line parallel to base BC of the triangle ABC intersects AB and AC at D
+and FE respectively. Prove that, ADBC = AEBC and ADBF = ACDE.
+
+13. ZA = 1 right angle of the triangle ABC. D is a point on AC. Prove that
+BC? + AD? = BD? + AC”.

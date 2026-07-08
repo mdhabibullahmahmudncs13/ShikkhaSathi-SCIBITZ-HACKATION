@@ -1,0 +1,55 @@
+# Chunk 525 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.441751
+# Character count: 741
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_525
+
+========================================
+
+--- Page 233 ---
+228 Mathematics Classes IX-X
+Ca’ +b ac+bd
+Ta2-0 ac—bd
+1- 1+ b:
+Example 5. Solve: loaz fl4be 1 where 0 <b < 2a < 2b
+14+azxV 1-bx
+1- 1+ bs
+Solution: Given that, Loar Libr =1
+1+azV 1—bx
+or 1+br lax
+Vi-br 1-ax
+1+ bx 1 7)?
+or, — = Er [squaring both the sides]
+o 1+bx 1+ 2ar + aa?
+ro =
+'1—br 1-2az+ aa?
+or 1+bz+1—br 1+ 2ax + a®a* + 1 — 2ax + a*a? [by componendo and
+eT ¢ «
+PT l4br—1+bx T+ 2az + a2? — 1 + 2ax — aa? > P
+dividendo|
+2 2(1 + a?x?)
+or, /— = ————=
+2b dax
+or, 2ax = bx (1 + ax?)
+or, {2a — b(1 + a’z?)} = 0
+Lx=0
+Again, 2a — b(1 + a*z?) = 0
+or, b(1 + a*z?) = 2a
+a 2
+or, 1 + a2? = pd
+b
+2
+or, a’? = “ 1
+b
+1 (2a
+2=— (2
+or, 7 = — ( 5 )
+1 [2a
+Sr=t—y——1
+’ a b
+. I 1 [2a
+Thus, the required solution is x = 0,+—4/=— — 1 by]
+aV b s

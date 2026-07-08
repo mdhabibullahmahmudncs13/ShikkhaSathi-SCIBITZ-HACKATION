@@ -1,0 +1,18 @@
+# Chunk 499 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.351732
+# Character count: 490
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_499
+
+========================================
+
+Question: What will be the density if the temperature is increased 1000°C more?
+Answer: As the melting point of gold is 1064°C, gold will melt.
+6.3.2. Expansion of liquid
+Liquids have no length or area. Liquids have only volume. So the expansion of
+a liquid means its volume expansion. While measuring the expansion of a
+liquid, we have to be alert, because a liquid is kept in a container. To measure the a
+co-efficient of expansion when the liquid is heated, the container which is also S

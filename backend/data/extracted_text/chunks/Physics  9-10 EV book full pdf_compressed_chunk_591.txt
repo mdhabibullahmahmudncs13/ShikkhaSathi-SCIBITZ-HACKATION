@@ -1,0 +1,38 @@
+# Chunk 591 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.366205
+# Character count: 780
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_591
+
+========================================
+
+(a) Transverse wave (b) Electromagnetic wave
+
+(c) Longitudinal wave (d) Radio wave
+2. In which medium is the velocity of sound maximum?
+
+(a) Solid (b) Liquid
+
+(¢) Gaseous (d) Plasma
+3. Why is a dead bat seen hanging from an electric line?
+(i) Bats are attracted by the induced electric field caused by the current carrying
+
+lines.
+—S —
+
+(ii) It did not hear the echo of ultrasonic sound ahead.
+(iii) It is hanging with one wire and touching the other. 20m
+‘Which one of the following is correct?
+
+(a) iand ii (b) i and iii fr | —. B
+
+(c)iiandiii  (d)i,ii and iii h=10 |
+
+Figure 7.16
+In Figure 7.16, S is a source of sound and AB is the surface of water. Answer
+questions 4 and 5 on the basis of the given information and the figure
+considering the velocity of sound as 332 m/s .
+“

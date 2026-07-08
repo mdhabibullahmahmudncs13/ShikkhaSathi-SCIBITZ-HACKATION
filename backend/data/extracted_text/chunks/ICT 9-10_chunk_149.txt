@@ -1,0 +1,31 @@
+# Chunk 149 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.841746
+# Character count: 779
+# Chunk ID: ICT 9-10.txt_0_149
+
+========================================
+
+--- Page 46 ---
+Information and Communication Technology 41
+4. The computer | 1. Check the mother board carefully and find out if
+shuts shown on there is any leaking or faulty capacitor has got
+its own at every loosened. Tighten the capacitor and the problem will
+few minutes, be resolved.
+
+biti [= fot 2. Notice very carefully as the computer is running
+heated. whether any IC or any other component producing
+extra heat. Be cautious. Let not the board be shorted.
+
+If it happens, go to the nearest service centre.
+
+5; The device 1. Check whether there is any virus in the hard disk by
+freezes running an upgraded anti-virus.
+while 2. Taking the back up of important data from the disk,
+running the format € drive, and remstall Windows. Tt should
+
+Windows.
+be done by an expert.

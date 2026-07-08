@@ -1,0 +1,34 @@
+# Chunk 935 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402840
+# Character count: 768
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_935
+
+========================================
+
+radioactivity. The time in which half of the nucleus disintegrates (or radiates) is
+
+known as half life. Therefore, the more the radioactivity of an element, the less
+
+its half life is. The half life of a stable nucleus having no radioactivity can be
+
+considered to be “infinity”.
+
+It is necessary to know that radioactivity is a nuclear phenomenon, so a nucleus
+
+is transformed into another through radioactive emission. A different nucleus
+
+can accept or donate one or two electrons from the surroundings to become a
+
+charge less atom. This is because the energy of the electrons of an atom is much
+
+smaller than the nuclear energy of a nucleus.
+
+Example
+
+Question: The half life of a radioactive element of 1 kg is 100 years. What will be
+
+its mass after 200 years?

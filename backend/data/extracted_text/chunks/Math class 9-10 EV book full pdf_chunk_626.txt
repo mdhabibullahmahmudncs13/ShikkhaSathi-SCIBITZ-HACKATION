@@ -1,0 +1,26 @@
+# Chunk 626 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451857
+# Character count: 561
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_626
+
+========================================
+
+» describe the sequence and series and determine the differences between them.
+
+» explain finite series.
+
+» form formulae for determining the fixed term of the series and the sum of
+fixed numbers of terms and solve mathematical problems by applying the
+formulae.
+
+» determine the sum of squares and cubes of natural numbers.
+
+» solve mathematical problems by applying different formulae of series.
+
+» construct formulae to find the fixed term of a geometric progression and sum
+of fixed numbers of terms and solve mathematical problems by applying the
+formulae.

@@ -1,0 +1,27 @@
+# Chunk 903 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.398933
+# Character count: 722
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_903
+
+========================================
+
+--- Page 346 ---
+Magnetic Effects of Current 341
+12.3.2 Transformer
+Changing a magnetic field creates
+current— this property is used to J —
+prepare transformer. In Figure L =
+12.13 a rectangular iron core is 68 Zo
+shown to understand how a PF TF
+transformer works. Conducting =
+wires have been winding on the
+two sides of the core of course Figure 12.13: If AC potential is applied
+there are insulating covers on the in primary coil of a transformer, it
+conducting wires, so that if it produces potential in the secondary coil
+touches anything metallic a short
+circuit doesn’t occur. In the figure, we see that on the left side of the core an AC
+voltage source is connected. Since the wire is connected by winding the iron

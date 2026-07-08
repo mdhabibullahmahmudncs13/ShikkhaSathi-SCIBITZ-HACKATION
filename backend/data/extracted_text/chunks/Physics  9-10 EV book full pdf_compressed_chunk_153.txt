@@ -1,0 +1,28 @@
+# Chunk 153 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315549
+# Character count: 418
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_153
+
+========================================
+
+an
+Example
+QJ
+Queston: A good pace bowler of cricket can throw a ball with a velocity of
+150km/hour. If he throws the ball vertically upwards, how high will it go?
+PS
+
+
+--- Page 54 ---
+Motion 49
+Answer:
+150 x 1000 m
+
+150 km/hour = —o xls 41.67 m/s
+Acceleration due to gravity will act as retardation when the ball is thrown
+vertically upwards. The ball eventually comes to a stop. If the height is
+expressed by A then,

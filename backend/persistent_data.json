@@ -1,0 +1,81 @@
+{
+  "classes": {
+    "2": [
+      {
+        "id": "1001",
+        "name": "Mathematics Grade 8",
+        "subject": "Mathematics",
+        "grade": 8,
+        "description": "Advanced mathematics for grade 8 students",
+        "class_code": "MATH8A",
+        "teacher_id": "2",
+        "student_count": 5,
+        "created_at": "2024-01-10T10:00:00Z",
+        "recent_activity": "Class created"
+      },
+      {
+        "id": "1002",
+        "name": "Science Grade 9",
+        "subject": "Science",
+        "grade": 9,
+        "description": "General science for grade 9 students",
+        "class_code": "SCI9B",
+        "teacher_id": "2",
+        "student_count": 8,
+        "created_at": "2024-01-12T14:30:00Z",
+        "recent_activity": "Recent quiz added"
+      },
+      {
+        "id": "1003",
+        "name": "English Literature",
+        "subject": "English",
+        "grade": 10,
+        "description": "English literature and composition",
+        "class_code": "ENG10C",
+        "teacher_id": "2",
+        "student_count": 12,
+        "created_at": "2024-01-15T09:15:00Z",
+        "recent_activity": "Assignment graded"
+      }
+    ]
+  },
+  "students_in_classes": {
+    "1001": [
+      "1"
+    ],
+    "1002": [
+      "1"
+    ]
+  },
+  "student_classes": {
+    "1": [
+      "1001",
+      "1002"
+    ]
+  },
+  "assignments": {},
+  "submissions": {},
+  "scheduled_classes": {
+    "64540": {
+      "id": "64540",
+      "class_id": "1001",
+      "title": "Mathematics Grade 8 - Online Class",
+      "description": "gwwagghaw",
+      "teacher_id": "2",
+      "teacher_name": "Teacher One",
+      "scheduled_date": "2026-01-14",
+      "scheduled_time": "22:27",
+      "duration": 60,
+      "notify_before": 30,
+      "is_recurring": true,
+      "recurring_pattern": null,
+      "max_participants": 5,
+      "status": "scheduled",
+      "participants": [],
+      "meeting_url": "https://192.168.0.109:5174/scheduled/64540",
+      "meeting_id": "64540",
+      "created_at": "2026-01-12T10:27:55.887235Z",
+      "notifications_sent": false
+    }
+  }
+}

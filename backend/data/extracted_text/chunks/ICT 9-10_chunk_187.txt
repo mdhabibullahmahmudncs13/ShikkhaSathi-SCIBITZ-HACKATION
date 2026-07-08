@@ -1,0 +1,26 @@
+# Chunk 187 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.846597
+# Character count: 792
+# Chunk ID: ICT 9-10.txt_0_187
+
+========================================
+
+--- Page 58 ---
+Internet and Introduction of Web 53
+Upload: Upload is sending data
+from local the system to a remote cammunty contank ites.
+system using the Internet or the B K-] a
+network, For example: If some- = pi
+one sends a file by e-mail, it is k §
+saved on that e-mail server. & - Oana et Be
+Web Browser
+The Internet is called the ocean of information, because the Internet makes it possi-
+ble to use all the information that is available on all the computers connected to the
+network spread across the world. The software that works to display Internet infor-
+mation or Web page or World Wide Web-WWW is called Web browser.
+‘Web Browsing is visiting interconnected Web pages or WWW hosted on web serv-
+ers in different countries of the world. Various information can be brought to the

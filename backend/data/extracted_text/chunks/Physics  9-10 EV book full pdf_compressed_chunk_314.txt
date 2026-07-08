@@ -1,0 +1,30 @@
+# Chunk 314 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.331239
+# Character count: 752
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_314
+
+========================================
+
+F=mg
+and W=mgh
+We have to remember that the weight of the stone is a force and it acts
+downwards. We have to apply an upward force equal to the weight of the stone
+if we want to lift it.
+Potential energy is stored in a stone of mass m by raising it a distance of 4. What
+amount of kinetic energy will be generated in the stone if it is released and
+comes down by a distance 4?
+Due to the conservation of energy total of its potential energy will transform into
+kinetic energy. We know kinetic energy ism, SO we can write:
+
+z m= mgh
+Vvi=2gh
+Honestly we can say, when we were deducing the laws of falling bodies,
+we deduced this identical law once again! Now we deduced the same law using the
+conception of energy quite in a different way!
+A
+Example
+pe_7

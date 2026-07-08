@@ -1,0 +1,23 @@
+# Chunk 548 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.360079
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_548
+
+========================================
+
+--- Page 196 ---
+Waves and Sound 191
+started, then we say a complete oscillation has taken place. It has to be
+remembered that completing 2 — 3 positions when the mass comes to the
+position 4, it will come to the position from where it started, but it is not a
+complete oscillation. Because at the first 2 position the mass moves upwards
+and at the next 4 position it is moving downwards, therefore it did not come to
+the same or initial position in the same manner.
+To analyze the simple harmonic motion, it is better to explain some quantities.
+The first may be the time period 7. The time required for one complete oscilla-
+tion is called the time period. Frequency fis the number of complete oscillations
+per second. Therefore, f = : . if time period is expressed in second, then unit of

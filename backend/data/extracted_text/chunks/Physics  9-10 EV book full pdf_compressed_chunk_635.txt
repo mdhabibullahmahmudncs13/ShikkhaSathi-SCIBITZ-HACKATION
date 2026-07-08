@@ -1,0 +1,24 @@
+# Chunk 635 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.370860
+# Character count: 759
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_635
+
+========================================
+
+OP or ON ray), it will reflect perpendicularly and go back the way it has
+come.
+(ii) The ray parallel to the principal axis will go through the focal point (F) after
+reflection (QF).
+(iii) If the direction of light ray is changed, it goes back the way it has come.
+So a light ray (figure 8.22, FQ) going through the focus will reflect parallel
+(QX) to the principal axis.
+Now we can create image for concave mirrors.
+At a distance less than focal length
+In Fig 8.22, a concave mirror is shown. This mirror is part of a sphere whose
+center is O, focal point of the mirror is F and we want to determine the image of
+the object XY. Light coming from point Y reflects from point P of the concave
+mirror and again goes through point Y towards point O. So it can be

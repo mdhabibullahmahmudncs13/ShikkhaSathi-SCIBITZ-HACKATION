@@ -1,0 +1,36 @@
+# Chunk 507 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.353333
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_507
+
+========================================
+
+--- Page 180 ---
+Effect of Heat on Matter 175
+equation and it is:
+PV =nRT
+Here P is pressure, Vis volume, is the amount of gas (measured in mole), R is
+a constant (8.314 JK" mol") and 7 is temperature in Kelvin scale.
+Now we can find out the co-efficient of expansion of a gas. At a certain pressure
+if the volume of a gas is V/, at temperature 7’ and the volume is V, at temperature
+T, the co-efficient of volume expansion B of the gas will be:
+PERUSAL
+’ T,=T
+‘We know,
+PV, = nRT,
+PV, = nRT,
+Hence
+PV, — V1) =nR(T, — Ty)
+Dividing the left side by PV, and the right side by nRT, we get:
+Vo-V T,-T
+[A
+So, Caz VO _ 1
+T,=T Ty
+That is 2
+: =7
+Therefore, you can see that the co-efficients of expansion of gases are not
+constants at all. It is reciprocal to the temperature (7), i.e., the less the

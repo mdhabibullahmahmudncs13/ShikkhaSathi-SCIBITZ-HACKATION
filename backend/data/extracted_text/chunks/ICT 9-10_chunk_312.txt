@@ -1,0 +1,32 @@
+# Chunk 312 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.869965
+# Character count: 793
+# Chunk ID: ICT 9-10.txt_0_312
+
+========================================
+
+After selecting the middle-point icon, type a position-fixing digit in the
+location box to fix the middle. The middle point can be shifted by dragging
+the icon either to the left or to the right.
+
+Adding and Removing New Color and Color Stops
+
+If more than two colors are to be used for a gradient, add new Color Stops to the
+
+slider. To do this
+
+- Click anywhere at the bottom of the slider, and new Color Stop will be added
+to the diamond for determining color blending middle point. In the same
+way, requisite number of Color Stops can be added to the gradient shder.
+
+- If any additional Color Stop is needed to be removed or cropped, click that
+color stop icon and drag if to the outside of the slider. and the Color Stop will 2
+be removed. ~
+
+
+--- Page 101 ---
+96 Multimedia and Graphics

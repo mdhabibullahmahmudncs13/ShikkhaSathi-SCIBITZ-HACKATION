@@ -1,0 +1,23 @@
+# Chunk 924 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.401715
+# Character count: 750
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_924
+
+========================================
+
+Cy: 6 protons and 8 neutrons
+Among these three isotopes, C,, is unstable or radioactive.
+In 1896, Henry Becquerel discovered the existence of radioactive rays from
+Uranium for the first time. Later on, Ernest Rutherford, Pierre Curie, Marie
+Curie and other scientists discovered radioactivity of other elements. Since
+radioactivity it is not influenced by external pressure, heat, electric or magnetic
+field, and cannot be controlled, it is accepted as a nuclear phenomenon. Due to
+radioactivity, radioactive rays emerge and this changes the structure of the
+nucleus and turn it into a different element, this is also observed.
+The main three radioactive rays that emit from the nucleus are alpha, beta and
+gamma rays (Figure 13.01).
+13.1.1 Alpha ray

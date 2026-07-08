@@ -1,0 +1,22 @@
+# Chunk 174 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.317436
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_174
+
+========================================
+
+3. Now try to measure the speed of a bicycle, rickshaw, tempo or a
+pedestrian staying at a safe distance beside the road. Since the distance is
+known, you can measure the required time, then speed can be calculated.
+4. To measure the time accurately a stop watch is required, or an ordinary
+watch will meet up the purpose instead of a stop watch. If you have none,
+you can use an easy method to measure the time. It takes almost one
+second to utter the words “one thousand one”, “one thousand two”, “one
+thousand three” etc. Counting like this we can measure it.
+5. When you will see a cycle, rickshaw, tempo or a pedestrian just passing
+the first stationary object, you start to count time with a watch, or start
+counting “one thousand one”, “one thousand two” and so on. Again when

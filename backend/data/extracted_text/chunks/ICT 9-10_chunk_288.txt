@@ -1,0 +1,30 @@
+# Chunk 288 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864773
+# Character count: 554
+# Chunk ID: ICT 9-10.txt_0_288
+
+========================================
+
+--- Page 93 ---
+88 Multimedia and Graphics
+
+- Ifyou click on any part of the picture with the ‘Background Eraser’ tool, that
+part will be erased, and the layer of the palette will automatically be
+transformed into ‘Layer 0°.
+
+- If any part of the picture is erased by the Eraser tool, the layer will not be
+transformed into ‘Layer 0.
+
+Insert New Layer
+
+Many layers should be used to work with more than one file in Photoshop. By
+
+keeping different pictures on different layers, their arrangement and editing
+
+should be done.
+
+To add new layers in palette

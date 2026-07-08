@@ -1,0 +1,33 @@
+# Chunk 838 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391591
+# Character count: 721
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_838
+
+========================================
+
+--- Page 320 ---
+Current Electricity 315
+I = v_2 A
+TR 3
+The current through resistor CF,
+I, = 4 = 2 A= ! A
+27R, 6 3
+Total current, 2 1 |
+I=hL+L,=-A+=A=1A
+1 2 3 3
+11.2.4 Equivalent Resistance: Series Circuit
+If there is more than one resistance in a circuit, we will see how these resistances
+can be considered as a single equivalent
+resistance. In figure 11.11 there are two A By 3
+resistances in the circuit, as C is connected to
+the ground so it’s potential is zero and
+the potential of A is V. We don’t know the V 1 Ra
+potential of B, but we know that the same
+amount of electric current I flows through R
+and R,. = c
+To keep it simple, we can say, the sum of two =
+resistances is the total resistance R and the i a1 )

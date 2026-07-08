@@ -1,0 +1,22 @@
+# Chunk 800 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388495
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_800
+
+========================================
+
+You can understand that electricity flows only if there is a potential
+difference. If we want to get a continuous flow of electricity, we have to
+always maintain a potential difference and cannot let it be equal. If
+potential is created using a positive charge in a sphere and then connecting
+it with another uncharged sphere (Figure 11.01) by a metal wire, as the
+electricity starts flowing, the potential difference will start decreasing and
+the potentials will become equal! It is possible to develop a potential
+difference between the two plates of a capacitor by accumulating charges
+there. But if the plates of the capacitor are connected with a wire, the
+potentials will become equal due to flow of charge.
+So you can understand that if we want a continuous flow of electricity, we

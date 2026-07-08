@@ -1,0 +1,32 @@
+# Chunk 186 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319128
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_186
+
+========================================
+
+o explain different types of frictions and frictional forces.
+
+o analyse the influence of friction on the motion of an object.
+
+e describe the means to increase or decrease friction.
+
+* explain the positive impact of friction in our daily lives.
+
+g
+
+
+--- Page 68 ---
+Force 63
+3.1 Inertia and Concept of Force- Newton’s First law of motion
+In the previous chapter we have learned about velocity, speed, acceleration (and
+deceleration), elapsed distance and their mutual relationships. We have deduced
+the equations of motion and applied them to solve problems related to motion as
+well. In this chapter we will learn how motion can be created or motion can be
+influenced by applying force. We may begin with Newton’s First law.
+
+Newton’s First law of motion: Newton’s first law of motion can be

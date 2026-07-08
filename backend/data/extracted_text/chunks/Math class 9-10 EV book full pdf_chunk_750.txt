@@ -1,0 +1,27 @@
+# Chunk 750 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.464908
+# Character count: 746
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_750
+
+========================================
+
+7. The length of equal sides of an isosceles triangle is 10 m and area 48 square
+metre. Find the length of the base.
+
+8. Two roads run from a certain place with an angle of 135° in two directions.
+Two persons move from that place in two directions with the speed of 7 km
+per hour and 5 km per hour respectively. What will be the direct distance
+between them after 4 hours?
+
+9. If the lengths of the perpendiculars from a point interior of an equilateral
+triangle to three sides are 6 cm, 7 cm, 8 cm respectively; find the length
+of sides of the triangle and the area of the triangular region.
+
+11
+10. The perpendicular of a right-angled triangle is 6 cm less than In) times of
+4
+the base, and the hypotenuse is 3 cm less than 3 times of the base.

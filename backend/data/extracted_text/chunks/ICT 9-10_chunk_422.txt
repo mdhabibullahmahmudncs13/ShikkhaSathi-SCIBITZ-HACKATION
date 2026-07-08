@@ -1,0 +1,24 @@
+# Chunk 422 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.888717
+# Character count: 453
+# Chunk ID: ICT 9-10.txt_0_422
+
+========================================
+
+again. Tf the remainder is zero, then the year is a leap year; otherwise, it is not.
+year - inc (input{'Enter the vear (4 Digit) to check :'1)
+if (year$dD0 == 0 or (yearfiDD I= 0 and year 84 — 0):
+print (year, 'is a leap year.')
+else :
+print (year, 'is not a leap ysar.')
+The sample results obtained by running the program-
+Enter the year (4 Digit) to check :2012
+2012 isa leap year.
+‘Enter the year (4 Digit) to check :1990
+5S 1990 isnotalesp yearn
+S
+a

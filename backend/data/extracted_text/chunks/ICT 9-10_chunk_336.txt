@@ -1,0 +1,32 @@
+# Chunk 336 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.874173
+# Character count: 755
+# Chunk ID: ICT 9-10.txt_0_336
+
+========================================
+
+i the Selection Tool or Direct Selection Tool. Press Backspace or Delete
+8 button, and the Path or the part will be deleted.
+
+
+--- Page 108 ---
+Information and Communication Technology 103
+If the Backspace or Delete button is pressed, the object is erased. Select the Cut
+command from the Edit menu, and the object goes to a temporary memory called
+clipboard and stays there until another object is cut or copied. When an object
+stays on the clipboard, selecting the paste command from the Edit menu will
+restore the object to the document.
+
+Path
+
+The path of the object can be formed with more than one segment. A single
+
+segment can also be used if necessary. The border of the object is called Path.
+
+A straight line is called Path too.
+
+Selection Tool

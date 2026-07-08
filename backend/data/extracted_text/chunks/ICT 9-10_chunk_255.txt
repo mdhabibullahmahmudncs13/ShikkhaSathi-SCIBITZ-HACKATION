@@ -1,0 +1,25 @@
+# Chunk 255 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.859761
+# Character count: 721
+# Chunk ID: ICT 9-10.txt_0_255
+
+========================================
+
+To use more colors, textures and images ETT ii
+
+1. Select Format Background at the bottom. and a dialogue box of that name
+will come on the screen,
+
+2. Clicking the Solid Fill Radio button on the left above the Format
+Background dialogue box, make it active. Click Color Drop-Down Arrow,
+and a color palette will be viewed on the screen. The color swatch, which
+will be clicked from this palette. will fill the background of the slide.
+
+3. Clicking radio button of Picture or Texture Fill, make it active, and Texture
+drop-down will be viewed instead of color, Click this drop-down arrow,
+and different kinds of texture will be shown. The texture swatch, which
+will be clicked. should be selected from the original slide.

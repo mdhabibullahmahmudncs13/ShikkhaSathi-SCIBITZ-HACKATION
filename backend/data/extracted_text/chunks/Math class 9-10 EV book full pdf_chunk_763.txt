@@ -1,0 +1,32 @@
+# Chunk 763 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.466468
+# Character count: 761
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_763
+
+========================================
+
+--- Page 336 ---
+Chapter 16. Mensuration 331
+Solution:
+Let, the length of a diagonal of rhombus ABCD is BD = D C
+dy = 10 metre and another diagonal d, metre. NT
+. 1
+Area of the rhombus = Fd sq. meter
+1 120 x 2
+As per question, Ftd = 120 or, dy = 0 =24 AN
+metre. A B
+We know, the diagonals of rhombus bisect each other at right angles. Let the
+diagonals interset at the point O.
+10 24
+.OD=0B= 5 metre = 5 metre and OA = OC = = metre = 12 metre.
+In the right-angled AAOD
+AD? = OA? + OD? = 12° + 5%
+SAD =13
+.. The length of each sides of the rhombus is 13 metre.
+The perimeter of the rhombus = 4 x 13 metre = 52 metre
+The required length of the diagonal is 24 metre and perimeter 52 metre.
+Example 14. The lengths of two parallel sides of a trapezium are 91 cm and

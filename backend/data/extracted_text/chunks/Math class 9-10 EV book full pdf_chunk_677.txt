@@ -1,0 +1,31 @@
+# Chunk 677 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456524
+# Character count: 784
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_677
+
+========================================
+
+--- Page 298 ---
+Chapter 14. Ratio, Similarity and Symmetry 293
+Proof:
+Step 1. Since, DA || CE and BE is their transversal [by construction]
+LAEC = ZBAD [corresponding angles]
+Again, DA || CE and AC is their transversal .. ZACE = ZCAD
+[corresponding angles]
+Step 2. But ZBAD = ZCAD [supposition]
+SL LAEC = ZACE Hence, AC' = AE [Chapter 6 Theorem 8]
+BD BA
+Step 3. Again, since DA || CE Therefore, oC = AB [step 2]
+Step 4. But AE = AC
+BD BA
+DC AC
+Theorem 31. If any side of a triangle is divided internally, the line segment
+from the point of division to the opposite vertex bisects the angle at the vertex.
+Special Nomination: Let ABC be a triangle E
+and the line segment AD from vertex A divides
+the side BC' at D such that BD : DC = BA : n
+AC. Tt is required to prove that AD bisects

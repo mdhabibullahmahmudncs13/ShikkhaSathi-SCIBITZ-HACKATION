@@ -1,0 +1,36 @@
+# Chunk 216 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.411636
+# Character count: 745
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_216
+
+========================================
+
+--- Page 97 ---
+92 Mathematics Classes IX-X
+Scientific or Standard Form of Numbers
+We can express very large numbers or very small numbers easily by using exponents.
+Such as, the velocity of light = 300000 km/sec = 300000000 m/sec
+
+= 3 x 100000000 m/sec = 3 x 10% m/sec
+Again, the radius of a hydrogen atom
+
+= 0.0000000037 cm
+
+3
+= EE em = 37 x 107 cm
+10000000000
+
+=3.7x10 x 107" cm = 3.7 x 107 em
+For convenience, very large or very small numbers are expressed in the form a x10"
+where, 1 < a < 10 and n € Z. The number of the form a x 10" is called the
+scientific or standard form of number.
+
+Work: Express the following numbers in scientific form :
+
+1) 15000 2) 0.000512 3) 123.000512
+Logarithmic Methods
+Logarithmic systems are of two kinds :

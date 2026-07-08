@@ -1,0 +1,32 @@
+# Chunk 440 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.892670
+# Character count: 731
+# Chunk ID: ICT 9-10.txt_0_440
+
+========================================
+
+The statement associated with the While Loop is usually a compound
+statement. If necessary, another While Loop or for loop can be used within
+a While Loop. Such an intermediate while loop is called a nested while
+loop.
+while (... ... ...)
+{
+while (ame 2 se)
+Block1;
+if {CE naiton) Inner white Loop
+break;
+Block2; 3 Segre lon
+Block3;
+Flowchart of nested a while statement.
+While Loops are often used as alternatives to for statements. The number of
+iterations of the while statement is calculated using any previously declared
+counter variables like the for statement.
+Practical Problem #15: Write a programme to display the text ICT multiple
+times using a while loop.
+Solution: Let's say the text ICT will be displayed 3 times.
+3
+2

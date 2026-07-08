@@ -1,0 +1,50 @@
+# Chunk 528 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.442091
+# Character count: 776
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_528
+
+========================================
+
+--- Page 235 ---
+230 Mathematics Classes IX-X
+b  c+d
+Example 8. eth = etd prove that, c=aora+b+c+d=0
+b+c d+a
+Solution: Given that, ath = etd
+b+c d+a
+b +d
+or, ath _j_cxd [subtracting 1 from both the sides]
+b+e d+a
+a+b—b—c c+d—d—a
+or, ———mMm— = —————
+b+c d+a
+or, 47° a—c
+ro =m
+"b+ d+a
+a—c a—c
+ame tm
+hie + d+a
+1 1
+or (a=) (r+ +) =0
+(d+a+b+c)
+= ¢)—— 7 =0
+Eh rrwsTr ws
+or, (a—¢) (d+a+b+c)=0
+Sa—c=0o0; d+a+b+c=0
+soe=aosa+b+e+d=0
+Example 9. If ELAR E—_—— x, y, z are not mutually equal,
+y+z z+ T+y |
+prove that the value of each ratio is either equal to —1 or equal to 5
+Solution: Let, —— = 4 — “= __,
+y+z z+x THY
+cx=k(y+2)...(1)
+y=k(z+x)...(2)
+z=k(z+y)...(3)
+By subtracting equation (2) from (1),
+r—y=kly—ax)or kly—z)=—(y—2)
+Sok=—1
+Again, adding equations (1), (2) and (3), we get,

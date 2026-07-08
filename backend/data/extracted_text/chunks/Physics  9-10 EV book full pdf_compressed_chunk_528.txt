@@ -1,0 +1,31 @@
+# Chunk 528 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.357536
+# Character count: 697
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_528
+
+========================================
+
+decrease.
+That is,
+The heat supplied: m,s(30° C—T)
+These two types of heat must be equal. Hence:
+myL + mysT =mys(30°C —T)
+I= 30°C x mys —myL
+- (my +mg)s
+po 30X1x42%10°—01%334x10°
+- (1+0.1)4.2 x 103 -
+Question: What is the final temperature if 1 liter of water temperature 20 °C is added
+to 2 liter water at temperature 75 °C?
+Answer: Let us consider the final temperature is T, so the temperature of 2 liter of
+water reaches T by decreasing the temperature from 75 °C. Absorbing this amount of
+heat the temperature of 2 liter water reaches T by increasing the temperature from
+20°C.
+Hence
+Mass of 1 liter water my = 1kg
+Mass of 2 liter water m, = 2 kg
+«Specific heat of water s = 4.2 10° Jkg'K?
+BE

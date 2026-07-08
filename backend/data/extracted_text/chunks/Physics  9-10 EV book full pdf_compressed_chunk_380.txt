@@ -1,0 +1,30 @@
+# Chunk 380 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.338130
+# Character count: 738
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_380
+
+========================================
+
+your palm is A then the pressure
+p= F
+TA
+. oN
+Unit of pressure: —= or Pa (Pascal)
+Dimension of pressure [P] = ML™'T 2
+Therefore, in the second case because of using two hands, the pressure will be
+half as the area through which the force is being applied is doubled. In the third
+case, you applied force through your whole body, so the area through which
+force is applied will increase more and pressure will be decreased more.
+Force is a vector, so you may think that pressure P is a vector! But the interesting
+matter is pressure P is a scalar quantity and if we want to write it perfectly then
+it should be written like as:
+F=PA
+7 —- |
+ce ’ PY si IEE 8
+(5 ely Te ( eC] fil he HES)
+i oe] Vil mt ) MEET, ET)
+bd | = J 3 g 2 Ee Cdn \ Gh <2

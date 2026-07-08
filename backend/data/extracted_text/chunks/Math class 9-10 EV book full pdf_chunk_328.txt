@@ -1,0 +1,28 @@
+# Chunk 328 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.422531
+# Character count: 757
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_328
+
+========================================
+
+--- Page 140 ---
+Chapter 6. Lines, Angles and Triangles 135
+Corollary 4. The acute angles of a right angled triangle are complementary to
+each other.
+‘Work:
+Prove that if a side of a triangle is extended, the exterior angle so formed is
+greater than each of the two interior opposite angles.
+Congruence of Sides and Angles
+If two line segments have the same length, they Ae—8
+are congruent. Conversely, if two line segments ¢ b
+are congruent, they have the same length. .
+If the measurement of two angles is equal, the ; p
+angles are congruent. Conversely, if two angles p 40’ a 40°
+are congruent, their measurement is the same. W 4 ow
+Congruence of Triangles
+If a triangle when placed on another exactly A
+covers the other, the triangles are congruent. The

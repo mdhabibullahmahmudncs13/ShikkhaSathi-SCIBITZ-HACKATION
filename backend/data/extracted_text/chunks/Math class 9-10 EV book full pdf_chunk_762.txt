@@ -1,0 +1,31 @@
+# Chunk 762 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.466386
+# Character count: 768
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_762
+
+========================================
+
+12+1
+.". Semi perrimeter of AABD, s = Zr0+d metre = 15 metre.
+area of AABD=1/s(s — a)(s — b)(s — ¢) = \/15(15 — 12)(15 — 10)(15 — 8) sq.
+metre = /15 x3 x 5x7 sq. metre = 1575 sq. metre = 39.68 sq. metre
+(approx.)
+1
+Again, area of AABD = 348 x DF
+1
+or, 39.68 = 5% 12 x DF or, 6DF = 39.68 . DF = 6.61 (approx.)
+Now, ABCE is a right-angled triangle.
+BE? = BC? — CE? = AD? — DF? = 8 — (6.61)? = 20.31
+BE = 4.5 (approx.)
+So, AE = AB + BE = 12+ 4.5 = 16.5 (approx.)
+In the right-angled AACE
+AC? = AE* + CE? = (16.5)? + (6.61)% = 315.94
+AC = 17.77 (approx.)
+The required length of the diagonal is 17.77 metre (approx.)
+Example 13. The length of a diagonal of a rhombus is 10 metre and its area is
+120 sq. metre. Determine the length of the other diagonal and its perimeter.
+g

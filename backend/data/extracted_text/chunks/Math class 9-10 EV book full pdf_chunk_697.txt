@@ -1,0 +1,25 @@
+# Chunk 697 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458637
+# Character count: 466
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_697
+
+========================================
+
+2) Prove that, BD: DC' = BA: AC
+3) If a line segment parallel to BC intersect AB and AC at P and Q
+respectively, prove that BD : DC' = BP : CQ.
+13. In the figure, ABC and DEF are two similar triangles.
+1) Name the matching sides and A D
+matching angles of the triangles. NN aN
+2) Prove that,
+AABC AB? Ac? per BM CE NF
+ADEF DE? DF? EF?
+BC 3
+3) If BC =3cm, EF =8cm, ZB =060°, ap = 3 “nd area of AABC
+is 3 square ¢ m, then draw the triangle ADEF and find its area.
+IS
+S

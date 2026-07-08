@@ -1,0 +1,43 @@
+# Chunk 313 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.421053
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_313
+
+========================================
+
+--- Page 134 ---
+Chapter 6. Lines, Angles and Triangles 129
+Vertical angle
+
+Two angles are said to be the opposite angles if the
+
+sides of one are the opposite rays of the other. h 5
+
+In the adjoining figure OA and OB are mutually
+
+opposite rays. So are the rays OC and OD. The
+
+angles ZBOD and ZAOC are a pair of opposite 0
+
+angles.
+
+Similarly, ZBOC and ZDOA are another pair of c B
+opposite angles. Therefore, two intersecting lines
+
+produce two pairs of opposite angles.
+
+Theorem 1. The sum of the two adjacent angles which a ray makes with a
+straight line on its meeting point is equal to two right angles.
+
+Proof:
+
+Let, the ray OC meets the straight line AB at O. As
+
+a result two adjacent angles ZAOC and ZCOB are D C
+formed. Draw a perpendicular DO on AB.
+
+Sum of the adjacent two angles

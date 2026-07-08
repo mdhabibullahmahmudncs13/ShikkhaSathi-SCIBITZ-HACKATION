@@ -1,0 +1,33 @@
+# Chunk 840 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391764
+# Character count: 782
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_840
+
+========================================
+
+--- Page 321 ---
+316 Physics
+(V = Vg)R, = VpRy
+Vs(Ry + Ry) = VR,
+- R
+Therefore, Vy = 2_y
+BTR +R,
+J Ve_
+"R, Ri +R;
+We can imagine resistances R| and R, as a single resistance R, where
+[= 14
+“R
+[0 fs [3 fn R
+Figure 11.12: Many successive resistances or resistors connected in
+a circuit can be imagined as an equivalent resistance or resistor.
+If there were more than two resistances (figure 11.12) then also we would be able
+to show that these resistances can be combined as a single resistance R which
+will be the sum of all those resistances. This is called the equivalent resistance.
+This means when a circuit will have R , R,, R, ... resistances successively (series
+circuit) then the equivalent resistance will be:
+R=R, +Ry+Rs+..+R,
+11.2.5 Equivalent resistance: Parallel circuit

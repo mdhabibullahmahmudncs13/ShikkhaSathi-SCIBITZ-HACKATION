@@ -1,0 +1,27 @@
+# Chunk 703 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378171
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_703
+
+========================================
+
+--- Page 264 ---
+Refraction of light 259
+That point is called the focal point and the distance from the focal point and the
+center of lens is called the focal length. (Figure 9.18)
+In case of a convex mirror, light is incident from one side. In the case of a
+lens, light can be incident on it from both sides. Every lens has a focal length
+.The focal length of a lens remains the same whichever direction the light is
+incident on it. If parallel light
+incidents on this lens, the rays spread
+out, and appear to diverge from focal 0
+point. If the direction of the rays of "
+light is reversed then they goes back a
+through the direction they came. So if -
+we can reverse the direction of — >
+divergent rays, then they will emerge os: >—
+in parallel and will go in the inverted —7

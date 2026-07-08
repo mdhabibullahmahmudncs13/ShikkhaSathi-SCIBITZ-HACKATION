@@ -1,0 +1,22 @@
+# Chunk 945 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.403794
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_945
+
+========================================
+
+transistor would change the whole world.
+A transistor can work just like a vacuum tube, but compared with a vacuum tube
+it is very small in size, light in weight, and a very small amount of electricity is
+needed to operate it, it is very reliable and most of all, it can be made at a very
+low cost. Thus it rapidly secured its place, replacing the vacuum tube and the
+people of the world began to get many electrical appliances by using this
+transistor at very cheap.
+13.2.3 Integrated Circuit
+Although the discussion about an integrated circuit was started in 1952, a real
+integrated circuit was started to be made in the sixth decade. In the fifth decade
+many transistors were made on a thin silicon plate (Wafer) and eventually the

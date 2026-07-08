@@ -1,0 +1,28 @@
+# Chunk 366 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426127
+# Character count: 795
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_366
+
+========================================
+
+--- Page 159 ---
+154 Mathematics Classes IX-X
+Exercise 7.1
+1. Construct a triangle with the following data:
+1) The lengths of three sides are respectively 3 cm, 3.5 cm, 2.8 cm.
+2) The lengths of two sides are 4 cm, 3 cm and the included angle is 60°.
+3) Two angles are 60° and 45° and their adjacent side is 5 cm.
+4) Two angles are 60° and 45° and the side opposite the angle 45° is 5 cm.
+5) The lengths of two sides are 4.5 cm and 3.5 cm respectively and the
+angle opposite to the second side is 30°.
+6) The lengths of the hypotenuse and a side are 6 cm. and 4 cm.
+respectively.
+2. Construct a triangle with the following data:
+1) Base 3.5 cm, base adjacent angle 60° and the sum of the two other
+sides 8 cm.
+2) Base 5 cm, base adjacent angle 45° and the difference of the two other
+sides 1 cm.

@@ -1,0 +1,31 @@
+# Chunk 285 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.328473
+# Character count: 780
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_285
+
+========================================
+
+--- Page 101 ---
+96 Physics
+
+3. A force of 10 N acts on a stationary object of mass 10 kg. After 10s a
+force of 20 N acts on it for 5 s in the opposite direction. What is the
+distance traveled by the object?
+
+4. You have jumped from a boat with a velocity of 10 m/s towards the bank.
+Your mass and the mass of the boat are 50 kg and 100 kg respectively. In
+
+which direction and with what velocity will the boat move?
+
+5. The coefficient of friction pu of a wooden piece on a floor is 0.01. If the
+mass of the wooden piece is 10 kg, what is the force required in moving
+it? If a stone of mass 100 kg is kept on the wooden block, what is force
+required to move it? What happens if the floor is frictionless?
+
+EX) Multiple choice questions
+
+Put the tick «) mark on the correct answer

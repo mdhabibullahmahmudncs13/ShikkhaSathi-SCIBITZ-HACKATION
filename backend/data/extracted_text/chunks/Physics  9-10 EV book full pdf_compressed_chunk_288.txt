@@ -1,0 +1,26 @@
+# Chunk 288 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.328736
+# Character count: 673
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_288
+
+========================================
+
+(d) What is the change in acceleration in frictional and frictionless
+floors? Explain mathematically.
+
+2. An object of mass 5 kg moving in linear motion with a velocity of 5 m/s
+hits another object and changes the momentum of the second object by an
+amount 4 kg m/s. The masses of both objects remain unchanged after the
+collision.
+
+(a) Which property of matter is a measure of inertia?
+(b) What do you mean by the statement ‘The applied force is proportional to the
+change of momentum’?
+(c) What is the final velocity of the first object?
+(d) When there is no change in momentum, then comment about
+the second object by mathematical analysis.
+Forma-13, Physics, Class 9-10

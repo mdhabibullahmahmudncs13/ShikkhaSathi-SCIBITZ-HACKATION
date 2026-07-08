@@ -1,0 +1,28 @@
+# Chunk 220 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.853567
+# Character count: 649
+# Chunk ID: ICT 9-10.txt_0_220
+
+========================================
+
++ counting voles in elections;
+«+ analysing and evaluating performances of players.
+Technique of Using Spreadsheet
+You have already got some fundamental concepts of spreadsheet. You will get
+advanced ideas in this book.
+Multiplying
+Put the formula in the result cell for multiplying in a spreadsheet. Formula
+always start with "=" equal to. Multiplying process is of two kinds:
+=_
+K i wpe 1. Usually press the enter
+| fre ri ep RR NE Result button, after putting the
+[| Rice “ “0 [0 £1] cn formula into the result cell.
+1
+2. Press enter button writing spreadsheet function= PRODUCT in the result
+cell and giving the cell range.
+5
+Forma-9, ICT-(9-10)

@@ -1,0 +1,22 @@
+# Chunk 405 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.884866
+# Character count: 788
+# Chunk ID: ICT 9-10.txt_0_405
+
+========================================
+
+Now consider the following examples
+x=innl} # the value of x willbe | |= foat(l}  #the valisofxwill be 10 | x= sts 1") she value of x will be 51!
+y= int(2.8) # the value of y will be 2 | y = float{2.8) # the value of y will be 2.8 y=stn2) whe valve of y will be 2
+= ink("3") # the value of y will be 3 |= Daak'3") othe valué of zvall 5630 | z= (3.00 % the value of 2 will be 5.0
+= flo '4.2") # the waite of w wil be 4.2
+Taking Data Input in a Program
+If we want to take data input from the user in a program. how do we do it? This
+task is very easy using the input() function. When the program execution reaches
+the input() function, it pauses execution and waits for the user to provide input.
+Once the user enters some input, the program resumes. For example, if we write
+the following:

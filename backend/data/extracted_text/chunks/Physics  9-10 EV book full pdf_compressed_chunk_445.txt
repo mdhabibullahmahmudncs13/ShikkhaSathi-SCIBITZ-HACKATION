@@ -1,0 +1,29 @@
+# Chunk 445 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.344872
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_445
+
+========================================
+
+--- Page 158 ---
+State of Matter and Pressure 153
+Gas : Molecular properties Reflection in gases
+. Spread through the total volume of the
+Molecules can move beside one another P . ue Lo VY u
+container in which it is kept.
+Distance among the molecules is | Gas can be compressed by pressure
+more, there exists vacant space
+A molecule can move with respect to | Gas can flow easily
+another
+Liquid: Molecular properties Reflection in liquids
+Molecules can move beside one Can flow easily, gain the shape of the
+another container in which it is kept.
+Molecules are very close together | Liquid cannot be compressed by
+so there is no vacant space applying pressure
+Solid : Molecular properties Reflection in solids
+Molecules are rigid in their own There is a definite shape
+position

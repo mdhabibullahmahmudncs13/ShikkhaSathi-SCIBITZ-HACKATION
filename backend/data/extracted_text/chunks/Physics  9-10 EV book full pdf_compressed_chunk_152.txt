@@ -1,0 +1,19 @@
+# Chunk 152 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315472
+# Character count: 592
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_152
+
+========================================
+
+understood from the equation of falling bodies. This is because there is no mass of
+object in the equations of velocity and traversed height. That is the acceleration
+due to gravity acts equally on both heavy and light objects. So the freely falling
+body traverses equal distances in the same time.
+The second law of Galileo is the law of increase of velocity due to g. If the initial
+velocity u is zero then velocity v is proportional to g. Galileo's third law is nothing
+except the equation of 4. In this formula ifwe consider #=0 then we see that
+traversed distance / is proportional to t2

@@ -1,0 +1,24 @@
+# Chunk 822 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472021
+# Character count: 748
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_822
+
+========================================
+
+--- Page 359 ---
+354 Mathematics Classes IX-X
+distribution table is made. Here, the methods of making frequency distribution
+table are to be re-discussed through example for convenient understanding.
+Example 1. In a winter season, the temperature (in celsius) of the month of
+January in the district of Srimangal is placed below. Find the frequency
+distribution table of the temperature.
+14°, 14°, 14°, 13°, 12°, 13°, 10°, 10°, 11°, 12°, 11°, 10°, 9°, 8°, 9°, 11°, 10°, 10°,
+8°, 0°, 7°, 6°, 6°, 6°, 6°, 7°, 8°, 9°, 9°, 8°, 7°
+Solution: Here the minimum and maximum numerical values of the data of
+temperature are 6 and 14 respectively.
+Hence the range = (14 —6) +1 =9
+If the class interval is considered to be 3, the numbers of class will be 2 or 3

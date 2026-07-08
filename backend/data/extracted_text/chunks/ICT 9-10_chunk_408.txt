@@ -1,0 +1,25 @@
+# Chunk 408 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.885576
+# Character count: 476
+# Chunk ID: ICT 9-10.txt_0_408
+
+========================================
+
+test_input = ini{input(})
+
+priniftest input)
+
+prini{type(test_input))
+After running the program, notice that due to writing int(input()), the test input
+variable is being converted to the int data type.
+Also, if we want, we can give a specific comment or instruction when taking an
+input. To do this, we can write the command inside the input() function within
+quotation marks. For example. if we write:
+
+Test _mput = intput{ Provide a sentence as an inpui:
+
+prini{lest input)

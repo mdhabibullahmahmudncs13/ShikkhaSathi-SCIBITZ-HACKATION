@@ -1,0 +1,27 @@
+# Chunk 680 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456854
+# Character count: 736
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_680
+
+========================================
+
+A line segment is drawn through G parallel to DE which intersects AC" at
+F. Prove that AC = 6EF.
+6. In the triangle ABC, X is any point on BC' and O is a point on AX. Prove
+that AAOB : AAOC = BX : XC
+7. In the triangle ABC, the bisector of A intersects BC at D. A line segment
+drawn parallel to BC intersects AB and AC at E and F respectively. Prove
+that BD: DC = BE : CF.
+8. If the heights of the equiangular triangles ABC and DEF are AM and DN
+respectively, prove that AM : DN = AB: DE.
+9. In the adjacent figure BC' || DE A
+1) Prove that, ABOC and ADOE
+are similar. D E
+2) Prove that, AD: BD = AE: CE.
+3) Prove that, BO : OE = CO: OD B C
+Similarity
+The congruence and similarity of triangles have been discussed earlier in class VIL.

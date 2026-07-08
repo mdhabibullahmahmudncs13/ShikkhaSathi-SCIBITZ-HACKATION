@@ -1,0 +1,43 @@
+# Chunk 583 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.447945
+# Character count: 777
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_583
+
+========================================
+
+--- Page 257 ---
+252 Mathematics Classes IX-X
+Example 4. Solve by the method of cross-multiplication:
+6x —y=1
+3x +2y =13
+Solution:
+ing the tions with
+Making the right hand side of the comparing the equations wi
+. LL. ax + by +c = 0 and
+equations 0 (zero) by transposition, we
+ot ax + bay + ca = 0
+gh 6 1=0 respectively we get,
+zr —y—1=
+_ a; =6,bp=—1,¢ =—1
+Sr+2y—13=0 ar =3,by=2 cy = 13
+By the method of cross-multiplication we get,
+xT _ y _ 1
+bcs — baer raz —caar arb — ashy
+or, * = Y = 1
+T(x (—13)—2x (=1) (1) x3—(—13)x6 6x2—3x(—1)
+x y 1
+or, —— = —2 _ —
+13+2 —3+78 1243
+£3 y 1 * Y !
+or, 15 = 75 = Is ap | by [&] ay by
+2 1 15 as | by Cy as by
+Therefore, — = — or, z= — = 1 4
+15 15 15 x y 1
+Loy 1 75 6-1 —1 6 —1
+A z= =—==5
+gain, = = sor, y == =5 5 | ) 5 )
+solution (x,y) = (1,5)

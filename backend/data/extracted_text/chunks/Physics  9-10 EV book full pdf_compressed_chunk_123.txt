@@ -1,0 +1,24 @@
+# Chunk 123 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.312740
+# Character count: 753
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_123
+
+========================================
+
+can be expressed by a single number only. Besides position you will find the
+other examples of vectors are velocity and force. You will be introduced with
+velocity and force in the next chapter. Because to express these quantities,
+direction is to be mentioned along with its magnitude.
+To differentiate vector quantities from scalar quantities they are written in bold
+font (e.g. x, y or A, B). In books or in computer printing it is easy to write
+anything in bold form. But when anyone writes on a paper then to express
+anything as vector, a small arrow is used over it (%,¥ or A,B).
+In this book the physics you will be taught will not involve application of
+vectors. At best you will be reminded which one is scalar and which one is a
+. vector.
+Q
+BS

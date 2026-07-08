@@ -1,0 +1,29 @@
+# Chunk 400 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340160
+# Character count: 650
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_400
+
+========================================
+
+P =0.50m x 800 kgm x 9.8 Nkg! = 3,920 Nm?
+For water,
+
+P =0.50m x 1000 kgm? x 9.8 Nkg! = 4,900 N m?
+For mercury,
+
+P =0.50m x 13,600 kgm? x 9.8 Nkg'! = 666,40N m?
+Question: At what depth of the liquids kerosene, water and mercury pressure
+will be 1 atm ?
+Answer: We know, for mercury pressure is latm at a depth of 76 cm. Density
+of water is 13.6 times less than mercury, therefore depth of water will be 13.6
+times more.
+Therefore, depth for water: 76 cm x 13.6 = 1034 cm = 10.34 m
+Density of kerosene is 0.8 times less than water, therefore depth for kerosene
+will be 1/0.8=1.25 times more.
+Therefore, depth for kerosene: 10.34 m x 1.25 = 12.92 m
+
+Ps

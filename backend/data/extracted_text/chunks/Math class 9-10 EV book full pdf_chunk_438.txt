@@ -1,0 +1,25 @@
+# Chunk 438 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433648
+# Character count: 745
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_438
+
+========================================
+
+right-angled triangle, the circumcentre lies on the hypotenuse of the triangle.
+Construction 10. To draw a circle inscribed in a triangle.
+Let AABC be a triangle. It is required to draw am
+inscribed circle. that is, to inscribe a circle in it or to
+draw a circle in it such that it touches each A
+of the three sides BC, CA and AB of AABC. JAN E
+Drawing: BL and C'M, the bisectors respectively F, Lo;
+of the angles ZABC and ZACB are drawn. Let Vi ON
+the line segments intersect at O. OD is drawn AdbaxN
+perpendicular to BC' from O and let it intersect BC'  B C
+at D. With O as centre and OD as radius, a circle
+is drawn. Then, this circle is the required inscribed
+circle.
+Proof: From O, OF and OF are drawn perpendiculars respectively to AC" and

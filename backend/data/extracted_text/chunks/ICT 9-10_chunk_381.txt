@@ -1,0 +1,24 @@
+# Chunk 381 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.880832
+# Character count: 694
+# Chunk ID: ICT 9-10.txt_0_381
+
+========================================
+
+--- Page 121 ---
+116 Information and Communication Technology
+But writing our instructions using only 0 and 1 is challenging for us. The
+languages we humans typically use are not composed solely of 0s and 1s.
+So, how can we communicate with computers? There are certain languag-
+es where, by following specific rules, we can write structions that the
+computer can easily convert into a form it understands. These languages
+are known as programming languages. There are many types of program-
+ming languages, such as C, C++, Python, Java, and so on.
+
+By learning any programming language, we can give various instructions
+
+to the computer as needed using that language. In a software application

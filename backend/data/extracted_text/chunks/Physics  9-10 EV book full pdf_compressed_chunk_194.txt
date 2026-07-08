@@ -1,0 +1,31 @@
+# Chunk 194 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319907
+# Character count: 775
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_194
+
+========================================
+
+--- Page 70 ---
+Force 65
+© | v(m/s) |
+t(s) t(s)
+v(m/s)
+N
+SF
+ts) ts)
+B) v(m/s),
+t(s) t(s)
+Figure 3.01 : Position-Time and Velocity- Time graph
+object is moving with a uniform velocity. Therefore, there is no change in
+velocity. Therefore, from time 7, to #, no force is applied on the body. At the
+instant #,, a force is applied on the stationary object to make it move with a
+uniform velocity. Again just at the instant #,, by applying a force the motion is
+stopped. No force is applied elsewhere.
+Therefore, when 0 <t<t;, t; <t<t;and t, < t there is no force.
+Only when, 7 =¢, and t = t, force is applied for a moment.
+(ii) In the second graph, the object is in uniform motion; from 0 to #, and from
+t, to the end, therefore no force is applied on the body during these time

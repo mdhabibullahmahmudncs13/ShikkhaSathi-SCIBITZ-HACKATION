@@ -1,0 +1,39 @@
+# Chunk 751 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.464993
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_751
+
+========================================
+
+1) Let the base be 2. Express the area of the triangle in terms of x.
+
+2) Find the length of the base.
+
+3) If the length of the base of the triangle is 12 cm., find the area of the
+
+equilateral triangle having the same perimeter as its perimeters.
+
+Area of Quadrilateral Region
+
+1. Area of Rectangular Region: Let, the length
+of AB = a, breadth BC' = b and diagonal AC =
+d of rectangle ABCD. We know, the diagonal p c
+of a rectangle divides the rectangle into two equal rn
+triangular regions. EEE a b
+Area of the rectangle ABCD = 2x area of AABC [iiss
+
+1 sy a
+=2xza: b=ab Cdn nnnnnnn
+perimeter of the rectangular region, s = 2(a +b) and A a B
+observe that triangle ABC' is right-angled.
+
+LAC? = AB? + BC? or, d% = a + 1? 4
+cod=va? +b? o
+
+
+--- Page 332 ---
+Chapter 16. Mensuration 327

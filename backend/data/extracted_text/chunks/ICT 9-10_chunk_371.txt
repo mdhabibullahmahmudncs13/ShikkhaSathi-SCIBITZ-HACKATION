@@ -1,0 +1,31 @@
+# Chunk 371 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.879702
+# Character count: 723
+# Chunk ID: ICT 9-10.txt_0_371
+
+========================================
+
+- The Path will be selected if clicked with the Direct Selection Tool, and the
+anchor point of the Path will be viewed. Now the Path can be edited
+following the rules of editing, If the Path is made curve, the text will follow
+the line.
+
+- If the Path is smaller than the text, any additional text will not be viewed.
+‘When the Path will be extended, the rest of the text will be viewed,
+
+Creating Outline of Letters
+
+‘When the outline of letters is created, the edges of the letters will be transformed
+
+into a Path. By clicking and dragging the Path and Anchor point, the shapes of
+
+the letters can be changed. A
+
+To create the outline of letters: | LG i ’ i] wes
+
+A. Select one or more than one letter | {| cv |
+or word.

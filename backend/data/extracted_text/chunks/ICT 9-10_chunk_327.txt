@@ -1,0 +1,29 @@
+# Chunk 327 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.873103
+# Character count: 780
+# Chunk ID: ICT 9-10.txt_0_327
+
+========================================
+
+Fill and Stroke
+
+- The edge or border of an object is
+called ‘Stroke’ and the internal part is NEY
+called the Fill". The use of the “Fill*| | 7
+and ‘Stroke’ swatch is related to the | | <a
+color palette. Tf the color palette is not z 2
+viewed on the screen, either give the a nr
+Color command from window menu or 2 =
+press the Fé button, and the color re =
+palette will be visible. Click the Fill | [73 7 |(IS=58 —
+swatch and it will be activated and | [oa |||Gl i= =
+viewed above. Thus only the work of [I]
+filling can be done. Only an object can | e—
+be filled, not the stroke. Similarly, | [==9
+clicking the Stroke swalch, activate it
+and stay over the Fill swatch. Thus, color can be imposed on the strokes of
+object. It will be impossible to fill object with color from here.

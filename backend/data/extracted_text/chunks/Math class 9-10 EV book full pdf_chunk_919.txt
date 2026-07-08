@@ -1,0 +1,27 @@
+# Chunk 919 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.481082
+# Character count: 735
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_919
+
+========================================
+
+--- Page 406 ---
+Appendix 401
+The solid of figure | is a rectangular solid. It has six rectangular faces or surfaces
+each of which is a rectangular region. The two mutual opposite faces are equal
+and parallel. So, the area of each pair of opposite faces are equal.
+The solid of figure 2 is a square solid. It has six mutually
+equal square faces or surfaces each of which is a square
+region.
+
+Figure-2
+Again, two mutually opposite faces are parallel. The square solid is called cube.
+The intersecting line segments of each of two faces are called the edges or sides
+of the cube. All the edges or sides of a cube are equal. So, the area of all faces are
+equal.
+Determination of area of the faces of a solid
+(a) Rectangular solid NT bo 6]

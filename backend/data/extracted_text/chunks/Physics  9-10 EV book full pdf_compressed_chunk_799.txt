@@ -1,0 +1,25 @@
+# Chunk 799 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388417
+# Character count: 763
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_799
+
+========================================
+
+--- Page 306 ---
+Current Electricity 301
+11.1 Electric current
+We have discussed in the previous chapter that if two bodies have a
+potential difference, then charge flows from the body of higher potential to
+the body of lower potential. The flow of charges continues until the
+potential becomes equal. This flow of charge is the flow of current or
+electricity, which we generally call “electricity”. Using this electricity,
+lights turn on, the fan rotates, and the phone charges!
+A B A B
+Figure 11.01: Electricity flows from a charged sphere to an uncharged sphere.
+11.1.1 Electromotive Force and Potential Difference
+You can understand that electricity flows only if there is a potential
+difference. If we want to get a continuous flow of electricity, we have to

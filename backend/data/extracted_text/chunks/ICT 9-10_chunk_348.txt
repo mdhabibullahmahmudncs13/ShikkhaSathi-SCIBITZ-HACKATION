@@ -1,0 +1,33 @@
+# Chunk 348 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.876719
+# Character count: 596
+# Chunk ID: ICT 9-10.txt_0_348
+
+========================================
+
+Merging Layers
+
+After creating and editing objects of two or more layers, they can be merged
+
+together. To get the job done:
+
+A. Select the layers.
+
+B. Select the ‘Merge Selected” command from the pop-up menu of the layer
+palette, and the layers will be merged.
+
+Use of Color in Object
+
+After creating an object, fill in the color as required. The color palette, color bar,
+
+or color spectrum bar, gradient, ete. are used to fill color in the object.
+
+Color Palette
+
+If the color palette is not viewed on the screen, give the color command of the
+
+‘Window menu, and the color palette will appear.

@@ -1,0 +1,28 @@
+# Chunk 806 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.470389
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_806
+
+========================================
+
+--- Page 354 ---
+Chapter 16. Mensuration 349
+Example 32. If the length of diagonal of the surface of a cube is 8v/2 cm,
+determine the length of its diagonal and volume.
+Solution:
+Let, the side of the cube is a.
+The length of diagonal of the surface = v/2a. Length of diagonal = v/3a and
+volume = a*
+As per question, V2a = 8v2 or,a=38
+The length of the cube’s diagonal = v/3 x 8 = 13.856 cm (approx.)
+and volume = 8% = 512 cube cm.
+The required length of the diagonal is 13.856 cm (approx.) and volume 512
+cubic cm.
+Example 33. The length of a rectangle is 12 ecm and width 5 cm. Determine
+the area of its whole surface and the volume of the solid that is formed by revolving
+the rectangle around its greater side.
+Solution: Given that, the length of a rectangle is 12 cm. and width 5 em. If it

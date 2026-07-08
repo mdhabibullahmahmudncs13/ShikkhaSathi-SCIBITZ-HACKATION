@@ -1,0 +1,29 @@
+# Chunk 698 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458735
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_698
+
+========================================
+
+--- Page 308 ---
+Chapter 14. Ratio, Similarity and Symmetry 303
+Symmetry
+Symmetry is an important geometrical concept, commonly exhibited in nature
+and is used almost in every field of our activity. Artists, designers, architects,
+carpenters always make use of the idea of symmetry. Tree-leaves, flowers,
+beehives, houses, tables, chairs -everywhere we find symmetrical designs. A
+figure has line symmetry, if there is a line about which the figure may be folded
+so that the two parts of the figure will coincide.
+oi
+—_—
+Each of the above figures has the line of symmetry.
+‘Work:
+1) Sumi has made some paper-cut design as shown
+in the adjacent figure. In the figure, mark the
+lines of symmetry. How many lines of symmetry
+does the figure have?
+2) Write and identify the letters in English alphabet

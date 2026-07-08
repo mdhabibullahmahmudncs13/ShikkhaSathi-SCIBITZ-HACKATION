@@ -1,0 +1,22 @@
+# Chunk 493 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.350973
+# Character count: 411
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_493
+
+========================================
+
+A; = 13 = [Ly + aly (T, = TD]?
+Or Ap = 13 + 20L3(T, = Ty) + o2L3(T, = Ty)?
+But A, =13
+So, Ay = Ay + 204,(T, — Ty) + 0A, (T, — T;)?
+We have seen that the value of a is very small, so the value of o? is smaller. In
+fact it is so small that if we avoid the whole part with ¢?, then no problem will
+arise in our analysis or calculation. So we can write:
+Ay = Ay + 204,(T, — Ty)
+But we know,
+Ay = Ay + A(T, — Ty) a
+S

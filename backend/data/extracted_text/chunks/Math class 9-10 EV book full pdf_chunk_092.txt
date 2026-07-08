@@ -1,0 +1,25 @@
+# Chunk 92 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.398486
+# Character count: 660
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_92
+
+========================================
+
+1) (AUB) =A'NnB
+2) (BnC)y=BuUC
+3) (AuB)NC=(ANnC)uU (BNC)
+4) (AnNB)UC=(AuC)N(BUC)
+5. If Q= {x,y} and R = {m,n} then determine P(Q)) and P(R).
+6. If A= {ab}, B= {abc} and C = AU B, then show that number of
+elements of P(C') is 2", where n is the number of elements of C'
+7.1) If (x —1,y+2) = (y—2,2z + 1),then determine x and y.
+2) If (ax — cy, a® — ¢*) = (0, ay — cz), then determine (7, y).
+3) If (6x —y,13) = (1, 3x + 2y),then determine (z,y).
+8. 1) If P= {a}, Q = {b,c}, then determine P x Q and Q x P.
+2) If A={3,4,5}, B= {4,56} and C = {x,y}, determine (AN B) x C.
+3) If P={3,57}),Q={5T7} and R= P\ Q, determine (PU Q) x R.
+Forma-5, Mathematics, Class 9-10

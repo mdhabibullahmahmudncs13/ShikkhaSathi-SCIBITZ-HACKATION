@@ -1,0 +1,24 @@
+# Chunk 278 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.417977
+# Character count: 533
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_278
+
+========================================
+
+33. In the queue of bus, two more passenger are standing in front of Sohag than
+the number passengers standing behind Sohag. Total number of passengers
+in the queue is thrice as the number of passengers standing behind him.
+How many passengers are standing in the queue?
+
+34. Sabuj went to drawing class at 3 : 30 from home. While he was returning
+home from school, minute hand of the clock was still down the steep; but
+the distance between two hands was 30 degrees less than that was at 3 : 30.
+‘When did Sabuj return home?
+
+PS
+9
+&

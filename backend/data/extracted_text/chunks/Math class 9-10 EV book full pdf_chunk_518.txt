@@ -1,0 +1,33 @@
+# Chunk 518 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440962
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_518
+
+========================================
+
+--- Page 229 ---
+224 Mathematics Classes IX-X
+Example 1. A and B traverse the fixed distance in #; and ¢; minutes. Find
+the ratio of the average velocity of A and B
+Solution: Let the average velocities of A and B be v; metre and vy metre
+per minute respectively. So, in time #; minutes A traverses vif; metre and in
+t> minutes B traverses vst; metra. According to the problem, vit; = wats
+ub . FPS . .
+== 5 Here, the ratio of the velocities is inversely proportional to the ratio of
+V2 1
+time.
+‘Work:
+1) Express 3.5:5.6 into 1 : a and b;.1.
+2) If z:y=>5:6, then what is the value of 3x : 5y = what?
+Transformation of ratio
+Here, the quantities of ratios are positive numbers.
+1. ifa:b=c:d, then b:a=d: c [Invertendo]
+Proof: Given that,
+a_c
+bd
+or, ad = be [multiplying both the sides by bd]
+ad be .

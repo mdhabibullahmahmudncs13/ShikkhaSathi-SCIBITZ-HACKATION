@@ -1,0 +1,30 @@
+# Chunk 618 from English Grammer pdf class 9-10 com_oc
+# Page: None
+# Subject: english
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:06.095377
+# Character count: 604
+# Chunk ID: English Grammer pdf class 9-10 com_oc.txt_0_618
+
+========================================
+
+- a future tense to talk about future time, e.g. in 2030, next year
+We often use the following expression when talking about future or predicted
+data, because the simple future is a little too certain:
+
+.. arefis {un)likely
+
+... arefis predicted to
+
+... arefis expected to
+
+For example: Between 1950 and 2030, the proportion of the world's
+
+population is expected to double.
+OR we use a verb such as predict and a future tense.
+For example: It is predicted that the proportion of the world's population will
+double by 2030.
+
+i
+2 To emphasise a difference, you can use: many, much, far, and significantly.

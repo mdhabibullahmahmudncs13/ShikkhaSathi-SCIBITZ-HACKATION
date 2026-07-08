@@ -1,0 +1,21 @@
+# Chunk 550 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.360344
+# Character count: 651
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_550
+
+========================================
+
+harmonic motion the phase that develops at any instant, after one time period,
+this phase returns again.
+7.2 Waves
+All of us have seen waves, when a stone is thrown into water then waves spread
+out in all directions from that point. When a bulb is switched on in the room, the
+light that spreads in the room is also a wave. When we talk, the sound that reach
+from one place to another place is also a wave. When a compressed spring is
+released, the deformation that propagates through it is a kind of a wave too. In
+short, we can say, we can realize what a wave is. But what will we say if we want
+to give a nice definition for it in terms of physics?

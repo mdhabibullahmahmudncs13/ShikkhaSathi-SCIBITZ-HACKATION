@@ -1,0 +1,33 @@
+# Chunk 261 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.416321
+# Character count: 747
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_261
+
+========================================
+
+--- Page 115 ---
+110 Mathematics Classes IX-X
+or, x = 3a
+Again, when y = 3,
+T+a 3
+r—a 1
+or, z+ a=3(x—a) [by cross-multiplication]
+or, x +a=3r—3a
+or, 3x —x = a+ 3a
+or, z= 2a
+.~. Solution is x = 2a or, r = 3a
+‘Work:
+1) Comparing the equation z*> — 1 = 0 with ax? + bx + ¢ = 0, write down
+the values of a,b, c.
+2) What is the degree of the equation (x — 1)>? How many roots does it
+have and what are these?
+Usage of quadratic equations
+Many problems of our daily life can be solved easily by forming linear and
+quadratic equations. Here, the formation of quadratic equations from the given
+conditions based on real life problems and techniques for solving them are
+discussed.
+Example 12. Denominator of a proper fraction is 4 more than the numerator.

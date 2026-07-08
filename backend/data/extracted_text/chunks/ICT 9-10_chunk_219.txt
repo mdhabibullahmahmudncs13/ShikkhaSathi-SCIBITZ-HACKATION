@@ -1,0 +1,29 @@
+# Chunk 219 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.853421
+# Character count: 753
+# Chunk ID: ICT 9-10.txt_0_219
+
+========================================
+
+--- Page 70 ---
+My Writings and Accounts 65
++ Analysis of data can easily be done by using different functions
+methodically;
++ Data can be presented with graphs, charts, etc.
+Different Uses of Spreadsheet
+A spreadsheet is an interactive computer application software used for
+organisation, analysis and storage of data in tabular forms.
+Different uses of spreadsheet are given below:
+« analysing exam results in the education sector:
+maintaining income and expenditure accounts;
+» preparing budgets;
+« maintaining records of employee salaries;
+« making reservations for services, such as airlines;
+«+ calculating and analysing income tax;
++ counting voles in elections;
+«+ analysing and evaluating performances of players.
+Technique of Using Spreadsheet

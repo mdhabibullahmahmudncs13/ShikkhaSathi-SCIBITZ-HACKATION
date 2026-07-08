@@ -1,0 +1,14 @@
+# Chunk 670 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.374772
+# Character count: 137
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_670
+
+========================================
+
+Example
+Question : Calculate the velocity of light in the mediums shown in Table 9.01 .
+Answer : Velocity of light in any medium: v = < §

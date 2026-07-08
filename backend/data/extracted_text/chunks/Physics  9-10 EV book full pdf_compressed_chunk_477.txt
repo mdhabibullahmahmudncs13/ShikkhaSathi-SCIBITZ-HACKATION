@@ -1,0 +1,21 @@
+# Chunk 477 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.348747
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_477
+
+========================================
+
+If we get the idea of temperature perfectly, we have to know its unit in
+addition to, the important question of how we will measure the temperature. The
+conventional unit of temperature is Celsius (°C), generally it is said that on this
+scale at one atmospheric pressure and at the temperature at which ice melts is
+called 0°C and at the temperature at which water boils is assumed to be 100°C.
+But it is interesting to know that when scientist Celsius introduced this scale of
+temperature, he assumed the temperature of boiling water as zero degree and the
+temperature of fusion of ice as 100 degree; opposite to the present scale!
+Although we use the Celsius scale of temperature in our daily lives, its
+international unit is Kelvin (K). Adding 273.15°C with the reading of Celsius

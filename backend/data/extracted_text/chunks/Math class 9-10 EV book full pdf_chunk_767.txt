@@ -1,0 +1,49 @@
+# Chunk 767 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.466812
+# Character count: 765
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_767
+
+========================================
+
+--- Page 338 ---
+Chapter 16. Mensuration 333
+2
+oo (1-2) x 90°
+n
+180°
+0 =90° — —
+n
+oN __ h 2h
+Here, tanf SAN CT aT
+2
+a
+oh = -tanf
+v= Stan
+1
+Area of NOAB = Fah
+1
+= 50% Stand
+2 o
+=Ztan (or - Br)
+4 n
+a* 180°
+= —cot— [. tan(90° — A) = cotA
+Teo [." tan( ) = cotA]
+. . . na’ 180°
+.. The require area of a regular polygon having n sides = 5 cot——
+Example 15. If the length of each side of a regular pentagon is 4 cm, determine
+its area.
+Solution: Let, length of each side of a regular pentagon is a = 4 ¢m and number
+of sides n = 5
+2 180°
+‘We know, area of a regular polygon = Hoot — D
+5x 4% 180°
+.. Area of the pent. = ——cot—s re
+rea of the pentagon 1 Cot—— square cm E c
+= 20 x cot36° square cm
+= 20 x 1.376 square cm (using calculator)
+= 27.528 square cm (approx.) A a 3

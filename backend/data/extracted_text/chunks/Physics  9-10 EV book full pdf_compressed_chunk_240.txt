@@ -1,0 +1,23 @@
+# Chunk 240 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324392
+# Character count: 771
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_240
+
+========================================
+
+--- Page 86 ---
+Force 81
+Using Newton's second law of motion is quite simple. For each mass, Newton's
+second law should be applied in every direction, with the vector sum of forces on
+the left side of the equation and the mass multiplied by acceleration on the right
+side. Since force and acceleration are vector quantities, both the magnitude and
+the direction must be considered. According to the conventions, the quantities
+pointing to the right are considered positive, while those pointing to the left are
+regarded as negative. Similarly, the quantities directed upwards are treated as
+positive, whereas those directed downwards are treated as negative.
+Here, the tension Ton the string acts to the right on 2 .
+the mass. It is important to note that there is only =

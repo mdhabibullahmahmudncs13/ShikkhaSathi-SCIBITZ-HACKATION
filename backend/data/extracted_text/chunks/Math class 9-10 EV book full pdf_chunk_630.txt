@@ -1,0 +1,13 @@
+# Chunk 630 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.452335
+# Character count: 153
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_630
+
+========================================
+
+0 series depends upon the relation between its two successive terms. Among the
+5 series, two important series are arithmetic series and geometric series.

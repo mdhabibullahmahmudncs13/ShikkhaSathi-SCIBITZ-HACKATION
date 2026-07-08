@@ -1,0 +1,28 @@
+# Chunk 231 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.323177
+# Character count: 728
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_231
+
+========================================
+
+--- Page 82 ---
+Force 77
+Otherwise we can say that if we see an object in motion and can calculate its
+acceleration, then if its mass is known, it is possible to calculate the force acting
+on it.
+Now we look at some examples.
+0) Example
+Question: A force of 100 N is applied on a stationary body of mass 5 kg for 10
+s. (a) what will be the acceleration due to this force? (b) What is the velocity
+after 10 s? (c) What is the velocity after 20 s? (d) What is distance travelled in
+20 s? (e) show velocity and distance travelled by drawing a graph.
+Answer: (a) acceleration,
+_F_10N_
+a=—== wg m/s
+(b) velocity after 10's,
+v=u+at=0+ 20 x10m/s =200m/s
+(c) force is applied up to 10 s, since force is applied no more, therefore, after

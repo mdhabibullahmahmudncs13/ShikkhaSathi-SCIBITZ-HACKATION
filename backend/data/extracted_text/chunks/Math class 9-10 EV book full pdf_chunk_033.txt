@@ -1,0 +1,26 @@
+# Chunk 33 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392156
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_33
+
+========================================
+
+--- Page 15 ---
+10 Mathematics Classes IX-X
+by 99900 to and the common fraction is obtained.
+Rules for converting repeating decimal fractions into common
+fractions: = the result by sub tracting
+Numerator of the desired fraction the integer obtained by deleting the decimal
+point of the given decimal fraction and the integer formed by the nonrepeating
+portion. Denominator of the desired fraction = numbers formed by putting as many
+9s as many digits in the repeating part followed by as many Os in the nonrepeating
+part after the decimal point.
+These rules have been applied in the following examples to convert a repeating
+decimal fractions into common fractions.
+Example 6. Convert 45.2346 into common fraction.
+5. 452346 — 452 451894 225947 1172
+Solution: 45.2346 = ———— = ———— = ——— = 45——

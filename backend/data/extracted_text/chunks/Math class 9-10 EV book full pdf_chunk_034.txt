@@ -1,0 +1,27 @@
+# Chunk 34 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392242
+# Character count: 733
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_34
+
+========================================
+
+Example 6. Convert 45.2346 into common fraction.
+5. 452346 — 452 451894 225947 1172
+Solution: 45.2346 = ———— = ———— = ——— = 45——
+9999, 9990 4995 1995
+.*. the desired fraction is 453505"
+Example 7. Convert 32.567 into common fraction.
+... 32667 —32 32535 3615 1205 21
+Solution: 32.567 = ———— = —— = —— = —— = 32—
+i 509 999 111 37 37
+.. the desired fraction is 32—.
+37
+Work: Convert 0.41, 3.04623, 0.012 and 3.3124 into common fractions.
+Similar and dissimilar repeating decimal fractions
+If for two or more repeating decimal fractions number of digits both in repeating
+and nonrepeating parts are the same, then they are called similar repeating decimal
+fractions. Otherwise they are called dissimilar repeating decimal fractions. For

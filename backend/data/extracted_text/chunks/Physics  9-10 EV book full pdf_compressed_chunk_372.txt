@@ -1,0 +1,39 @@
+# Chunk 372 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.337056
+# Character count: 792
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_372
+
+========================================
+
+--- Page 130 ---
+Work, Power, Energy 125
+EX) Multiple choice questions
+Put the tick « ) mark on the correct answer
+1. Which is the unit of work?
+(a) Joule (b) Newton
+(c) Kelvin (d) Watt
+2. A body of mass 5 kg is kept at 20 cm, 30 m, 40 cm and 50 cm height
+respectively. At which position is its potential energy a maximum?
+(a) 20 cm (b) 30 cm
+(c) 40 cm (d) 50 cm
+Answer the question numbers 3 and 4 according to the following graph.
+Y
+15
+A
+10 2
+a D
+= 5 c E
+‘weight of car 1000 Kg
+0 t sec x
+Figure 4.09: Velocily-time graph
+3. In which part of the graph, velocity increases in proportion to time?
+(a) part OA (b) part AB
+(c) part CD (d) part DE
+4. What is the maximum kinetic energy?
+(a) 1.25x 10°) (b) 5x 10*J
+(c) 1.25x 10%) (d)6.2x 10°]
+5. From the law of conservation of energy it is found-

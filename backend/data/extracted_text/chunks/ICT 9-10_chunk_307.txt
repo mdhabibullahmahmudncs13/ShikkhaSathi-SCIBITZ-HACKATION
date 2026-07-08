@@ -1,0 +1,30 @@
+# Chunk 307 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.868694
+# Character count: 792
+# Chunk ID: ICT 9-10.txt_0_307
+
+========================================
+
+- Press Cap Lock to erase the minute detail, and the eraser tool will take the
+shape of plus (+) sign. The editing of small parts will be done then.
+
+- The work of erasing can be done by selecting a brush. pencil. or block from
+the list of Mode drop-down of the Option bar on eraser tool. The rubber
+eraser works like an electronic version if a block is selected. The Opacity
+options of other tools can be used if they have been selected.
+
+Creating Blend with Gradient Tool
+
+The paint Bucket Tool is kept on the same position of the Gradient Tool. If you
+
+select the Gradient tool, icons of creating five kinds of gradient will be viewed
+
+on the Option bar, for example, Linear Gradient, Radial Gradient, Angle
+
+Gradient, Reflected Gradient and Diamond Gradient.
+
+Blurring of a color [rom the

@@ -1,0 +1,15 @@
+# Chunk 39 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392754
+# Character count: 243
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_39
+
+========================================
+
+each number must have 4 nonrep 2 ating digits and 6 repeating digits.
+1.7643 = 1.7643000000, 3.24 = 3.2424242424 2.78346 = 2.7834634634
+Desired similar repeating decimal fractions are respectively 1.7643000000,
+8 3.2424242424 and 2.78346346341

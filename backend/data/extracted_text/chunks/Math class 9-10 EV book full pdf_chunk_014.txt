@@ -1,0 +1,25 @@
+# Chunk 14 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.390520
+# Character count: 741
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_14
+
+========================================
+
+--- Page 8 ---
+Chapter 1. Real Numbers 3
+V5 —
+For example, v2 = 1.414213 .., 3 = 1.732. , 5 = 1.118... etc are irrational
+numbers. No irrational number can be expressed as ratio of two integers.
+Decimal Fractional Number: Rational and irrational numbers when expressed
+using decimal sign are called decimal fractional number For example,
+5 10
+3 = 3.0, 3 = 2.5, 3 = 3.3333..., V3 = 1.732... etc are decimal fractional
+numbers. If there are finite number of digits after decimal sign, then this is called
+finite decimal fraction and if there are infinitely many digits, then it is called
+infinite decimal fractions. For example, 0.52, 3.4152 etc are finite decimal
+4
+fractions, whereas 3= 1.333...,v/5 = 2.123512367...,etc are infinite decimal

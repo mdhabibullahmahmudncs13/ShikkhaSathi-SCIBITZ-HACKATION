@@ -1,0 +1,48 @@
+# Chunk 257 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.415706
+# Character count: 779
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_257
+
+========================================
+
+Quadratic Equations in One Variable
+
+Equations of the form az? + bx + ¢ = 0 [where, a,b,c are constants and a # 0)
+
+are called the quadratic equation in one variable. Left hand side of a quadratic
+
+equation is a polynomial of second degree, right hand side is generally taken to
+be zero.
+
+Length and breadth of a rectangular region of area 12 square cm. are respectively
+
+z cm. and (x — 1) cm.
+
+w“
+J
+5
+
+
+--- Page 113 ---
+108 Mathematics Classes IX-X
+
+area of the rectangular region is = x(x — 1)
+
+square cm.
+
+By the question, z(z —1) = 12 or, #* — 2-12 =0 g
+5
+
+x is the variable in the equation and highest 12 sq em %
+
+power of x is 2. Such equation is a quadratic Xx cm
+
+equation. The equation, which has the highest
+
+degree 2 of the variable, is called the quadratic
+
+equation.

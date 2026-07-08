@@ -1,0 +1,29 @@
+# Chunk 176 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.406952
+# Character count: 508
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_176
+
+========================================
+
+Here, P =Tk.650 n = 6 year, percent per annum s = Tk.7
+a s 7
+©1000 100
+7
+1 =6 — =273
+he 50 x 6 x 100
+Hence, profit is Tk. 273.
+Example 41. Find the compound principal and compound profit of Tk. 15000
+in 3 years at the profit of 6 percent per annum.
+Solution: We know, C' = P(1 +r)" [where C' is the profit principal in the case
+of compound profit]
+6
+Given, P = 15000 Tk, r = 6% = 00’ n = 3 year
+6 ’ 3 ’ 53 ’
+Dr
+LC =15000{ 1+ — | =15000( 1+ — | = 15000 —
+SET ( N i) ( +3) (3)
+Forma-10, Mathematics, Class 9-10

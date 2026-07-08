@@ -1,0 +1,30 @@
+# Chunk 436 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.891718
+# Character count: 220
+# Chunk ID: ICT 9-10.txt_0_436
+
+========================================
+
+prod = nun*i
+
+print (num, '**; i, '=Y', prod)
+Running the programme and inputting the following sample data will show the
+result-
+Enter a number; 3.
+3%1=3
+3%2=6
+33-9
+3rd=12
+35-15
+3%6=18
+3%9=21
+3r8=24
+3%9=27
+3*10=30
+
+Gg
+5

@@ -1,0 +1,33 @@
+# Chunk 171 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.406500
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_171
+
+========================================
+
+--- Page 76 ---
+Chapter 3. Algebraic Expressions 71
+According to the question, u + v = z cee (1)
+ty
+and u—v = — cee (2)
+t
+Adding equations (1) and (2) we get,
+21 Iii, 1,1 or u=" 1,1
+EE AN aN AS
+Subtracting equation (2) from equation (1) we get,
+Tx 1 1 zf1 1
+N=———=a|———]or,v=-|———
+t,t th 4 2\t, fo
+(11 zf1 1
+Hence speed of current is 22) km per hour and speed of boat is z —+—
+2\ ty ty 2\t1 ty
+km per hour.
+Example 37. A pipe can fill up an empty tank in 12 minutes. Another pipe
+flows out 14 litre of water per minute. If the two pipes are opened together and
+the empty tank is filled up in 96 minutes, how much water does the tank contain 7.
+Solution: Let x litre of water flows in per minute by the first pipe and the tank
+can contain y litre of water.

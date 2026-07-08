@@ -1,0 +1,24 @@
+# Chunk 224 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.412354
+# Character count: 768
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_224
+
+========================================
+
+log table. Again, it can also be found by calculator. We shall find the mantissa
+of the log of any number by using 2nd method, that is by calculator.
+Example 12. Find the characteristic and the mantissa of log2717 :
+Solution: Let us use the calculator: 2717 [-] 3.43409
+.. Characteristic of log2717 is 3 and the mantissa is .43409
+Example 13. Find the characteristic and the mantissa of log43.517.
+Solution: Let us use the calculator: 43.517 [-] 1.63866
+.. Characteristic of log43.517 is 1 and mantissa is .63866
+Example 14. What are the characteristics and mantissa of log 0.008367
+Solution: Let us use the calculator: 0.00836] [=| ~2.07779
+—2.07779 = —3 + 0.92221 = 3.92221
+.. Characteristic of 10g0.00836 is —3 and the mantissa is .92221.
+Example 15. Find log, 10 :

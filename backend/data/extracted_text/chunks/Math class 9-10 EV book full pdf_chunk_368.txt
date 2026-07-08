@@ -1,0 +1,26 @@
+# Chunk 368 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426350
+# Character count: 795
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_368
+
+========================================
+
+--- Page 160 ---
+Chapter 7. Practical Geometry 155
+Construction of Quadrilaterals
+We have seen if three independent data are given, in many cases it is possible
+to construct a definite triangle. But with four given sides the construction of
+a definite quadrilateral is not possible. Five independent data are required for
+construction of a definite quadrilateral. A definite quadrilateral can be constructed
+if any one of the following combinations of data is known :
+1. Four sides and an angle
+2. Four sides and a diagonal
+3. Three sides and two diagonals
+4. Three sides and two included angles
+5. Two sides and three angles.
+In class VIII, the construction of quadrilaterals with the above specified data has
+been discussed. If we closely look at the steps of construction, we see that in some

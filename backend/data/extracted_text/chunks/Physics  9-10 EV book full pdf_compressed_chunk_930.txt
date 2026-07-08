@@ -1,0 +1,18 @@
+# Chunk 930 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402415
+# Character count: 487
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_930
+
+========================================
+
+into matter. It is possible to stop a normal beta particle by a few millimeter thick
+aluminum sheet.
+‘When radiation of beta particles occurs, a proton is increased in the nucleus by
+deducting of a neutron. So the number of nucleons remains the same. As the
+atomic number depends on the number of protons, the atomic number of the
+nucleus increases, and hence a different nucleus of a different element is formed.
+For example: radioactive C , is converted into N,, due to beta radiation:

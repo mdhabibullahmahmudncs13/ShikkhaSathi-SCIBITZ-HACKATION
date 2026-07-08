@@ -1,0 +1,19 @@
+# Chunk 875 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.396386
+# Character count: 261
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_875
+
+========================================
+
+a magnetic field, similarly a varying magnetic field can also produce an electric
+current.
+In this chapter along with the magnetic effects of current, we will discuss how
+different instruments can be made and can be used by using magnets and
+electricity.
+]
+IS
+8

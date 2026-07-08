@@ -1,0 +1,35 @@
+# Chunk 169 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.406334
+# Character count: 733
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_169
+
+========================================
+
+--- Page 75 ---
+70 Mathematics Classes IX-X
+Since the number of members cannot be negative, hence the value of = as —120
+is not acceptable.
+Therefore, number of members of the association is 125
+Example 35. Rafiq can do a work in 10 days and Shafiq can do that work in
+15 days. In how many days do they together finish the work?
+Solution: Let, they can finish the work in d days.
+Days to complete Part done in 1 day| Part done in d day
+: x Kl
+Rafiq 10 10 10
+5 Ea 4
+Shafiq 15 IE 5
+dd 1 1
+As pe estion, — + — =1 dl —+— | =1
+s per question, wot 3 or, (+ +)
+342 5d
+dE) =1 2a
+or ( 0 ) or, 35
+30
+or,d=—=606
+’ 5
+Therefore, they together can finish the work in 6 days.
+Example 36. A boatman can row z= km in time ¢; hour against the current.

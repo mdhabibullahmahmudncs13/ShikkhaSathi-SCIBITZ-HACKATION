@@ -1,0 +1,16 @@
+# Chunk 95 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.398924
+# Character count: 236
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_95
+
+========================================
+
+(Thailand, Bangkok) }.
+
+If A and B are two sets then, nonnull subset R of ordered pairs of their Cartesian
+product A x B is said to be a relation from the set A to the set B. Here set R is N
+a subset of the set A x B. That is, RC Ax B g

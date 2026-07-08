@@ -1,0 +1,36 @@
+# Chunk 213 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321465
+# Character count: 764
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_213
+
+========================================
+
+If more than one object are in motion and they are moving at different velocities, EB
+
+
+--- Page 76 ---
+Force 71
+
+then they have a combined momentum. Due to different velocities of the objects,
+
+they may collide with one another in their path of motion and due to the
+
+collisions their velocities may change. If no force is applied from outside, then
+
+after the collision the combined momentum will not change. This statement
+
+is defined as the law of conservation of momentum.
+
+0) Example
+
+Question: If you throw a tennis ball at a wall with a velocity of 10 m/s, it will
+
+bounce back towards you with the same speed. If the mass of the ball is 100 gm,
+
+what is the change of momentum?
+
+Answer: when the ball is thrown, then the momentum is p = mv. After striking

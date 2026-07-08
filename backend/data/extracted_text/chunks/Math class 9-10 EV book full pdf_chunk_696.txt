@@ -1,0 +1,32 @@
+# Chunk 696 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458558
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_696
+
+========================================
+
+--- Page 307 ---
+302 Mathematics Classes IX-X
+D
+8. In the adjacent figure, ZB = /D and CD = Ap
+4AB. Prove that, BD = 5BL. 5
+c
+9. A line segment drawn through the vertex A of the parallelogram ABCD
+intersects the BC and DC at M and N respectively. Prove that BM x DN
+is a constant.
+D
+10. In the adjacent figure BD 1 AC and DQ = BQ =
+24Q = Jac. Prove that, DA 1 DC. A c
+B
+11. In the triangles AABC and ADEF ,/A = ZD. Prove that, AABC :
+ADEF = AB-AC : DE - DF
+12. The bisector AD of ZA of the triangle ABC intersects BC at D. The line
+segment C'E parallel to DA intersects the line segment BA extended at E.
+1) Draw the figure according to the information.
+2) Prove that, BD: DC' = BA: AC
+3) If a line segment parallel to BC intersect AB and AC at P and Q
+respectively, prove that BD : DC' = BP : CQ.

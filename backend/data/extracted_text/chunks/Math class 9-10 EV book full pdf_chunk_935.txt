@@ -1,0 +1,32 @@
+# Chunk 935 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.483029
+# Character count: 787
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_935
+
+========================================
+
+--- Page 413 ---
+408 Mathematics Classes IX-X
+Inclusion to Chapter 12
+Method of solution of simple simultaneous equations of two
+variables.
+Here, the following two methods of the solution of simple simultaneous equations
+of two variables have been discussed.
+(1) Method of substitution
+(2) Method of elimination
+Method of substitution
+Applying this method, we can solve the equations by following the steps below:
+(a) From any equation express one variable in terms of the other variable.
+(b) Substitute the value of the obtained variable in the other equation
+and solve the equation in one variable.
+(c) Put the obtained value in any of the given equations to find the
+value of other variable.
+Example 1. Solve the equations
+x+y=7
+x—y=3
+Solution : Given equations are
+X43 =Teooorrcenn()

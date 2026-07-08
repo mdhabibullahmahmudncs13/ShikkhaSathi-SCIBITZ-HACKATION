@@ -1,0 +1,22 @@
+# Chunk 254 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.415344
+# Character count: 567
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_254
+
+========================================
+
+18. The digit of the tens place of a number consisting of two digits is twice the
+digit of the units place. Show that, the number is seven times the sum of the
+digits.
+
+19. A petty merchant by investing Tk. 5600 got the profit 5% on some of the
+money and profit of 4% the rest of the money. If the total profit is 256,
+then on how much money did he get the profit of 5%?
+
+20. Ina girls, school if 6 students sit in each bench, 2 benches remain empty. But
+if 5 students sit in each bench, 6 students have to remain standing. What
+is the number of benches in the class?

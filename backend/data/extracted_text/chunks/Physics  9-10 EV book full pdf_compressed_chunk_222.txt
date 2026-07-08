@@ -1,0 +1,28 @@
+# Chunk 222 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.322208
+# Character count: 749
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_222
+
+========================================
+
+--- Page 79 ---
+74 Physics
+car). Taking m, as zero, after collision, velocity of the truck and the small car is
+(my —0u+2x0x(—u)
+VE—— =u
+my; +0
+And
+(0 —my)(—w) + 2mqu
+Vp=—"——"——=3u
+my; +m,
+The result is terrible. After the collision, the truck will move with the same
+velocity, i.e. it will not experience the horrible nature of the collision. The
+velocity of the small car will be changed from —u to 3u, that means change of
+velocity is 3u- (-u)=4u, the direction of the velocity of small car will be changed
+and it will fly off with four times its velocity in the reverse direction. In this
+process the small car will be crumpled and destroyed. The loss of lives of the
+passengers will be a very natural consequence. Again, we assume that no other

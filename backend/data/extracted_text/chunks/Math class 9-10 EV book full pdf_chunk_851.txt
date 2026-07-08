@@ -1,0 +1,31 @@
+# Chunk 851 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474392
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_851
+
+========================================
+
+--- Page 371 ---
+366 Mathematics Classes IX-X
+Sth term + (% + 1)th term 30th term + 31th term
+Median = *#¥———"--F+—""+——=——"7—"—"—
+2 2
+70 + 80
+_ 10480 75
+2
+.. Required median 75
+‘Work:
+1) Make frequency distribution table of the heights (in cm.) of 49 students
+of your class and find the mean without using any formula.
+2) From the above problem, deduct the heights of 9 students and then find
+the median of heights (in cm.) of 40 students.
+Determining Median of Classified Data: If the number of classified data is
+n .
+n, the value of th term of classified data is median. And the formula used to
+n n h
+determine the median or the value of Sth term is : Median = L+ (5 — F) x =
+where L is the lower limit of the median class, n is the frequency, F, is the

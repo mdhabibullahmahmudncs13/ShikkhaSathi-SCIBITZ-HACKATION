@@ -1,0 +1,29 @@
+# Chunk 386 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.338869
+# Character count: 760
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_386
+
+========================================
+
+--- Page 136 ---
+State of Matter and Pressure 131
+it is possible to cut easily. Another name of the unit of pressure is Pascal (Pa),
+when 1 N force is applied on an area of 1 m®> we get 1 Pa (1 Pascal) pressure.
+5.2 Density
+We need to have a clear idea about density before understanding pressure of
+liquids and gases. Density is the amount of mass per unit volume, i.e. if mass of
+a body is m and volume is 7, then density is:
+om
+EY
+. . Table 5.01: Density of s subst:
+Unit of density: kg/m* or gm/cc we ensity of some substances
+Dimension of density: [P] = ML™® substances density
+(gm/cc)
+Density of some familiar substances is
+given in table 5.01. Here is a good thing
+to remember, if temperature increases
+or decreases, volume of a substance can Human body

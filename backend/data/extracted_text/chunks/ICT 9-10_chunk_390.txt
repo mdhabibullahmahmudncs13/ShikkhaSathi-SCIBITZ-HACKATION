@@ -1,0 +1,38 @@
+# Chunk 390 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881930
+# Character count: 691
+# Chunk ID: ICT 9-10.txt_0_390
+
+========================================
+
+To save the programme, click here
+
+Here goes the programme name
+
+(Space to write cods)
+het
+re Here the output of the code is shown
+eT
+
+7. Now let's write a programme which will print Hello World! as the output.
+The print() function is used to print something as an output. The text we
+want to print should be written within the print() function with ' ' (single
+quotation). So, to print Hello World! we have to write:
+
+print (" Hello World! ")
+
+Now clicking the ‘Run’ button will show Hello World! as the output.
+Th Thorny - CAlbhartmdme Hobo Worldgy © 1:21 - o x
+Fie te Vw Non Took Hep
+JBH O% en
+Hel Wicd zy Rosita
+
+1 print ("Hello World")
+shat
+salle Worlds
+»
+Local yan 3 + Thosey' Python #

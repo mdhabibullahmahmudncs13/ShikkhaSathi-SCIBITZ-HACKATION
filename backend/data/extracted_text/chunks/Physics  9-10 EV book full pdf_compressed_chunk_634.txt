@@ -1,0 +1,25 @@
+# Chunk 634 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.370772
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_634
+
+========================================
+
+--- Page 235 ---
+230 Physics
+8.6.1 Image on concave mirror
+Now we have entered the most exciting part! In plane mirrors and convex
+mirrors only one type of image was formed. Two types of images can be formed
+on a concave mirror. If an object is placed within the focal distance it forms one
+type of image, if it is placed at a distance greater than the focal distance it creates
+another type of image.
+Before starting that, let us know how light rays reflect from a spherical concave
+mirror. If we know the rules of reflection of three special light rays in a concave
+mirror, we can explain how the image is formed:
+(i) If light ray travels along the radius or starts from the center (Figure 8.22,
+OP or ON ray), it will reflect perpendicularly and go back the way it has
+come.

@@ -1,0 +1,27 @@
+# Chunk 504 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.439836
+# Character count: 564
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_504
+
+========================================
+
+Here, CD = AC = AB — BC = (h — x) metre hm
+From ABCD we get, /|
+tan ZBCD 5D tan 30° 10 xm
+an =gg Ontan30°=—
+1 10
+or, —=— .2=10/3 0g
+T/A D
+v3 ow 10m
+Again, sin ZBCD 5b in 30° BD ! 10
+gain, sin =gp onsind’=g5 on g=a—
+or, h— x =20 or, h = 20 +x or, h = 20 + 10v/3 [putting the value of x]
+.h = 37.321 (approx.)
+.-. Height of the pole is 37.32 metre (approx.).
+‘Work: A balloon is flying above any point between two kilometre posts. At
+the point of the balloon the angle of depression of the two posts are 30° and "-
+60° respectively. Find the height of the balloon. g

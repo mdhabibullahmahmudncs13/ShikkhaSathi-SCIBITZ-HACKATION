@@ -1,0 +1,15 @@
+# Chunk 155 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315765
+# Character count: 181
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_155
+
+========================================
+
+gravity is 9.8 m/s?, this is true for the distances near the surface of earth. But if
+we go far from the earth the value of g will decrease. When we deduced the
+equation
+v2 =u? —2gh

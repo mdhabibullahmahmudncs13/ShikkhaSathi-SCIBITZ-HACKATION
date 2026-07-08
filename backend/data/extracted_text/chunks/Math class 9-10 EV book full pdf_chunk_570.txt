@@ -1,0 +1,42 @@
+# Chunk 570 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446553
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_570
+
+========================================
+
+--- Page 251 ---
+246 Mathematics Classes IX-X
+Example 1. Explain whether the following systems of equations are consistent
+inconsistent, dependent/ independent of each other and indicate the number of
+solutions in each case.
+1) z+3y=1 2) 20—5y=3 3) 3x —5y="7
+2r + 6y =2 x+3y=1 6x — 10y = 15
+Solution:
+. Cor +3y=1
+1) Given system of equations is:
+2x4 6y =2
+. 1
+Ratio of the coefficients of x is 3
+. _- 3]
+Ratio of the coefficients of y is 5 or, 5
+. 1
+Ratio of constant terms is 2
+S13 1
+26 2
+Therefore, the system of equations is consistent and mutually dependent.
+The system of equations has infinite number of solutions.
+i . 2x —-5y=3
+2) Given system of equations is:
+z+3y=1
+. i 2
+Ratio of the coefficients of = is 1
+-5
+Ratio of the coefficients of x is 3
+2, 5
+We get, — # —
+get, 7 #

@@ -1,0 +1,17 @@
+{
+  "subject": "ict",
+  "grade": 9,
+  "chapter": null,
+  "topic": null,
+  "language": "english",
+  "page_number": null,
+  "textbook_name": "NCTB Ict (Class 9)",
+  "source_file": "ICT 9-10.txt",
+  "chunk_index": 434,
+  "extraction_timestamp": "2026-01-09T16:41:04.891262",
+  "character_count": 513,
+  "word_count": 104,
+  "line_count": 15,
+  "text_file_path": "data/extracted_text/chunks/ICT 9-10_chunk_434.txt",
+  "chunk_id": "ICT 9-10.txt_0_434"
+}

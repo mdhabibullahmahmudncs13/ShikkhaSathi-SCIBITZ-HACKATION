@@ -1,0 +1,23 @@
+# Chunk 893 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397975
+# Character count: 730
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_893
+
+========================================
+
+--- Page 343 ---
+338 Physics
+If we can make such a condition that as soon as the electromagnet reaches the
+next position, the current passing through the electromagnet is changed, then
+just after reaching there, the bar magnet made of coil alternates its polarities,
+F——
+Figure 12.10: In an electric motor current is passed through an electromagnet
+in such a way that it can rotate always.
+i.e. its north pole becomes the south pole and the south pole becomes north pole.
+So due to repulsion, it will try to move again, i.e. it will experience a rotational
+force. It will try to reach the next stable position, but just after reaching there if
+the direction of the current is again changed, it will not stop there. Rather, it will

@@ -1,0 +1,32 @@
+# Chunk 498 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.351557
+# Character count: 759
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_498
+
+========================================
+
+--- Page 177 ---
+172 Physics
+0) Example
+Question: Why does a glass crack when hot water is poured in it?
+Answer: More expansion occurs at different parts of glass when temperature is
+increased suddenly, this is why the glass cracks.
+Question: The density of gold is 19.30 gm/cc and co-efficient of linear
+expansion is 14x10° °C'.What will be the density when the temperature is
+increased to 100 °C ?
+Answer:
+Density, _m
+EY
+Here, V is volume and m is mass. Though the mass remains the same, the
+volume increases when temperature is increased. So, if the temperature is
+increased to 100° C, the volume will be :
+V' = V+ yV(T, = Ty) = V(1 + 3a x 100)
+a=14x10"°°C"
+V' =V(1+42x1073)
+p= MM, 0.9958 = 0.9958p
+PET Va+azx10 vo ita
+£ =0.9958 x 19.30 gm/cc = 19.22 gm/cc

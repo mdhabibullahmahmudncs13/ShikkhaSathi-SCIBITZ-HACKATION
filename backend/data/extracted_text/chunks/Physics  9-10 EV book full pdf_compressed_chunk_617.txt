@@ -1,0 +1,29 @@
+# Chunk 617 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368973
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_617
+
+========================================
+
+--- Page 228 ---
+Reflection of Light 223
+Question: Two mirrors are placed mutually at 60°
+angle (Figure 8.13). If light is incident on the first
+mirror at an angle of 60°, what will be the direction H 8
+of light? 60° 2
+Answer: From geometry it can be said that he eg
+the ray will incident on the point B
+perpendicularly, and reflect in the opposite Figure 8.13: Two mirrors kept at
+direction. an angle of 60°, light is incident at
+point A on a mirror at an angle 60°.
+@ Individual work
+TE 19
+il o
+Figure 8.14: Image of an object can be formed using fine holes.
+In a dark room, make a very small hole in the middle of a piece of
+cardboard and place a candle before it. On the opposite side of the board,
+hold a white paper, as shown in Figure 8.14. If you do not allow any other

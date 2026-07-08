@@ -1,0 +1,28 @@
+# Chunk 797 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.469259
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_797
+
+========================================
+
+cm and height ¢ = 15 cm
+.-. Area of the whole surface of the rectangular solid = 2(ab + be + ca)
+=2(25 x 20 4 20 x 15 + 15 x 25) = 2350 square cm
+and Volume = abc = 25 x 20 x 15 = 7500 cube cm
+and length of its diagonal = Va? +b? + ¢2
+= 1/252 + 20% + 152 = /624 + 400 + 225 = 1250 = 35.363 cm (approx. )
+The required area of the whole surface is 2350 square cm, volume 7500 cubic
+cm and length of its diagonal 35.363 cm (approx. ).
+‘Work: Determine the volume, area of the whole surface and the length of
+the diagonal of your mathematics book after measuring its length, width and
+height.
+Cube
+If the length, width and height of a rectangular solid E H
+are equal, it is called a cube. A
+Let, ABCDEFGH is a cube. F
+Its length = width = height = a units
+1. The length of diagonal of the cube

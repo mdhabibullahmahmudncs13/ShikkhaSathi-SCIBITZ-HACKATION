@@ -1,0 +1,36 @@
+# Chunk 737 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.462310
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_737
+
+========================================
+
+--- Page 325 ---
+320 Mathematics Classes IX-X
+1. Right-angled triangle: Let in the right-angled A
+triangle ABC, BC = a and AB = b are the adjacent
+sides of the right angle. Here if we consider BC' as b
+the base and AB as the height,
+Area of AABC = x base x height = Jab Cc a B
+2. Two sides of a triangular region and the angle
+included between them are given:
+Let in AABC, the sides are BC =a, CA=0b, AB=c.
+AD is drawn perpendicular from A to BC. Let
+altitude (height) AD = h. A
+— AD
+Commdering the angle C' we get, i= sinC' ¢ b
+or, a sinC or, h = bsinC'
+1 B D Cc
+Arca of AABC = -BC x AD
+1 1 2 «— a—->
+= 30 x bsinC' = absinC
+Similarly, area of AABC'
+1. 1
+= be sind = 50a sinB
+3. Three sides of a triangle are given:
+Let in AABC, BC' =a, CA =D and A
+AB =c.

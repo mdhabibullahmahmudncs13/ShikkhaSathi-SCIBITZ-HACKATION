@@ -1,0 +1,42 @@
+# Chunk 632 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.370570
+# Character count: 782
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_632
+
+========================================
+
+mirror the light rays will converge at a ant Fi =
+
+point after reflection (Figure 8.21). You i i
+
+can understand that this point is the focal i n
+
+point of the concave mirror and the i +
+
+distance from the pole to this point is pole - =
+
+known as the focal distance. Light rays Pr <
+
+don’t have any option of stopping, so after —=
+
+converging at a point they will travel or
+
+straight forward and it will look like light is
+
+diverging from that point! Therefore before
+
+reaching the focal point the rays are Figure 8.21: The focal distance of a
+
+converging (convergent) and after reaching concave mirror is half of the radius of the
+
+the focal point the rays are diverging sphere
+
+(divergent).
+
+Example
+
+Question: If we imagine a plane mirror as a spherical concave mirror, what will

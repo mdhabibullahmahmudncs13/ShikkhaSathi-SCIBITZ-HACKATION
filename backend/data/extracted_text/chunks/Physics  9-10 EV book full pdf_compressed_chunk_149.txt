@@ -1,0 +1,27 @@
+# Chunk 149 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315210
+# Character count: 733
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_149
+
+========================================
+
+2.8 Laws of Falling Bodies
+We have already mentioned that an amazing example of uniform acceleration is
+acceleration due to gravity g. Due to its effect an object falls downward when it
+is released from above the earth surface. Observing these types of falling bodies
+Galileo invented three laws. The laws can be used in case of bodies falling
+freely. The laws are as follows:
+
+First law: All bodies falling from rest and from the same height without any
+
+resistance traverse equal distance in the same time.
+
+Second law: The velocity (v), acquired by a freely falling body from rest in
+
+a given time (7) is directly proportional to that time. i.e.v oc t
+
+Third law: The distance (/) traversed by a freely falling body from rest in a

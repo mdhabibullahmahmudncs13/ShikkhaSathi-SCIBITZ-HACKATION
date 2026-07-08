@@ -1,0 +1,21 @@
+# Chunk 539 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.359062
+# Character count: 526
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_539
+
+========================================
+
+(c) Express the temperature of air in Fahrenheit scale.
+
+(d) Explain the cause for the wire to snap with mathematical logic.
+
+2. The length of two metal rods is 6 m. If one rod is heated to increase its
+temperature from 30°C to 80°C, its length becomes 6.0051 m after
+extension. If another rod is heated to increase its temperature from 20°C to
+60°C, its length becomes 6.0041 m after extension. The co-efficient of
+linear expansion is a, the co-efficient of area expansion is PB and the
+co-efficient of volume expansion is ¥.

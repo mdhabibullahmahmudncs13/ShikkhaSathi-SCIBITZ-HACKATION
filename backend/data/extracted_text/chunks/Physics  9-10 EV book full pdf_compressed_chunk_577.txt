@@ -1,0 +1,38 @@
+# Chunk 577 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.364451
+# Character count: 762
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_577
+
+========================================
+
+--- Page 207 ---
+202 Physics
+Example
+[5
+Question: Sound of frequency 1 kHz is produced by a tuning fork. It was
+allowed to pass through air, water and iron. It was found that the velocity
+of sound in air is 334 m/s, in water is 1493 m/s and in iron 5130 m/s. What
+are the wavelengths in these mediums?
+Answer:
+Velocity of sound= Af, here Ais the wavelength, and f is the frequency.
+Here frequency is 1 kHz or 1000 Hz.
+v
+A=
+f
+-1
+nai, A=220"" =0334m
+103571
+-1
+In water, 1 = usm =149m
+103s
+-1
+Iniron, A= som =513m
+10%s
+7.3.1 Echo
+Since sound is one type of wave, it can have reflection. If someone speaks in a
+big empty building it creates a reverberating sound, which is known as ‘Echo’.
+This is due to reflection. Within the building the distance is not enough to

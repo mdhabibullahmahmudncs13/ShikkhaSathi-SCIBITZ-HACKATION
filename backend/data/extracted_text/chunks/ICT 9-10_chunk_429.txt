@@ -1,0 +1,33 @@
+# Chunk 429 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.890198
+# Character count: 722
+# Chunk ID: ICT 9-10.txt_0_429
+
+========================================
+
+typed. The code for this program is provided below.
+shar = input ('Enter the latter: ')
+vowels = [tal tet, Vit, tot, tut, WAY, VEY, 11v, 1gv, gv)
+Af char in vowels:
+print (char, ' is a vowel’)
+else :
+printichar; ' is a consenants')
+Practical Problem #9: Write a program to find the largest number among three
+integers.
+Solution: The code for the program is given below,
+numl = int (input ('Eater integer number 1: '))
+num? = int (input (‘Enter integer number 2: '))
+aum3 = int (input {'Eater Integer number 3: '))
+if (nual >= num?) and {naml >= numd) :
+print (numi, 'ls the largest number’)
+elif (rum? >= numl) and (num2 >= num3l:
+print (run2, ‘is the largest number’)
+else :
+print (numd, 'is the largest number’) -
+“
+=]
+a

@@ -1,0 +1,72 @@
+{
+  "overall_status": "healthy",
+  "timestamp": "2026-01-14T16:55:56.301275",
+  "system_metrics": {
+    "timestamp": "2026-01-14T16:55:13.892180",
+    "cpu_usage": 31.6,
+    "memory_usage": 52.1,
+    "disk_usage": 21.1,
+    "gpu_usage": null,
+    "gpu_memory": null,
+    "network_io": {
+      "bytes_sent": 851466469,
+      "bytes_recv": 8717076847
+    },
+    "process_count": 394
+  },
+  "services": {
+    "backend_api": {
+      "service_name": "backend_api",
+      "status": "healthy",
+      "response_time": 0.014486551284790039,
+      "last_check": "2026-01-14T16:55:13.906710",
+      "error_message": null,
+      "uptime": null
+    },
+    "ollama_service": {
+      "service_name": "ollama_service",
+      "status": "healthy",
+      "response_time": 0.003992557525634766,
+      "last_check": "2026-01-14T16:55:13.910863",
+      "error_message": null,
+      "uptime": null
+    }
+  },
+  "models": {
+    "phi3:mini": {
+      "model_name": "phi3:mini",
+      "status": "healthy",
+      "avg_response_time": 19.9349045753479,
+      "success_rate": 100.0,
+      "last_request": "2026-01-14T16:55:33.846207",
+      "error_count": 0,
+      "total_requests": 1
+    },
+    "llama3.2:3b": {
+      "model_name": "llama3.2:3b",
+      "status": "healthy",
+      "avg_response_time": 17.006298065185547,
+      "success_rate": 100.0,
+      "last_request": "2026-01-14T16:55:50.853115",
+      "error_count": 0,
+      "total_requests": 1
+    },
+    "llama3.2:1b": {
+      "model_name": "llama3.2:1b",
+      "status": "healthy",
+      "avg_response_time": 5.4468770027160645,
+      "success_rate": 100.0,
+      "last_request": "2026-01-14T16:55:56.300277",
+      "error_count": 0,
+      "total_requests": 1
+    }
+  },
+  "alerts": [],
+  "summary": {
+    "total_services": 2,
+    "healthy_services": 2,
+    "total_models": 3,
+    "healthy_models": 3,
+    "active_alerts": 0
+  }
+}

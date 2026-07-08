@@ -1,0 +1,23 @@
+# Chunk 721 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.379756
+# Character count: 697
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_721
+
+========================================
+
+distinct, then measure the distance from the lens to the wall. This is the focal
+length of this lens.
+If you don’t have any convex lens, you can do the experiment using the glass
+of spectacle. Often the spectacles of elderly people are made with convex
+lenses. If closer things are seen bigger by the glass of the spectacle, then
+you’ll understand that it is a convex lens.
+9.4.3 Power of Lens
+The most familiar use of lens is in spectacles. If you have experimented with the
+lenses of spectacles of many people, you have seen that many of their spectacles are
+made of convex lens, and many are made of concave lens. Usually we explain the
+lenses by discussing power.
+Forma-34, Physics, Class 9-10

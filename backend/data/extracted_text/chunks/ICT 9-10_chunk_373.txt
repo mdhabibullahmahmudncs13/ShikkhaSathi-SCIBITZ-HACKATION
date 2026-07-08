@@ -1,0 +1,26 @@
+# Chunk 373 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.879939
+# Character count: 798
+# Chunk ID: ICT 9-10.txt_0_373
+
+========================================
+
+A. Give the Place command from the File menu and a Place dialogue box will come.
+
+B. Select the required file from the Place dialogue box.
+
+- It should be known in which folder and under what name the file has been saved. The
+required file will be selected after opening the specific folder.
+
+C. Click the Place button in the dialogue box, and the image of the selected file will be viewed
+on the screen.
+
+- Across sign will be viewed on the image when the image of the Photoshop is placed in the
+Illustrator. Click outside and the cross-sign will be removed. Click the image with the
+Selection Tool, and the image will be selected and four resize boxes on the four arms and
+on the four angles will be viewed. By clicking and dragging the resize boxes, the images
+can either be enlarged or reduced,

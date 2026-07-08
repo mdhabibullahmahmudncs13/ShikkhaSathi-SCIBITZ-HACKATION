@@ -1,0 +1,34 @@
+# Chunk 295 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.329583
+# Character count: 745
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_295
+
+========================================
+
+work was done by the force applied by you? Certainly you have noticed that, this
+
+time the distance traversed is not along the direction of force, rather opposite to
+
+it. So the amount of work done
+
+W=F (-s)=-Fs
+
+That is, the work done is negative. In our daily lives, we talk about work and
+
+useless work, but what is meant by positive and negative work in terms of
+
+physics? If the work is positive, then it can be said that the work is done by the force.
+
+If it is negative, then it is said that the work is done ‘on’ the force or against the
+
+force. We must have a clear conception about energy before understanding what
+
+has just been written.
+
+4.2 Energy
+
+In our daily life we use the term “energy” for different purposes but in physics it

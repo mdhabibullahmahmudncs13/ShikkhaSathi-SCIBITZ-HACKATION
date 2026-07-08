@@ -1,0 +1,24 @@
+# Chunk 326 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.872985
+# Character count: 614
+# Chunk ID: ICT 9-10.txt_0_326
+
+========================================
+
+- Four hollow boxes will be viewed on the four corners of the selected
+object. Four small solid boxes will be viewed on the four corners.
+
+- If the object becomes free [rom the selection, click Direct Selection Tool in
+the toolbox with the mouse pointer, and the Direct Selection Tool will be
+selected. Now bringing the mouse pointer inside the screen, click the object
+with Direct Selection Tool, and the object will be selected. In this situation,
+again click the Selection Tool, and four solid boxes can be viewed on the
+arms along wiih four solid boxes on the corners.
+
+Filling Color on Object
+
+Fill and Stroke

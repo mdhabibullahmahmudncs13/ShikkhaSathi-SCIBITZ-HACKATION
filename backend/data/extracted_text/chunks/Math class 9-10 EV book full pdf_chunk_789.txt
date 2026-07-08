@@ -1,0 +1,30 @@
+# Chunk 789 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468627
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_789
+
+========================================
+
+The required area is 674.07 square metre (approx.)
+Example 27. In the figure, ABCD is a rectangle whose length is 12 metre the
+breadth is 10 metre. and DAF is a circular segment. Determine the length of the arc
+DE and the area of the whole region.
+Solution: The radius of the circular segment, r = AD = 12 metre and the angle
+subtended at centre 6 = 30°.
+wrt £
+.. length of the arc DE = 180
+3.1416 x 12 x 30 _
+_ 2A XE XT 6.28 metre (approx.) AE D
+180 , 1
+Area of the circular segment ADE = 360 x mr? 10
+30
+= — x 3.1416 x 12? = 37.7 square metre (approx.)
+360 po c
+The length of the rectangle ABCD is 12 metre and breadth is 10 metre.
+.. Area of the rectangle = length x breadth = 12 x 10 = 120 square metre
+.. Area of the whole region = (37.7 + 120) square metre = 157.7 square metre
+(approx.)

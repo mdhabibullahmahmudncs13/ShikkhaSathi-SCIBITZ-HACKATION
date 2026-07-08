@@ -1,0 +1,24 @@
+# Chunk 488 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.438520
+# Character count: 450
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_488
+
+========================================
+
+the values of A and B.
+cos A—sinA 3-1
+20. lve: ————— = ———
+0. Solve cos A+sin A 341
+21. If A and B are acute angles and cot(A+ B) = 1, cot(A—B) = v/3, determine
+the values of A and B.
+22. Show that, cos 34 = 4cos®A — 3cos A, when A = 30°.
+23. Solve: sin f+ cos § = 1, when 0° < 6 < 90°
+24. Solve: cos?f — sinf = 2 — 5cos §, when 6 is an acute angle.
+25. Solve: 2sin®f + 3cos § — 3 = 0, 6 is an acute angle.
+9 26. Solve: tanf — (1+ v/3)tan 6 +3 =0
+J
+5

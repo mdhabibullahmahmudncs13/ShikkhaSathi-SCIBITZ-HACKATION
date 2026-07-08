@@ -1,0 +1,21 @@
+# Chunk 9 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.389934
+# Character count: 757
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_9
+
+========================================
+
+system for satisfying the need of counting natural numbers. This is considered
+as a milestone in the representation of numbers. Later on Indian and Chinese
+mathematicians expanded the concepts of 0, negative, real, integer and
+fractional numbers which the Arabian mathematicians took on the basis with
+medieval age. Muslim mathematicians of the Middle East are given the credit
+of expressing numbers by decimal fractions. Again they first introduced
+irrational numbers in the form of square roots for solution of quadratic
+algebraic equations in the 11th century. Historians think that around 500 A.D.
+Greek philosophers felt the necessity of irrational numbers, especially square
+root of 2, for the purpose of geometrical drawing. In the nineteenth century

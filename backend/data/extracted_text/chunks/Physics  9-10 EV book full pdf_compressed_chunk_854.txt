@@ -1,0 +1,23 @@
+# Chunk 854 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.393612
+# Character count: 759
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_854
+
+========================================
+
+11.4.2 Load Shedding
+
+Each power plant produces a definite amount of electric energy and electricity
+produced in all power stations is added to the national grid. We have discussed
+carlier that electricity is distributed to consumers from local substations. The
+national grid supplies electricity as per the needs of different areas. If the
+demand of electricity in an area is more than the electricity produced, then
+naturally the required electricity cannot be supplied in that area. Then the
+substations are forced to keep electricity supply off in one area to be able to
+supply electricity to another area. This process is called load shedding. When the
+substation gets the required electricity supply again, it distributes electricity to
+that area again.

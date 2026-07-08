@@ -1,0 +1,26 @@
+# Chunk 218 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321900
+# Character count: 503
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_218
+
+========================================
+
+--- Page 78 ---
+Force 73
+From the expressions of v, and v, we see that if the masses mm, and m, are equal
+i.e. m, =m, then the two objects will exchange their velocities.
+
+Then, v=u, andv,=u,
+@ Do Yourself
+
+Right now you can do this experiment. Knock a stationary marble with anoth-
+
+er marble of the same mass so that it collides with the stationary marble.
+
+You will observe that the knocking marble will become stationary and the
+
+stationary marble will move with the same velocity as of the knocking

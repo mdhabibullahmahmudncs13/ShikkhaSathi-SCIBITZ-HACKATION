@@ -1,0 +1,18 @@
+# Chunk 862 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.395118
+# Character count: 492
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_862
+
+========================================
+
+expensive machine (e.g. computer, fridge) is connected to the current, you will
+see that besides high potential and neutral, there is another third connection,
+which is the ground. Generally this is connected to the body or cover of the
+machine. If the machine is electrified accidentally, then current directly flows
+from the cover or body to ground. A fuse burns due to this flow of electricity and
+., makes the machine safe. So, if anyone accidentally touches it, he is not
+g electrocuted.

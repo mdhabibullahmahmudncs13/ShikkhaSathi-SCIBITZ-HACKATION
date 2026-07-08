@@ -1,0 +1,25 @@
+# Chunk 401 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.883525
+# Character count: 789
+# Chunk ID: ICT 9-10.txt_0_401
+
+========================================
+
+--- Page 129 ---
+124 Information and Communication Technology
+b) float: In this variable we can store fractional numbers. Such numbers are
+called floating numbers in English. Therefore, if fractional numbers are stored in
+the variable, its data type is called float. One such example is:
+Age=45.50
+¢) str: If we want to store any text or textual information in the variable, then it
+is called string. And such information is included in sir datatype. ere str is the
+short form of string. We have to put the text we want to put in the string variable
+inside single quotation marks. For example:
+a='c'
+b="This is a string variable’
+d) bool: bool is the abbreviation of boolean. If True or False is to be stored as
+data in a variable, then it will be boolean data. Only two information can be

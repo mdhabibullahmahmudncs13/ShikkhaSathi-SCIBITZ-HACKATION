@@ -1,0 +1,22 @@
+# Chunk 688 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.376795
+# Character count: 785
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_688
+
+========================================
+
+--- Page 258 ---
+Refraction of light 253
+In order to illustrate this easily only three layers are shown. The density of the
+air in upper level is high and so the refractive index is high. Air in the lower level
+is heated, so density is low and its refractive index is also low. During refraction
+of light from the tree, in each layer the angle of refraction will increase and at the
+lowest level total internal reflection may happen. When entering a medium of
+lower refractive index from a medium of higher refractive index there is a
+possibility of crossing the critical angle because the angle of incidence is higher
+if it is seen from far. So a mirage is seen from far and cannot be seen from near.
+If a person looks at a tree from far away, he can see the tree directly, and due to

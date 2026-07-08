@@ -1,0 +1,22 @@
+# Chunk 153 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.405013
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_153
+
+========================================
+
+fla)=(a—a) h(a) +r =0-h(a)+r=r
+Hence, r = f(a)
+Therefore, if f(z) is divided by (z — a), the remainder is f(a). This formula is
+known as remainder theorem. That is, the remainder theorem gives the remainder
+when a polynomial f(z) of positive degree is divided by (x —a) without performing
+actual division. In the above example if a = 1, then f(x) = 62% — 7x + 5.
+oo f(1) = 6—=T7+5 = 4 which is equal to the remainder. The degree of the divisor
+polynomial (z—a) is 1, If the divisor is a factor of the dividend, the remainder will
+be zero and if it is not zero, the remainder will be a number other than zero.
+Corollary 11. (x — a) will be a factor of f(z) if and only if f(a) = 0.
+Proof: Let, f(a) = 0. Therefore, according to remainder theorem, if f(x) is

@@ -1,0 +1,26 @@
+# Chunk 383 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.338439
+# Character count: 743
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_383
+
+========================================
+
+--- Page 135 ---
+130 Physics
+Therefore, area itself is considered as a vector! A vector must have a magnitude
+and the direction. The amount of area is the  magnitade of vector, the
+perpendicular on the area is the direction of the vector.
+Since pressure is a scalar quantity, it has no direction. It is so necessary, because
+the concept of pressure is more important for a liquid and gas than the solid.
+When liquids and gases apply pressure then actually it does not depend on the
+direction. We will see this matter very soon.
+aT
+Example
+po
+Question: Let us assume your mass is 50 kg, area of one side of your body is 0.5
+m?and bottom area of your two legs is 0.03 m?. What pressures will you apply on
+the floor when lying down and standing ?

@@ -1,0 +1,23 @@
+# Chunk 225 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.322471
+# Character count: 771
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_225
+
+========================================
+
+--- Page 80 ---
+Force 75
+3.6 Effect of Force on Motion: Newton’s Second Law
+In the football ground we always see a player kicking a stationary football and
+directing it to distant places by creating motion. At the time of the kick, when the
+player touches the ball, only at that instant, force is applied on the ball. The
+stationary ball goes into motion due to this force.
+We can apply force also for a long time instead of just for a moment. By pushing
+a stationary go-cart for a long time and we can release it after setting it into
+motion. It can move for a while until it ceases its motion due to friction.
+The direction of velocity can also be changed by the application of force. When
+a bowler throws a cricket ball towards the batsman, then the batsman can direct

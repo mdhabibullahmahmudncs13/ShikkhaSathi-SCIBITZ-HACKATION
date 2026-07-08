@@ -1,0 +1,35 @@
+# Chunk 566 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.363207
+# Character count: 779
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_566
+
+========================================
+
+--- Page 203 ---
+198 Physics
+Question: Figure 7.08 shows a wave at a particular time in different position and
+for a particular positions in different times. Determine its amplitude,
+wavelength, time period, frequency, and velocity.
+Answer: From the first figure we see that, the wave has,
+Amplitude, a = 0.1m
+Wavelength, 2 =1m
+From the second figure we see that, the wave has,
+Amplitude, a = 0.1 m (we know it from the first figure also)
+Time period, T = 0.2 s
+We can calculate frequency f from the time period,
+f 1 1 5H
+= =—= z
+T 0.2
+E 01 T T T E oa | T
+g 0 £ 0
+5} ‘5
+& 01 Ton
+= 05 1 15 20 ~ 01 02 03 04
+position (m) time (s)
+Figure 7.08: A wave with respect to position and time simultaneously
+Therefore, using the information of the two figures, we can say
+v=Af =1mx5Hz=5 m/s

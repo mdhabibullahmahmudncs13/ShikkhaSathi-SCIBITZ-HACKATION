@@ -1,0 +1,22 @@
+# Chunk 481 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.349232
+# Character count: 767
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_481
+
+========================================
+
+absolute zero temperature as zero Kelvin.
+To make any scale of temperature two certain temperatures (or fixed points) are
+needed. In the Kelvin scale one is absolute zero which is taken as zero degree.
+Another one is the triple point of water. At this temperature and at a certain
+pressure (0.0060373 atm) ice, water and water vapour can exist together, so this
+temperature can be defined very accurately. In the Celsius scale its value is 0.01
+°C and to make the similarity with Celsius scale its value is 273.16° in Kelvin
+scale.
+Besides, the Kelvin and Celsius scales there is an another scale called the
+Fahrenheit scale in which the temperature of fusion of ice and vaporization of
+water are 32°F and 212°F respectively. In the figure 6.02 three scales are shown

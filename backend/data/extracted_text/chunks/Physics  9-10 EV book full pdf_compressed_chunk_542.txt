@@ -1,0 +1,30 @@
+# Chunk 542 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.359383
+# Character count: 685
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_542
+
+========================================
+
+--- Page 193 ---
+188 Physics
+® By the end of this chapter we will be able to-
+* explain the characteristics of waves.
+* set and measure the simple mathematical relations among the quantities
+related to waves.
+* explain the characteristics of sound waves.
+* explain creation of an echo.
+* explain the uses of echo in our daily lives.
+* setup the mathematical relation among the velocity of sound, frequency,
+and wavelength and measure these quantities.
+* explain the change of velocity of sound.
+o explain the range of hearing and its uses.
+o explain the pitch and intensity of sound.
+* explain the reasons and consequences of sound pollution and the tech
+niques to prevent it.
+“
+I]
+B51

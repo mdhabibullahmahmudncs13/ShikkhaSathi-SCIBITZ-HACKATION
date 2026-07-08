@@ -1,0 +1,26 @@
+# Chunk 544 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.444218
+# Character count: 771
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_544
+
+========================================
+
+--- Page 242 ---
+Chapter 11. Algebraic Ratio and Proportion 237
+Example 15. The area of a rectangular land is 12 hectors and length of its
+diagonal is 500 metres. The ratio of length and breadth of this land to that of
+other land are 3 : 4 and 2 : 3, respectively.
+1) What is the area of the given land in square metre?
+2) What is the area of the other land?
+3) What is the breadth of the given land?
+Solution:
+1) We know, 1 hector = 10,000 square metres.
+12 hectors = 12 x 10,000 = 120000 square metres
+2) Given that, the ratio of length and breadth of the given land to that of other
+land are 3 : 4 and 2 : 3, respectively.
+Let length of the given land be 3z metres and breadth be 2y metres.
+Therefore, the length of the other land is 4 metres and breadth is 3y metres.

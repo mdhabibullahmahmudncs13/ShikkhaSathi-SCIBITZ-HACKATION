@@ -1,0 +1,27 @@
+# Chunk 145 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.404184
+# Character count: 779
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_145
+
+========================================
+
+= (a + 8b” + dab) (a® + 8b* — 4ab)
+
+= (a® + dab + 8b*)(a® — dab + 8b?)
+
+Work: Resolve into factors:
+
+Middle term factorization: Factors can be determined by applying the
+formula 2? + (a + b)x + ab = (x + a)(x + b). In this method, a polynomial of the
+form 2° + pa + ¢ can be factorized, if two integers a and b can be found so that,
+a+b =pand ab = q. For this, two factors of ¢ with their signs are to be taken
+whose algebraic sum is p. If ¢>0 , a and b will be of same sign and if ¢< 0 , a and
+b will be of opposite sign. To be noted p and ¢ may not be integers.
+Example 24. Resolve into factors: z* + 12x + 35
+Solution: #2 +122 +35 =a? + (5+ Nx +5 x T= (z+ 5) (xz +7)
+Example 25. Resolve into factors: z% +z — 20
+Solution: 22 +x — 20 = 2% + (5 — 4) + (5)(—4) = (z + 5)(z — 4) g

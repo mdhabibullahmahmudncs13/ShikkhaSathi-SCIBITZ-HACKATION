@@ -1,0 +1,34 @@
+# Chunk 135 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.403137
+# Character count: 776
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_135
+
+========================================
+
+--- Page 58 ---
+Chapter 3. Algebraic Expressions 53
+Note: Substituting — b instead of b in Formula 6 we get Formula 7:
+{a+ (=b)}* = a® + (=b)* + 3a(—b){a + (—b)}
+That is, (a — b)* = a® — b* — 3ab(a — b)
+Corollary 10.  a® —b* = (a — b)* + 3ab(a — b)
+Formula 8. a+ b° = (a+ b)(a* — ab +b?)
+Proof: a® + b* = (a + b)* — 3ab(a + b)
+= (a+ b){(a+b)*— 3ab}
+= (a+ b)(a* + 2ab+ b* — 3ab)
+= (a+0b)(a*—ab+1b?) [m}
+Formula 9. a —b* = (a —b)(a®? + ab +b?)
+Proof: a* — 0° = (a — b)* + 3ab(a — b)
+= (a—b){(a—b)* + 3ab}
+= (a — b)(a® — 2ab + b* + 3ab)
+= (a —b)(a® + ab +b?) [m}
+Example 12. Find the cube of 2x + 3y.
+Solution: (2 + 3y)*
+= (22) + 3(22)%- 3y + 3 - 22(3y)% + (3y)*
+= 82% +3. 42% 3y +322 9y® + 27y°
+= 82° + 362%y + Hay? + 27y°
+Example 13. Find the cube of 2z — y.
+Solution: (2z —y)*

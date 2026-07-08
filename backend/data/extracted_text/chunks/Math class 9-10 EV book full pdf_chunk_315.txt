@@ -1,0 +1,40 @@
+# Chunk 315 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.421227
+# Character count: 673
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_315
+
+========================================
+
+ZAOD. (ol B
+Parallel lines
+
+Alternate angles, corresponding angles and interior angles of the
+traversal
+
+Forma-17, Mathematics, Class 9-10
+
+
+--- Page 135 ---
+130 Mathematics Classes IX-X
+F
+A bp, B
+3/4
+Cc 5/6 D
+7/30
+E
+In the figure, two straight lines AB and C'D are cut by a straight line EF at P
+and Q. The straight line EF is a traversal of AB and C'D. The traversal has
+made eight angles Z1, £2, /3, Z4, /5, Z6, Z7, Z8 with the lines AB and CD.
+Among the angles
+
+1) Z1 and £5, £2 and £6, £3 and £7, Z4 and £8 are corresponding angles.
+
+2) /3 and £6, Z4 and Z5 are alternate angles.
+
+3) Z4, Z6 are interior angles on the right.
+
+4) £3, £5 are interior angles on the left.

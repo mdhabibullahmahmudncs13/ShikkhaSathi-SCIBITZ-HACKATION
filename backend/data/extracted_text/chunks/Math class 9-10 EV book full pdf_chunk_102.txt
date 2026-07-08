@@ -1,0 +1,20 @@
+# Chunk 102 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.399866
+# Character count: 476
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_102
+
+========================================
+
+in introducing relations between algebra and geometry. He introduced a modern
+
+concept in geometry by defining the position of a point in two dimensional space
+
+by drawing two straight lines perpendicularly crossing each other. He termed
+
+the perpendicular lines as axes, and their point of intersection as origin. Let two
+9 perpendicularly crossing straight lines XOX’ and YOY” be drawn on a plane.
+S Any point lying on this plane can be uniquely determined through these two

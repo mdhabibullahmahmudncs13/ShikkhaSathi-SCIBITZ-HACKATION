@@ -1,0 +1,22 @@
+# Chunk 180 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.845823
+# Character count: 755
+# Chunk ID: ICT 9-10.txt_0_180
+
+========================================
+
+hyperlinks to other pages. And various types of program files are required to display
+the content of the web page in the browser.
+‘Web Site and Web Portal
+A website is an allocated space or location of a computer properly connected to the
+Internet to store one or more web pages.On the other hand, a web portal is a collec-
+fion of links, content, and services within a website that are presented simply to
+inform users. Any of the services on the website can be a part of the web portal. For
+example: knowing the flight schedule and ticket booking from the web portal of an
+airline company.
+Product advertising and product buying and selling services on e-commerce web-
+sites are also part of the portal. A portal page manages to present information from

@@ -1,0 +1,53 @@
+# Chunk 693 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.377223
+# Character count: 769
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_693
+
+========================================
+
+occurs from core to clad in optical
+
+Here fiber
+ny = 145 @@€ n, = 1.50
+5
+
+
+--- Page 260 ---
+Refraction of light 255
+0, = sin~! (ie) = sin~1(0.97) = 75°
+
+Therefore light has to incident at an angle of 75° or more.
+
+9.3.2 Periscope and binocular
+
+There is something called periscope
+
+in submarines and it is possible to see
+
+above the water surface while under ¥ i
+
+water by periscope. The periscope is {
+
+made by a prism and its total internal
+
+reflection is more effective than a periscope
+
+made of ordinary mirrors (Figure
+
+9.12). In order to reduce the length of
+
+binoculars, total internal reflection is i NR
+
+done using prisms in it. NJ 0 on
+
+9.3.3 Prism i
+
+Interms of optics, if a transparent 2a
+
+medium is bound by another F: i =
+
+two surfaces of a transparent ee

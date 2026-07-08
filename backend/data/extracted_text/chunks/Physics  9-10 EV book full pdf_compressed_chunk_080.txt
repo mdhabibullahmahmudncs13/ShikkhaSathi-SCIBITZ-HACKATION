@@ -1,0 +1,29 @@
+# Chunk 80 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308203
+# Character count: 776
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_80
+
+========================================
+
+--- Page 27 ---
+22 Physics
+1.6.2 Balance
+Mass cannot be measured directly, so mass is
+generally determined by measuring the weight.
+‘When we say the weight of an object is 1 gm or 1
+kg, then actually we mean that the mass of the WIE I
+object is 1 gm or 1 kg. In earlier times to measure - 2%
+the mass of an object, a balance was used, there h— —c/
+the mass of the object was compared with the E tl
+definite mass of a known weight. Now-a-days the Er
+use of electronic balance (figure 1.08) has
+increased a lot. If we keep the body on the Figure 1.08: Digital weigh
+balance then the sensors of the balance can machine
+determine the weight very precisely.
+- : 1.6.3 Stop Watch
+% Stop watches are used to measure time interval
+Fp . r (figure 1.09). Once accurate stop watches were

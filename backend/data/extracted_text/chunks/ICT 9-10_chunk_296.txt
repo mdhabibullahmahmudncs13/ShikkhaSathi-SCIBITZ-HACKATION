@@ -1,0 +1,34 @@
+# Chunk 296 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.866946
+# Character count: 751
+# Chunk ID: ICT 9-10.txt_0_296
+
+========================================
+
+- The selection will be filled with red colour. and a red circle will be viewed
+in thumbnail of Layer circle.
+
+C. Preparing Text Layer
+
+- You should keep in mind [Beis ese SERS IE :
+that if text is started with TET a
+the Type tool, the text will -
+automatically be written | | Bare
+on the Text layer. The new es
+text layer will be | B[ Jaw a
+transparent. | mi = EEE EEE
+
+To write on Text Layer:
+
+- Click on the canvas selecting the Type tool from the toolbox, and instantly a
+new layer will be added to the Layer Palette.
+
+- Selecting the Text tool. click the mouse pointer on the canvas. and the
+requisite dropdown option list will be found on the Option bar to determine
+the font, font size, ete.
+
+- Select SutennyMJ from the dropdown list of fonts.

@@ -1,0 +1,38 @@
+# Chunk 694 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.377324
+# Character count: 762
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_694
+
+========================================
+
+9.3.3 Prism i
+
+Interms of optics, if a transparent 2a
+
+medium is bound by another F: i =
+
+two surfaces of a transparent ee
+
+medium are not parallel, this is | Co .
+
+called prism. The light goes out ina Figure 9.12 : Prism is used instead
+
+direction parallel to the direction IMIFTOr in periscope
+
+in which it enters the transparent
+
+medium. Though the direction
+
+remains unchanged, the light ray bends a little bit from the main ray. In the case
+
+of prism the direction of light changes (Figure 9.13). While entering the first
+
+surface the ray bends toward the normal. The second surface is not parallel, so
+
+when going out from this surface the light ray moves away from the normal but
+
+cannot move towards the main ray. Though in a prism the direction of light

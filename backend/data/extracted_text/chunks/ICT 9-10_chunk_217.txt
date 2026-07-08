@@ -1,0 +1,28 @@
+# Chunk 217 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.853099
+# Character count: 662
+# Chunk ID: ICT 9-10.txt_0_217
+
+========================================
+
+--- Page 69 ---
+64 Information and Communication Technology
+would be color in American English. Also, the spellchecker identifies scientific
+names, names of individuals, organizations or places as errors. The user has to
+ensure whether these words are correct or not.
+Spreadsheet and My Accounts
+Analysis of Spreadsheet
+Let us have a look again on what the specialities of spreadsheet analysis are.
+Specialities of’ Spreadsheet Analysis:
+
+It is possible to work with statistics and letter-based data;
+
+It is advantageous for any kind of accounts;
+
+Classification is easier for the rows and columns:
+
+1t is possible to work with voluminous data by using formulae:

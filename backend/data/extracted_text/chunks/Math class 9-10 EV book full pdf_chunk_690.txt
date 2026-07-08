@@ -1,0 +1,23 @@
+# Chunk 690 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.457763
+# Character count: 127
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_690
+
+========================================
+
+ADEF = BC*: EF?
+
+A
+/I
+B G Cc E H F
+
+Drawing: Draw perpendiculars AG and DH on BC and EF respectively. Let
+
+AG =h, DH =p.
+IS
+g
+S

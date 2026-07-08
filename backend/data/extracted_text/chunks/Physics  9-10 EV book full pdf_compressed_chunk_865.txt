@@ -1,0 +1,33 @@
+# Chunk 865 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.395467
+# Character count: 729
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_865
+
+========================================
+
+--- Page 330 ---
+Current Electricity 325
+In the figure, current is supplied to the lights and fan from the 5A circuit breaker.
+15A is connected with cooking burner. 30A circuit breaker is connected to the
+plug points of the house. We have certainly noticed that this part is like a ring
+which means flow of current can be through two different paths. In this part the
+ground is shown differently (green color).
+——— NEUTRAL CONSUMER UNIT
+_— uw | —— E—
+= GROUND 0.0 I
+fi ve 2 VE [2 gy
+ee] | LL
+pa
+LIGHTING CIRCUIT [] IT
+i) St M—
+0 ea
+T — |
+= Hi
+Figure 11.17: Possible circuit for supplying electricity to a house.
+@ Do Yourself
+What steps should be taken to minimize the dissipation of electricity?
+Describe these in a nice poster.

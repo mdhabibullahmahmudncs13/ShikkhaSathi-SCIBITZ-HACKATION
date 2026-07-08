@@ -1,0 +1,27 @@
+# Chunk 99 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.834362
+# Character count: 749
+# Chunk ID: ICT 9-10.txt_0_99
+
+========================================
+
+in various forms, each posing unique risks to information security. Some exam-
+ples of cybercrimes are listed below.
+. Hacking
+0 Brute Force Attack
+* Data Interruption
+. DDoS Attack
+. Computer Malware etc.
+Hacking
+Hacking is usually accessing or taking complete control of a website or comput-
+er network without permission. The person who hacksis called the hacker.
+Hacking can be legal or illegal. Some organizations hire hackers to test the secu-
+rity of their systems. The work of these hired hackers is called legitimate hack-
+ing. They check system security but do not harm the system.
+For example, there are many legitimate hackers to
+check the system. They are called white hat hackers.
+Those who do illegal hacking are also called Crackers.

@@ -1,0 +1,22 @@
+# Chunk 562 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.361766
+# Character count: 738
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_562
+
+========================================
+
+wire or pin through the cross (x) mark and fold the wire by pressing it.
+Now rotate the circular paper below and see through the cut portion,
+clearly you will see how longitudinal waves advance.
+7.2.3 Wave related quantities
+The quantities we have talked about in simple harmonic motion, actually all of
+them can be used in case of waves. In a wave complete oscillation occurs, it has
+a time period, frequency and amplitude. We have seen that when a wave
+propagates, if we look at a particular particle of a medium, we will see that the
+particle is executing simple harmonic oscillation!
+In case of wave we can talk about two new quantities, one of them is the
+wavelength. Wavelength is the distance from any phase of the wave to the next

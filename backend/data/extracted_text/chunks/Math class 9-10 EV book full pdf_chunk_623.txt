@@ -1,0 +1,30 @@
+# Chunk 623 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451569
+# Character count: 742
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_623
+
+========================================
+
+1) Form a system of equations by the fraction z
+y
+2) Find (x,y) by solving the system of equations by the method of cross-
+multiplication. What is the fraction?
+3) Draw the graph of the system of equations and verify the correctness
+of the obtained values of (x,y).
+
+20. If the total number of sides of two polygons is 17 and total number of
+diagonals of those polygons is 53, then what is the number of sides of each
+polygon?
+
+21. An assignment was given to some students where they can work alone or in
+
+2 3
+a male-female group of two members. 3 of male students and 5 of female
+students worked in groups. What fraction of students did that assignment
+alone?
+
+22. It takes 5 seconds for two trains of 100 and 200 metre lengths to cross each

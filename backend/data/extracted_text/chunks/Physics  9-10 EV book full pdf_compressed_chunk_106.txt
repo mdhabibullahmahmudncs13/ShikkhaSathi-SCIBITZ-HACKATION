@@ -1,0 +1,21 @@
+# Chunk 106 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.310790
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_106
+
+========================================
+
+the gate of your residence is known to us, yet we cannot tell exactly in which
+direction the school is situated at a distance of 1 kilometer from the gate. But if
+you say the school is situated 1 kilometer east from the gate of your residence,
+only then we will know the exact position of your school. That is to know the
+position of the school; we have to know both the distance and the direction
+definitely. Not only this, this distance and direction has to be specified from the
+position of a reference point. In the case of your school the gate of your
+residence was the reference point or origin. Instead of your residence gate, the
+reference point might be a bus stop or a shopping mall. Then definitely both the
+position and the direction would have different values; but we can specify

@@ -1,0 +1,21 @@
+# Chunk 69 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307316
+# Character count: 434
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_69
+
+========================================
+
+7. The prefix (k, G, M) of unit will be attached with the unit (m, W, Hz) with
+no space. For example, km, GW, MHz.
+
+8. Prefixes more than kilo (10%) will be in capital letters (M, G, T).
+
+9. The symbols of units will never be in plural from (e.g. not 25 kgs, always 25 kg).
+
+10. We have to try to write any number or compound unit in a single line. A line .
+
+break can be given between a number and a unit if it is really necessary. g

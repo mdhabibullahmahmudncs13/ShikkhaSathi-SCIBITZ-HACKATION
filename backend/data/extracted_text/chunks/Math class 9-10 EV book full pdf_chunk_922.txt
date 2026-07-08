@@ -1,0 +1,32 @@
+# Chunk 922 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.481652
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_922
+
+========================================
+
+--- Page 407 ---
+402 Mathematics Classes IX-X
+.. Area of the entire faces of the given solid.
+=2(75x6+6x4+7.5x4)sq. cm
+=2(45 +24 +30) sq. cm
+=2x99 sq. cm
+=198 sq. cm
+Proof of the required theorem
+Theorem 2:
+If two straight lines intersect, the opposite angles formed are equal.
+Special Nomination: Assume lines AB and CD intersect
+at point O. As a result, angles ZAOC, ZCOB, ZBOD A D
+and ZAOD are formed at O.
+We need to prove that ZAOC is equal to the opposite 0
+Z/BOD and ZCOB is equal to the opposite ZAOD. B
+Proof:
+The ray OA intersects line CD at point O.
+Therefore, ZAOC + ZAOD = 1 straight angle = 2 right angle. [Theorem 1]
+Similarly, the ray OD intersects line AB at point O. Hence, ZAOD + ZBOD = 1
+straight angle = 2 right angle. [Theorem 1]
+So, ZAOC + ZAOD = ZAOD + ZBOD

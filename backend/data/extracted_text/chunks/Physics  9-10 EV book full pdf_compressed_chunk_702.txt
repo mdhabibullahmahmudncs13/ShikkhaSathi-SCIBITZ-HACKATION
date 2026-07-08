@@ -1,0 +1,28 @@
+# Chunk 702 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378079
+# Character count: 703
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_702
+
+========================================
+
+9.4.1 Concave lens
+While discussing about convex and Nal ’
+concave mirrors, we first learned | a
+about convex mirrors. In the case of =
+lens at first we will discuss concave iy ge
+lens. Because a concave lens forms the ~o- []
+image a like a convex mirror. | SES
+In the case of a convex mirror we saw Tal
+that parallel rays diverts in all il facal =
+directions during reflection. In the length
+case of concave lens the same thing
+occurs. The incident parallel Tays On pioure 9.18: Rays of light diverges
+this lens are diverted during refraction. when passing through a concave lens.
+If we extend the refracted rays of light
+backwards, it would seem that they
+are spreading out directly from a point. o
+Bd

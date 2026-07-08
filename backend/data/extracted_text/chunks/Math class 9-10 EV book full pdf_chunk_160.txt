@@ -1,0 +1,33 @@
+# Chunk 160 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.405574
+# Character count: 773
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_160
+
+========================================
+
+--- Page 70 ---
+Chapter 3. Algebraic Expressions 65
+Example 32. Resolve into factors: 54z* + 27z%a — 162 — Sa.
+Solution: Let, f(r) = 54a’ + 27z%a — 162 — 8a
+4 3
+Then, i(- 1) = wo - i) van — i) — uo — ») — 8a
+“Tu Tits sa—sa=0
+or — ( — i) =z+ : = Low +a) is a factor of f(x).
+Hence, (22 4 a) is a factor of f(x).
+Now, 54a? + 272%a — 16x — 8a
+=272%(2z + a) — 8(2z + a)
+= (27+ a)(272° — 8)
+— (20+ {GaP — (2%)
+= (27 + a)(3x — 2)(92% + 67 + 4)
+Example 33. g(a) =a®+a® + 10a — 8, f(a) =a®*— 9+ (a+ 1)*.
+1) If g(a) is divided by (a — 2),then determine the remainder,
+2) Resolve into factors: f(a).
+Solution: 1) Given, g(a) = a® + a* + 10a — §
+According to remainder theorem, if g(a) is divided by (a — 2), then the remainder
+will be (2).
+G2) =P 42410. 2-8=8+4420-8=32—8=24
+cg(2)=24

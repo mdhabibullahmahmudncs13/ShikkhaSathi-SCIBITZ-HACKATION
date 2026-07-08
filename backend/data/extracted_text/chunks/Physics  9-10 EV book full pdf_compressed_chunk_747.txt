@@ -1,0 +1,43 @@
+# Chunk 747 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.382969
+# Character count: 776
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_747
+
+========================================
+
+--- Page 283 ---
+278 Physics
+
+10.3.1 Electroscope
+
+An electroscope is a wonderful equipment for test of static electricity. The
+
+equipment is very simple. To determine
+
+the presence of charge, it contains two
+
+light leaves of gold, aluminum or some
+
+other metal. These two leaves are connect-
+
+ed to a metal disc by a highly conducting i
+
+rod. The whole setup is kept inside a glass [wy = | == ==__-- J
+
+bottle with a nonconducting stopper so ty a 1
+
+that it can be seen from outside, but air or NY
+
+anything else cannot touch the light metal Af
+
+leaves. ga | :
+
+Charging the electroscope . Figure 10.07: When a large amount
+
+If a glass rod is rubbed by silk, positive of charge comes down to ground
+
+charge is accumulated in the rod. Now if from clouds, we call it lightning.

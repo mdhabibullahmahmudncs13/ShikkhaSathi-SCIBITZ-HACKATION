@@ -1,0 +1,38 @@
+# Chunk 370 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426560
+# Character count: 742
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_370
+
+========================================
+
+--- Page 161 ---
+156 Mathematics Classes IX-X
+3. Three sides and two ¢
+diagonals a b
+a—
+[J —
+c— B d D E
+d J — ‘c
+C
+4. Three sides and two Lo
+) a— AFD
+included angles b—— A »
+c ¢
+B a CE
+5. Two sides and three el
+angles A / A Ne A
+b c
+a—
+hp
+B a [SD
+Sometimes special quadrilaterals can be constructed with fewer data. In such a
+case, from the properties of quadrilaterals, we can retrieve five necessary data.
+For example, a parallelogram can be constructed if only the two adjacent sides
+and the included angle are given. In this case, only three data are given. Again,
+a square can be constructed when only one side of the square is given. The four
+sides of a square are equal and an angle is a right angle; so five data are easily
+specified.

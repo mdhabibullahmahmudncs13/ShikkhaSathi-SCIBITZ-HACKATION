@@ -1,0 +1,26 @@
+# Chunk 605 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.367722
+# Character count: 781
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_605
+
+========================================
+
+--- Page 221 ---
+216 Physics
+8.2.1 Laws of Reflection
+Before understanding the laws of reflection, we need to define some terms.
+When lights incident from one medium to another, for the time being we assume
+that it is a plane surface. To understand better, we will assume that the light that
+reflects is a light ray or a light beam. When a light ray from the first medium
+to the second medium is incident on a point, first we have to imagine a
+perpendicular at that point which is called a normal. Then imagine a plane that
+contains this incident ray and the normal (Figure 8.03).
+The ray, which is incident at a point,
+from the first to the second medium
+is called the incident ray (XO). The
+ray which is reflected (OX) is called fir etm
+the reflected ray. (You are realizing 9] P

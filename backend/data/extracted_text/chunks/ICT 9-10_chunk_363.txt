@@ -1,0 +1,27 @@
+# Chunk 363 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878602
+# Character count: 768
+# Chunk ID: ICT 9-10.txt_0_363
+
+========================================
+
+the Backspace/Delete button. if it is selected.
+
+Enlarging or Reducing Font Size
+
+A. Click the downward arrow on the right side of Font Size box in the Character
+Palette as the letter or letters are selected and keep pressing the mouse, and a
+list of measuring numbers about the Font Size will be viewed. Continue
+pressing the mouse and take on a measurement number, and the number will
+be selected. Afier giving the command, release the pressure on the mouse
+and the size of the selected letters will either be enlarged or reduced.
+
+B. If the requisite measurement number is not found in the drop-down menu,
+place insertion pointer in Font Size box by clicking directly.
+
+- By pressing the Backspace button, delete the existing measurement number
+and type new number.

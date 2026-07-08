@@ -1,0 +1,27 @@
+# Chunk 277 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.417893
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_277
+
+========================================
+
+31. The area of a land is 192 square metre. If the length of the land is decreased
+by 4 metre and the breadth is increased by 4 metre, then the area remains
+unchanged. Again a circle of 20 diametre was drawn in the center of the
+land. A line drawn from the center of the circle perpendicular to one of the
+chords is 2 cm less than the length of that chord.
+
+1) Letting the length as x and the breadth as y express the information
+by an equation.
+
+2) Find the perimeter of the land.
+
+3) Find the length of the chord of the circle.
+
+32. When Nabil’s age was same as Shuva’s present age, at that time Nabil’s age
+was twice as Shuva’s age. When Shuva’s age will be same as Nabil’s present
+age,sum of their ages will be 63. What is the present age of each one?

@@ -1,0 +1,28 @@
+# Chunk 619 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451215
+# Character count: 649
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_619
+
+========================================
+
+--- Page 273 ---
+268 Mathematics Classes IX-X
+9. How much taka will be the total cost for decorating the floor with mosaic?
+1) 72000 2) 43200 3) 28800 4) 21600
+
+Solve by forming simultaneous equations (10 — 17):
+10. If 1is added to each of numerator and denominator of a fraction, the fraction
+4
+will be —. Again, if 5 is subtracted from each of numerator and denominator,
+2)
+1
+the fraction will be 7 Find the fraction.
+11. If 1is subtracted from numerator and 2 is added to denominator of a fraction,
+1
+the fraction will be 5 Again, if 7 is subtracted from numerator and 2 is
+1
+subtracted from denominator, the fraction will be 3 Find the fraction.

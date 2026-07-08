@@ -1,0 +1,28 @@
+# Chunk 839 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391677
+# Character count: 457
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_839
+
+========================================
+
+and R,. = c
+To keep it simple, we can say, the sum of two =
+resistances is the total resistance R and the i a1 )
+current will be = V/(R ), but let us prove this igure 11.11: Two resistances
+PS connected one after another in a
+rather than writing it. circuit
+Let us assume the potential at point B is V, ’
+then for the first resistance R, we can write:
+V-=V
+[=—F02
+Ry
+Again we can write for the second resistance R;:
+[Vem _V
+TR OR
+Therefore,
+5 JVs Vs
+Ss CORR

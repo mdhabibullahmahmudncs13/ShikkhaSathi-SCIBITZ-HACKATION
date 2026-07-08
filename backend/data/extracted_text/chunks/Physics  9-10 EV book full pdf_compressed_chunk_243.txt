@@ -1,0 +1,19 @@
+# Chunk 243 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324699
+# Character count: 339
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_243
+
+========================================
+
+equations above, we find that a=Mg/(M+m)
+Using this acceleration we can explain the motion of the object located on the
+table.
+0) Example
+Question: As shown in figure 3.10, two weights of masses 10 kg and 5 kg are
+suspended from two sides of a mass m using two pulleys. What is the force
+acting on the mass m?
+Forma-11, Physics, Class 9-10

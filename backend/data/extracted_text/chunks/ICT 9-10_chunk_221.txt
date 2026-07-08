@@ -1,0 +1,36 @@
+# Chunk 221 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.853685
+# Character count: 792
+# Chunk ID: ICT 9-10.txt_0_221
+
+========================================
+
+--- Page 71 ---
+66 Information and Communication Technology
+Lo -@. J] -=-PRODUCT(BIC3)
+a. as 1 es 1. cc | I
+IE Monthly Shopping Expenditure
+2 | Product Name Price (1k) Quantity (Kg) Expenditure
+www
+4
+The facility of multiplying by using function is that the result of multiplication
+of numerous cells can be done by range, if necessary. The process of
+multiplying 3 cells is shown in the picture below:
+| oa -@.  f|-rroDucTiAz:ca)
+qa [8 [oc | J
+1 Volume of Cube
+2 Length Width Height Volume
+ow
+Ea]
+Activity.
+Opening a file of spreadsheet, multiply some imaginary data.
+Method of Dividing
+Dividing can also been done on the spreadsheet by a formula. You have to
+write =A 1/B1" in the result cell to divide Al by Bl. Here the sign / is used as
+the sign of division.
+: = = = J
+ET - EE | Activity

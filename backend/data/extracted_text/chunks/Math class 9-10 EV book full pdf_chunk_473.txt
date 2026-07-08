@@ -1,0 +1,25 @@
+# Chunk 473 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.436986
+# Character count: 323
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_473
+
+========================================
+
+So PM = OM = a (denote) ya
+Now, OP? = OM? + PM? = ® + a* = 2a? ‘ oom x
+or, OP = 2a
+From the definitions of trigonometric ratios we get,
+sin 45° PM a 1 cos 45° OM a 1
+qn 45° = = = = =— =
+OP 2a 2 OP 2a V2
+PM a
+tan45° = — =—-=1
+an 45 OM a
+Cc) 1 a o _ 1 —
+cosec 45° = pw V2, sec 45° = os dp = V2,
+cot 45° = 1 =1 g
+i © tan 45° -

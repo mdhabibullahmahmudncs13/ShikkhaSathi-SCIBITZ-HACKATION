@@ -1,0 +1,30 @@
+# Chunk 384 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881152
+# Character count: 778
+# Chunk ID: ICT 9-10.txt_0_384
+
+========================================
+
+g known as a compiler.
+a
+
+
+--- Page 122 ---
+Problem Solving through Programming 117
+However, if the compiler finds any errors in the entire set of instructions, it
+cannot proceed with the translation. Only when all instructions are error-free
+can the compiler perform the translation.
+
+progeanming ==
+[eis Compller Machine Code
+
+b) Interpreter: In some translation systems, regardless of the number of instru
+ctions we give, they will not be translated all at once. Instead, each instruc-
+tion will be translated sequentially, one by one. This translation process is
+called interpreting, and the program that performs this translation is called an
+interpreter. The interpreter translates each instruction one at a time and will
+stop if it encounters an error in any instruction.

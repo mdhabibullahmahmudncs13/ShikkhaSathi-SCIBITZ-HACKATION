@@ -1,0 +1,56 @@
+# Chunk 265 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.416698
+# Character count: 787
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_265
+
+========================================
+
+garden.
+
+Sox #40; x =5
+
+.. the path is 5 metres wide
+
+Example 14. Shahik bought some pens for Tk. 240. If he would get one more
+
+pen in that money, average cost of each pen would be less by Tk. 1. How many
+
+pens did he buy?
+
+Solution: Let, shahik bought x pens in total for Tk. 240. Then each pen costs
+
+240
+Tk.—.
+x
+If he would get (z+ 1) pens by Tk. 240, then the cost of each pen would be Tk.
+240
+z+1
+240 240
+By th stion, —— = — —1
+y the question, —== po
+240 240 — x
+or, —— =——
+r+1 £2
+
+or, 240z = (x + 1)(240 — x) [by cross-multiplication]
+
+or, 240z = 240z + 240 — 2? — x
+
+or, z% + x — 240 = 0 [by transposition]
+
+or, x + 16x — 15x — 240 = 0
+
+or, (x +16) — 15(x + 16) = 0
+
+or, (x +16)(x — 15) = 0
+
+cx+16=0,orz—15=0
+
+fz+16=02=-16
+fr—15=02=15
+
+But the number of pen x cannot be negative.

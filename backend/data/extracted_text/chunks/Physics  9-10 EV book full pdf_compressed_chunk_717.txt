@@ -1,0 +1,25 @@
+# Chunk 717 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.379405
+# Character count: 567
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_717
+
+========================================
+
+(a) The position of the image will be outside twice of the focal length
+
+(b) Itis real
+
+(c) Itis inverted
+
+(d) It is bigger than the size of the object
+(ii) Now let’s see what will happen if the object is kept outside twice of the focal
+length. It is seen that if the object XY is kept at exactly twice of the focal length
+(Figure 9.25), then the size of the image will be same as the object XY and the
+position of the object will be at the same distance from the center of the lens.
+
+& The closer the object will be brought to the focal point, the further away the
+S

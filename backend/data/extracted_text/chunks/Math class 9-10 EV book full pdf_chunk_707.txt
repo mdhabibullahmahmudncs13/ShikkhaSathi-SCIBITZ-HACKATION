@@ -1,0 +1,22 @@
+# Chunk 707 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.459623
+# Character count: 560
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_707
+
+========================================
+
+We have seen that some geometrical shapes have only line symmetry, some have
+only rotational symmetry and some have both line symmetry and rotational
+symmetry. For example, the square has four lines of symmetry as well rotational
+symmetry of order 4.
+The circle is the most symmetrical figure, because it can be rotated around its
+centre through any angle. Therefore, it has unlimited order of rotational of
+symmetry. At the same time, every line through the centre forms a line of
+reflection symmetry and so it has unlimited number of lines of symmetry.
+i
+g
+S

@@ -1,0 +1,21 @@
+# Chunk 450 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.434629
+# Character count: 751
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_450
+
+========================================
+
+Trigonometry. The word “Trigonometry” is derived from Greek words ‘tri’ (means
+three), ‘gon’ (means edge) and ‘metron’ (means measure). In fact, trigonometry
+is the study of relationship between the sides and angles of a triangle. There are
+evidence of using the Trigonometry in Egyptian and Babilonian civilization. It is
+believed that the Egyptians made its extensive use in land survey and engineering
+works. Early astrologers used it to determine the distances from the Earth to
+the farthest planets and stars. At present trigonometry is in use in all branches
+of mathematics. There are wide used of trigonometry for the solution of triangle
+related problems and in navigation etc. Now a days trigonometry is in wide use
+in Astronomy and Calculus.

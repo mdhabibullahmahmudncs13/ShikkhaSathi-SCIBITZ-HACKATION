@@ -1,0 +1,26 @@
+# Chunk 756 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.465428
+# Character count: 799
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_756
+
+========================================
+
+Solution: Let breadth of the rectangular room is = metre.
+.. Length of the room is Sa and area 5 Xx = Se
+3, 5 5
+According to the question, Til = 384 or, 32° = 768 or, 2? = 256
+x = 16 metre.
+3
+Length of the rectangular room = 5 x 16 = 24 metre and breadth = 16 metre.
+oo Its perimeter = 2(24 + 16) metre = 80 metre and length of the diagonal
+= V/24% + 16% metre = v/832 metre = 28.84 metre (approx.)
+The required perimiter is80 metre and length of the diagonal is 28.84 meter (approx.)
+Example 9. The area of a rectangular region is 2000 square meter. If the
+length is reduced by 10 metre, it becomes a square region. Find the length and
+breadth of the rectangular region.
+Solution: Let length of the rectangular region be x metre and breadth y metre.
+area of the rectangular region is = xy sq. metre

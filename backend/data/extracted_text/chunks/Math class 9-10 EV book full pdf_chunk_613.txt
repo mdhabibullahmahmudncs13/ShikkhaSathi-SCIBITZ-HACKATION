@@ -1,0 +1,30 @@
+# Chunk 613 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.450586
+# Character count: 744
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_613
+
+========================================
+
+.. at present, Father's age is 32 years and son's age is 11 years.
+Example 14. Twice the breadth of a rectangular garden is 10 metre more
+than its length and perimeter of the garden is 100 metre. There is a path of width
+2 metre around the outside boundary of the garden. To make the path by bricks,
+it costs TI. 110 per square metre.
+1) Assuming the length of the garden to be x metre and its breadth to be y
+metre, form system of simultaneous equations.
+2) Find the length and breadth of the garden.
+3) What will be the total cost to make the path by bricks?
+Solution:
+1) Length of the rectangular garden is z metre and
+breadth is y metre.
+E
+by first condition, 2y = x 4 10... (1) >
+Xm
+and by second condition, 2(z + y) = 100... (2) "-
+IS
+g
+5

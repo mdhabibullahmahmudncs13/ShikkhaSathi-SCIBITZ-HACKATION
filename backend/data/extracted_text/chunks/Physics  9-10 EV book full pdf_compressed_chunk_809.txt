@@ -1,0 +1,24 @@
+# Chunk 809 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389169
+# Character count: 775
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_809
+
+========================================
+
+--- Page 309 ---
+304 Physics
+electrons; flow of electricity is done by electron, negatively charged electrons!
+Insulator: The substance which has no free electron for conducting electricity is
+called an insulator. Plastic, rubber, wood, glass are examples of insulators.
+Mainly, non-metals are insulators.
+Semiconductor: There are some substances whose conductivity lies between
+insulators and conductors at normal temperature, but their conductivity
+increases with the rise of temperature. These types of substances are called
+semiconductors. Silicon or germanium examples of semiconductors.
+Semiconductor are elaborately discussed in the last chapter of this book.
+11.1.3 Direction of electric flow
+We have seen that if two bodies of different potentials are connected by a

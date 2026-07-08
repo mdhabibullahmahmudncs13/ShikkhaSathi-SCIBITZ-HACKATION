@@ -1,0 +1,34 @@
+# Chunk 309 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.869196
+# Character count: 740
+# Chunk ID: ICT 9-10.txt_0_309
+
+========================================
+
+-  Ablend can be created from all directions. If anything is not selected, blend
+will be created through out the screen.
+
+- Activate the radial gradient icon on the option bar by clicking it for creating
+radial gradient.
+
+- The mouse after bringing onto the screen will be transformed into a plus
+(+) sign. Now drag it from the middle of the selection to the other end, and
+
+nn 4
+o release the pressure of the finger from the mouse pointer.
+5
+
+
+--- Page 100 ---
+Information and Communication Technology 95
+
+Editing Gradient
+
+- The editing of gradient can be done by starting, finishing, and changing or
+combining colors in the dialogue box. To get the task done
+
+- Gradient Editor Dialogue box can be viewed by clicking on the gradient bar.

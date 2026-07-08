@@ -1,0 +1,25 @@
+# Chunk 903 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.479782
+# Character count: 772
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_903
+
+========================================
+
+--- Page 399 ---
+394 Mathematics Classes IX-X
+Inclusion to Chapter 6
+Quadrilateral
+In previous classes, we have discussed triangles and quadrilaterals. In
+constructing a particular triangle, we have seen that three measures are required.
+So, naturally the question arises whether four measures are enough to draw a
+quadrilateral. In this chapter, we shall discuss this matter. Besides, different types
+of quadrilaterals, such as parallelograms, rectangles, squares and rhombuses
+have various properties. The properties of these quadrilaterals and their
+constructions have also been discussed in this chapter.
+At the end of the chapter, the students will be able to -
+» Verify and logically prove the properties of quadrilateral.
+» Construct quadrilaterals from given data.

@@ -1,0 +1,17 @@
+# Chunk 298 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.329841
+# Character count: 453
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_298
+
+========================================
+
+person who is applying the force has to give exactly the same amount of energy.
+So now you have understood the meaning of negative work. If any force does a
+negative work on an object, then it is to be understood that a certain amount of
+energy is taken away from the energy contained in the object. The amount of
+negative work done is equal to the amount of energy taken away, and he who has
+applied the force gets this energy anyway. So, on any object

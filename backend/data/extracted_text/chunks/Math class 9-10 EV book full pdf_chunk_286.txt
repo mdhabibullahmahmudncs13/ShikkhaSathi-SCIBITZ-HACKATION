@@ -1,0 +1,22 @@
+# Chunk 286 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418632
+# Character count: 567
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_286
+
+========================================
+
+--- Page 125 ---
+120 Mathematics Classes IX-X
+‘When two surfaces intersect, a line is formed. For example, two faces of a box
+meet at one side in a line. This line is a straight line. Again, if a lemon is cut by
+a knife, a curved line is formed on the plane of intersection of curved surface of
+the lemon.
+Line: A line is one-dimensional; it has only length and no breadth or thickness.
+If the width of a face of the box is gradually receded to zero, we are left with only
+line of the boundary. In this way, we can get the idea of line from the idea of
+surface.
+SS  —

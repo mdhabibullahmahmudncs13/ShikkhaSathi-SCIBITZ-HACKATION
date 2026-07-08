@@ -1,0 +1,27 @@
+# Chunk 104 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.835200
+# Character count: 763
+# Chunk ID: ICT 9-10.txt_0_104
+
+========================================
+
+--- Page 34 ---
+Information and Communication Technology 20
+tion digitally, someone between the receiver and the sender can intercept it. This
+process of theft is known as data interception.
+service ser
+o — Pr
+8 | ®
+hd
+Inodet
+End-to-end encryption, commonly used in software or apps, ensures that data
+(such as messages, images, videos, voice call records, and documents) cannot
+be intercepted or stolen by third parties. Encryption is the process ol encoding
+information to prevent unauthorized individuals from reading or understanding
+it. As a result, the data becomes unreadable to anyone without proper authoriza-
+tion. Confidential information transmitted over public networks is typically
+encrypted with a unique code to safeguard its privacy and security.

@@ -1,0 +1,20 @@
+# Chunk 40 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392855
+# Character count: 443
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_40
+
+========================================
+
+--- Page 17 ---
+12 Mathematics Classes IX-X
+Remarks: In order to convert finite decimal fractions into similar decimal
+fractions we must add sufficient number of 0s at the end of the number to match
+with number of nonrepeating digits. In case of repeating decimal fractions for
+each number, numbers of nonrepeating digits have been made equal so should be
+the case with repating digits.
+
+Addition and subtraction of repeating decimal fractions

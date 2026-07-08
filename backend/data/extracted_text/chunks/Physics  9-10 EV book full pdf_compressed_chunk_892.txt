@@ -1,0 +1,18 @@
+# Chunk 892 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397893
+# Character count: 507
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_892
+
+========================================
+
+is to be a bar magnet, and keep it in another magnetic field, then we can analyze
+what kind of attractive or repulsive force it feels and also the direction of motion
+due to it. In Figure 12.10, an electromagnet of this type is placed in another
+magnetic field, and how it changes its position due to the repulsive force is
+shown. If the electromagnet is allowed to rotate about an axis, passing through
+its center, then it will try to go to a position like in the next figure.
+Forma-43, Physics, Class 9-10

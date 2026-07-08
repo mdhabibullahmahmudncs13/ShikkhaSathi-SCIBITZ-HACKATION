@@ -1,0 +1,28 @@
+# Chunk 742 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.382299
+# Character count: 698
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_742
+
+========================================
+
+know opposite charges attract each other, so to attract the pieces of paper
+
+opposite charge of the comb has to be created in the paper. Since we know the
+
+pieces of paper have no charge, then why is the comb attracting them?
+
+This happens due to a process called electric induction. If charge is
+
+accumulated in glass or plastic and brought near a neutral body, then charge will
+
+be produced in the neutral body. To explain it, a metal sphere is shown in Figure
+
+10.04 and kept on a non-conducting stand. Now if positive charge is
+
+accumulated in a glass rod by rubbing it carefully with silk, and this is brought
+
+near the sphere, negative charges of the sphere will come closer due to attraction

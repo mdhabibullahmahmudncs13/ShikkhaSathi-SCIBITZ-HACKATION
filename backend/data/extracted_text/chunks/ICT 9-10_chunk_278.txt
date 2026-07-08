@@ -1,0 +1,34 @@
+# Chunk 278 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.863590
+# Character count: 787
+# Chunk ID: ICT 9-10.txt_0_278
+
+========================================
+
+- Select the Deselect’ command from the Select menu or click the mouse
+pointer outside the selection while it is floating. Tt will go away.
+
+Fill Colour in the Floating Sclection
+
+- There are colour icons of ‘Foreground’ and (4 ckn
+“Background” at the boltom of the toolbox. 1 -
+
+The icon above is for “Foreground” and the -
+ican below is for the ‘Background’. To fill a
+selection with colour while floating: lig LY
+La
+5 Press Alt+backspace, and the selection will tf
+g be filled with the colour of the brush or QQ, 7.
+
+
+--- Page 90 ---
+Information and Communication Technology 85
+Foreground. If you press Ctrl+backspace or only backspace, it will be filled
+with the colour of Background or canvas.
+
+- The selection filled with colour will float. It can be shifted elsewhere by
+dragging.

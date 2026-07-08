@@ -1,0 +1,21 @@
+# Chunk 434 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.343648
+# Character count: 782
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_434
+
+========================================
+
+pulling is termed as ‘applying force’ and the change of the length is termed as
+‘deformation’. The word deformation is taken negatively in our daily life. But
+you should not take it negatively here. It is just a change in condition!
+Therefore, you understand that when a force is applied to an object, a
+deformation happens inside it (and for this deformation, a counter force is
+created). If the force is withdrawn, deformation stops and the object comes back
+to its initial condition. This property of a substance is called elasticity. But it
+should be remembered that the quantity of the applied force has a limit. If the
+limit is crossed, the substance will not be able to come back to its initial
+condition. A permanent deformation could take place. This limit is termed as the

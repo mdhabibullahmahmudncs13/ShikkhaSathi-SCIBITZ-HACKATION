@@ -1,0 +1,25 @@
+# Chunk 723 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.379939
+# Character count: 760
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_723
+
+========================================
+
+Therefore the power of a lens P Tp N ET
+is inversely proportional to the
+focal length. If the focal length =
+is fin meters then unit of power
+P is the diopter. If the power of Figure 9.27 : The lens which have as much as
+the glass is 2.5 (Nobody uses alier the focal length , the object is seen to be
+diopter in general conversation). ager
+Then the focal length of this
+glass will be
+f= H = = m = 0.4m (the unit is in meter)
+Power is not only used only for convex lens to show bigger objects. In the case of
+concave lens the same power is used to show smaller images. In the concave lens in
+which the object is seen as much as smaller, the power will be greater or the focal
+length will be smaller. In the case of a convex lens the power is positive and in the

@@ -1,0 +1,23 @@
+# Chunk 313 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.331155
+# Character count: 640
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_313
+
+========================================
+
+--- Page 113 ---
+108 Physics
+energy is stored in a stone when the stone is raised above can also be calculated.
+You are realizing that the amount of work to be done when an object is raised
+above is stored in that object as potential energy. If the work done is 7,
+
+W=Fh
+Here, F is the applied force and / is the height. We have to apply the force F in
+the upward direction and distance traversed is also in the upward direction,
+therefore F is positive. The force that has to be applied for raising the object
+upwards does not change as the spring force and this force is equal to the weight
+of the stone. If the weight of the stone is mg,

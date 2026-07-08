@@ -1,0 +1,17 @@
+# Chunk 159 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.843005
+# Character count: 242
+# Chunk ID: ICT 9-10.txt_0_159
+
+========================================
+
+A. Computer runs slow. B. Computer runs fast.
+C. Antivirus does not work. D. Internet access is denied.
+2. Which programme runs fast while installing a piece of Software from CD,
+DVD or pendrive?
+re A. Setup B. Autorun
+8 C. Read me D. Restart

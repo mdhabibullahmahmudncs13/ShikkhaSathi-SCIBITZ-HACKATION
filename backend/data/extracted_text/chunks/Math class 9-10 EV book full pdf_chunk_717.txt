@@ -1,0 +1,30 @@
+# Chunk 717 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.460528
+# Character count: 758
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_717
+
+========================================
+
+--- Page 316 ---
+Chapter 14. Ratio, Similarity and Symmetry 311
+‘We know that,
+1) If the length of the rectangular region ABCD B
+AB = a units (say, metre), breadth BC' = b units
+(say, metre), the area of the region ABCD = ab Aer
+square units (say, square metres). » c
+\
+2) If the length of a side of the square region ABCD, AB B
+= a units (say, metre), the area of the region ABCD \
+= a? square units (say, square metres). Fara”
+When the area of two regions are equal, the c
+sign ‘=’ is used between them. For example,
+in the figure the area of the rectangular region
+ABCD = area of the triangular region AED,
+where AB = BE. ! ’ “
+It should be mentioned that, if AABC and 4 »
+ADEF are congruent, we write AABC =
+ADEF. In this case, the arca of the triangular

@@ -1,0 +1,40 @@
+# Chunk 100 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.399690
+# Character count: 612
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_100
+
+========================================
+
+3
+
+range by Range R. S
+
+
+--- Page 42 ---
+Chapter 2. Sets and Functions 37
+
+Example 20. Find domain and range of the relation
+
+S={(2,1),(2,2), (3,2), (4,5)}.
+
+Solution: Given, S = {(2,1),(2,2).(3,2),(4.5)}
+
+The first elements of the ordered pairs of S are 2,2,3,4 and the second elements
+
+are 1,2,2,5
+
+Dom S ={2,3,4} and Range S = {1,2,5}
+
+Example 21. If A= {0,1,2,3} and R= {(z,y) :x € Aye Aand y = z+ 1},
+
+then express R in tabular method and determine Dom R and Range R.
+
+Solution: Given, R={(z.y):x€ A,ye A y=a+1}
+
+From the conditions of R we get y = + 1.
+
+Now for each x € A determine the value of y = = + 1.

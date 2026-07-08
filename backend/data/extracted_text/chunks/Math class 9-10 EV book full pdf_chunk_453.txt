@@ -1,0 +1,28 @@
+# Chunk 453 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.434895
+# Character count: 739
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_453
+
+========================================
+
+3. ‘(adjacent side)’, which is a line segment constituting the given angle.
+P, P,
+[&] N [e} N
+For the angle ZPON, OP is the
+hypotenuse, ON is the adjacent side
+and PN is the opposite side. For the
+angle ZOPN, OP is the hypotenuse,
+PN is the adjacent side and ON is the
+opposite side.
+In the geometric figure, the capital letters are used to indicate the vertices and
+small letters are used to indicate the sides of a triangle. We often use the Greek
+letters to indicate angle. Widely used six letters of Greek alphabet are :
+beta 7 fia 0
+Greek letter are used in geometry and trigonometry through all the great
+mathematician of ancient Greek.
+a Example 1. Indicate the hypotenuse, the adjacent side and the opposite side
+8 for the angle 6.

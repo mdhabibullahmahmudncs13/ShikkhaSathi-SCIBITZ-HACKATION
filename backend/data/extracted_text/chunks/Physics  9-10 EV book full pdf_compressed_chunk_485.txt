@@ -1,0 +1,44 @@
+# Chunk 485 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.349856
+# Character count: 763
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_485
+
+========================================
+
+--- Page 172 ---
+Effect of Heat on Matter 167
+9Tx — 9 x 273.15° = 5T — 5 x 32°
+If 7, and 7; are equal then we get,
+4Ty = 9 x 273.15° — 5 x 32°
+Ty = 574.59K
+
+Question: What is the temperature in Celsius if the temperature of a healthy
+
+body is 98.4 °F?
+
+Answer: The relation between Celsius and Fahrenheit temperature is
+
+Te = > (Tp — 32°)
+[a 9 F
+If 7, = 98.4°, we get
+5
+Te = 5(98.4° — 32°) = 36.89°
+(i.e., it is nearly equal to 37°C)
+
+Question: At which temperature the readings in Celsius and Kelvin scale are
+
+equal?
+
+Answer: Never.
+
+6.3 Thermal Expansion of Matter
+
+6.3.1 Expansion of Solids:
+
+Volume of almost all objects increases to some extent if they are heated. It is not
+
+difficult to understand the cause of heat and temperature if we explain them with

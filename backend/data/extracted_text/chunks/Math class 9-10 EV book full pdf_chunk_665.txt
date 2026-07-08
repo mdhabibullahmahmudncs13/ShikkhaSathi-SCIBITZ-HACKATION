@@ -1,0 +1,26 @@
+# Chunk 665 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455409
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_665
+
+========================================
+
+16. If the sum of n terms of the series 2 +4 +8 +16 +--+ is 254, find the value
+of n.
+17. What is the sum of (2n + 2) terms of the series 2 —2 +2 —2+4-..7
+18. If the sum of cubes of n natural numbers is 441, find the value of n and find
+the sum of those n terms.
+19. If the sum of cubes of n natural numbers is 225, find the value of n and find
+the sum of squares of those n terms.
+20. Show that, 1% + 2% + 3% +++ + 10° = (1 + 2+ 3+ --- +10)?
+194093 433 pd
+21. If Pra tst +n = 210, what is the value of n?
+14+2+34+---+n
+22. An iron-bar with length of one metre is divided into ten-pieces such that
+the lengths of the pieces form a geometric progression. If the largest piece
+is ten times than that of the smallest one, find the length in approximate
+millimetre of the smallest piece.

@@ -1,0 +1,18 @@
+# Chunk 861 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.475205
+# Character count: 363
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_861
+
+========================================
+
+11-20 [21-30 [31-40 [ 41 — 50
+Solution: The maximum numbers of Class Frequency frequency are 25 which lie
+in the class (41 — 50). So it is obvious that this class is the class of mode. We
+know that, Mode = L + ho xh
+fit fa
+Here, L=41, fy =25-20=05, f, =25—0=25, h = 10 [If the frequency is maximum pS
+in the last class, the frequency of following class is zero] S

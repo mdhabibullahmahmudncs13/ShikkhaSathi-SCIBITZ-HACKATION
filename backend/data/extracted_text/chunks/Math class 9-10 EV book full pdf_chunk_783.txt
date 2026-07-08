@@ -1,0 +1,32 @@
+# Chunk 783 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468137
+# Character count: 790
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_783
+
+========================================
+
+--- Page 345 ---
+340 Mathematics Classes IX-X
+90 45
+r= ——— = ——— = 21.01 ;
+ONT =m) ~ mae 20h em (approx)
+The required radius of the circle is 21.01 cm (approx.)
+Example 21. The diameter of a circular field is 124 metre There is a path with
+6 metre. width around the field. Find the arca of the path.
+Solution:
+Let the radius of the circular field be r and radius of the field with the path be R
+124
+
+Sor = 5 metre = 62 metre and R = (62 + 6) metre = 63 metre
+Area of the circular field = 7r? and area of the circular field with the path = wR?
+.. Area of the path = Area of field with path — Area of
+the field 6
+= (7R* — mr?) = w(R? — 1?)
+= 3.1416(68 — 622) = 3.1416(4624 — 3844)
+= 3.1416 x 780 = 2450.44 square metre (approx.)
+The required area of the path is 2450.44 square metre
+(approx.)

@@ -1,0 +1,28 @@
+# Chunk 910 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480356
+# Character count: 674
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_910
+
+========================================
+
+one of its diagonals. It is to be proved that Z4+ ZB+
+
+ZC +£D =4 right angles.
+
+Construction: Join 4 and C. The diagonal AC divides the, B
+
+quadrilateral into two triangles AABC and AADC.
+Proof:
+(1) In A4BC [The sum of three angles of a
+ZBAC + ZACB + ZB = 2 right angles. triangle is 2 right angles]
+(2) Similarly, in ADAC [sum of three angles of a
+ZDAC + ZACD + 2D = 2 right angles. triangle is 2 right angles]
+(3) Therefore, ZDAC + ZACD + ZD + [ From (1) and (2) ]
+ZBAC + ZACB + ZB =(2+2) right angles.
+(4) £ZDAC + £BAC = ZA and ZACD + ZACB = ZC | [The sum of adjacent angles]
+Therefore, ZA+ B+ C+ 2D= 4 right angles. | [The sum of adjacent angles]
+(Proved) [ from (3) ] 8

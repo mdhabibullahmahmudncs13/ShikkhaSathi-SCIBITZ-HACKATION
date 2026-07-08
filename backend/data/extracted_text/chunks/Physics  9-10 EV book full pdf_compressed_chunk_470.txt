@@ -1,0 +1,35 @@
+# Chunk 470 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.348013
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_470
+
+========================================
+
+--- Page 168 ---
+Effect of Heat on Matter 163
+
+6.1.1 Internal Energy
+
+If we accept heat as energy, the next thing we need to know how heat energy is
+
+transferred from one place to another. Generally we think that energy always
+
+flows from higher energy to lower energy. The amount of heat energy that is
+
+contained in a glass of water is much more than that of a small hot pin. But if we
+
+put the hot pin into the water, a small amount of the energy of the pin will
+
+transfer to the water of the glass. Because of this, the flow of heat energy does
+
+not depend on the amount of heat, it depends on the temperature. If two bodies
+
+of different temperatures come in contact with each other, always heat transfers
+
+from the body of higher temperature to
+
+the body of lower temperature until the

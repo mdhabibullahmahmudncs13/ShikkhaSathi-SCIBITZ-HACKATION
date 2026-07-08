@@ -1,0 +1,36 @@
+# Chunk 605 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.449721
+# Character count: 737
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_605
+
+========================================
+
+--- Page 266 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 261
+Let the two straight lines intersect each other at P. It is seen from the picture
+1
+that the coordinates of P are (5 -3).
+. 1
+solution: (z,y) = 7 -3
+. , 3
+Example 11. Solve with the help of graphs: 3 — Pd =8—4x
+. . Lo, 3
+Solution: Given equation is 3 — Pid =8—4x
+, 3
+Let, y=3-go=8-dz
+3
+cy=3—gr...(1)
+and y =8 — 4x... (2)
+Taking some values of x in equation (1), we find the corresponding values of y
+and make the adjoining table:
+[o[-2f0]2]
+[v[ 6 [3]0]
+.". three points on the graph of the equation are: (—2,6), (0,3), (2,0).
+Again, taking some values of 2 in equation (2), we find the corresponding values
+of y and make the adjoining table:
+Ly [alo] ~1]
+IS

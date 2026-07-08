@@ -1,0 +1,23 @@
+# Chunk 215 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321659
+# Character count: 502
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_215
+
+========================================
+
+their velocities are changed. Now, v, and v, are the new velocities of masses mm,
+
+and m, respectively (figure 3.04). Can we find the values of v, and v, after the
+
+collision?
+
+The combined momentum of the two objects before collision = mu +m,u,
+The combined momentum of the two objects after collision =m v +m,v,
+
+Since, no force is applied from outside, hence the momentum before collision
+" and after collision will be the same. This is the law of conservation of
+H momentum. Therefore we can write,

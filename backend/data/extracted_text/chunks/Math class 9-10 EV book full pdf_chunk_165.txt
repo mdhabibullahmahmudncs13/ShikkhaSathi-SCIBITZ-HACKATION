@@ -1,0 +1,29 @@
+# Chunk 165 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.405999
+# Character count: 668
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_165
+
+========================================
+
+Related to Payable or Attainable
+Suppose, ¢ = amount of money payable or attainable per person
+n = number of person
+.. Amount of payable or attainable money, A = gn
+Related to Time and Work
+Suppose, ¢ = portion of a work performed by every one in unit of time
+n = number of performers of work
+© = total time of doing work
+W = portion of a work done by n persons in time x
+SW o=qnx
+Related to Time and Distance
+Suppose, v = speed per hour
+t = total time
+d = total distance
+sod =ut
+Related to pipe and water tank
+" Suppose, Qo = amount of stored water in a tank at the time of opening the pipe
+S gq = amount of water flowing in or flowing out by the pipe in a unit time.

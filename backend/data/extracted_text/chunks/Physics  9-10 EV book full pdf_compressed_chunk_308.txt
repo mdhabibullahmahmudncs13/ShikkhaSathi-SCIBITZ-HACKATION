@@ -1,0 +1,31 @@
+# Chunk 308 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330738
+# Character count: 794
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_308
+
+========================================
+
+--- Page 111 ---
+106 Physics
+, 2x80] 160m?
+pr OF
+m 10s?
+v=4m/s
+4.3.2 Potential Energy
+When we were discussing work, we said that if a force does a positive work on
+an object then energy is generated. When we were talking about kinetic energy
+we gave the example of this too. We have shown that by applying a force on an
+object if the object moves by a distance, then its kinetic energy becomes Smv?
+Now, we will give such an example L M
+where force is applied and displacement '
+occurs even when no kinetic energy is \
+produced. Suppose, a spring is kept on a :
+table as shown in figure 4.03. You L- i Xx I
+applied a force at the free end of the ' !
+spring by your finger and compressed it r=
+by an amount x. In such a condition, none — re =.
+of your hand or spring is in motion, so no F x A ar

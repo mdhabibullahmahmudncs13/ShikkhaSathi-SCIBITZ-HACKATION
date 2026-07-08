@@ -1,0 +1,24 @@
+# Chunk 522 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.356930
+# Character count: 799
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_522
+
+========================================
+
+Dryness of air: The drier the air over the liquid surface is, the more the liquid
+evaporates.
+6.5 Specific Heat
+Heat, temperature and the relation between them are discussed so far, however the
+amount of heat needed to increase the temperature of an object has not been discussed
+yet. You might have noticed that in order to heat some water, it needs to be kept
+on the oven for a long time, but approximately the same amount of metal take
+little time to be heated at the same temperature. This is because, the specific heat
+of a metal is much less compared to water. The amount of heat required to
+increase the temperature of a body of mass 1 kg by 1 K is called the specific heat.
+That is, if an amount of heat Q is required to increase the temperature from 7’ to
+T,, the specific heat will be:
+_ Q

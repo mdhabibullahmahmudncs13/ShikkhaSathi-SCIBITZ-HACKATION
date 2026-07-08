@@ -1,0 +1,32 @@
+# Chunk 193 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.408842
+# Character count: 589
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_193
+
+========================================
+
+» explain the rational exponent.
+
+» explain and apply the positive integral exponents, zero and negative integral
+
+exponents.
+» solve problems by describing and applying the rules of exponents.
+» explain the n th root and rational fractional exponents and express the n th
+root in terms of exponents.
+
+» explain logarithms.
+
+» prove and apply the formulae of logarithms.
+
+» explain natural logarithm and common logarithm.
+
+» explain the scientific form of numbers.
+
+» explain the characteristic and mantissa of common logarithm.
+
+“
+» calculate common and natural logarithm by calculator. g

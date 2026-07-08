@@ -1,0 +1,23 @@
+# Chunk 574 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446916
+# Character count: 313
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_574
+
+========================================
+
+--- Page 253 ---
+248 Mathematics Classes IX-X
+In class VIII, we have known how to solve by the methods of substitution and
+elimination. Here, examples of one for each of these two methods are given.
+Example 2. Solve by the method of substitution:
+
+2u4+y=38
+
+3 —-2y=5
+Solution: Given equations are;
+
+20 +y=28...(1)

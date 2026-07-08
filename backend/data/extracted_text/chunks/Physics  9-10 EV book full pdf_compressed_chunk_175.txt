@@ -1,0 +1,26 @@
+# Chunk 175 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.317986
+# Character count: 785
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_175
+
+========================================
+
+the first stationary object, you start to count time with a watch, or start
+counting “one thousand one”, “one thousand two” and so on. Again when
+you will see this vehicle just passing the second stationary object, you
+see the time on the watch or stop counting the numbers. Find the required
+time from the watch or up to which number of words you have counted,
+This is the time to travel the distance.
+Calculate the speed dividing the distance by the time.
+Discussion: Compose your procedure of measuring time with the time of
+a watch and see how accurate is it. Guess the percentage of error of your
+calculated speed considering the degree of accuracy of your step
+measuring procedure.
+Distanced : =
+. Ti Average speed =
+Vehicles No. of steps travelled me Ee 5p
+L (m) t (s) L/t (m/s)

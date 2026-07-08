@@ -1,0 +1,28 @@
+# Chunk 886 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397385
+# Character count: 623
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_886
+
+========================================
+
+--- Page 341 ---
+336 Physics
+Therefore, the magnetic field produced by
+the current and the magnetic field
+
+@ ‘=3%: AY] produced by the iron piece itself combine
+- ep & itv to produce a strong magnetic field (Figure
+- 12.07). The interesting point is, as the
+current is stopped, the small magnets
+a) A I) A) present within the iron piece become
+— randomly oriented again, and the entire
+J — / magnetic field will disappear.
+i / / A magnet prepared by this process
+A AAA is called an electromagnet. Uses of
+fics will le electromagnets are endless, Such as in the
+i , a) sound we hear in speakers and earphones
+(Figure 12.08).

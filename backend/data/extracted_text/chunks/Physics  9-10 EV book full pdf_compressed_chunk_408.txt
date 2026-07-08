@@ -1,0 +1,28 @@
+# Chunk 408 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340957
+# Character count: 779
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_408
+
+========================================
+
+--- Page 144 ---
+State of Matter and Pressure 139
+0) Example
+Question: If a piece of wood floats on water what percent of it will be
+immersed? (Density of wood p= 0.5x10%kg/m* density of water
+Py = 10° kg/m?)
+Answer: In order to float, the weight of the wood must be equal to the mass of the
+water displaced by the immersed part of the wood. That is, if volume of wood is
+V then its mass will be Vp, and if the volume of the immersed part of the wood
+is Vy, the mass of that amount of water is Vp,
+Therefore, Vp=Vyp,
+Vi pp 05x10%kg/m?
+—=—=——""" x 100 = 509
+Vo op 103 kg/m? x %
+Question: A piece of wood of mass 10 kg went to sea floating from the river. In
+the river water it was half immersed, how much of it will immerse in the sea?
+(Density of sea water, 25 = 1.03 x 10%kg/m?)

@@ -1,0 +1,43 @@
+# Chunk 365 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426017
+# Character count: 713
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_365
+
+========================================
+
+--- Page 158 ---
+Chapter 7. Practical Geometry 153
+Solution:
+1 “ 3cm s 6cm
+/ 24s
+E
+2) Cut AB = a from any ray AX. Draw
+ZXAE = x at the point A. Take AD = D
+s from AE. Join B, D. Now draw
+ZDBC equal to ZADB at the point B. c
+The line segment BC intersects AD af
+the point C. . ABC is the required
+triangle.
+A a B x
+3) Let the perimeter of the square p = 2s. We are to draw the square.
+*®
+*
+2s
+r tp
+*
+x
+1
+Cut AB = hid from any ray AX. Draw E
+AE 1 AB at the point A. Cut AD =
+AB from AE. centring the points B c
+and D draw two arcs equal radius of b
+1
+rid in the interior of ZBAD. The arcs
+intersects each other at the point C'. Join
+B,C and C, D. A B x
+ABCD is the required square.
+Forma-20, Mathematics, Class 9-10

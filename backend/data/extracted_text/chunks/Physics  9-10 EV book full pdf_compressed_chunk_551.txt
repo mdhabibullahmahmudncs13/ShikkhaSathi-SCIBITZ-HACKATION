@@ -1,0 +1,32 @@
+# Chunk 551 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.360515
+# Character count: 764
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_551
+
+========================================
+
+g
+
+
+--- Page 197 ---
+192 Physics
+If the deviation or disturbance in a quantity changes position with time,
+it is referred to as a wave. A single disturbance can constitute a wave,
+while a series of repeated disturbances can also generate a wave; in this
+context, it is called a wave train.Generally, the term 'wave' refers to peri-
+odic wave trains, while single disturbances are less commonly referred
+to by this term.
+
+Some waves require a medium to propagate, while others do not. Waves that
+
+need a gaseous, liquid, or solid medium to travel through are known as mechan-
+
+ical waves. In these types of waves, the particles of the medium actively partici-
+
+pate in the wave propagation.
+
+When a stone is thrown into a pond, a single wave is created that spreads

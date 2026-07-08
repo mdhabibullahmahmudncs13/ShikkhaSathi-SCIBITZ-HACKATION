@@ -1,0 +1,22 @@
+# Chunk 206 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.850750
+# Character count: 793
+# Chunk ID: ICT 9-10.txt_0_206
+
+========================================
+
+--- Page 65 ---
+60 Information and Communication Technology
+There are letters of different styles in a word processor. These are called ‘Font’.
+In formatting a text, the selection of font comes first, This selection is done from
+the name of the font of font group from the drop-down box on the home-menu.
+Pick the font that you like out of numerous fonts. Sometimes, it is required to use
+fonts of different styles either to highlight or specify words or phrases. In that
+case, select the requisite section of writing, select the font in the similar way.
+Click the number from the dropdown box at the right side of the font box to
+determine the font size. You can select the font colour as you like. Clicking on
+the icon of the dropdown box of font group, the colour can be selected. There are

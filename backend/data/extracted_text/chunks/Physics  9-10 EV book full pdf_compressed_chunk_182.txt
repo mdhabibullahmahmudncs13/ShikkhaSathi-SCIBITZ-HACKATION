@@ -1,0 +1,25 @@
+# Chunk 182 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.318747
+# Character count: 766
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_182
+
+========================================
+
+--- Page 65 ---
+60 Physics
+Creative question
+1. Rajib with his family members started for Jaflong in Sylhet by
+microbus.He recorded the magnitude of the velocity i.e. speed of the car from
+the speedometer after every Smins throughout the journey. The magnitude of
+velocity he got per hour was 18,36,54,54,54,36, and 18 kilometer.
+(a) What is instantaneous speed?
+(b) Explain the acceleration of an object moving with uniform velocity.
+(c) Find the distance traveled by the car in the first Smin.
+(d) Draw and explain the velocity-time graph from the collected data.
+2. An object of mass m is moving with an acceleration a. Its initial velocity is u,
+final velocity v and the distance travelled in time 7 is s. The state of motion of the
+object is given in the table:

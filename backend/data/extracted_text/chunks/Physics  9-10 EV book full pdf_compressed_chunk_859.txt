@@ -1,0 +1,23 @@
+# Chunk 859 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.394726
+# Character count: 711
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_859
+
+========================================
+
+(¢) Humidity: Water is conductor of electricity, so if water enters any circuit, it
+may be dangerous due to short circuit. A hair drier or electric iron is very
+dangerous to use near water, because if it falls suddenly in the water and anyone
+touches it, an accident may occur by electrocuting the person.
+
+(d) Circuit breaker and fuse: Major accidents of electricity occur when a
+large amount of current flows suddenly due to some defects. To stop sudden
+large flows, circuit breakers or fuses are used. A circuit breaker is made in such
+away that if a large amount of current flows (more than the safer level), it breaks
+the circuit. A fuse is a comparatively simple method; the amount of current that ~~ §
+
+8

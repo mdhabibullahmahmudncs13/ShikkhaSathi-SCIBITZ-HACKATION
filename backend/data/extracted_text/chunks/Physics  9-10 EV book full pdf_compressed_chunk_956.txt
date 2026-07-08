@@ -1,0 +1,22 @@
+# Chunk 956 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404691
+# Character count: 731
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_956
+
+========================================
+
+--- Page 365 ---
+360 Physics
+Usually the electrons are bound to the atoms in semiconductors. With the
+increase of temperature, one or two electrons may become free. There are free
+electrons in conductors so the semiconductors may act as conductors to some
+extent. From to the view point of physics it is an interesting phenomenon, but
+not very suitable for practical use. An interesting thing is done to make it more
+useful. Atoms with five electrons in its outer most shell. e.g, phosphorous are
+mixed with silicon crystal. Hence, the fifth electron of phosphorous becomes an
+extra electron. It is not necessary for the extra electron to be bound to the
+atoms of phosphorus. This electron behaves like free electrons by making the

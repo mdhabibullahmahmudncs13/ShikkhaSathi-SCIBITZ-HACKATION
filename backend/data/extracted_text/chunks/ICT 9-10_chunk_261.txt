@@ -1,0 +1,24 @@
+# Chunk 261 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.861146
+# Character count: 765
+# Chunk ID: ICT 9-10.txt_0_261
+
+========================================
+
+sample chosen, and the (ransition will be applied to the slide.
+3. If you want to apply the same transition to all the slides. click ‘Apply to
+All” button on the right side after applying it to the first slide.
+4. If you want to apply a different transition to every slide, you have to apply
+it separately following the same process for every slide.
+Applying Transition Separately in Text
+One slide may contain several textboxes. There are texts in three textboxes in
+the second slide of the current presentation. If different transitions are applied
+in these three textboxes, they will come to slide in three different processes. To
+insert transition to the textbox
+1. Keep the second slide open.
+2. Select the textbox.
+3. Click the Animations menu to activate it.

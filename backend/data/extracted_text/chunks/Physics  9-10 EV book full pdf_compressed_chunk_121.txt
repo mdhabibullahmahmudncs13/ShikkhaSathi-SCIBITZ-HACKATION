@@ -1,0 +1,28 @@
+# Chunk 121 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.312528
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_121
+
+========================================
+
+--- Page 42 ---
+Motion 37
+2.3 Scalar and Vector quantities
+In the world we know anything that can be
+measured is called a quantity. Joy and sorrow
+are not quantities but temperature is a quantity.
+Because joy and sorrow cannot be assigned a he]
+value by measuring them but temperature can A
+be given a value by measurement. The c
+temperature of your body is 37°C or 98.4°F. To
+express temperature a single number is
+sufficient, but there are many quantities which B
+cannot be expressed by a single number
+completely; with its magnitude its direction has
+to be mentioned or more than one magnitude Figure 2.03: Vector A and vector
+has to be mentioned so that they altogether can B are equal in all respect although
+express definitely the magnitude and direction 1 different position, vector Cis

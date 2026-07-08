@@ -1,0 +1,41 @@
+# Chunk 461 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.435553
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_461
+
+========================================
+
+--- Page 200 ---
+Chapter 9. Trigonometric Ratio 195
+“ - . . . p [
+So, opposite side of the angle A= 4, adjacent side= 3
+hypotenuse =v/4% + 32 = v/25 = 5
+4 3 3
+Therefore, sin A = —, cos A = —, cot A = — 4
+5° 5 1
+5 5
+cosec A = T sec A = 3
+h A 3 B
+Work: Construct a table of the following trigonometric formulae for
+memorizing easily.
+1 sin f 5
+cosec ) = —— tan § = sind + cos?f = 1
+sin 0 cos 6 N i
+1 cos 6 sec’) = 1 + tan®f
+sec § = po cot § = Sind cosec?d = 1 + cot’d
+1
+cot § = —
+0 tan 6
+Example 4. ZB is the right-angle of a right angled triangle ABC. If tan A = 1
+then verify the truth of 2sin A.cos A = 1.
+Solution: Given that, tan A = 1
+So, opposite side of the angle=adjacent side=a
+hypotenuse = va? + a? = 2a [9
+a 1 a 1
+Therefore, sin A = — = —, cosAd = —— = —
+V2a V2 V2a V2 Va a
+N 1 1

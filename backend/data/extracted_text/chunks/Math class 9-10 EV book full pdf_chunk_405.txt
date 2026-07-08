@@ -1,0 +1,41 @@
+# Chunk 405 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429697
+# Character count: 780
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_405
+
+========================================
+
+at the centre stands on a minor arc of the circle. In 7 B
+
+the figure APB is the minor arc. So the vertex of an A
+
+angle at the centre always lies at the centre and the
+
+sides pass through the two terminal points of the arc. ZN c
+
+To consider an angle at the centre standing on a semi- 8
+
+circle the above description is not meaningful. In the NEY
+
+case of semicircle, the angle at the centre ZBOC' is
+
+a straight angle and the angle on the arc ZBAC' is a
+
+right angle.
+IS
+BS
+
+
+--- Page 176 ---
+Chapter 8. Circle 171
+Theorem 20. The angle subtended by the same arc at the centre is double of
+the angle subtended by it at any point on the remaining part of the circle.
+Given an arc BC of a circle subtending angles ZBOC'
+
+at the centre O and ZBAC at a point A of the circle A
+
+ABC.

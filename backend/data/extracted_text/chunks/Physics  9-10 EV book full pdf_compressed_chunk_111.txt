@@ -1,0 +1,20 @@
+# Chunk 111 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.311320
+# Character count: 735
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_111
+
+========================================
+
+Not only this, if we want to search out an absolute rest reference point, we will
+be in trouble. If we consider anything on the surface of the earth as origin, one
+can object, as earth is not stationary rather it is rotating about its own axis, so
+everything on its surface is also rotating. Alternatively we can say, the center of
+the earth is the origin. Then someone else can come up with the objection that
+the centre of the earth is not stationary, it revolves round the sun. Then we can
+say more intelligently, the centre of the sun must be the origin! Then another
+person can confidently say that the sun is also not stationary it is also revolving
+around the centre of our galaxy. Surely you are feeling that no one can dare to

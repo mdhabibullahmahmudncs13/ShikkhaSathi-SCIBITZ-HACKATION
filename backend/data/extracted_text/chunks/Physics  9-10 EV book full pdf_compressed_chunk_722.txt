@@ -1,0 +1,34 @@
+# Chunk 722 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.379847
+# Character count: 789
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_722
+
+========================================
+
+--- Page 271 ---
+266 Physics
+You have certainly heard people say that the power of a lens of somebody is high.
+What do we mean by the word power?
+The conception of power
+comes from the matter of Xx
+seeing big and small using a Bie. [\
+lens .If we place a body in front | Ne
+of two different lenses at the = INI
+same distance, and the object = = ON F
+. A . F voy T
+looks bigger in one lens than in
+another lens , then we say the U s
+power of the lens is higher in x
+which the object looks bigger. Ree
+If you think about it you will ~ Ho
+see that the smaller the focal | he SL
+length of the lens, the object is i] INES
+seen bigger (Figure 9.27). ® 8
+Therefore the power of a lens P Tp N ET
+is inversely proportional to the
+focal length. If the focal length =
+is fin meters then unit of power

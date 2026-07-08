@@ -1,0 +1,47 @@
+# Chunk 940 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.483562
+# Character count: 762
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_940
+
+========================================
+
+(c) Find the value of a variable by the method of solution of simple equation.
+
+no (d) Put the obtained value of the variable in any one of the given equations
+S and find the value of the other variable.
+
+
+--- Page 417 ---
+412 Mathematics Classes IX-X
+Example 5. Solve the equations
+Sx—4y=6
+x+2y=4
+Solution : The given equations are
+Sx—4y =6.cccccce(l)
+X+2y=4.(2)
+Here, multiplying equation (1) by 1 and equation (2) by 2, we get
+Sx—4y=6.........(3)
+2x+4y=8.cce(4)
+Adding (3) and (4) we get,
+Tx =14
+14
+of, X=—verreeren(4
+~ “4
+Lx=2
+Putting the value of X in equation (2), we get
+2+2y=4
+or, 2y=4-2
+or y=2
+77
+soy=1
+.. Required solution is (x, y) = (2,1) .
+Example 6. Solve the equations
+x+4y=14
+Tx=3y=5
+Solution : The given equations are
+x+4y=14.()
+Tx=3y=5ccnn(2) S

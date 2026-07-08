@@ -1,0 +1,16 @@
+# Chunk 803 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.469744
+# Character count: 287
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_803
+
+========================================
+
+2) Let, the thickness of the box is z. The outer measurements of the box with
+top are 10 cm, 9 cm 7 cm.
+.. The inside measurements of the box are respectively a = (10 — 22), b =
+5 (9— 2x) and ¢ = (7 — 2x) cm.
+s The area of the whole surface of the inner side of the box = 2(ab + bc + ca)

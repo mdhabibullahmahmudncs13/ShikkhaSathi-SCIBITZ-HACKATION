@@ -1,0 +1,40 @@
+# Chunk 196 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.409123
+# Character count: 774
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_196
+
+========================================
+
+--- Page 87 ---
+82 Mathematics Classes IX-X
+a#0,m>n m=5n=23 a#0,n>m m=3n=>5
+a’ xa® = (axaxaxaxa)x(axaxa) | a® x a’ =
+=axaxaxaxaxaxaxa=a® =a"
+a @®  axaxaxaxa a> a>}
+am a™" when m > n
+In general a™ x a" = a" and — = 1
+ar —— when n>m
+nm
+Formula 3 (power of product). (ab)” = a™ x b*
+We observe, (5x2) = (5x2) x (5x2) x (5x2) [sa*=axaxa a=5x%x2]
+=(5x5x5)x(2x2x2)
+=5" x 2%
+In general, (ab)" = ab x ab x ab x ... x ab | successive multiplication of n ab’s|
+=(axaxax..xa)x(bxbxbx.. xb)
+=a" xb"
+ay a"
+Formula 4 (power of quotient). 3) =o (b#0)
+3 3
+5 5 5 5 5
+‘We obs —] =o x=-x-=—
+© observe, (3) 3%X3%X3 5%
+a\" a _a _a a . RTI : a
+In general, 4) =X —X—...X~ [successive multiplication of n times —-]
+bv) Tye fT b
+_axaxax..xa a"
+CT bxbxbx...xb b
+Formula 5 (power of power). (a™)" = a™

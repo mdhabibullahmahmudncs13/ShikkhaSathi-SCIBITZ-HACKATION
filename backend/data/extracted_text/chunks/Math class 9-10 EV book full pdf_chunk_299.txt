@@ -1,0 +1,22 @@
+# Chunk 299 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.419930
+# Character count: 788
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_299
+
+========================================
+
+the graph point of P and a the coordinates of P. To convert a straight line into
+a number line the co-ordinates of two points are taken as 0 and 1 respectively.
+Thus a unit distance and the positive direction are fixed in the straight line. For
+this, it is also admitted that,
+Postulate 8: Any straight line AB can be converted into a number line such
+that the coordinate of A is 0 and that of B is positive.
+Remarks: Postulate 6 is known as distance postulate and Postulate 7 as ruler
+postulate and Postulate 8 as ruler placement postulate.
+Geometrical figures are drawn to make geometrical description clear. The model
+of a point is drawn by a thin dot by tip of a pencil or pen on a paper. The model of
+a straight line is constructed by drawing a line along a ruler. The arrows at ends

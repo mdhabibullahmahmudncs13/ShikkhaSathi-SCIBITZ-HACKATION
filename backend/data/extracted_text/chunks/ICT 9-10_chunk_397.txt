@@ -1,0 +1,38 @@
+# Chunk 397 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.882847
+# Character count: 602
+# Chunk ID: ICT 9-10.txt_0_397
+
+========================================
+
+--- Page 128 ---
+Problem Solving through Programming 123
+Then we will get output like the following
+figore: 1 Toms gtd @ 301
+Again, it is possible to change the value of a sie st vw mn ot sp
+variable multiple times throughout the J5d Oe LE
+programme. When a new value is assigned to ir
+the variable, the previous value is deleted and ta)
+the last assigned value is stored. 1f we run the a
+following programme, what will be the
+output?
+shat
+
+value now=1 oe
+
+print(value_now) a
+
+value now=2 »
+
+print(value now)
+
+value _now=3
+
+print(value now)
+Let's write the output of this programme in the box below.
+
+1

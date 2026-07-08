@@ -1,0 +1,41 @@
+# Chunk 338 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.423573
+# Character count: 780
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_338
+
+========================================
+
+--- Page 144 ---
+Chapter 6. Lines, Angles and Triangles 139
+Theorem 14. The line segment joining the mid-points of any two sides of a
+triangle is parallel to the third side and in length it is half.
+Special Nomination: Let ABC be a triangle. D
+and FE are respectively mid-points of the AB and AC. A
+1
+
+It is required to prove DE || BC and DE = 5BC- D, E F
+Drawing: Join D and E and extend to I" so that
+EF = DE. Draw a straight line segment from C' to F'. B c
+Proof:
+Step 1. Between AADE and ACEF, AE = EC [given]
+
+DE = EF [by construction]
+
+LAED = /CEF [opposite angles]
+
+o.AADE = ACEF [SAS theorem]
+
+SLADE = ZEFC [alternate angle]
+
+SAD || CF
+
+Again, BD = AD = CF and BD || CF
+
+Therefore BDF C' is a parallelogram.
+
+DF || BC or, DE || BC.
+Step 2. Again, DF = BC or, DE + EF = BC'

@@ -1,0 +1,26 @@
+# Chunk 29 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.391830
+# Character count: 671
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_29
+
+========================================
+
+--- Page 14 ---
+Chapter 1. Real Numbers 9
+
+o The repeating decimal fraction has been multiplied with a number equalling
+1 followed by as many 0s as many nonrepeating digits are there in the
+repeating decimal fraction.
+
+e Subtracting the second number from the first results in a whole number. Tt
+may be noted that nonrepeating part has been subtracted from the repeating
+decimal fraction by deleting decimal point and repeating point.
+
+e The result of subtraction has been divided by a number equalling as many
+9s as many repeating digits were there in the original repeating decimal
+fraction, followed by as many Os as there were nonsepeating digits after
+decimal point.

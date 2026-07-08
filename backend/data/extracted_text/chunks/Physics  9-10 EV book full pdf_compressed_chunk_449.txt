@@ -1,0 +1,21 @@
+# Chunk 449 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.345343
+# Character count: 749
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_449
+
+========================================
+
+does not burst but air is coming out.
+We mentioned about pressure of gas but didn’t explain its reason. We can
+explain the reason of pressure by the molecular kinetic theory. If a gas is kept in
+a closed space then it puts a pressure on the walls of the container, this can be
+explained with the help of the molecular kinetic theory of substance. In a closed
+region the molecules of a gas starts moving randomly and every time it hits the
+walls of the container it goes back due to reflection. Therefore a gas molecule
+hits the wall with a particular momentum, and returns back with a different
+momentum. You know to change the momentum of an object; a force has to be
+applied on that object. Hitting the wall, the gas molecules apply a force on the

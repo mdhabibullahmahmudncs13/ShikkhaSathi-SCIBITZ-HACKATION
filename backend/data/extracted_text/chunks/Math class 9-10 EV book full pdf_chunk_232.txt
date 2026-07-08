@@ -1,0 +1,20 @@
+# Chunk 232 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.413072
+# Character count: 735
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_232
+
+========================================
+
+We know, = + 3 = 5 is an equation. To solve it, we find the value of the unknown
+quantity xz. Here the unknown quantity x is a variable. Again, to solve the
+equation z + a = 5, we find the value of z, not the value of a. Here, z is assumed
+as variable and a as constant. In this case, we shall get the values of z in terms
+of a. But if we determine the value of a, we shall write a = 5 — z; that is, the
+value of a will be obtained in terms of x. Here a is considered a variable and x a
+constant. But if no direction is given, conventionally x is considered a variable.
+Generally, the small letter x,y, z, the ending part of English alphabet are taken as
+variables and a, b, ¢, the starting part of the alphabet are taken as constants.

@@ -1,0 +1,22 @@
+# Chunk 236 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324008
+# Character count: 766
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_236
+
+========================================
+
+object of mass m from the centre of the earth. This is not the distance of mass m
+from the earth’s surface. Since the earth radius is too large (approximately 6370
+km), therefore the small distances over the earth surface are not considered. The
+distance is measured from the centre of the earth because for a spherical body if
+it is considered that all its mass is centered at the centre, then no error occurs.
+(Because each point of the earth attracts the mass m towards itself and if all the
+attractions are assembled, it seems that the total mass is concentrated at the
+centre of the earth!)
+The mass m experiences acceleration due to the force of gravitation of the earth.
+Already we have said that the acceleration due to gravity is expressed by g instead
+ofa.

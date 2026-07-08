@@ -1,0 +1,27 @@
+# Chunk 376 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427128
+# Character count: 726
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_376
+
+========================================
+
+--- Page 164 ---
+Chapter 7. Practical Geometry 159
+ZABZ equal to Zy.
+Now from the line segment AB, cut a line segment AE = b. At E, construct
+EC'|| AY which cuts BZ at C. Now construct C'D || BA. The line segment C'D
+intersects the ray AY at D. Then, ABCD is the required trapezium.
+Proof: By construction, AE || CD and AD || EC. Therefore AECD is a
+parallelogram and CD = AE = b.
+Now in the quadrilateral ABCD, AB = a, CD =b, AB || CD and ZBAD =
+Lx, LABC = Zy [by construction]
+Therefore, ABC'D is the required trapezium.
+‘Work: The perimeter and an angle of a rhombus are given. Construct the
+rhombus.
+Example 4. In the triangle ABC, ZB = 60°, ZC = 45° and perimeter p = 13
+cm.
+1) Construct ZB and ZC with scale and compass.

@@ -1,0 +1,38 @@
+# Chunk 741 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.382189
+# Character count: 797
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_741
+
+========================================
+
+--- Page 280 ---
+Static Electricity 275
+
+If we have done the experiment properly, we will find that similar charges
+
+repulse each other and opposite charges attract each other.
+
+_— == ==
+—— ==
+WT A “4
+{ J
+Figure 10.03: Like charges repulse each other and unlike charges attract each
+other.
+
+10.3 Electrical Induction
+
+At the beginning of this chapter it was said that if you comb your hair and then
+
+hold the comb near some small pieces of paper, you will notice that the pieces of
+
+paper jump towards the comb. The comb is attracting the pieces of paper. We
+
+know that negative charge has been gathered in the comb and due to this reason
+
+the comb is attracting the pieces of paper. But there is a slight complexity. We
+
+know opposite charges attract each other, so to attract the pieces of paper

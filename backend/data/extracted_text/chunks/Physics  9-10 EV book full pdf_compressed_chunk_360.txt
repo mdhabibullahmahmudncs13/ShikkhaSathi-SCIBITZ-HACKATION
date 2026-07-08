@@ -1,0 +1,22 @@
+# Chunk 360 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.335644
+# Character count: 735
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_360
+
+========================================
+
+Though we have known it here for the first time, it’s unit is very familiar to us.
+If 1 Joule work is done per second then we say, work done is 1 watt or
+transformation of energy takes place. If we switch on a light bulb of 100 watt
+that means, in this bulb 100 J energy is being spent in each second. When we
+read in the newspaper that a 1000 MW nuclear power plant will be built in our
+country that means in that power plant, 1000 x 10° J electrical energy will be
+produced in each second.
+4.8 Efficiency
+We have said earlier that a certain amount of energy is wasted every time while
+transforming energy from one form to another. So we have to give a little
+more energy than the amount of work we want to do. We use various types of

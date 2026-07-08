@@ -1,0 +1,24 @@
+# Chunk 632 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.452491
+# Character count: 796
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_632
+
+========================================
+
+In this series, the difference between two terms is called common difference. The
+common difference of the mentioned series is 2. The numbers of terms of the
+series are fixed. That is why the series is finite series. It is to be noted that if
+the terms of the series are not fixed, the series is called infinite series, such as,
+1+4+7+10+--- is an infinite series. In an arithmetic series, the first term and
+the common difference are generally denoted by a and d respectively. Then by
+definition, if the first term is a, the second term is a + d, the third term is a + 2d
+etc. Hence, the series will be a + (a +d) + (a + 2d) + ---.
+
+Determining common term of an arithmetic series
+
+Let the first term of an arithmetic series be a and the common difference be d.
+Then the terms of the series are:

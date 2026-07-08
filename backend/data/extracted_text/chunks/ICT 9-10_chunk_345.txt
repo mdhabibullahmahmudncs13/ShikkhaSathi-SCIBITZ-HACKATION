@@ -1,0 +1,33 @@
+# Chunk 345 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.875584
+# Character count: 669
+# Chunk ID: ICT 9-10.txt_0_345
+
+========================================
+
+The facilities of working in the layer process are as follows:
+
+«Arranging steps among the Layers;
+
+e keeping more than one layer invisible;
+
+eo keeping layers locked,
+
+eo Adding a new layer. removing unnecessary layers. etc.
+
+Creating New Layers
+
+If Layer palette is not viewed on the sereen, give the Layer command from the
+
+Window menu, and the layer palette will be viewed. At the beginning, only one
+
+layer will be on the palette. After finishing the work of a layer. add a new layer
+
+on the palette to create new object. To add a new layer
+
+A. A new layer will be added on the layer palette when you click the Create
+New Layer icon below the row of Layer Palette.

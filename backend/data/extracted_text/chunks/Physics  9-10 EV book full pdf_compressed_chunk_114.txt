@@ -1,0 +1,33 @@
+# Chunk 114 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.311610
+# Character count: 794
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_114
+
+========================================
+
+Linear motion
+
+It is an example of the easiest type of motion. If anything moves along a straight
+line then its motion is a called linear motion. If an object is pushed off ona
+plane surface then it moves along a straight line. If a ball is allowed to fall from
+a height, it will fall straight downwards, so it is also a linear motion. §
+
+
+--- Page 40 ---
+Motion 35
+
+Circular Motion
+
+‘When a body rotates about a particular point or a line, keeping the distance of
+
+the particles of the body unchanged, it is called circular motion. Though the
+
+motion of electric fans, the hands of clocks etc. Are examples of circular motion,
+
+a wonderful example of circular motion is the moon in the sky. The moon is not
+
+tied by to the earth although it is revolving around the earth, neither is it falling

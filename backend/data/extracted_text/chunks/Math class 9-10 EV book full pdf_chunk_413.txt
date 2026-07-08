@@ -1,0 +1,25 @@
+# Chunk 413 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.430922
+# Character count: 573
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_413
+
+========================================
+
+(£ZADC at the circumference)
+that is, ZAOC' = 2/ADC [The angle subtended by an arc at the
+centre is double of the angle subtended by it at the circle]
+coreflex ZAOC+ ZAOC = 2(ZABC + ZADC)
+But reflex ZAOC+ ZAOC = 4 right angles
+:.2(LABC + ZADC') = 4 right angles
+» LABC + ZADC = 2 right angles
+In the same way, it can be proved that ZBAD + ZBCD = 2 right angles.
+(Proved)
+Corollary 6. If one side of a cyclic quadrilateral is extended, the exterior angle
+formed is equal to the opposite interior angle.
+Corollary 7. A parallelogram inscribed in a circle is a rectangle.
+IS
+S

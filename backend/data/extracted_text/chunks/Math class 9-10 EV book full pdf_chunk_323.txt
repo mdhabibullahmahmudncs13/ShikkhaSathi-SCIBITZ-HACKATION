@@ -1,0 +1,32 @@
+# Chunk 323 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.422014
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_323
+
+========================================
+
+--- Page 138 ---
+Chapter 6. Lines, Angles and Triangles 133
+In the adjacent figure ABC is a triangle. A, B,C A
+are three vertices. AB , BC ,C'A are three sides
+and ZABC, ZBCA, ZCAB are three angles of the
+triangle. The sum of the measurement of AB, BC
+and C'A is the perimeter of the triangle. B c
+A
+Equilateral triangle
+An equilateral triangle is a triangle of three equal
+sides. In the adjacent figure, triangle ABC is an
+equilateral triangle; because, AB = BC = CA ie,
+the lengths of three sides are equal. i ©
+A
+Isosceles triangle
+An isosceles triangle is triangle with two equal sides.
+In the adjacent figure triangle ABC is an isosceles
+triangle; because AB = AC # BC' i.e. the lengths
+of only two sides are equal. Is c
+Scalene triangle A
+Sides of scalene triangle are unequal. Triangle ABC'

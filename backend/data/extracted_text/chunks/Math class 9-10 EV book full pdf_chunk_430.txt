@@ -1,0 +1,28 @@
+# Chunk 430 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433015
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_430
+
+========================================
+
+--- Page 186 ---
+Chapter 8. Circle 181
+Constructions related to circles
+Construction 6. To determine the centre of a circle or an arc of a circle.
+Given a circle as in figure (a) or an arc of a circle as
+in figure (b). It is required to determine the centre of
+the circle or the arc.
+Drawing: In the given circle or the arc of the circle,
+three different points A, B and C are taken.
+Join A, B and B, C'. The perpendicular bisectors J
+EF and GH of the chords AB and BC are drawn
+respectively. Let the bisectors intersect at (. (Circle ©): Are
+Threfore, the O is the required centre of the circle Cc
+or of the arc of the circle.
+Proof: By construction, the line segment EF is the A
+perpendicular bisector of chord AB and GH is the A B
+perpendicular bisector of chord BC. But both EF x

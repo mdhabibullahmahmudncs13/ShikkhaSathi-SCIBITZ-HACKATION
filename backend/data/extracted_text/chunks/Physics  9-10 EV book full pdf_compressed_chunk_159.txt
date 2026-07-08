@@ -1,0 +1,14 @@
+# Chunk 159 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316088
+# Character count: 233
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_159
+
+========================================
+
+signals are used. We will not get such type of data in our daily lives easily.
+For now we will consider that we have collected some data in this standard
+situation, to use in our graph. Two sets of data have been shown in the table S

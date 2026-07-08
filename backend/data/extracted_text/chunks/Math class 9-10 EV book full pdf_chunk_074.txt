@@ -1,0 +1,33 @@
+# Chunk 74 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.396446
+# Character count: 779
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_74
+
+========================================
+
+--- Page 31 ---
+26 Mathematics Classes IX-X
+Proper Subset
+
+Of the subsets constructed from a set, the ones that have lesser number of elements
+than the original set is called proper set. For example, A = {3,4,5,6} and
+B = {3,5} are two sets. Here all elements of B are also clements of A, and
+number of elements in Bis less than that of A.
+
+.. Bis a proper subset of A and is expressed as B C A.
+
+In the examples of subsets Q and R are each proper subset of P. It may be
+mentioned here that @ is a proper subset of any set.
+
+Example 5. Write down the subsets of P = {x,y,z} and identify those that
+are proper subsets.
+
+Solution: Given, P = {x,y,z}
+
+Subsets of P are {z,y, =}, {ey}, (x. 2}. {v. 2}. {ae} {}. {=}. 2.
+
+Proper subsets of P are {x,y}, {z, 2}, {y. 2}, {=}, {y}, {=}, ©

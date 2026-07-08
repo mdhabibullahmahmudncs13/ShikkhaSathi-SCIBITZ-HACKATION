@@ -1,0 +1,22 @@
+# Chunk 563 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.361848
+# Character count: 683
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_563
+
+========================================
+
+wavelength. Wavelength is the distance from any phase of the wave to the next
+identical phase (Figure 7.04). Therefore, the distance travelled by a wave in one
+time period is the wavelength.
+In waves there is a second quantity which is not present in simple harmonic
+vibration, this is wave velocity. The distance travelled by a wave in one second
+is called the wave velocity. The number of time periods present in one second is
+the frequency, if the frequency is f'and wavelength is 2, then the velocity can be
+expressed as,
+v=fA
+When a wave travels from one medium to another medium, then change of its
+velocity occurs. Since the frequency always remains the same, so when a wave §

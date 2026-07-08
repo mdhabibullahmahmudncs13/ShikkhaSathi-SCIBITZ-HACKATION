@@ -1,0 +1,32 @@
+# Chunk 927 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402094
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_927
+
+========================================
+
+--- Page 356 ---
+Radioactivity and Electronics 351
+neutrons. For example: an isotope of uranium turns into thorium by emitting an
+alpha particle.
+phap Uys — Thy, + Hey”
+The atomic number of uranium is 92 and thorium is 90. It is notable that number
+of electrons of an atom is not significant. Radioactive nuclei of atoms can
+easily give up or receive extra electrons to and from its surroundings.
+alpha ray Ty
+r— A ~
+beta ray
+— 3
+gamma ray )
+NAAN AAS np
+aper aluminium lead
+pap (3-5 mm) (3-5 cm)
+
+Figure 13.01: It is possible to stop an alpha particle by a single sheet of paper,
+because it can lose its energy by too much ionizing. It is necessary to stop beta ray or
+electrons using an aluminum sheet of a few millimeter thick. A thick lead sheet is
+needed to stop gamma ray.

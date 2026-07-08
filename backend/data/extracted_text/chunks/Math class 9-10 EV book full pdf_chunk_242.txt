@@ -1,0 +1,32 @@
+# Chunk 242 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.414181
+# Character count: 795
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_242
+
+========================================
+
+--- Page 106 ---
+Chapter 5. Equations in One Variable 101
+The rules stated above may be expressed in terms of algebraic expressions as
+follows:
+If zr =aand c #0,
+(i)z+c=a+c (i) zr —c=a—c (iii) xc = ac (in) 2 =2
+Besides, if a,b and ¢ are three quantities, if a =b+4¢, a —b=cand ifa+c=0b,
+a=b—c
+This law is known as transposition law and different equations can be solved by
+applying this law. If the terms of an equation are in fractional form and if the
+degree of the variables in each numerator is 1 and the denominator in each term
+is constant, such equations are linear equations.
+Sr 4 x 2
+Example 1. Solve: — —— == —
+P CT TET
+Sr 4 x 2 Sx x 4 2
+Solution: — — — =— — = or, — — — = — — — [by transposition
+T7557 °F 55 gb trensposition]
+25x — Te 28-10 18x 18
+or, ———— ="—— or, —— = —
+35 35 35 35

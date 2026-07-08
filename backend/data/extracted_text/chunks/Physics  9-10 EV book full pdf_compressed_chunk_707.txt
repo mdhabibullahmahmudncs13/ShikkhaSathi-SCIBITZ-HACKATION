@@ -1,0 +1,32 @@
+# Chunk 707 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378514
+# Character count: 720
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_707
+
+========================================
+
+--- Page 265 ---
+260 Physics
+draw a normal on this axis from image of X.
+Imagine two rays from point X, one is XP which is incident on the lens in
+parallel with the axis. This will diverge when emerged and will appear to
+diverge from the focus, so if a line is drawn from the focus F to P and
+elongated, then we’ll find
+that ray. Let us draw the
+second ray from point X Cr 3
+towards the center of the X f
+lens. According to the fa
+rules of thin lenses it will | ’
+emerge directly along the - I
+direction of XT. The point Y F v Fiot R
+where XT and FS T
+intersect each other is the
+image X of X. If we draw
+a normal from X' on the
+axis we will get the image
+X'Y'of XY. Figure 9.20 : An object looks small in a concave
+lens

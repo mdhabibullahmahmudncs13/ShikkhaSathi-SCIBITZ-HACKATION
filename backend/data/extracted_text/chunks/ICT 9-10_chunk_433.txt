@@ -1,0 +1,38 @@
+# Chunk 433 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.891013
+# Character count: 787
+# Chunk ID: ICT 9-10.txt_0_433
+
+========================================
+
+--- Page 140 ---
+Problem Solving through Programming 135
+for | in range(l,):
+print {'I1CT')
+Solution with Alternative Method 1; (1ncremens by 1)
+for | in range(l,&,1):
+print ("ICT")
+Solution with Altemmative Method 2: (iecrenent by 1)
+for | in ranga(l,@,-1}:
+print (ICT!)
+The sample results obtained by running the program-
+ICT
+er
+ICT
+ICT
+IcT
+Practical Problem #11: Write a program that will display a word 50 times.
+Solution: The code for the program is given below.
+var = input {'Write a word: '))
+for { in range(1,51):
+print (var)
+The sample result obtained by running the program-
+Write a ward: Computer
+Computer Computer Computer Computer Computer
+Computer Computer Computer Computer Computer
+Computer Computer Computer Computer Computer
+Computer Computer Computer Computer Computer

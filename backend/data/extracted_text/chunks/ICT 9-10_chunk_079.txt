@@ -1,0 +1,21 @@
+# Chunk 79 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.830451
+# Character count: 787
+# Chunk ID: ICT 9-10.txt_0_79
+
+========================================
+
+are the main components in ICT. A new computer, be it a desktop, laptop or
+tablet, usually runs fast, but afler some days, it gradually slows down. As it gets
+old, it becomes slow. Sometimes, you have to wait for a long time after giving a
+command. Sometimes the situation is so bad that vou want to buy a new one.
+‘What is the way to resolve this situation? Here lies the importance of computer
+maintenance. You have to learn a little about computer maintenance in the junior
+classes. Most of the people do not like the task of maintaining ICT or
+technological devices. Tlowever, it is an important task. If yon want to keep your
+ICT device operative, you have to maintain it. You need not to be an expert for
+that job. We are talking about software-oriented maintenance of ICT devices.

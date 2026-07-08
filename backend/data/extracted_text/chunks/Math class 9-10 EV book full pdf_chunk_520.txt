@@ -1,0 +1,49 @@
+# Chunk 520 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.441125
+# Character count: 766
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_520
+
+========================================
+
+--- Page 230 ---
+Chapter 11. Algebraic Ratio and Proportion 225
+3. ifa:b=c:d, then, ath = cd [Componendo]
+Proof: Given that,
+a_c
+bd
+or, 2 +1= : +1 [adding 1 to both the sides]
+ie & +b ctd
+a A
+4. Ifa:b=c:d, then a? = et [ dividendo]
+Proof: Given that,
+a _c¢
+bd
+or, : —-1= ° — 1 [subtracting 1 from both the sides]
+ie. = b_c—d
+yd
+5 Ifa:b=c:d, then ats = ere [ componendo-Dividendo]
+a— c—
+Proof: Given that, a:b=rc:d
+or 826
+r=
+bod
+By componendo, ath = etd (1)
+b d
+Again, by dividendo, ab = ed
+b d
+or. bod [[by invertendo]] ... (2)
+"a—b c—da¥ oY
+Therefore, che x 2 = cd x ~< [multiplying(1) & (2) |
+a+b c+d
+te, ——p="——y [here a # b,c # d|
+a_c_e_g Lo _atctety
+6. If ari 7 = 7» then each of the ratio = rd ren
+Proof: let,
+a ¢ eg
+—=—=—=Z=k
+bd f h
+coa=0bk, c=dk, e= fk, g=hk

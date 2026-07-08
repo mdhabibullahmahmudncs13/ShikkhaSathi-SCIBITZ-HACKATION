@@ -1,0 +1,24 @@
+# Chunk 615 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368796
+# Character count: 342
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_615
+
+========================================
+
+--- Page 226 ---
+shows
+&
+Y Y
+Figure 8.10: XY object’s imageX'Y'
+because later we will find that if we use
+mirrors of other types instead of plane mirrors, the image may form at different
+distances, may be real, may be inverted, may even be small or large.
+Do yourself
+4 CR
+i
+1 Figure 8.11: Kaleidoscope can be made using three glass pieces.
+S

@@ -1,0 +1,20 @@
+# Chunk 187 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319224
+# Character count: 308
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_187
+
+========================================
+
+Newton’s First law of motion: Newton’s first law of motion can be
+
+expressed as-
+
+A stationary object will remain stationary and an object in uniform motion
+
+will continue its uniform motion unless a force is applied to it. (Since
+
+velocity is a vector quantity, for uniform motion the object will not change

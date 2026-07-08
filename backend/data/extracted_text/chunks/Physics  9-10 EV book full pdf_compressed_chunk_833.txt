@@ -1,0 +1,28 @@
+# Chunk 833 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391128
+# Character count: 731
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_833
+
+========================================
+
+I 14
+“R
+So, current I comes out from point A of the battery and enters into point B. We
+have determined the voltage and current at every point of the circuit.
+Let us assume in the same circuit, if we connect AB part with the earth rather
+than part DC (Figure 11.08(b)) what will happen then? As the voltage of the
+battery cell is V volt, so the potential difference between A and D must be V, as
+the voltage of A is zero, so the voltage of D must be -V. Therefore, the potential
+difference between B and C has to be,
+0-1) =v
+Resistance is R, so electric current:
+I 14
+“R
+This is the same as the previous value, which is what it is supposed to be. See,
+the magnitude of the potential has changed but the difference is the same.
+Po
+S

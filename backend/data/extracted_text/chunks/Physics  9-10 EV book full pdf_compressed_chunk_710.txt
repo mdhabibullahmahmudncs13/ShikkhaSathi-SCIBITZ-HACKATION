@@ -1,0 +1,26 @@
+# Chunk 710 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378808
+# Character count: 771
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_710
+
+========================================
+
+--- Page 266 ---
+Refraction of light 261
+rays (in the case of light, it is always true that if the light goes from A to B and if
+the direction of the ray is changed, it will always go from B to A). Now let us find
+the position of the image for different positions of an object .
+
+: length i focal \
+Figure 9.21: When passing through a Figure 9.22: If the light spot is kept
+convex lens, parallel rays of light at the focal point the converging lens
+converge at the focal point. makes the rays parallel.
+Before starting, let us learn how light ray refracts in a convex lens. If we know
+three special rules of the refraction of light through convex lens, we can describe
+how the image is formed .
+
+(i) If the rays of light is centripetal (Figure 9.23, YO or XO ray) it goes

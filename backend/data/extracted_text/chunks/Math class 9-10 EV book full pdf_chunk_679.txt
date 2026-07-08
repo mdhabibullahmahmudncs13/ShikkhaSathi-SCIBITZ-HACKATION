@@ -1,0 +1,26 @@
+# Chunk 679 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456710
+# Character count: 737
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_679
+
+========================================
+
+--- Page 299 ---
+294 Mathematics Classes IX-X
+Exercise 14.1
+1. The bisectors of two base angles of a triangle intersect the opposite sides at
+X and Y respectively. If XY is parallel to the base, prove that the triangle
+is an isosceles triangle.
+2. Prove that if two lines intersect a few parallel lines, the matching sides are
+proportional.
+3. Prove that the diagonals of a trapezium are divided in the same ratio at
+their point of intersection.
+4. Prove that the line segment joining the mid points of oblique sides of a
+trapezium and two parallel sides are parallel.
+5. The medians AD and BE of the triangle ABC intersect each other at G.
+A line segment is drawn through G parallel to DE which intersects AC" at
+F. Prove that AC = 6EF.

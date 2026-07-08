@@ -1,0 +1,20 @@
+# Chunk 275 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.417738
+# Character count: 370
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_275
+
+========================================
+
+1) Write down the given number and the number obtained by
+interchanging their places in terms of variable z.
+
+2) Find the number.
+
+3) If the digits of the original number indicate the length and breadth
+of a rectangular region in centimetre, find the length of its diagonal.
+Assuming the diagonal as the side of a square, find the length of the
+diagonal of the square. E

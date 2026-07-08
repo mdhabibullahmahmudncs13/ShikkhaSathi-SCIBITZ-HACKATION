@@ -1,0 +1,31 @@
+# Chunk 152 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.404928
+# Character count: 719
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_152
+
+========================================
+
+--- Page 67 ---
+62 Mathematics Classes IX-X
+Remainder Theorem
+In the following example, if 62% — 72 +5 is divided by x — 1,then what is quotient
+and remainder?
+z—1) 62° —Tx +5 (6r—1
+62? —6x
+—r +5
+—z +1
+4
+Here, x — 1 is divisor, 62% — 7x + 5 is dividen,6x — 1 is quotient and 4 is
+remainder.
+We know, dividend = divisor x quotient + remainder
+Now, if we indicate the dividend by f(x), the quotient by h(x), the remainder by
+r and the divisor by (x — a), from the above formula, we get,
+f(z) = (xz —a)- h(x) +r, this formula is true to all values of a.
+Substituting = = a in both sides we get,
+fla)=(a—a) h(a) +r =0-h(a)+r=r
+Hence, r = f(a)
+Therefore, if f(z) is divided by (z — a), the remainder is f(a). This formula is

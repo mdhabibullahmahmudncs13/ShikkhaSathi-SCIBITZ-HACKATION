@@ -1,0 +1,16 @@
+# Chunk 195 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319991
+# Character count: 286
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_195
+
+========================================
+
+t, to the end, therefore no force is applied on the body during these time
+intervals. From time /, to #,, the velocity is changing at a uniform rate, therefore, definitely
+a force is applied on it.
+Therefore, when 0 <t <t; and t, <t, there is no force.
+When, t; <t <t, force is applied.

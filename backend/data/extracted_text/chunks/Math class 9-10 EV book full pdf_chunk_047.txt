@@ -1,0 +1,23 @@
+# Chunk 47 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.393580
+# Character count: 454
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_47
+
+========================================
+
+both the sums ore the same.
+Example 11. Add 8.9478, 2.346 and 4.71.
+Solution: In order to make repeating decimal fractions similar we must have 3
+nonrepeating digits and repeating part must have digits equal to LCM of 2 and
+3, that is 6. Now decimal fractions will be added.
+8.9478 = 8.947847847
+2346 = 2346000000
+471 =4m7inng
+16.011019564 [8+ 0+ 1+ 1 = 10, Here 1 is 1 in hand
++1 Here 1 of 10 has been added]
+16.011019565
+The desired sum is 16.011019565

@@ -1,0 +1,17 @@
+{
+  "subject": "mathematics",
+  "grade": 9,
+  "chapter": null,
+  "topic": null,
+  "language": "english",
+  "page_number": null,
+  "textbook_name": "NCTB Mathematics (Class 9)",
+  "source_file": "Math class 9-10 EV book full pdf.txt",
+  "chunk_index": 447,
+  "extraction_timestamp": "2026-01-09T16:41:05.434398",
+  "character_count": 746,
+  "word_count": 163,
+  "line_count": 24,
+  "text_file_path": "data/extracted_text/chunks/Math class 9-10 EV book full pdf_chunk_447.txt",
+  "chunk_id": "Math class 9-10 EV book full pdf.txt_0_447"
+}

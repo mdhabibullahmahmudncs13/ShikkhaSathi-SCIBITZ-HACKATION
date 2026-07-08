@@ -1,0 +1,23 @@
+# Chunk 119 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.401280
+# Character count: 741
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_119
+
+========================================
+
+formulae and their related corollaries have been discussed elaborately. In this
+chapter, those are reiterated and some of their applications are presented through
+examples. Besides, extension of the formulae of square and cube, resolution into
+factors using remainder theorem and formation of algebraic formulae and their
+applications in solving practical problems have been discussed here in detail.
+At the end of the chapter, the students will be able to —
+» expand the formulae of square and cube by applying algebraic formulae.
+» explain the remainder theorem and resolve into factors by applying the
+theorem.
+» form algebraic formulae for solving real life problems and solve the problems
+by applying the formulae.
+Algebraic Expressions

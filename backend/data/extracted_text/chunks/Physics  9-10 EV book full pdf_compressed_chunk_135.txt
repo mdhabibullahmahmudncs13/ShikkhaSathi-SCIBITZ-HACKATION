@@ -1,0 +1,22 @@
+# Chunk 135 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.313977
+# Character count: 451
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_135
+
+========================================
+
+speed. Whereas for uniform speed it is not guaranteed that the velocity will be
+uniform.
+
+Question: If the stone is suddenly released, will it move with uniform velocity
+and with uniform speed?
+
+Answer: If the stone is released suddenly, it will move straight with uniform
+velocity and uniform speed. It will continue to move with uniform velocity and
+uniform speed if there is no air friction or gravitational force etc.
+
+Forma-6, Physics, Class 9-10

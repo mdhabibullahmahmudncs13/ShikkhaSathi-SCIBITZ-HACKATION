@@ -1,0 +1,36 @@
+# Chunk 313 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.870207
+# Character count: 723
+# Chunk ID: ICT 9-10.txt_0_313
+
+========================================
+
+--- Page 101 ---
+96 Multimedia and Graphics
+
+Adjusting Brightness and Contrast of Picture
+
+Pictures that have been scanned or =
+
+captured by a camera can be indistinct. EE ——
+
+Visibility of color or black and white (= be ®
+
+can not satisfy the expectation level. In = =
+
+that case, increasing the brightness and } on |
+combining contrast are required. To 'S -
+
+increase the brightness and contrast  -
+
+- Select the Adjustment command from the Image menu and get a submenu
+from where click Brightness/Contrast, and the related dialogue box will be
+viewed.
+
+- By moving the triangle of brightness/contrast-slider in the dialogue box
+either to the right or to the left. the brightness and contrast can be increased
+or reduced.

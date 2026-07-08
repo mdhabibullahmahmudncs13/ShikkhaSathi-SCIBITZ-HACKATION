@@ -1,0 +1,26 @@
+# Chunk 305 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420406
+# Character count: 770
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_305
+
+========================================
+
+specified through particular enunciation. For this, necessary figure is to be
+drawn.
+Generally, in proving the geometric theorem the following steps should be
+followed :
+1. General enunciation.
+2. Figure and particular enunciation.
+3. Description of the necessary constructions and
+4. Description of the logical steps of the proof.
+If a proposition is proved directly from the conclusion of a theorem, it is called
+a corollary of that theorem. Besides, proof of various propositions, proposals for
+construction of different figures are considered. These are known as constructions.
+By drawing figures related to problems, it is necessary to narrate the description
+of construction and its logical truth.
+Exercises 6.1
+1. Give a concept of space, surface, line and point.

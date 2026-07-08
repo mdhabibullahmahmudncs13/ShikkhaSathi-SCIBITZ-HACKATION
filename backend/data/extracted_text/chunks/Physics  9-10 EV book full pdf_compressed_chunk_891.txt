@@ -1,0 +1,22 @@
+# Chunk 891 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397807
+# Character count: 739
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_891
+
+========================================
+
+force.
+12.2.4 D.C Motor
+You know that a magnet can be used to apply force on another magnet. In other
+words, we can say a magnetic field can be used to apply force on another
+magnetic field. Since a wire cannot carry very much current, it cannot produce a
+strong magnetic field. That is why with the help of another magnetic field a
+strong force cannot be applied on it. You have seen that if a coil of wire is made
+winding many times and a piece of iron or armature is inserted into it, then by
+passing a little amount of current through the wire, the coil becomes a strong
+electromagnet that can create a very strong magnetic field. If we imagine the coil
+is to be a bar magnet, and keep it in another magnetic field, then we can analyze

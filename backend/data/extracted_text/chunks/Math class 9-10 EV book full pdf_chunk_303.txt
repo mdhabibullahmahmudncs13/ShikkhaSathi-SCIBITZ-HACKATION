@@ -1,0 +1,31 @@
+# Chunk 303 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420247
+# Character count: 498
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_303
+
+========================================
+
+1. Mathematical Induction
+
+2. Mathematical Deduction
+
+3. Proof by contradiction etc.
+Proof by contradiction
+Philosopher Aristotle first introduced this method of logical proof. The basis of
+this method is:
+
+1. A property cannot be accepted and rejected at the same time.
+
+2. The same object cannot possess opposite properties.
+
+3. One cannot think of anything which is contradictory to itself.
+
+4. If an object attains some property, that object cannot unattain that property
+
+at the same time.
+8
+S

@@ -1,0 +1,21 @@
+# Chunk 776 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.385752
+# Character count: 184
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_776
+
+========================================
+
+1
+Energy = 3 cv?
+Example
+Question: What is the amount of stored energy if 10 V electric potential is
+applied to a 20pF capacitor?
+Answer:
+Energy -2cV2 =2x20x 107x102 J =107 = 1m]
+3
+g
+]

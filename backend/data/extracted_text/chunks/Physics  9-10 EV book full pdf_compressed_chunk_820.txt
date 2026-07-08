@@ -1,0 +1,21 @@
+# Chunk 820 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390019
+# Character count: 279
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_820
+
+========================================
+
+path. So, the higher the cross sectional area 4 of a conductor, the lower is the
+resistance.
+R x 1
+A
+If we want to write these two things as an equation rather than in proportional
+form, a constant p has to be used. So, resistance R is,
+R= L
+=p
+. A
+Where the constant p is, p=R I

@@ -1,0 +1,49 @@
+# Chunk 589 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.365905
+# Character count: 761
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_589
+
+========================================
+
+5
+
+
+--- Page 212 ---
+Waves and Sound 207
+
+©) Exercise
+
+{Z 0 P)
+
+Og Genarel question
+
+1. Show that a wave can transfer energy from one place to another.
+
+2. Why is sound produced in whistle?
+
+3. “When a wave propagates, the medium does not flow. It executes
+simple harmonic oscillation about its position”, True or False?
+
+4. Why is sound produced in a thunderstorm?
+
+5. What problem would arise for a bat if it creates infra-sound instead of
+ultra- sound when flying?
+
+Mathematical questions
+
+~ 01 T TA~T | ~~ 01 A] | |
+B NE N
+$ $ /
+py MM
+= =
+£-01 £-01
+N rT 2 & 4 © 005 010 015 020
+position (m) time (s)
+Figure 7.15: A wave with respect to time and position
+
+1. A wave is shown in Figure 7.15 with respect to time and position. What
+is the velocity of the wave?

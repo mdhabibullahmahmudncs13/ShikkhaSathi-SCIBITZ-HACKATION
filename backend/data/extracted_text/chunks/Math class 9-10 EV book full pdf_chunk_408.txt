@@ -1,0 +1,30 @@
+# Chunk 408 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.430350
+# Character count: 739
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_408
+
+========================================
+
+--- Page 177 ---
+172 Mathematics Classes IX-X
+Proof:
+Step 1. The arc BCD subtends an angle ZBOD at the centre O.
+Therefore, ZBOD = 2/BAD and ZBOD = 2/BED [.- The angle
+subtended by an arc at the centre is double of the angle subtended on the
+circle]
+.2/BAD =2/BED
+or, /BAD = /BED (Proved)
+Theorem 22. The angle inscribed in the semi- circle is a right angle.
+Let AB be a diameter of circle with centre at O and Cc
+ZACB is the angle subtended by a semi-circle. It is ON
+to be proved that ZACB is a right angle. A B
+Drawing: Take a point D on the circle on the \°/
+opposite side of AB of the circle where C' is located. D
+Proof:
+Step 1. The angle standing on the arc ADB
+1
+ZACB = 3 (straight angle in the centre ZAOB) ['.- The angle standing

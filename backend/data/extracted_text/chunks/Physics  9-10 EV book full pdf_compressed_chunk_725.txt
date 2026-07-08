@@ -1,0 +1,30 @@
+# Chunk 725 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.380177
+# Character count: 770
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_725
+
+========================================
+
+--- Page 272 ---
+Refraction of light 267
+Exercise
+General questions
+1. The velocity of light in a denser medium is less. Is there anything which can
+go with the velocity greater than the velocity of light?
+2. At noon why is rainbow not seen ?
+3. Drops of water can work like a lens. What is focal length of this lens ?
+Mathematical questions
+Figure 9.32: Total reflection angle will be changed if liquid drops of different
+refractive index are placed on the point of incidence.
+1. If a ray of light passes through glass
+having shape shown in Figure 9.32, then
+the critical angle of total internal
+reflection 65° is found. Due to a drop of x
+liquid at the point of incidence, total
+internal reflection happened at angle YF
+75°. What is the refractive index of the
+liquid.

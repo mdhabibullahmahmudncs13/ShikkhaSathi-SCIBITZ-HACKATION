@@ -1,0 +1,23 @@
+# Chunk 716 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.379318
+# Character count: 583
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_716
+
+========================================
+
+line. So, we find the image J
+of the point X, as before. f f f Y
+The ray from point X which is x
+parallel to the axis will
+go through the focal Figure 9.24: If he object is at the outside the
+point F. Another ray will focal length but inside the twice of the focal
+pass through the center length, the real, inverted and bigger image is
+point along line XO. formed.
+The point x, where the two
+lines meet, is the image of point X. If a normal is drawn from X' to the axis
+YO, then the point will be the position of the image of the point Y. Therefore, for
+the image of XY. we can say :

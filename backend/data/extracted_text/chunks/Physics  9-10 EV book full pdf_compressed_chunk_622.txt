@@ -1,0 +1,37 @@
+# Chunk 622 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.369589
+# Character count: 699
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_622
+
+========================================
+
+F. a e = A
+FO=FY because in the triangle OFY,
+
+ZFOY=Z0YF , as FOY= 0; and
+
+ZFYO=6,.
+
+FY = FX when XY is small compared
+
+to radius r. This is true for most Figure 8.18: A spherical convex mirror
+convex mirrors. is a small part of a hollow sphere.
+So, FO=FY=FX= 1/2
+
+or focal length f= 1/2
+
+Question: If a plane mirror is considered a spherical convex mirror then
+what is its focal length?
+
+Answer: Infinite.
+
+We will now see how the image is formed for a spherical mirror. You will see
+that in a convex spherical mirror, images are always virtual where as in a
+spherical concave mirror it may be both real or virtual, depending on the position
+of the object.
+
+8.5.1 Image in a Spherical Convex Mirror

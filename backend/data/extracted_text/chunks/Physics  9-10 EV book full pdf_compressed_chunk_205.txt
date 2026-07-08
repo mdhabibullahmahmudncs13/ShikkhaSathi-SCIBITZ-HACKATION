@@ -1,0 +1,24 @@
+# Chunk 205 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.320764
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_205
+
+========================================
+
+3.3 Balanced and Unbalanced Forces
+
+Force is a vector quantity; therefore, if a force is applied on an object then it is
+possible to cancel that force by the application of another force from opposite
+direction. Then we say that the forces are balanced. When two or more forces are
+applied on an object and if the combined resultant force of the forces becomes
+zero then the body has no acceleration.
+
+In figure 3.02 it is shown that an object is suspended with a thread. The force of
+attraction (i.e. weight of the object) of the earth on the object is acting vertically
+downwards. Again another force i.e. the tension of the thread is acting vertically
+upwards. Here two forces are acting in opposite direction thus canceling each
+other’s action and producing a balanced condition.

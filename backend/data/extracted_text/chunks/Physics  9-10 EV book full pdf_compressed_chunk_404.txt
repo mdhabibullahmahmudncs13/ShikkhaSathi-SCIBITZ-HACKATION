@@ -1,0 +1,22 @@
+# Chunk 404 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340644
+# Character count: 550
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_404
+
+========================================
+
+As 4h is the volume of the cylinder, pis the density of the liquid and g is
+gravitational acceleration, therefore the force exerted upwards is equal to the
+weight of the liquid which has the same volume as the cylinder. This is precisely
+known as the Archimedes principle. The upwards force is called buoyancy.
+@ Do Yourself
+
+Tie a big size potato or a fruit at one end of a rubber band and hang it,
+
+see how it is elongated. Now let the potato or the fruit be immersed into
+
+water, you will see the rubber band is compressed slightly. Because in the

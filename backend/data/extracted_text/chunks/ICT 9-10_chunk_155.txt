@@ -1,0 +1,32 @@
+# Chunk 155 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.842507
+# Character count: 758
+# Chunk ID: ICT 9-10.txt_0_155
+
+========================================
+
+--- Page 48 ---
+Information and Communication Technology 43
+SInos.| Problems General Solutions
+
+11. | Showing 1. Usually these messages are shown when you install
+messages like excess programmes, and work keeping a lot of
+‘Out of programmes open.
+memory’ or 2. If the computer does not have sufficient memory
+‘Not enough for installing excess programmes, this problem
+Memory, occurs. Additinal RAM can be installed in the
+
+motherboard to resolve the problems.
+
+12. | The keyboard is | 1+ Shut down the computer, and check whether the
+not working. keyboard is properly connected to the port.
+
+2. If itis not properly connected or the connection is
+found loose, refix it and turn on the computer
+again.
+
+3. Clean up the virus by running an anti-virus software.

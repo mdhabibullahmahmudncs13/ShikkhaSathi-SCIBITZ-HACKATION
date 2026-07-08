@@ -1,0 +1,24 @@
+# Chunk 415 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.887169
+# Character count: 769
+# Chunk ID: ICT 9-10.txt_0_415
+
+========================================
+
+with one or more variables or arithmetic expressions using relational operators.
+Using Conditions in the Program
+‘We will create a program te calculate the results of an exam. Let's say the pass-
+ing score for the exam is 40. Anyone scoring less than 40 will fail, while anyone
+scoring 40 or above will pass. Therefore, a condition nust be considered, and
+passing or failing depends on that condition.
+In Python, the if statement is used fo execute a certain action or statement based
+on a condition, The use of the if statement can be compared to the meaning of
+"if." The format for using the if statement is as follows:
+ifcondition: — If statements
+Statement (s) to be executed if
+Storernent fust be ow If v
+The condition used in the if statement can generally be one

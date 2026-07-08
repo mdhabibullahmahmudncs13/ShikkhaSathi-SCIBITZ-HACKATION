@@ -1,0 +1,22 @@
+# Chunk 433 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.343550
+# Character count: 787
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_433
+
+========================================
+
+density of air decreases, the air pressure also decreases. So, it is possible to
+predict about the local weather seeing the air pressure on a barometer. If the
+barometer shows high pressure then it is understood that the air is dry and the
+weather is good. If the pressure starts to decrease then it is understood that the
+quantity of vapor is increasing. If pressure low then air from the nearby areas
+will come quickly and storm and rain will start.
+5.5 Elasticity
+All of you must have, one time or another, elongated a spring or a rubber band
+by pulling on it and then releasing it. You have certainly noticed that after
+releasing the spring or the rubber band it regains its previous length. In physics,
+pulling is termed as ‘applying force’ and the change of the length is termed as

@@ -1,0 +1,23 @@
+# Chunk 585 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.365252
+# Character count: 632
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_585
+
+========================================
+
+vibrations. In a tuning fork a perfect 2ms| time
+vibration is created. But in a musical Figure 7.14: The sound waves of
+sound there is not only a single wave, different musical instrument.
+many waves superpose on one another to
+make the sound melodious.
+Different types of musical instruments that are used to produce melodious
+sound, can be divided into three groups:
+Musical instrument made of wire: Ektara (Monochord), Violin, Sitar
+Musical instruments based on air flow: Flute, Harmonium
+Musical instrument made of percussion: Dhol, Tabla
+Now-a-days melodious sounds are produced using electronics in a completely
+different way.

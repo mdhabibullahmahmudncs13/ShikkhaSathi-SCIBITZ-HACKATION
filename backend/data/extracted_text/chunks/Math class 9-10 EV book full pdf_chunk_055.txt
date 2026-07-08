@@ -1,0 +1,24 @@
+# Chunk 55 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.394317
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_55
+
+========================================
+
+--- Page 23 ---
+18 Mathematics Classes IX-X
+In this way the procedure may continue indefinitely. So v2 = 1.4142135.. .is an
+infinite decimal fraction.
+Value and approximate values up to certain decimal point
+It is not the same to calculate an infinite decimal fraction up to decimal places
+or approximate it to certain decimal places. For example, 5.4325893... when
+calculated up to 4 decimal places will give 5.4325 whereas its approximate value
+up to 4 decimal places will give us 5.4326. However, these two values are same
+if we calculate up to 2 decimal places. We can do the same for finite decimal
+fractions as well.
+Remarks: For finding values up to certain decimal places we must write down
+those digits exactly as they are. However, for finding approximation up to certain

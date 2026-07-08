@@ -1,0 +1,33 @@
+# Chunk 470 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.436702
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_470
+
+========================================
+
+--- Page 206 ---
+Chapter 9. Trigonometric Ratio 201
+1 sec? A — sec’ A
+22. If tan A = —, find the value of COSC LZ SCC
+V3 cosec?A + sec?A
+4
+23. If cosec A — cot A = 3 what is the value of cosec A 4 cot, A?
+b sin A — beos A
+24. If cot A= 2 find the value of asin A — boos A
+a asin A + bcos A
+25. If cosec A — cot A = L
+xT
+1) find the value of cosec A + cot A.
+wr +1
+2) Show that, sec A = oT
+3) According to the stimulus prove that, tan A + cot A = sec A - cosec A
+Trigonometric ratios for the angles 30°, 45°, and 60°.
+We have learnt how to draw angles 30°, 45° and 60° in geometric way.
+Exact values of these trigonometric ratios for all these angles can also be
+determined geometrically.
+Trigonometric ratios of the angles 30° and 60° :
+Let, /ZXOZ = 30° and P is a point on OZ. Let ,

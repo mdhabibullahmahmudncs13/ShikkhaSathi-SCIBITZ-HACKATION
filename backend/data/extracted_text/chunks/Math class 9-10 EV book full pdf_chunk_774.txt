@@ -1,0 +1,29 @@
+# Chunk 774 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.467395
+# Character count: 763
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_774
+
+========================================
+
+6. Area of a rectangular region is 160 sq. metre. If the length is reduced by 6 metre,
+it. becomes a square region. Determine the length and the breadth of the
+rectangle.
+
+3
+
+7. The base of a parallelogram is 1 th of the height and area is 363 square
+inches. Determine the base and the height of the parallelogram.
+
+8. The area of a parallelogram is equal to the area of a square region. If the
+base of the parallelogram is 125 metre and the height is 5 metre, find the length of
+the diagonal of the square.
+
+9. The length of two sides of a parallelogram are 30 cm and 26 cm. If its
+smaller diagonal is 28 cm, find the length of the other diagonal.
+
+10. The perimeter of a rhombus is 180 cm and the smaller diagonal is 54 cm.
+Find its other diagonal and the area.

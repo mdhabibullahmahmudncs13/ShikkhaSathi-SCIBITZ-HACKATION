@@ -1,0 +1,35 @@
+# Chunk 777 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.385837
+# Character count: 775
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_777
+
+========================================
+
+--- Page 296 ---
+Static Electricity 291
+
+10.8 Uses of Static Electricity
+
+‘We use electricity in our daily life, in industries, laboratories, educational insti-
+
+tutions and hospitals etc. But we use current electricity (we will discuss it in the
+
+next chapter) in almost all of these cases. But static electricity is also used in
+
+some special cases:
+
+10.8.1 Photocopy
+
+All of us have used a photocopy machine now and then to copy some writing. In
+
+this machine, light is projected on the paper which creates an image of the
+
+writings on a special kind of roller. Static charges are created on the roller
+
+similar to the writings on the paper. After that, the roller is brought in contact
+
+with very fine powder like ink, and black ink is absorbed at the parts of the roller

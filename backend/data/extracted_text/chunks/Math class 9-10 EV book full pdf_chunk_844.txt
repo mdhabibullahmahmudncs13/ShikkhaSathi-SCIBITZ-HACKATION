@@ -1,0 +1,19 @@
+# Chunk 844 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.473830
+# Character count: 396
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_844
+
+========================================
+
+3. To determine steps deviation, the difference between class mid-values and
+approximate mean are divided by the class interval i.e.
+Co mid value — approximate mean
+steps deviation 4 = ——mM— —
+class interval
+4. To multiply the steps deviation by the corresponding class frequency.
+5. To determine the mean of the deviation and to add this mean with 5
+approximate mean to find the required mean. S

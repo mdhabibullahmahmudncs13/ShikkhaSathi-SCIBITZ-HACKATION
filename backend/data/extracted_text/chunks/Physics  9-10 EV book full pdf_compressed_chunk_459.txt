@@ -1,0 +1,37 @@
+# Chunk 459 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.346623
+# Character count: 773
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_459
+
+========================================
+
+--- Page 163 ---
+158 Physics
+EX) Multiple choice questions
+Put the tick a) mark on the correct answer
+1. What is the name of the apparatus used to measure the atmospheric pressure?
+(a) Thermometer
+(b) Barometer
+(c) Manometer
+(d) Seismometer.
+2. The amount of liquid pressure is —
+(a) proportional to its depth
+(b) proportional to area.
+(c) Inversely proportional to density
+(d) equal to acceleration due to gravity.
+3. What is the name of the fourth state of matter? Ls
+(a) Gas
+(b) Plasma =D
+(©) Sold S—
+(d) Liquid.
+Give answer to question no. 4 & 5 02m
+from the figure
+4. How much pressure will be felt at the
+bottom of the container?
+(a) 98 Pa (b) 980 Pa .
+(c) 196 Pa (d) 1960 Pa Figure 5.17
+5. If force F is applied on the free surface of the container, then this force-

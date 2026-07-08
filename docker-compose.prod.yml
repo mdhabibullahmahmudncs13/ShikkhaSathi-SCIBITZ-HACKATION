@@ -1,0 +1,170 @@
+version: '3.8'
+
+# Production Docker Compose configuration for ShikkhaSathi
+# This extends the base docker-compose.yml with production-specific settings
+
+services:
+  # PostgreSQL Database - Production settings
+  postgres:
+    restart: always
+    environment:
+      POSTGRES_DB: shikkhasathi_prod
+      POSTGRES_USER: ${POSTGRES_USER:-shikkhasathi_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change_this_password}
+      POSTGRES_HOST_AUTH_METHOD: md5
+    volumes:
+      - postgres_prod_data:/var/lib/postgresql/data
+      - ./backend/init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
+    command: >
+      postgres
+      -c shared_preload_libraries=pg_stat_statements
+      -c pg_stat_statements.track=all
+      -c max_connections=200
+      -c shared_buffers=256MB
+      -c effective_cache_size=1GB
+      -c work_mem=4MB
+      -c maintenance_work_mem=64MB
+
+  # MongoDB Database - Production settings
+  mongodb:
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER:-shikkhasathi_user}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD:-change_this_password}
+      MONGO_INITDB_DATABASE: shikkhasathi_prod
+    volumes:
+      - mongodb_prod_data:/data/db
+      - ./backend/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+    command: >
+      mongod
+      --auth
+      --bind_ip_all
+      --wiredTigerCacheSizeGB 0.5
+
+  # Redis Cache - Production settings
+  redis:
+    restart: always
+    command: >
+      redis-server
+      --appendonly yes
+      --requirepass ${REDIS_PASSWORD:-change_this_password}
+      --maxmemory 256mb
+      --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_prod_data:/data
+
+  # ChromaDB Vector Database - Production settings
+  chromadb:
+    restart: always
+    environment:
+      - CHROMA_SERVER_HOST=0.0.0.0
+      - CHROMA_SERVER_HTTP_PORT=8000
+      - CHROMA_SERVER_AUTH_CREDENTIALS_PROVIDER=chromadb.auth.token.TokenAuthCredentialsProvider
+      - CHROMA_SERVER_AUTH_CREDENTIALS=${CHROMA_AUTH_TOKEN:-change_this_token}
+    volumes:
+      - chromadb_prod_data:/chroma/chroma
+
+  # Ollama for Local AI - Production settings
+  ollama:
+    restart: always
+    environment:
+      - OLLAMA_HOST=0.0.0.0
+      - OLLAMA_KEEP_ALIVE=24h
+    volumes:
+      - ollama_prod_data:/root/.ollama
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 2G
+
+  # Backend API Server - Production settings
+  backend:
+    restart: always
+    environment:
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-shikkhasathi_user}:${POSTGRES_PASSWORD:-change_this_password}@postgres:5432/shikkhasathi_prod
+      - MONGODB_URL=mongodb://${MONGO_USER:-shikkhasathi_user}:${MONGO_PASSWORD:-change_this_password}@mongodb:27017/shikkhasathi_prod
+      - REDIS_URL=redis://:${REDIS_PASSWORD:-change_this_password}@redis:6379/0
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - CHROMA_AUTH_TOKEN=${CHROMA_AUTH_TOKEN:-change_this_token}
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - ENVIRONMENT=production
+      - SECRET_KEY=${SECRET_KEY:-your-super-secret-key-change-in-production}
+      - BACKEND_CORS_ORIGINS=${CORS_ORIGINS:-https://yourdomain.com}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - ELEVENLABS_API_KEY=${ELEVENLABS_API_KEY:-}
+    volumes:
+      - ./backend/uploads:/app/uploads
+      - ./backend/data:/app/data
+      - ./backend/logs:/app/logs
+    deploy:
+      replicas: 2
+      resources:
+        limits:
+          memory: 1G
+        reservations:
+          memory: 512M
+
+  # WebSocket Signaling Server - Production settings
+  websocket:
+    restart: always
+    deploy:
+      replicas: 1
+      resources:
+        limits:
+          memory: 256M
+        reservations:
+          memory: 128M
+
+  # Frontend Application - Production settings
+  frontend:
+    restart: always
+    environment:
+      - VITE_API_BASE_URL=${API_BASE_URL:-https://api.yourdomain.com}
+      - VITE_WS_URL=${WS_URL:-wss://ws.yourdomain.com}
+      - VITE_ENVIRONMENT=production
+    deploy:
+      replicas: 1
+      resources:
+        limits:
+          memory: 256M
+        reservations:
+          memory: 128M
+
+  # Nginx Reverse Proxy - Production settings
+  nginx:
+    restart: always
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - ./nginx/logs:/var/log/nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+        reservations:
+          memory: 128M
+
+volumes:
+  postgres_prod_data:
+    driver: local
+  mongodb_prod_data:
+    driver: local
+  redis_prod_data:
+    driver: local
+  chromadb_prod_data:
+    driver: local
+  ollama_prod_data:
+    driver: local
+
+networks:
+  shikkhasathi_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

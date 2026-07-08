@@ -1,0 +1,24 @@
+# Chunk 242 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324584
+# Character count: 748
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_242
+
+========================================
+
+no acceleration of the mass m in the vertical direction.
+Two forces are acting on the second mass: the gravitational force Mg acting
+downward and the tension force T (the same tension T acting on each part of the
+same string) acting upward. Since the tension force acts along the string and
+away from the object, we can apply Newton's second law to find:
+T-Mg =M (-a)
+Here, a negative sign is placed before the acceleration because the acceleration
+of the mass M is directed downward, and since both objects are connected by the
+string, the magnitude of the acceleration of mass M is also a. By solving the two
+equations above, we find that a=Mg/(M+m)
+Using this acceleration we can explain the motion of the object located on the
+table.
+0) Example

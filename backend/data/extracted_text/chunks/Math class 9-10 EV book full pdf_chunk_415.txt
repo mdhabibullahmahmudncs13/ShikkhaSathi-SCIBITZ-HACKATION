@@ -1,0 +1,34 @@
+# Chunk 415 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.431117
+# Character count: 771
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_415
+
+========================================
+
+But ZABC + ZADC = 2 right angles. [given]
+
+CS LAEC = LADC
+
+But this is impossible, since in ACED, exterior ZAEC' > opposite interior ZADC'
+Therefore, E and D points can not be different points. So, E must coincide with
+the point D.
+
+Therefore, the points A, B,C, D are concyclic.(Proved)
+
+Exercise 8.3
+
+1. If the internal and external bisectors of the angles ZB and ZC of AABC
+meet at P and @ respectively, prove that B, P,C,Q are concyclcic.
+
+2. ABCD is a circle. If the bisectors of ZCAB and ZCBA meet at the point
+P and the bisectors of ZDBA and ZDAB meet at (), prove that, the four
+points A, Q, P, B are concyclic.
+
+3. The chords AB and CD of a circle with centre O meet at right angles at
+
+3 some point within the circle, prove that, ZAOD + ZBOC = 2 right angles.
+S

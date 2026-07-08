@@ -1,0 +1,32 @@
+# Chunk 99 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.310076
+# Character count: 762
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_99
+
+========================================
+
+--- Page 34 ---
+Physical Quantities and Their Measurements 29
+EX) Multiple choice questions
+Put tick o ) mark on the correct answer
+1. Who has given the quantum theory at first?
+a) Planck b) Einstein
+¢) Rutherford d) Heisenberg
+2. The name ‘boson’ came from?
+a) Jagadish Chandra Basu
+b) Subhash Chandra Basu
+¢) Satyendranath Basu
+d) Sharat Chandra Basu
+3. Which of below is not a fundamental quantity ?
+a) Mass b) Heat
+¢) Electric current d) Quantity of substance
+4. When a rod is placed between the jaws of a slide calipers, the main scale
+reading is found to be 4 cm, the vernier super-imposition is 7 and if the vernier
+constant is 0.1 mm, what is the length of the rod?
+a) 4.07 cm b) 4.7cm
+¢) 4.07 mm d) 4.7 mm
+From the figure below answer questions 5 and 6.

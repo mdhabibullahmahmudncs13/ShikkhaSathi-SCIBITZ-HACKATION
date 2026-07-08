@@ -1,0 +1,21 @@
+# Chunk 64 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.827987
+# Character count: 737
+# Chunk ID: ICT 9-10.txt_0_64
+
+========================================
+
+--- Page 20 ---
+Information and Communication Technology and Our Bangladesh 15
+Through e-Governance, transparency in all government activities can be ensured. The
+E-Government Development Index (EGDI) is used to present the state of e-government
+development among the UN member states. Factors such as internet access infrastrue-
+ture, online services, telecommunications connectivily, and people's capacity to use
+ICT are considered. In the 2024 index. Bangladesh ranked 100th out of 193 countries.
+In this regard, Bangladesh still has a long way to go in improving its use of [CT.
+The infrastructure for information technology has started to be constructed in the
+country by the present govemment. Setting up the fibre optic connection

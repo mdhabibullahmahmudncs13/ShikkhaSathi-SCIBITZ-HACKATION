@@ -1,0 +1,43 @@
+# Chunk 264 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.416596
+# Character count: 747
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_264
+
+========================================
+
+g
+=
+50m
+Solution: Let the path be x metre wide.
+Without the path length of the garden is (50 — 2x) metre and breadth is (40 — 2x)
+metre
+.. Without the path area of the garden = (50 — 2x) x (40 — 2x) square metre
+By the question, (50 — 2x) x (40 — 2x) = 1200
+or, 2000 — 80x — 100x + 42% = 1200
+or, 42? — 180x + 800 = 0
+or, 2% — 45x + 200 = 0 [dividing by 4]
+or, 2° — 5x — 40x + 200 = 0
+or, z(z —5) —40(x —5) = 0
+or, (x —5)(x — 40) = 0
+sr—=5=0o0rx—40=0
+ifr —-5=0,z=5
+a
+BS if 2 —40 = 0, x = 40
+
+
+--- Page 117 ---
+112 Mathematics Classes IX-X
+
+But the breadth of the path will be less than 40 metre from the breadth of the
+
+garden.
+
+Sox #40; x =5
+
+.. the path is 5 metres wide
+
+Example 14. Shahik bought some pens for Tk. 240. If he would get one more

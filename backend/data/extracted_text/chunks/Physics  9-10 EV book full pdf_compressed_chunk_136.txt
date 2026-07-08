@@ -1,0 +1,23 @@
+# Chunk 136 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314053
+# Character count: 753
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_136
+
+========================================
+
+--- Page 47 ---
+42 Physics
+2.6 Acceleration and Deceleration or Retardation
+‘When an object moves with uniform velocity it has no acceleration. If there is a
+change of velocity, then there is an acceleration. More clearly, we can say, the
+rate of change of velocity with time is acceleration.
+Since velocity has both magnitude and direction, the change of velocity can
+occur in two ways. In our previous example, when you rode (your bicycle along
+the curved path, the change of velocity occured at every tum and you ars
+accelerated. Although you travelled the whole path with uniform speed,
+acceleration took place due to change of direction only. If you tied a stone with
+a string, as in the previous example, and rotated it over your head with uniform

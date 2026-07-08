@@ -1,0 +1,32 @@
+# Chunk 445 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.893401
+# Character count: 742
+# Chunk ID: ICT 9-10.txt_0_445
+
+========================================
+
+--- Page 146 ---
+Problem Solving through Programming 141
+3. Which of the following is the correct name of a variable in Python language?
+A) 9abc C) print
+B) $variable D) National TD
+4. In Python language, if y = int(2.8), what is the value of print (y)?
+A)2.8 B)2
+C)28 D)2.0
+5. If in Python language a=3, b=2, y=a%b, what is the value of print (y)?
+A) l D)2
+C)3 C)5
+Notice the following Python code:
+for i in ranga(l,6):
+print (*1CT')
+6. Here, how many times the word ICT will be displayed?
+A)l B)5
+C3 D)6
+7. What is machine code? Write how programme code can be transformed
+into machine code.
+8. What is Casting Constructor Function? Write the name of some functions.
+9. Write two programmes to determine the sum of all positive numbers from

@@ -1,0 +1,17 @@
+# Chunk 179 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.318454
+# Character count: 284
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_179
+
+========================================
+
+4. The velocity of a car is 30 km/hour, after 1 minute the velocity of the car
+becomes 50 km/hour with uniform acceleration. What is the distance
+travelled by the car in this time?
+
+5. You have thrown a ball vertically upwards at 10 m/s. How much height will it
+attain in what time? S

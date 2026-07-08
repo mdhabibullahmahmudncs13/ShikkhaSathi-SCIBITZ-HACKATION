@@ -1,0 +1,23 @@
+# Chunk 75 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.829783
+# Character count: 796
+# Chunk ID: ICT 9-10.txt_0_75
+
+========================================
+
+ary measures before a fault or issue arises in the computer. Users can perform
+this type of maintenance, such as virus scanning, disk cleaning, disk delragmen-
+tation, software updates, etc.
+2 Corrective Maintenance: Corrective maintenance refers to repairing or replac-
+ing components after a fault or issue has occurred in the computer to make it
+operational again. Corrective maintenance usually requires the help of a com-
+puter technician.
+One more important thing to note is that no metallic or magnetic objects should
+be kept near the computer. Additionally, to protect against electric shocks, the
+computer's power connection should have proper grounding.
+Importance of Software in the Maitenance of Computer
+Story 1: Raina was very intent on having a laptop [rom her father after getting

@@ -1,0 +1,33 @@
+# Chunk 348 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.334603
+# Character count: 735
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_348
+
+========================================
+
+--- Page 122 ---
+Work, Power, Energy 117
+
+(d) Mechanical Energy
+
+‘When electrical energy is produced bya generator, actually electrical energy
+
+is produced by rotating a coil of wire in a magnetic field by utilizing the
+
+mechanical energy. Heat energy is always being produced due to friction, there
+
+mechanical energy is transforming into heat energy.
+
+(e) Light Energy: Light is an electromagnetic wave and we can see a definite
+
+range of the wavelengths of this wave, we call this light. Waves of wavelength
+
+more or less than this range is present in nature and we have generated those in
+
+different ways. For example, in a microwave oven, we convert the
+
+electromagnetic wave into heat energy. Now-a-days using solar cell light is

@@ -1,0 +1,35 @@
+# Chunk 752 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.465078
+# Character count: 729
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_752
+
+========================================
+
+LAC? = AB? + BC? or, d% = a + 1? 4
+cod=va? +b? o
+
+
+--- Page 332 ---
+Chapter 16. Mensuration 327
+
+2. Area of Square Region: Let the length of each
+side of a square ABCD be a and diagonal d. The
+diagonal AC divides the square region into two equal A— C
+triangular regions. BR
+. Area of the square region ABCD = 2x area of GEE a
+AABC =x a-a= a? = (length of a side)’ ca
+Observe that, the perimeter of the square region s = 4 = vs == B
+4a and diagonal d = va? + a2 = V2a2 = 2a
+
+3. Area of a parallelogram region:
+a) Base and height are given: Let, the base
+AB = band height DE = h of parallelogram ABCD. D c
+The diagonal BD divides the parallelogram into two
+equal triangular regions.
+.. The area of the parallelogram ABCD
+
+fi A Eb B

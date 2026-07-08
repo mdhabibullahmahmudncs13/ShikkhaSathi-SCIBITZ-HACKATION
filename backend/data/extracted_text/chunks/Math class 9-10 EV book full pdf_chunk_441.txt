@@ -1,0 +1,38 @@
+# Chunk 441 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433889
+# Character count: 738
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_441
+
+========================================
+
+point of intersection. From FE, perpendicular FH is
+
+drawn on BC and let EH intersects BC at H. With
+
+FE as centre and radius equal to EH, a circle is drawn. A BG D
+
+The circle FIG L is the ex-circle of the triangle ABC.
+
+Proof: From E, perpendiculars EG and EL respectively are drawn to line
+
+segments BD and CF.Let the perpendicular intersect line segments BD and
+
+C'F at the point G and L respectively.
+
+Since E lies on the bisector of ZDBC' -. EH = EG
+
+Similarly, the point FE lies on the bisector of ZFCB, so, EH = EL
+
+EH =FEG=EL
+
+Hence, the circle drawn with E as centre and radius equal to E'L passes through
+
+H, Gand L.
+
+Again, the line segments BC, BD and C'F respectively are perpendiculars at the
+
+extremities of EH, EG and EL.

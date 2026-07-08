@@ -1,0 +1,14 @@
+# Chunk 946 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.403873
+# Character count: 232
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_946
+
+========================================
+
+many transistors were made on a thin silicon plate (Wafer) and eventually the
+transistors were separated by cutting them from the plate. This process was a
+improved to a small extent while preparing an integrated circuit. Not only S

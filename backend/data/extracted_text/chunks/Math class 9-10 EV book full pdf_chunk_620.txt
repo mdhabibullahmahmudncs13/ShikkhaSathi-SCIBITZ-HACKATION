@@ -1,0 +1,23 @@
+# Chunk 620 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451296
+# Character count: 674
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_620
+
+========================================
+
+12. The digit of the units place of a number consisting of two digits is 1 more
+than three times the digit of tens place. But if the places of the digits are
+interchanged, the number thus found will be equal to eight times the sum
+of the digits. What is the number?
+
+13. Difference of the digits of a number consisting of two digits is 4. If the places
+of the digits are interchanged, sum of the numbers so found and the original
+number will be 110 ; find the number.
+
+14. Present age of mother is four times the sum of the ages of her two daughters.
+After 5 years, mother’s age will be twice the sum of the ages of the two
+daughters. What is the present age of the mother ?

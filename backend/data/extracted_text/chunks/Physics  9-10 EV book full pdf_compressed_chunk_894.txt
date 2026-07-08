@@ -1,0 +1,30 @@
+# Chunk 894 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.398060
+# Character count: 776
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_894
+
+========================================
+
+the direction of the current is again changed, it will not stop there. Rather, it will
+continue its rotation. That’s why, when it reaches one stable position, if current
+in it flows in such a way that it
+experiences a rotational force due to DO
+repulsion, then it will continue to
+rotate.
+In order to change the direction of
+current, we have to use a mechanical © Nl 5
+technique with the help of a simple
+device called a commutator. The two [S| LISS,
+wires of the electromagnet are placed
+on two sides of the rotating axis
+around which the main coil rotates in
+such a way that it touches two
+terminals of the main electric current
+at the commutator. When the
+terminals touch it, then it will flow the
+current in such a way that it tries to . |
+Figure 12.11: An electric motor.

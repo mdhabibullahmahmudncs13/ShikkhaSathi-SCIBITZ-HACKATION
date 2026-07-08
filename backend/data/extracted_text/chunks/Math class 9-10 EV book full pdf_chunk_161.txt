@@ -1,0 +1,24 @@
+# Chunk 161 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.405659
+# Character count: 464
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_161
+
+========================================
+
+According to remainder theorem, if g(a) is divided by (a — 2), then the remainder
+will be (2).
+G2) =P 42410. 2-8=8+4420-8=32—8=24
+cg(2)=24
+Calculated remainder is 24.
+fla) =d* 9+ (a+1)*
+f(a) is a polynomial, if we put a = 1, then the result of the polynomial will be
+Z€10.
+Therefore (a — 1) is a factor of the polynomial.
+co fla) =a = 94a +3a® + 3a+1=2a%+3a® + 3a —8
+=2a® — 2a® + 5a* — ba + 8a — 8
+=2a*(a— 1) + bala — 1) + 8(a — 1)
+Forma-9, Mathematics, Class 9-10

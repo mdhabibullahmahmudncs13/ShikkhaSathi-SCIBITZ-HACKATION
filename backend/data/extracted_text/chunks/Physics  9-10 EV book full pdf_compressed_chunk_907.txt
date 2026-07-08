@@ -1,0 +1,26 @@
+# Chunk 907 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.399736
+# Character count: 728
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_907
+
+========================================
+
+--- Page 347 ---
+342 Physics
+ed by ten times.
+For your understanding, a rectangular core is shown. Practical transformers are
+constructed a bit differently, the secondary coil is winded on the primary coil
+and the core is also slightly different.
+If the number of turns in the primary coil is n, and that of the secondary coil is
+n, if AC voltage V, is applied in the primary coil, then the AC voltage V that
+will be found in the secondary coil depends on number of turns.
+\7 Vs _ (Ns
+Vso ns, Vp chy 50, T == constant or, Vg = ©) Vp
+If I, current flows through the primary coil, then the current /, flowing in the
+secondary coilis found from conservation of electrical power.
+Vp np
+hence, Ve Ip = Vs Is ~~ SO,Is = 7) Ip = (2) Is

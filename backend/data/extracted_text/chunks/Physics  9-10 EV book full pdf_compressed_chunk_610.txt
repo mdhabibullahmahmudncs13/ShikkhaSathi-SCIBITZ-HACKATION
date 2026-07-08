@@ -1,0 +1,17 @@
+# Chunk 610 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368350
+# Character count: 351
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_610
+
+========================================
+
+more the amount of reflection (Figure 8.05). In normal glass, light is reflected
+slightly (only 4-5% ), and the rest is refracted through the glass. But if the angle
+of incidence is higher (like 80° or 90°,) then reflected light increases greatly. You
+can test it standing beside a window.
+i
+Figure 8.05: Reflection increases for higher incident angle

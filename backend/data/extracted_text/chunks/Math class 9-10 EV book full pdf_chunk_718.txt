@@ -1,0 +1,27 @@
+# Chunk 718 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.460757
+# Character count: 730
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_718
+
+========================================
+
+where AB = BE. ! ’ “
+It should be mentioned that, if AABC and 4 »
+ADEF are congruent, we write AABC =
+ADEF. In this case, the arca of the triangular
+region AABC = area of the triangular region pa Pp
+ADEF. »
+But, two triangles are not necessarily congruent aN 9
+when they have equal areas. For example, in NN
+the figure, area of AABC = area of ADBC but |
+AABC and ADBC' are not congruent, > y
+Theorem 36. The areas of all triangular regions having same base and lying
+between the same pair of parallel lines are equal to one another.
+Let, the triangular regions ABC and DBC stand ©, A =P
+on the same base BC' and lie between the pair of ~~]
+parallel lines BC and AD. It is required to prove —
+that, Aregion ABC = A region DBC. B rd

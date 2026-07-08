@@ -1,0 +1,23 @@
+# Chunk 781 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.386296
+# Character count: 677
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_781
+
+========================================
+
+10.8.4 Electronics
+
+In cold countries, the amount of water vapor in air is very low and the effects of
+static electricity are very high. Many types of IC (Integrated Circuit) are used
+while working with electronics. Some IC’s can be damaged by even a slightest
+change of voltage to their pins. That is why a touch of the hand while working
+with electronics can damage a valuable IC or the circuit board. For doing work
+under these circumstances, the upper part of a table is connected to the ground
+with a conducting wire. Simultaneously, the hands of the person working are
+connected to the ground using an electrical conducting strap.
+
+10.8.5 Lightning and Lightning Arrestor

@@ -1,0 +1,34 @@
+# Chunk 266 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.861725
+# Character count: 738
+# Chunk ID: ICT 9-10.txt_0_266
+
+========================================
+
+- The first slide will appear on the screen if you press F5 on the keyboard.
+
+- The Thumbnail view of the video file will be shown on the screen.
+
+- Click the Thumbnail of the video file and it will start playing.
+If ‘Automatically’ was selected at the time of adding the file, it will start
+playing with the display of the slide.
+
+& Make a power point presentation about your school and present it.
+
+
+--- Page 86 ---
+Information and Communication Technology 81
+
+Graphics
+
+Importance of Graphics
+
+Photographs, drawings, paintings, illustrations. designs, etc. have to be scanned
+
+and transferred to the computer first for editing. Now pictures captured by a
+
+digital camera can directly be copied to the computer. After the editing, these

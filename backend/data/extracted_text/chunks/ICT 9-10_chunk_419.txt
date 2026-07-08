@@ -1,0 +1,20 @@
+# Chunk 419 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.888261
+# Character count: 341
+# Chunk ID: ICT 9-10.txt_0_419
+
+========================================
+
+the if Condition statement.
+Tf the condition is true, the tasks specified in the <<
+Body of if are executed. If it is false, the tasks in = |
+the Body of else are executed. IMere, any valid Fees
+simple or compound statement can be used. The 3 ==
+flowchart of the if...else statement is shown in the
+digo [rye =
+agram. | 8
+Forma-17, ICT{9-10)

@@ -1,0 +1,23 @@
+# Chunk 107 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.835643
+# Character count: 782
+# Chunk ID: ICT 9-10.txt_0_107
+
+========================================
+
+--- Page 35 ---
+30 Computer Maintenance and Cyber Security
+Malware
+Malware is an abbreviation for English MaliciousSoftware. Malware is software
+designed and developed to intentionally harm a mobile. computer. server, web-
+site, or computer network. This softwareworks against the interests of the user
+of mobile, computer, or any other digital system. However, if a piece of software
+unintentionally causes a problem to a computer system due to its incompetence,
+it cannot be called malware; This is called a software bug . Malware is a type of
+harmful software that is used to disrupt the normal [functioning of a computer,
+mobile, or any other digital system, collect confidential information, illegally
+intrude into a protected computer network system or display unwanted adver-

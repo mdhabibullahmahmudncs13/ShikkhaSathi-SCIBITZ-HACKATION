@@ -1,0 +1,25 @@
+# Chunk 936 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.483137
+# Character count: 285
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_936
+
+========================================
+
+value of other variable.
+Example 1. Solve the equations
+x+y=7
+x—y=3
+Solution : Given equations are
+X43 =Teooorrcenn()
+X=y=3u....(2)
+In equation (2) expressing x in terms if y we get
+x=y+3......03
+From (3) putting the value of x in (I) we get,y+3+y=7
+or, 2y=7-3
+or, 2y=4
+or, y=7-3
+Soy=2

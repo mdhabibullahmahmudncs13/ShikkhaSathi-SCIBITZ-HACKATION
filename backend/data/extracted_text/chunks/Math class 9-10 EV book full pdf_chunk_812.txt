@@ -1,0 +1,32 @@
+# Chunk 812 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.471077
+# Character count: 714
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_812
+
+========================================
+
+EN c
+q 12em
+A B
+B S
+G S
+
+
+--- Page 356 ---
+Chapter 16. Mensuration 351
+5. What is the length of the diagonal of the rectangle ABC'D in cm?
+1) 13 2) 14 3) 14.4 4) 15
+6. What is the area of the triangle ADF in square cm?
+1) 16 2) 32 3) 64 4) 128
+7. What is the circumference of the half circle AGB in cm?
+1) 18 2) 18.85 (approx.) 3) 37.7 (approx.) 4) 96
+8. The length, width and height of a rectangular solid are 16 metre, 12 metre
+and 4.5 metre respectively. Determine the area of its whole surface, length
+of the diagonal and the volume.
+9. The ratios of the length, width and height of a rectangular solid are 21 : 16 :
+12 and the length of diagonal is 87 cm. Determine the area of the whole
+surface of the solid.

@@ -1,0 +1,36 @@
+# Chunk 332 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.873718
+# Character count: 777
+# Chunk ID: ICT 9-10.txt_0_332
+
+========================================
+
+--- Page 107 ---
+102 Multimedia and Graphics
+
+Changing the Positioning of Page By Hand Tool
+
+If the size of the page is made smaller or bigger, the necessary part of the object
+
+can go outside the visible area. In this case, to shift the object to a suitable place
+
+on the screen
+
+- Select the Hand Tool by clicking on it in the Hand Tool Box.
+
+- Click on the necessary object with the Hand Tool, dragging it to a suitable
+place, and release the pressure of the finger on the mouse.
+
+In this way, the positioning of the original page can be changed. The object
+
+that has been clicked will not be shifted in a different way.
+
+Mode of Viewing Object
+
+There are some modes to view objects in the Illustrator programme. Any of these
+
+can be selected from the View menu as required.

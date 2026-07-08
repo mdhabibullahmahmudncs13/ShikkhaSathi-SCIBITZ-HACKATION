@@ -1,0 +1,29 @@
+# Chunk 412 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.341300
+# Character count: 763
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_412
+
+========================================
+
+--- Page 146 ---
+State of Matter and Pressure 141
+Applications of Pascal’s Law:
+Using Pascal’s law some interesting machines can be fabricated. In figure 5.05 a
+machine like that is shown. Here two cylinders are connected by a pipe. Let’s
+suppose cross sectional area of one cylinder is 4, and that of another cylinder 4,
+, and you have applied force /7, on the cylinder of cross sectional area 4, Then
+your applied pressure is
+p=
+Ay
+Now this pressure is transmitted through the liquid in all directions and it will
+also be applied on the cross sectional area of the second cylinder.
+Therefore the amount of force applied on the second cylinder will be
+Fy =PAy =F, &)
+2 2 —n Ay
+L Fi T F2
+Figure 5.05: Force F, is obtained by
+applying force F, which depends on the

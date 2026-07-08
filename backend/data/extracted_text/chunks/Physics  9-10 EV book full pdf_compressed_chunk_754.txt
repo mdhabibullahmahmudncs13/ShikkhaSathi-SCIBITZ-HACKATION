@@ -1,0 +1,39 @@
+# Chunk 754 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383662
+# Character count: 729
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_754
+
+========================================
+
+--- Page 286 ---
+Static Electricity 281
+Here, n=ic
+gq; =-1C
+r=10cm = 0.10 m
+k =9 x 10° Nm2/C?
+So, 9x10 x1x(=1) _ 1
+F=——gqor — N="9x10%N
+Fy + im
+x — 1-x
+(2) 10cm (= ) © &
+(a) (b)
+Figure 10.10 : (a) Distance between +1C and -1C is 10cm (b) Distance
+between +5C and +3C is 1m.
+Question: Two charges of +5 C and +3 C are placed at a distance of 1 m. Now
+a third charge +q is placed in between them, where will it not feel any force.
+(Figure 10.10 b).
+Answer: The +5 C charge will repel +q charge towards the right and the +3 C
+charge repel towards the left. When two charges will repel by equal force, +q
+charge will not feel any force.
++5 +3
+so, (E99, G90
+x2 (1-x)2
+5(1 — x)? = 3x?
+2x2 —10x+5=0
+_ 10 £100 — 40
+x= 2
+x =4.435 or 0.565

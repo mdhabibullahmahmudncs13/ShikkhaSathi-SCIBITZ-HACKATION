@@ -1,0 +1,16 @@
+# Chunk 931 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402502
+# Character count: 312
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_931
+
+========================================
+
+Ci; — Ny, + e + v (anti-neutrino)
+An interesting matter is that, not only the emission of electrons is beta radiation
+from inside the nucleus; the emission of an anti-particle of electron (positron) is
+also called beta radiation. For this reason, a proton has to be converted into
+the neutron inside the nucleus:

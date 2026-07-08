@@ -1,0 +1,27 @@
+# Chunk 401 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.429338
+# Character count: 747
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_401
+
+========================================
+
+--- Page 174 ---
+Chapter 8. Circle 169
+The arc of a circle
+An arc is the piece of the circle between any two
+points of the circle. Look at the pieces of the circle
+between two points A and B in the figure. We find
+that there are two pieces, one comparatively larger
+and the other smaller. The larger one is called the ()
+major arc and the smaller one is called the minor A B
+arc. A and B are the terminal points of this arc R
+and all other points are its internal points. With an Cy
+internal fixed point R the arc is called arc ARB and A B
+is expressed by the symbol ARB. Again, sometimes Hb
+minor arc is expressed by the symbol AB. The two
+points A and B of the circle divide the circle into two
+arcs. The terminal points of both arcs are A and B

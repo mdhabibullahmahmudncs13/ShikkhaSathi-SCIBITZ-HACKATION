@@ -1,0 +1,31 @@
+# Chunk 59 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.394643
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_59
+
+========================================
+
+--- Page 25 ---
+20 Mathematics Classes IX-X
+1) iand ii 2) and iii 3) ii and iid 4) i, ii and dit
+6. Product of three consecutive numbers will always be divisible by which of
+the following numbers?
+1) 5 2) 6 3) 7 4) 11
+7. If a and b are two consecutive even numbers, then which of the following
+numbers is odd?
+1) a? 2) bv? 3) a’+1 14) bv +2
+8. If a and b are two integers, then what should be added to a* + b* to obtain
+a whole squared ?
+1) —ab 2) ab 3) 2ab 4) ab
+9. Prove that the following numbers are irrational. 1) v/5 2) V7 3)
+VI0
+10. 1) Find two irrational numbers between 0.31 and 0.12.
+1
+2) Find a rational and an irrational number between 7 and v2.
+11. 1) Prove that square of an odd integer is an odd integer.
+2) Prove that product of any two consecutive even integers is divisible by
+8.

@@ -1,0 +1,26 @@
+# Chunk 899 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.479401
+# Character count: 615
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_899
+
+========================================
+
+_ 3x [4x xX
+_4-3 1 White part = x — =| — ==
+4 4 4 |4 4
+C4x-3x x
+4 4
+We observe, the fractions written into above boxes have been made into common
+denominators in case of addition and subtraction .
+Rules for addition and subtraction of algebraic fractions
+e Make the fractions to their lowest common denominator.
+e Denominator of the sum will be the lowest common denominator and
+the numerator will be the sum of the numerators of the transformed fractions.
+e Denominator of the difference will be the lowest common denominator
+and numerator will be the difference of the numerators of the transformed
+fractions. N
+B

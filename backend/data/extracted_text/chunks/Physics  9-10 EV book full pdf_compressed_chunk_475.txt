@@ -1,0 +1,21 @@
+# Chunk 475 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.348493
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_475
+
+========================================
+
+There is also an alcohol thermometer except mercury thermometer in which
+alcohol is the thermometric substance and the expansion of alcohol is the
+thermometric property. In a gas thermometer, gas is the thermometric substance
+and the pressure of the gas at constant volume is the thermometric property. As
+the resistance of metal changes with temperature, so the resistance also is used
+as the thermometric property. Different thermometric substances are effective at
+different temperatures, so to measure the very high or very low temperature the
+special thermometric property of a special thermometric substance has to be
+used. Copper and Constantan metals are used as thermometric substances. If two
+junctions of different metals (thermocouple) are kept at different temperatures,

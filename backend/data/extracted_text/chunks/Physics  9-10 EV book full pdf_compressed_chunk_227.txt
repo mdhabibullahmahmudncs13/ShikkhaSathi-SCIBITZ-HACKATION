@@ -1,0 +1,27 @@
+# Chunk 227 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.322727
+# Character count: 574
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_227
+
+========================================
+
+proportional to the applied force acting on it and the change of
+momentum also takes place in the direction in which the force acts.
+If a body is moving with an initial velocity u and the velocity is changed (by
+increasing or decreasing) from u to v after a time 7.
+The change of momentum:
+mv-mu
+So, the rate of change of momentum:
+mv — mu v—u)
+———=m—=ma
+t t
+Since, we considered that there is no change of mass, so we can write like this.
+Further we know that acceleration is:
+v—u
+a=—
+Therefore if the applied force is F, then we can write Newton's second law of
+motion as:

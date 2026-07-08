@@ -1,0 +1,32 @@
+# Chunk 243 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.414269
+# Character count: 746
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_243
+
+========================================
+
+Solution: — — — =— — = or, — — — = — — — [by transposition
+T7557 °F 55 gb trensposition]
+25x — Te 28-10 18x 18
+or, ———— ="—— or, —— = —
+35 35 35 35
+or, 18 =18 or, z=1
+.. Solution is z = 1
+Now, we shall solve such equations which are in quadratic form. These equations
+are transformed into their equivalent equations by simplifications and lastly the
+equations is transformed into linear equation of the form az = b. Again, even
+if there are variables in the denominator, they are also transformed into linear
+equation by simplification.
+Example 2. Solve: (y—1)(y +2) = (y+ 4)(y — 2)
+Solution: (y —1)(y +2) = (y + 4)(y — 2)
+or, yt —y+2y—2=y>+4y—2y—8
+or,y—2=2y—8
+or, y — 2y = —8 + 2 [by transposition]
+or, —y = —6
+- or, y=06
+9 I
+& Solution is y = 6

@@ -1,0 +1,35 @@
+# Chunk 458 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.435314
+# Character count: 593
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_458
+
+========================================
+
+PM site sid A
+sin = oF = Totem [sine of angle 6]
+
+OM djacent sid
+cos § = 0 _ Adjacent side [cosine of angle 6]
+
+oP hypotenuse
+
+PM opposite side .
+tan f) = — = ——— [t t of angle 0]
+a OM adjacent side [tangent of angle 0]
+And opposite ratios of them are
+
+1
+cosec § = —— [cosecant of angle 6]
+sin f
+sec = iL [secant of angle 6]
+Yi ©
+
+cot 0) = ! [cote t of angle 0]
+cot § = bp [cotangent of angle
+‘We observe, the symbol sin # means the ratio of sine of the angle 6, not the
+multiplication of sin and 6. sin is meaningless without 6. It is applicable for the =
+other trigonometric ratios as well S

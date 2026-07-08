@@ -1,0 +1,41 @@
+# Chunk 440 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433808
+# Character count: 773
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_440
+
+========================================
+
+--- Page 189 ---
+184 Mathematics Classes IX-X
+
+Again, OD, OF and OF respectively are perpendiculars to BC, AC and AB at
+
+their extremities.
+
+Hence, the circle lying inside AABC' touches its sides at the points D, E and F'
+
+respectively.
+
+Hence, the circle DEF is the required inscribed circle of AABC'
+
+Construction 11. To draw an ex-circle of a given triangle.
+
+Let ABC be a triangle. It is required to draw its
+
+ex-circle. That is, to draw a circle which touches one F
+
+side of triangle and the other two sides produced.
+
+Drawing: Let AB and AC be produced to D and L
+
+F respectively. BM and CN, the bisectors of ZDBC
+
+and ZF CB respectively are drawn. Let E be their C
+
+point of intersection. From FE, perpendicular FH is
+
+drawn on BC and let EH intersects BC at H. With

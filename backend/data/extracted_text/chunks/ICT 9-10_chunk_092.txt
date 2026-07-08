@@ -1,0 +1,26 @@
+# Chunk 92 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.833079
+# Character count: 784
+# Chunk ID: ICT 9-10.txt_0_92
+
+========================================
+
+--- Page 29 ---
+24 Computer Maintenance and Cyber Security
+Deletion of Software
+‘We know that deleting means erasing something. In fact, by uninstalling a piece
+of software, we delete it from our JCT device, What will we do with delete’
+command then? A software once installed in the JCT device cannot be
+uninstalled completely, unless it is deleted by following the recommended
+process, Or else it creates problems. Some parts of the uninstalled programmes
+are dumped in Lhe Registry file of the operating system. However, it is possible
+to delete any programme following the steps shown below. We should also be
+careful in doing the task.
+The steps to be followed to delete.
+At first, uninstall the piece of software as per the previous instructions, and
+follow the next steps:
+=r —

@@ -1,0 +1,24 @@
+# Chunk 72 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.396243
+# Character count: 727
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_72
+
+========================================
+
+6) {y:ye Nandy? < 100 <y’}
+Empty Set
+If a set does not have any element, the set is said to be empty set, and is denoted
+by @. For example, the set of three male students of Girl's school, {x €
+N:10 <x < 11}, {z € N : x prime and 23 < x < 29} etc.
+Venn-Diagram
+John Venn (1834-1923) first expressed sets by using pictures. Here every set is
+represented by a geometric figure like rectangles, cicrles and triangles in a plane.
+These pictures have been named after John Venn.
+Subset
+A = {a,b} is a set. Sets {a,b}, {a}, {b} can be formed from the elements of this
+set. Again, we can form a subset @ with no elements at all. These sets {a,b}, {a},
+{b}, @ are subsets of set A. All the sets that can be formed from a set are called

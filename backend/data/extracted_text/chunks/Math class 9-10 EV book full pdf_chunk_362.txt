@@ -1,0 +1,22 @@
+# Chunk 362 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425719
+# Character count: 405
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_362
+
+========================================
+
+LCA=CE
+Therefore, AABC, AB + BC + CA=DB+ BC+ CE =DE =p
+ZABC = ZADB + /DAB = x + 1 = Zr
+1 1
+and ZACB = ZAEC + Z/EAC = 54Y + 54 =Zy
+Therefore, AABC is the required triangle.
+‘Work:
+Two acute base adjacent angles and the perimeter of a triangle are given.
+Construct the triangle in an alternative way.
+0 Example 1. Construct a triangle ABC, in which ZB = 60°, ZC" = 45° and
+5 perimeter AB + BC' + CA = 11 cm.

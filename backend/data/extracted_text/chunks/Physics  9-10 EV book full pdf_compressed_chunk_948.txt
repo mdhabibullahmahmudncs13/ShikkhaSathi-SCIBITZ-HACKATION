@@ -1,0 +1,23 @@
+# Chunk 948 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404027
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_948
+
+========================================
+
+video camera, communication satellite would never be possible without the use
+of integrated circuits.
+13.2.4 Electronics of Future
+The technology of electronics is still advancing, and in the future we will
+experience electronic circuits using optics or light in an information
+communicative integrated circuit. At the same time we will observe the use of
+programmable IC (FPGA: Field Programmable Gate Array) in different fields in
+accordance to our own needs.
+13.3 Analog and Digital Electronics
+Things that are happening around us every moment, like sound, light, pressure,
+temperature are expressed as information or data. Their values can be changed
+continuously. We might need these values in our different works, so we preserve

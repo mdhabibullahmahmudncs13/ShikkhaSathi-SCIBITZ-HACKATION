@@ -1,0 +1,28 @@
+# Chunk 128 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.313390
+# Character count: 790
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_128
+
+========================================
+
+--- Page 44 ---
+Motion 39
+displacement from B to A are not equal. One is negative of the other. In vector
+form we can write, _ _
+AB = —BA
+Distance or displacement, both have the dimension of length.
+[Displacement] = L (vector)
+[Distance]= L (scalar)
+2.5 Speed and Velocity
+Roughly we know what is meant by velocity. The measurement of how fast a
+body is moving is called the velocity. In physics, velocity has a definite
+meaning and in addition to velocity we use another quantity named speed. If we
+have understood the two terms distance and displacement properly, then we will
+be able to understand two terms speed and velocity very easily.
+Speed is the rate of change of distance with respect to time. Therefore, if you
+have covered 100 m distance in 20 second, your speed will be;
+100 m

@@ -1,0 +1,27 @@
+# Chunk 554 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.445291
+# Character count: 705
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_554
+
+========================================
+
+1) Draw the triangle and write down the type of triangle with respect to
+the angles.
+
+2) Determine the area of a square drawn with the diagonal of a rectangle,
+where the the length of the rectangle is the largest side of the triangle
+and the breadth of the triangle is the smallest side of the triangle.
+
+3) If the length is increased by 10% and the breadth is increased by 20%,
+what will be percentage of increase of the area?
+
+24. The ratio of present and absent students of a day in a class is 1: 4.
+
+1) Express the percentage of absent students against total students.
+
+2) The ratio of present and absent students would be 1 : 9, if 5 more
+students were present. What was the total number of students?

@@ -1,0 +1,24 @@
+# Chunk 411 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.886353
+# Character count: 550
+# Chunk ID: ICT 9-10.txt_0_411
+
+========================================
+
+* | This is the Addition operator. Using this operator, you can calculate
+the sum of the two variables on either side of it.
+
+- ‘This is the Subtraction operator. Using this operator, you can find
+the difference between the two variables on either side of it.
+
+* This is the Multiplication operator. Using this operator, you can
+
+calculate the product of the two variables on either side of it.
+
+{| This is the Division operator. Using this operator, you can divide the
+variable on the left side by the variable on the right side to get the
+quotient.

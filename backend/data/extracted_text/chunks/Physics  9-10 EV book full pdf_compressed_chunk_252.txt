@@ -1,0 +1,20 @@
+# Chunk 252 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325563
+# Character count: 456
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_252
+
+========================================
+
+other, producing zero? For this reason, the third law will have to be written very
+precisely. The third law states that if there are two objects A and B, then when A
+exerts a force on B, then B also exerts a force on A. It is worth mentioning that
+two opposite forces act on different objects, never on a single object. If the two
+forces were applied on a single object, only then one could cancel the other. Here
+there is no scope of cancellation.
+PN
+BS
+S

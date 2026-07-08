@@ -1,0 +1,30 @@
+# Chunk 316 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.421321
+# Character count: 647
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_316
+
+========================================
+
+2) /3 and £6, Z4 and Z5 are alternate angles.
+
+3) Z4, Z6 are interior angles on the right.
+
+4) £3, £5 are interior angles on the left.
+
+In a plane two straight lines may intersect or they are parallel. The lines intersect
+if there exists a point which is common to both lines. Otherwise, the lines are
+parallel. Note that two different straight lines may at most have only one point
+in common.
+
+The parallelism of two straight lines in a plane may be defined in three different
+ways:
+
+1) The two straight lines never intersect each other ( even if extended to
+
+infinity).
+
+2) Every point on one line lies at equal smallest distance from the other.

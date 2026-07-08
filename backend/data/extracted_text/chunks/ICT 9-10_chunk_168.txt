@@ -1,0 +1,19 @@
+# Chunk 168 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.844482
+# Character count: 498
+# Chunk ID: ICT 9-10.txt_0_168
+
+========================================
+
++ E-books that are only readable on the internet: These books are usually
+published in the HTML. This is called the website of books.
+
++ E-books like printed version with some additional facilities: In these books,
+the readers have the facilities to comment and to know word meaning. Most
+of the books are published in (EPUB) format. These books are possible to
+read by using a special device, for example, ibooks and kindle reader, but
+the kindle and ibook reader have their own compatible format.

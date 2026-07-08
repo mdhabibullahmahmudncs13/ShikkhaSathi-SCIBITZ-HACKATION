@@ -1,0 +1,23 @@
+# Chunk 130 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.313572
+# Character count: 604
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_130
+
+========================================
+
+--- Page 45 ---
+40 Physics
+speed. To understand the internal relationship between speed and velocity, some
+examples discussed:
+To explain distance and displacement we considered a curved path in figure 2.04
+and showed different positions in that path. To have an understanding about
+speed and velocity, we can consider the same example. But now we have to tell
+how much time you have taken for going from one position to another. Suppose
+you have taken 20 minutes for coming from position A to B by cycle. Then your
+average speed will be:
+Average speed = distance travelled/time
+Therefore, __ tm 4x1000m_

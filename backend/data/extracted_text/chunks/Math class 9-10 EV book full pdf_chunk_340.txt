@@ -1,0 +1,42 @@
+# Chunk 340 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.423737
+# Character count: 765
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_340
+
+========================================
+
+8
+a B Cc
+
+
+--- Page 145 ---
+140 Mathematics Classes IX-X
+Example 1. In triangle AABC, AB = AC, BA is produced to D such that
+AD = AC. C, D are added.
+1) Draw the figure based on the stem.
+2) Prove that, BC + CD > 2AC
+3) Prove that, ZBC'D = 1 right angle.
+Solution:
+1)
+D
+X
+B Cc
+2) Given, AB = AC and by construction AC' = AD
+For ABCD
+BC + CD > BD [The sum of the lengths of any two sides of a triangle is
+greater than the third side.]
+or, BC+ CD > AB+ AD
+or, BC+ CD > AD + AD
+or, BC'+ CD > 2AD
+o. BC+ CD >2AC [AB = AC = AD)
+3) Given AB = AC Therefore ZABC = ZACB
+Hence ZDBC' = ZACB
+By construction AC = AD. Therefore ZADC = ZACD
+Hence ZBDC = ZACD
+In triangle ABCD,
+ZBDC + ZDBC + ZBCD = 2 right angle [Sum of three angles of a triangle 9
+is equal to 2 right angles] S

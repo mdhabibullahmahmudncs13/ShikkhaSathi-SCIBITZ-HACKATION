@@ -1,0 +1,38 @@
+# Chunk 847 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474079
+# Character count: 790
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_847
+
+========================================
+
+Example 9. The rate of passing in degree Honours class and the number of
+
+students of some department of a University are presented in the table below.
+
+Find the mean rate of passing in degree Honours class of those departments of
+
+the university.
+
+Name of the department | Math English Political Science
+Rae oryosng 0) | 10 | [0 |W [0 | &
+Nun oFsudens | 80 | 0 | 00 | #5 | 15 | wn
+
+Solution: Here, the rate of passing and the number of students are given. The
+
+weight of rate of passing is the number of students. If the variables of rate of
+
+passing are z and numerical variable of students is w, the table for determining
+the arithmetic mean of given weight will be as follows :
+
+Department Rate of passing x; | Number of students w;
+JES CR A
+Sawie [w|i
+
+Engl 000
+2050
+
+Zoo | w | um | sw

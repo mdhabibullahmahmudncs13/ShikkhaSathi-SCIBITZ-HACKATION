@@ -1,0 +1,16 @@
+# Chunk 96 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.309727
+# Character count: 274
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_96
+
+========================================
+
+Absolute error:
+From 149.625 cm? to 200 cm® is 200 cm® — 149.625 cm® = 50.375 cm®
+From 200 cm® to 259.875 cm’ is 259.875 cm® — 200 cm® = 59.875 cm®
+Considering the largest value we have the absolute error 59.875 cm*®
+Relative error: 59.875 cm®/200 cm® x 100 = 29.9375% = 30%

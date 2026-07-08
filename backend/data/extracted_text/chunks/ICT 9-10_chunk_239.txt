@@ -1,0 +1,25 @@
+# Chunk 239 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.857044
+# Character count: 636
+# Chunk ID: ICT 9-10.txt_0_239
+
+========================================
+
+1.2. Digital Publication : Our publication is still paper-based, but the
+21st century will definitely be the century of digital publication.
+
+2. Entertainment : Multimedia is widely used in most of the genres of
+entertainment. Cinemas and plays are being made livelier by the special
+effects of multimedia.
+
+3. Advertisement : Because of the use of multimedia, advertisements have
+become attractive. Both real and fictional elements can be shown in
+advertisements with the help nltimedia.
+
+4. Games : Multimedia is extensively used in computer games or video
+games. Because of the use of multimedia, the games seem as real as real
+life.

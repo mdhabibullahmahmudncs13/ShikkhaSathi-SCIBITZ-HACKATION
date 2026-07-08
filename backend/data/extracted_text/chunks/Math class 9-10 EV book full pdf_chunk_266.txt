@@ -1,0 +1,40 @@
+# Chunk 266 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.416797
+# Character count: 621
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_266
+
+========================================
+
+or, (x +16) — 15(x + 16) = 0
+
+or, (x +16)(x — 15) = 0
+
+cx+16=0,orz—15=0
+
+fz+16=02=-16
+fr—15=02=15
+
+But the number of pen x cannot be negative.
+
+cr # 16; cx =15
+
+.". Shahik bought 15 pens. I.
+3
+g
+8
+
+
+--- Page 118 ---
+Chapter 5. Equations in One Variable 113
+‘Work: Solve by forming equations:
+
+1) If a natural number is added to its square, the sum will be equal to nine
+times of exactly its next natural number. What is the number?
+
+2) Length of a perpendicular drawn from the centre of a circle of radius 10
+cm. to a chord is less by 2 cm, than the semi-chord. Find the length of
+the chord by drawing a probable picture.

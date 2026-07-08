@@ -1,0 +1,33 @@
+# Chunk 254 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.859565
+# Character count: 763
+# Chunk ID: ICT 9-10.txt_0_254
+
+========================================
+
+the making of the slides. Any image can be used as the background of the
+
+slide.
+
+Adding or Changing Background to the Shide
+
+1. Keep the slide open or active to add a background to it. The first slide of the
+current presentation is kept open.
+
+2. If you click on the drop-down bar of [_ = —— 3
+Background Style on the right of the Fle El = i m= =
+ribbon of the Design menu, a palette of | — g
+gradient and solid color will come on the TE.
+screen. If the mouse pointer is placed on a ad ([EEE—,
+color or gradient of the palette, in the i
+original slide, the background of that didi
+color or gradient will appear. —
+
+To use more colors, textures and images ETT ii
+
+1. Select Format Background at the bottom. and a dialogue box of that name
+will come on the screen,

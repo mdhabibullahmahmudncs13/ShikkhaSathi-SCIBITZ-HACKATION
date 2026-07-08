@@ -1,0 +1,29 @@
+# Chunk 385 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.881260
+# Character count: 663
+# Chunk ID: ICT 9-10.txt_0_385
+
+========================================
+
+5 =H
+@»> 5 B|>
+sa) Compiler Machine Code
+TE Go to The Next a
+Command
+
+Which Programming Language to Learn?
+
+To start, learning any one of the commonly used programming languages is
+
+enough. This is because the basic structure of all programming languages is sim-
+
+ilar, with only slight differences in the way instructions are written. For exam-
+ple, in the C programming language, each statement must end with a semicolon.
+but in Python, this is not necessary. Though there are some differences, there's
+no need to worry. Once you learn one programming language, it becomes much
+easier to learn others, Generally, the choice of a programming language depends 3
+3

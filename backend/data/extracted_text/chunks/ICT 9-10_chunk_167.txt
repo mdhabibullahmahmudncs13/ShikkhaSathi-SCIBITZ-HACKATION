@@ -1,0 +1,33 @@
+# Chunk 167 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.844400
+# Character count: 792
+# Chunk ID: ICT 9-10.txt_0_167
+
+========================================
+
+5. As e-books can be purchased through Tnternet, they do not incur any
+shipping or packaging costs.
+
+6. E-books are easy to distribute and sell.
+
+7. E-books can be printed out according to individual demand, and hence, they
+are financially more viable.
+
+Different types of E-book
+
+Nowadays, different kinds of e-book can be found. Different publication
+
+requires different e-book format. Usually e-books are divided into the following
+
+five categories:
+
+* Exact copy of a printed version: These books are like their printed versions.
+They are published in the pdf (portable document format) format. The
+complete texts or parts are available on the internet.
+
++ E-books that are only readable on the internet: These books are usually
+published in the HTML. This is called the website of books.

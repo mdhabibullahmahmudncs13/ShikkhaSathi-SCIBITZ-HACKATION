@@ -1,0 +1,22 @@
+# Chunk 38 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392631
+# Character count: 748
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_38
+
+========================================
+
+10.78423 = 10.78423423. Desired similar repeating decimal fractions are
+respectively 5.66666666, 7.34545454 and 10.78423423.
+Example 9. Convert 1.7643, 3.24 and 2.78346 into similar repeating decimal
+fractions.
+Solution: In 1.7643 we have 4 digits in the nonrepeating part and it does not
+have repeating part. In 3.24 number of digits in nonrepeating part is 0 and that
+of repeating part is 2; in 2.78346 number of digits in nonrepeating part is 2 and
+that in repeating part is 3. Here the largest number of nonrepeating digits is 4
+and numbers of digits in the repeating parts are 2 and 3, LCM of which is 6. So
+each number must have 4 nonrep 2 ating digits and 6 repeating digits.
+1.7643 = 1.7643000000, 3.24 = 3.2424242424 2.78346 = 2.7834634634

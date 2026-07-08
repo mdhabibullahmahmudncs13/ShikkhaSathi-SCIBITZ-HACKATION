@@ -1,0 +1,20 @@
+# Chunk 225 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.412449
+# Character count: 310
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_225
+
+========================================
+
+—2.07779 = —3 + 0.92221 = 3.92221
+.. Characteristic of 10g0.00836 is —3 and the mantissa is .92221.
+Example 15. Find log, 10 :
+Solution: log, 10 SE SE [using the calculator]
+B = = = S111 1€ C8 & T
+eT logge logpg2.71828 | 0.43429 [OME ato
+= 2.30259 (approx)
+3 Alternative : We use the calculator : [-] 2.30259
+S

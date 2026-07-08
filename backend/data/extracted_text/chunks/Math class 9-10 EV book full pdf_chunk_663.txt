@@ -1,0 +1,21 @@
+# Chunk 663 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455249
+# Character count: 431
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_663
+
+========================================
+
+1) and ii 2) i and iii 3) ii and iii 4) i, ii and iii
+On the basis of the following series, answer questions 3 and 4.
+log2 + log4 + log8 + - --
+3. What is the common difference of the series?
+1) 2 2) 4 3) log2 4) 2log2
+4. Which one is the 7th term of the series?
+1) log32 2) log64 3) logl28 4) log256
+5. Find the eighth term of the series 64 + 324+ 16 +84 -- +. N
+3
+6. Find the sum of the first 14 terms of the series 3 +9 +27 +. S

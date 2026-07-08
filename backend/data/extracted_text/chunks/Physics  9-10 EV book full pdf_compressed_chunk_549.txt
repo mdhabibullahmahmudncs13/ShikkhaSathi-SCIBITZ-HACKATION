@@ -1,0 +1,24 @@
+# Chunk 549 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.360216
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_549
+
+========================================
+
+per second. Therefore, f = : . if time period is expressed in second, then unit of
+f will be Hertz (Hz).
+In simple harmonic motion, amplitude is the maximum upward (or downward)
+distance. The maximum displacement is called amplitude. As shown in figure
+7.01, here the amplitude is a.
+The next term is phase. When the mass attached to the spring is moving up and
+down, if we follow the mass at any instant, we will see that it will stay in a
+certain position from the equilibrium; this position is its phase. In simple
+harmonic motion this definite condition of the mass and the spring will return
+identically just after one time period. In terms of physics, we can say in simple
+harmonic motion the phase that develops at any instant, after one time period,
+this phase returns again.
+7.2 Waves

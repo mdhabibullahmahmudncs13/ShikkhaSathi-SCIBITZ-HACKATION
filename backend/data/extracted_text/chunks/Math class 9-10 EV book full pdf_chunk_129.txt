@@ -1,0 +1,39 @@
+# Chunk 129 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.402467
+# Character count: 729
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_129
+
+========================================
+
+--- Page 55 ---
+50 Mathematics Classes IX-X
+
+= 8ab(a® +b?)
+c(a+ Db) = (a —b)* = 8ab(a® + b?)
+Example 9. If a +b+ c= 15 and a® + b* + ¢* = 83, what is the value of
+ab + be + ac?
+Solution: First method:
+2(ab+bc+ac) = (a+b+c)? — (a + b* +c?) = (15)? — 83 = 225 — 83 = 142
+
+142
+
+coab4be + ac = <= =T1
+Alternative method:
+(a+b+c)? = (a® + b> +c?) + 2(ab + be + ac)
+or, (15)? = 83 + 2(ab + be + ac)
+or, 225 — 83 = 2(ab + be + ac)
+or, 2(ab + be + ac) = 142
+coab+ be + ac = be =T71
+Example 10. If a +b+c¢ = 2 and ab + bc + ac = 1, what is the value of
+(a+b)? + (+c) + (c+a)*?
+Solution: (a+ b)*+ (b+)? + (c+ a)?
+
+=a? +2ab +b? + b* + 2bc + 2 + 2 + 2ca + a?
+
+= (a+ b* + + 2ab + 2bc + 2ca) + (a® + 1 + ¢?)
+
+=(a+b+c) + (a+b+c)*—2(ab+ be + ca)

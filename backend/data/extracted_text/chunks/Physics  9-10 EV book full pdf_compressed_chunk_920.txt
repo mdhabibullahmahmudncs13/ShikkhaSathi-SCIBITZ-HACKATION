@@ -1,0 +1,21 @@
+# Chunk 920 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.401182
+# Character count: 725
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_920
+
+========================================
+
+there is charge-less neutrons with protons in the nucleus, and nuclei become
+stable due to very strong nuclear force between neutrons and protons. Though
+there is only one proton at the center of a normal hydrogen atom, there are also
+hydrogen nuclei with one or two neutrons.
+With the increase of the number of protons, to keep this nucleus stable, the
+number of neutrons also increases. But when the proton number exceeds 82,
+the nucleus starts to become unstable. But, no stable isotope is found for
+Technetium (43) and Promethium (61).These unstable nuclei try to become stable
+by emitting a kind of radiation. We call this process radioactivity. The radiation
+that comes out from the nucleus is called a radioactive ray.

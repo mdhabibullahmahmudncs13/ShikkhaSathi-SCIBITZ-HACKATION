@@ -1,0 +1,34 @@
+# Chunk 552 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.360635
+# Character count: 768
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_552
+
+========================================
+
+pate in the wave propagation.
+
+When a stone is thrown into a pond, a single wave is created that spreads
+
+outward through the water. When the vibrations of a tuning fork travel through
+
+a medium—whether air, liquid, or solid—we describe this as a sound wave
+
+propagating through the medium. When the oscillations of electric and magnet-
+
+ic fields transfer energy, this is called an electromagnetic wave. Examples of
+
+electromagnetic waves include light waves, gamma rays, and microwaves.
+
+These types of waves do not require a medium to propagate.
+
+7.2.1 Characteristics of Waves
+
+Here, we will discuss some properties of waves. The first property below (i)
+
+applies only to mechanical waves, while the remaining properties (ii-v) apply to
+
+almost all types of waves.

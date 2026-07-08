@@ -1,0 +1,33 @@
+# Chunk 934 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.482927
+# Character count: 607
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_934
+
+========================================
+
+--- Page 412 ---
+Appendix 407
+Theorem 14:
+The sum of the lengths of any two sides of a triangle is greater than the length
+of the third side.
+Special Nomination: Suppose in AABC, BC is
+the largest side. We need to prove that p
+(AB+AC)>BC.
+Drawing: Extend BA up to D such that
+AD=AC. Join C and D.
+& c
+
+Proof:
+1. In AADC, AD=AC. [The angles opposite the equal sides of an isosceles
+triangle are equal]... ZACD=/ADC.". ZACD=/BDC
+2. /BCD>ZACD.
+Therefore, /BCD>/BDC.
+3. In ABCD, ZBCD>/BDC.
+Hence, BD>BC. [The side opposite the greater angle is greater]
+4. But BD=AB+AD=AB+AC [Since AC=AD]
+
+.(AB+AC)>BC. (Proved)

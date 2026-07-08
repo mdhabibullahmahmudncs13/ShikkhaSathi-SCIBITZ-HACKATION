@@ -1,0 +1,17 @@
+# Chunk 529 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.442211
+# Character count: 172
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_529
+
+========================================
+
+z=k(z+y)...(3)
+By subtracting equation (2) from (1),
+r—y=kly—ax)or kly—z)=—(y—2)
+Sok=—1
+Again, adding equations (1), (2) and (3), we get,
+r+y+z=k(y+z+z+a+a+y) =2k(r+y+2) ES

@@ -1,0 +1,14 @@
+# Chunk 163 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316404
+# Character count: 228
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_163
+
+========================================
+
+velocity. Since the velocity- time graph is a straight line, so in this case we
+will get the same value of the acceleration at any point on the graph. For
+example the rate of change of velocity in between the time 2's to 3 s is,

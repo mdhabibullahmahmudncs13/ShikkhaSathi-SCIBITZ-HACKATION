@@ -1,0 +1,33 @@
+# Chunk 92 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.309216
+# Character count: 708
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_92
+
+========================================
+
+Relative error = —————
+
+Measured value
+
+So in our previous example:
+
+Relative error: 0.5 mm/ 7 mm = 0.071
+
+In percentage this is: 0.071 x 100 =7.1 %
+Question: Suppose you have got 10 cm by measuring the length of a square
+shaped book. Suppose the relative error in the measurement is 10%. What is the
+relative error in its area?
+Answer:
+Measured area of the object =10 cm*10 cm=100 cm?
+Since the relative error of the object is 10%, hence if its length is measured, the
+minimum length will be 9 cm and maximum length will be 11 cm.
+~ The minimum area = 9 cm x 9 cm = 81 cm?
+and the maximum area = 11cm x 11cm = 121 cm?
+Therefore the absolute error:
+
+1100 cm? — 81 cm?| = 19 cm?m?
+or, [121 cm? —100 cm?| =21 ¢

@@ -1,0 +1,27 @@
+# Chunk 148 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.315114
+# Character count: 519
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_148
+
+========================================
+
+--- Page 52 ---
+Motion 47
+Acceleration,
+v—u 0-268m/s ,
+a= ——=—g5ps = —0.089 m/s
+Thus the acceleration of the car —0.089 m/s? or deceleration 0.089 m/s”
+Question: The velocity of a bullet is 1.5 km/s. It has penetrated 10 cm of a wall.
+What is the deceleration of the bullet?
+Answer: The only way to solve this problem is to use the formula
+v? =u? —2as
+Final velocity, v = 0
+0 = (1.5% 1000)? — 2 (305)
+chee “(Too
+1.5 x 1000
+a= (LS 10007 = 11,250,000 m/s?
+Deceleration: 11,250,000 m/s? (or acceleration: —11,250,000 m/s?)

@@ -1,0 +1,22 @@
+# Chunk 85 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.831840
+# Character count: 771
+# Chunk ID: ICT 9-10.txt_0_85
+
+========================================
+
+We know that the ICT devices are operated with software. These pieces of
+software have to be installed in the computer or in other devices. When we
+purchase any ICT device, the seller asks us about the software that we require.
+After installing the required pieces of software along with operating software, he
+gives it to us. In this way, we can use ICT devices, for example, computer, tablet,
+smartphone, etc., as we require.
+The process of installing operating system software is complex, and expertise
+is essential for this task. In addition to the operating system software, we need
+different types of software. These pieces of software should be installed on the
+basis of our needs.
+Installation of any software requires special attention to the issues given below:

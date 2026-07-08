@@ -1,0 +1,49 @@
+# Chunk 482 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.437907
+# Character count: 761
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_482
+
+========================================
+
+--- Page 212 ---
+Chapter 9. Trigonometric Ratio 207
+JVB VEL 1
+S22 202
+[sin 60° = cos 30° = vs cos 60° = sin 30° = 5
+3 1 4
+242-22
+4 + 4 4
+— tan260°
+4) Given expression = Tr + sin%60°
+2
+1-(v3)? [V3 . V3
+=F + | = - tan 60° = /3, sin 60° = ~—
+rw tz)! 2)
+13.3 2.3
+Tl+3 4 4 4
+243 1
+C44
+Example 14. 1) If v2cos(A—B) = 1, 2sin(A+B) = V3 and A, B are acute
+angles, find the values of A and B.
+cos A—sin A 1 —
+2) If cosA—smA = 1-v3 find the value of A.
+cos A+sin A 1+/3
+tan?
+3) If A=45° Prove that, cos24 = Tm
+4) Solve :2cos?f + 3sin § — 3 = 0, where 6 is an acute angle.
+Solution:
+1) V2cos(A—B)=1
+1
+or, cos(A— B) = —
+( ) 7
+1
+or, cos(A — B) = cos 45° [- cos 45° = 7 ]
+LA-B=45...(1)
+and 2sin(A + B) = V3
+or, sin(A + B) = vs
+i"
+S or, sin(A + B) = sin 60° [." sin 60° = Vv ]

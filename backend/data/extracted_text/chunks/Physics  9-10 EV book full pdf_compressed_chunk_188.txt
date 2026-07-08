@@ -1,0 +1,20 @@
+# Chunk 188 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319331
+# Character count: 727
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_188
+
+========================================
+
+its direction of motion; it will move along a straight line at uniform speed.)
+The first part of Newton’s first law is not difficult to understand because we
+always observe that the bodies at rest remain at rest and do not move until they
+are pushed. The problem arises from the second part, because we never observe that
+a body in motion keeps its perpetual motion for ever. If motion is produced in a
+body by pushing it, we observe that the body comes to rest if no force is applied.
+From our daily life experiences it seems that to keep a body in uniform motion
+we have to apply force on it continuously. Form Newton's first law we learnt
+that it is not true. If a body in uniform velocity stops then we have to realize that

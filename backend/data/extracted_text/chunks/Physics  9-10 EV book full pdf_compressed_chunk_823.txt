@@ -1,0 +1,15 @@
+# Chunk 823 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390256
+# Character count: 302
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_823
+
+========================================
+
+They can be of different shapes and of different types. The resistances that are
+used in laboratory uses, generally the value of the resistances are expressed by
+using bands of different colors on them. How much electric power they can
+tolerate is also specified along with the value of the resistance.

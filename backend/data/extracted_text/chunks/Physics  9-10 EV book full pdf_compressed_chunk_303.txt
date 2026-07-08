@@ -1,0 +1,27 @@
+# Chunk 303 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330300
+# Character count: 780
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_303
+
+========================================
+
+--- Page 109 ---
+104 Physics
+Therefore we can say firmly that the energy that develops due to motion in a
+body is certainly one kind of energy or kinetic energy. In the previous chapter we
+said that the terrible road accidents that happen and the losses that occur are
+mainly due to kinetic energy. When a bus-truck or a car moves at high speed then
+it has a huge amount of kinetic energy.
+We can easily calculate how much kinetic energy is produced by an object when
+work is done by a force on that object.
+Let an object of mass m be displaced by an amount s due to the application of
+force F. Therefore work done WW by the force F is:
+W =Fs
+According to Newton’s second law we know,
+F=ma
+Again, from the equations of motion we know that if an object starts its motion
+from rest,

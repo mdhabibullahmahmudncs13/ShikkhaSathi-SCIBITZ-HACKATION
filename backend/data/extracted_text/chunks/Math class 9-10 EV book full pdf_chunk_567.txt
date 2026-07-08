@@ -1,0 +1,31 @@
+# Chunk 567 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446307
+# Character count: 782
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_567
+
+========================================
+
+--- Page 250 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 245
+Here, multiplying both sides of first equation by 2, we get, 4x + 2y = 24
+second equation is, dz + 2y = 5
+subtracting, 0 = 19 which is impossible.
+
+So, we can say, such systems of equations cannot be solved. Such systems
+of equations are inconsistent and mutually independent. Such systems of
+equations have no solution.
+Here, comparing the coefficients of 2 and y and constant terms from the two
+2 1,12
+
+equations, we get, — = — # —
+
+q get, = 57
+That is, in case of the system of inconsistent and mutually independent
+equations ratios of the coefficients of the variables are not equal to the ratio
+of the constant terms.
+
+Generally, conditions for conformability of two simple simultaneous equations,

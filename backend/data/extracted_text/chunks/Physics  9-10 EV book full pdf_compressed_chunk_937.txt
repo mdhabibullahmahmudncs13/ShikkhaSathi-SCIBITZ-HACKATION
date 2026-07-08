@@ -1,0 +1,23 @@
+# Chunk 937 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.403010
+# Character count: 737
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_937
+
+========================================
+
+Another important use of radioactivity is the determination of the age of
+ancient fossils. In our body there is huge amount of carbon in which a
+definite amount of C , is present. When an animal dies, no more C , can
+enter the body further. The amount of carbon deposited before gets less due
+to the half life. Thus knowing the amount of C , that would have normally
+been present initially, and by calculating the amount which is decayed, age
+can be determined accurately.
+
+A radioactive element can cause harm to the cells of the body, so different
+types of caution are taken. Radioactivity is used to destroy harmful cells
+within the body. This is why, for the treatment of cancer radioactive
+elements are used to destroy cancer cells.

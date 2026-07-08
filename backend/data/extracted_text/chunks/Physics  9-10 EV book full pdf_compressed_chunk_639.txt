@@ -1,0 +1,17 @@
+# Chunk 639 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.371270
+# Character count: 400
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_639
+
+========================================
+
+focal point then the reflected rays will become parallel meaning that the light
+rays won't be able to coincide to create an image.)
+Now let’s see what happens to the image when we place an object within the
+focal distance of a concave mirror:
+(a) The position of the image will depend on the position of the real object. The
+closer the object is placed to the focus further the image will be created.

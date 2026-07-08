@@ -1,0 +1,27 @@
+# Chunk 686 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.376531
+# Character count: 794
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_686
+
+========================================
+
+--- Page 257 ---
+252 Physics
+In this case if the critical angle is,
+. 1
+sing, = Tas = 0.69
+0, = 43.6°
+Therefore, if light incidents at angle 75°, then total internal reflection will happen
+instead of reflection.
+9.2.1 Rainbow
+You may be thinking that you have never seen total internal reflection. But those
+who have seen a rainbow have seen total internal reflection . A rainbow is
+formed by the total internal reflection of water. Those who have not separated
+white light into different colors with prism , have seen this in a rainbow . If the
+sun shines after rain, we see a rainbow. Because there are water droplets in the
+air, in that water total internal reflection occurs, where different colors of light
+bends in different angles . The bands of different color of the rainbow are formed

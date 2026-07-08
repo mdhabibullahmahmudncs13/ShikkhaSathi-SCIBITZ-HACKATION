@@ -1,0 +1,34 @@
+# Chunk 629 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.452246
+# Character count: 785
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_629
+
+========================================
+
+of the sequence 1,3,5,7,-- is 1, the second term is 2, etc. Followings are the four
+examples of sequence :
+1,2,3, +m,
+1,35, 2n—1,---
+14,9, 0?
+123 n
+23°47 n+l’
+‘Work:
+1) The general terms of six sequences are given below. Write down the
+sequences:
+1 n—1 1
+1) — 2) —— 3) —
+5 @ 2 ® 5
+n n
+4) — 5) (1) 6) (1)
+@ 5 6) CUPL ©) CDT
+2) Each of you write a general term and then write the sequence.
+Series
+If the terms of a sequence are connected successively by + sign, a series is
+obtained. Such as, 1 +3 +5 +74 --- is a series. The differences between any
+two successive terms of the series are equal. Again, 24+4 +84 16+ --- is a
+series. The ratio of two successive terms is equal. Hence, the characterstic of any
+0 series depends upon the relation between its two successive terms. Among the

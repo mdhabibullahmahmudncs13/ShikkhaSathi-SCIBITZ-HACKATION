@@ -1,0 +1,21 @@
+# Chunk 807 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.470522
+# Character count: 515
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_807
+
+========================================
+
+the rectangle around its greater side.
+Solution: Given that, the length of a rectangle is 12 cm. and width 5 em. If it
+is revolved around the greater side, a right circular cylinder is formed with height
+h =12 cm and radius of the base r = 5 cm
+The whole surface of the produced solid = 27r(r + h)
+= 2x 3.1416 x 5(5 + 12) = 534.071 square cm (approx.)
+and volume = rh
+= 3.1416 x 5% x 12 = 942.48 cube cm (approx.)
+The required area of whole surface is 534.071 square cm (approx.) and volume
+942.48 cube cm (approx.)

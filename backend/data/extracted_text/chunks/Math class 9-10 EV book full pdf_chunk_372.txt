@@ -1,0 +1,35 @@
+# Chunk 372 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426800
+# Character count: 780
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_372
+
+========================================
+
+--- Page 162 ---
+Chapter 7. Practical Geometry 157
+Drawing: [rom any ray AE, cut the
+line segment AC' equal to a. Bisect the P
+line segment AC to find the mid-point O. ; B,
+At O construct the angle ZAOP equal ASN
+to ‘x and extend the ray OP to the A A LE
+opposite ray OQ. From the rays OF and Ra D
+OQ cut two line segments OB and OD
+1
+equal to 7b Join A, B; A, D; C', B and [e}
+Cc, D.
+Then, ABCD is the required parallelogram.
+Proof: In AAOB and ACOD,
+0A = 0C = 1 OB = OD = 1, [by construction]
+2 2
+and included ZAOB = included ZCOD [opposite angle]
+Therefore, ANAOB = ACOD
+So, AB =CD
+mp and ZABO = ZC DO; but the two angles are alternate angles.
+AB and C'D are parallel and equal.
+Similarly, AD and BC are parallel and equal.
+Therefore, ABCD is a parallelogram with diagonals
+1 1

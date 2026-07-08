@@ -1,0 +1,31 @@
+# Chunk 326 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.422295
+# Character count: 763
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_326
+
+========================================
+
+interior angles. ZACB is the adjacent interior angle 5 = D
+of the exterior angle ZACD. Each of ZABC and
+ZBAC is an opposite interior angle with respect to
+ZACD.
+Theorem 4. The sum of the three angles of a triangle is equal to two right
+angles.
+A A
+A
+B c B y
+¢ D
+Let ABC be a triangle. In the triangle ZBAC + ZABC + ZACB = 2 right angles.
+Draw C'E from point C so that AB || CE. Now ZABC' = ZECD [corresponding
+angles] and ZBAC = ZACE [alternate angles]
+ LABC + ZBAC = ZECD + LACE = ZACD
+ZABC + /BAC + ZACB = ZACD + ZACB = 2
+right angles.
+Corollary 2. If a side of a triangle is produced, then exterior angle so formed
+is equal to the sum of the two opposite interior angles.
+Corollary 3. If a side of a triangle is produced, the exterior angle so formed is
+So . g

@@ -1,0 +1,29 @@
+# Chunk 147 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.404506
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_147
+
+========================================
+
+=x@Bz—7) +2032 -7) = Bx —T)(z +2)
+Work: Resolve into factors:
+1) 2% +2 —562) 162° — 462° + 15x 3) 122% + 172 +6
+Perfect Cube Form: Factors can be determined by expressing an expression
+in the form of perfect cube.
+Example 27. Resolve into factors: 8z° + 36x%y + 54ay? + 274°
+Solution: 8z% + 3622y + Sdwy?® + 27y°
+= (22) + 3 x (2)? x 3y + 3 x 2x x (3y)® + (3y)*
+= (22 + 3y)® = (22 + 3y) (2x + 3y) (22 + 3y)
+Formulae of addition or subtraction of two cubes: Factors can be
+determined by applying the formulae a® + b* = (a + b)(a® — ab + b*) and
+a® — b= (a—b)(a® + ab +b?)
+Example 28. Resolve into factors: 1) 8a® + 27b* 2) a® — 64
+Solution:
+1) 8a® +27 = (2a)* + (3b)°
+= (2a + 3b){(2a)* — 2a x 3b + (3b)*}
+= (2a + 3b) (4a? — 6ab + 9b?)
+g 2) af —64 = (a*)® — (4)* = (a> — 4){(a®)® + a® x 4 + (4)*}

@@ -1,0 +1,23 @@
+# Chunk 858 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.394519
+# Character count: 773
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_858
+
+========================================
+
+(a) Electrically insulated cover: Open wire carrying electricity is dangerous,
+so it is always covered with plastic or another insulator. If short circuit occurs for
+any reason i.e. positive and negative wires touches without any resistance then,
+according to Ohm’s law, a large amount of current flows, the wire become
+heated, the plastic burns and can even cause fire. So it should be taken care that
+insulating layer remains unaltered and intact.
+
+(b) Better Connection: The electrical connections should be made correctly
+where electrical equipment run using huge amount of electricity. If the
+connections are not properly done, extra resistance is produced and according to
+FR, it may be heated, may burn the insulating layer, and can damage the
+electrical connection.

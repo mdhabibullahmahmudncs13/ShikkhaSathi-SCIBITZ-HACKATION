@@ -1,0 +1,26 @@
+# Chunk 780 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.386215
+# Character count: 624
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_780
+
+========================================
+
+--- Page 297 ---
+292 Physics
+by accumulating huge amount of charge on the sphere it is possible to develop
+high potential.
+
+10.8.3 Fuel Truck
+
+‘When petrol or other fuel trucks supply fuel, then they have to be very careful so
+that no electrical sparks are created suddenly which may produce a big
+explosion. This may happen if static electricity is generated due to friction
+between truck wheels and the road. So behind the truck, a metal chain hangs
+from the tank and stays in contact with the ground. In this way, any static
+electricity produced is directly transferred to the earth through the chain.
+
+10.8.4 Electronics

@@ -1,0 +1,32 @@
+# Chunk 306 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330552
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_306
+
+========================================
+
+--- Page 110 ---
+Work, Power and Energy 105
+(9 Example
+Question: A force of 10 N is applied on a stationary object of mass 10 kg for 10
+s. (a) What is the kinetic energy of the object? (b) Calculate the kinetic energy
+after 20 s. (c) If the force is applied for 20 s, then what is the kinetic energy?
+Answer: Acceleration due to 10 N force is:
+_F_aov
+4m Tokg m/s
+Therefore velocity after 10 second: 1
+m
+v=at=-X 10s =10m/s
+(a) Then the kinetic energy,
+Zmv? =2x10x 10%] =500]
+(b) Acceleration will take place for 10 s, after that no acceleration is present,
+so velocity is unchanged, therefore kinetic energy after 20 s will be the same.
+(c) If force is applied for 20 s, then the velocity is,
+v=at=1m/s?x20s=20m/s
+Therefore the kinetic energy,
+! 2110x202 = 2000
+smu? = J = 2000]

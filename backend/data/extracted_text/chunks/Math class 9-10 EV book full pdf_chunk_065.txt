@@ -1,0 +1,14 @@
+# Chunk 65 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.395644
+# Character count: 146
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_65
+
+========================================
+
+is not a member of B (¢ does not belong to B)
+Methods for expressing sets
+Sets can be expressed using two methods, namely Roster method or tabular

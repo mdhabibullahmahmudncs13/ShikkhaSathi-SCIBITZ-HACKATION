@@ -1,0 +1,18 @@
+# Chunk 540 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.359185
+# Character count: 294
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_540
+
+========================================
+
+(a)The exchange of heat between two objects depends on which factors?
+(b) Write down why temperature and heat are different?
+(c) If the temperature of a metal rod is 80° C, what is it in the Kelvin scale?
+(d) Make comments about the material of the two rods with a mathematical
+explanation.
+8
+8

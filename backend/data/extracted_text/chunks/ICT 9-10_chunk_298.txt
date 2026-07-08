@@ -1,0 +1,39 @@
+# Chunk 298 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.867387
+# Character count: 796
+# Chunk ID: ICT 9-10.txt_0_298
+
+========================================
+
+Transferring Picture from One File to Another
+
+All the pictures should be transferred to a single file to work together. Prepare
+
+an empty file named Default Photoshop Size. Another file called Banana is
+
+opened with the pictures of bananas. Now clicking on a banana with the Move
+
+tool. and drag it to the Window of the empty —
+
+file, The picture of the banana will be shifted to lx ll 2
+
+the empty file. Close the file of Banana. i @
+
+In the same way, more pictures of mangoes. :
+
+pineapples, elc. can be prepared and shifted to 2 [Eres
+
+the new file. na 9
+
+Fixing Target Layer
+
+- The layer in which the picture is edited is called Target Layer.
+
+- Any picture of any layer can be edited whenever required. The picture of a
+single layer can be edited once.
+
+To change a layer into Target Layer:

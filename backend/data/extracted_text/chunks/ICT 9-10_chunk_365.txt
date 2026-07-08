@@ -1,0 +1,29 @@
+# Chunk 365 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878993
+# Character count: 744
+# Chunk ID: ICT 9-10.txt_0_365
+
+========================================
+
+To increase or decrease fonts horizontally:
+
+B. Clicking the drop-down arrow on the right of Horizontal Scale and keeping
+pressure on the mouse to get the list of measurement number. If a number
+bigger than 100% is selected, keep continuing the pressure on the mouse and
+keep dragging. The font size will be horizontally big. On the contrary, if a
+number smaller than 100% is typed, the font size will be horizontally small.
+100% is the ideal measurement of letter.
+
+Baseline Shift
+
+If any text written with the Direct Selection Tool is selected, the line seen below
+
+ihe text is called the Baseline. Shifting the lower edge of the text up or down is
+
+called Baseline Shift.
+
+Selecting the measurement number from the drop-down menu in ‘Set the

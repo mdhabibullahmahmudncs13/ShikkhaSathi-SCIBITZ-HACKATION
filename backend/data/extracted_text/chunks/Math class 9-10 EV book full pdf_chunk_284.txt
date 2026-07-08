@@ -1,0 +1,23 @@
+# Chunk 284 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418459
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_284
+
+========================================
+
+and properties of the space.
+A solid occupies space which is spread in three directions. This spread in three
+directions denotes the three dimensions (length, breadth and height) of the solid.
+Hence every solid is three dimensional. For example, a brick or a box has three
+dimensions (length, breadth and height). A sphere also has three dimensions.
+Although the dimensions are not distinctly visible, it can be divided distinctly
+into length-breadth-height.
+NL (ay
+The boundary of a solid denotes a surface, that is, every solid is bounded by one
+or more surfaces. For example, the six faces of a box represent six surfaces. The
+upper face of a sphere is also a surface. But the surfaces of a box and of a sphere
+are different. The first one is plane while the second one is curved.

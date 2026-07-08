@@ -1,0 +1,31 @@
+# Chunk 410 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.430578
+# Character count: 759
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_410
+
+========================================
+
+--- Page 178 ---
+Chapter 8. Circle 173
+Exercise 8.2
+1. ABCD is a quadrilateral inscribed in a circle with centre O. If the diagonals
+AC and BD intersect at the point E, prove that ZAOB+/C0OD = 2/AEB.
+2. ABCD is a quadrilateral inscribed in a circle with centre O where ZADB +
+/ZBDC = 1 right angle. Prove that, A, O and C' lie in the same straight
+line.
+3. Show that, the oblique sides of a cyclic trapezium are equal.
+4. In the figure, the centre of the circle is O and
+OB =25cm. A
+1) Evaluate the parameter of the circle
+ABCD. 1
+2) Prove that ZBAD = 5/BOD LAN ;
+B
+3) If AC and BD intersect at the point NT
+E, prove that, ZAOB + ZCOD = C
+2/AEB.
+5. Two chords AB and C'D of the circle ABC'D intersect at the point E. Show
+that, AAED and ABEC' are equiangular.

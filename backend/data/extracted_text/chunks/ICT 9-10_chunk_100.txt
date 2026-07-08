@@ -1,0 +1,16 @@
+# Chunk 100 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.834539
+# Character count: 274
+# Chunk ID: ICT 9-10.txt_0_100
+
+========================================
+
+check the system. They are called white hat hackers.
+Those who do illegal hacking are also called Crackers.
+Tegal hackers or crackers use the Iniernet and other
+networks to steal or destroy data. They usually use -
+several techniques to easily find out the vulnerabilities g

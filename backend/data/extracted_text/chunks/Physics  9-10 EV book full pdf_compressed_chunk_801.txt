@@ -1,0 +1,17 @@
+# Chunk 801 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388570
+# Character count: 347
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_801
+
+========================================
+
+potentials will become equal due to flow of charge.
+So you can understand that if we want a continuous flow of electricity, we
+need some other process which will maintain a potential difference that
+will not decrease with the flow of charges. All of you have seen such
+5 technique; these are battery cells or generators. Potential difference is
+BS

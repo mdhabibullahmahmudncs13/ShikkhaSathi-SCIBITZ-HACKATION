@@ -1,0 +1,17 @@
+# Chunk 413 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.886756
+# Character count: 214
+# Chunk ID: ICT 9-10.txt_0_413
+
+========================================
+
+below.
+Insert the first integer: 50
+Insert the second integer: 100
+The sum of 50 and 100 is 150
+Modify the above program to create a program that prints the results of subtrac- wu
+tion and multiplication as well. =

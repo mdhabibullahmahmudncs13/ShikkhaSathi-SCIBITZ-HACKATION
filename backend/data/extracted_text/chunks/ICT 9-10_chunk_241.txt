@@ -1,0 +1,23 @@
+# Chunk 241 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.857298
+# Character count: 787
+# Chunk ID: ICT 9-10.txt_0_241
+
+========================================
+
+--- Page 78 ---
+Information and Communication Technology 73
+The man who works with text, graphics, audio, video, animation, etc. is called
+the multimedia content developer. Many pieces of software like Adobe
+Photoshop, 3D Studio Max, Maya, ete. are used for multimedia contents.
+However, depending on the content that they develop and the interactive
+applications that they use, multimedia contents developers should be called
+‘multimedia programmers’ or ‘multimedia authors’. In fact. there is a
+difference between developing contents and adding interactivity. Adobe
+Premier and Adobe Photoshop can make an interesting piece of multimedia
+content. By contrast, in order to make the multimedia content interactive,
+‘Director’, a programme of creating software, combines the media made in

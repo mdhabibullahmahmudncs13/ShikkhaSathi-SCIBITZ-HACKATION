@@ -1,0 +1,23 @@
+# Chunk 941 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.403467
+# Character count: 776
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_941
+
+========================================
+
+So, many researchers have been started becoming concerned about radioactivity
+and the determination of the safe limit of radioactivity is also started. General
+people are now being warned about the effects of radioactivity (figure 13.02).
+13.2 Development of Electronics
+Electronics has a greatest contribution in the development of the modern
+civilization and it is not an exaggeration by any means. The gradual
+development of electronics can be divided into three parts, the vacuum tube,
+transistor and integrated circuit.
+13.2.1 Vacuum Tube
+In 1883 Edison observed that in a light bulb, a current can flow through a
+vacuum space from the filament to a metal plate. This process is known as the
+Edison Effect. In 1904, John Flemming (on the basis of the Edison effect) first

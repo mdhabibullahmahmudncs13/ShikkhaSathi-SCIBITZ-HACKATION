@@ -1,0 +1,32 @@
+# Chunk 85 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308614
+# Character count: 795
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_85
+
+========================================
+
+main scale, is not the reading of main scale, the mark that has just crossed
+the main scale fully is the main scale reading.
+3. At this position find out which mark of the vernier scale coincides with
+any mark of the main scale, this is the vernier coincidence.
+Measure the length of the object several times and put it in the table.
+In the same way measure the breadth and height of the object.
+Observation:
+Determination of vernier constant:
+Value of one smallest division of main scale, S = .................
+Total number of divisions of vernier scale, n= ...............
+Vernier constant, VC = s/n=..............
+Table 1.06: Table of finding length, breadth and height of a rectangular object:
+observations reading M |coincidence constant [M + V x VC reading
+v ve
+a IN EF I
+L
+vel
+Ww
+eel]
+H
+3

@@ -1,0 +1,24 @@
+# Chunk 241 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324482
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_241
+
+========================================
+
+Here, the tension Ton the string acts to the right on 2 .
+the mass. It is important to note that there is only =
+one tension force acting in a string, and this tension Tr
+always acts along the string and away from the
+object. In this case, both the tensionTand the accel- M
+eration of the mass m are directed to the right and Mg
+therefore 4)
+T=ma Figure 3.09: Weight of an
+Along the vertical direction, the mass mmm is acted object is applying force on
+upon by the downward gravitational force mg and the another object.
+upward normal force N. Since the resultant of these two forces is zero, there is
+no acceleration of the mass m in the vertical direction.
+Two forces are acting on the second mass: the gravitational force Mg acting

@@ -1,0 +1,37 @@
+# Chunk 456 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.435155
+# Character count: 457
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_456
+
+========================================
+
+OP of APOM do not depend on the position of the
+
+point P on the side OA.
+
+If we draw the perpendiculars PM and PM; from a
+
+two points P and Py to the side OX, two similar ¢y M Mi xX
+
+triangles APOM and AP,OM, are formed.
+
+Now, APOM and AP,OM, are being similar,
+
+PM OP or PM PIM;
+
+PM, OP, OP OP
+
+OM OP or OM OM,
+
+OM; OP 7 OP OP
+
+PM OM or PM PM;
+
+PM; OM, ~~ OM OM,
+
+0 That is, each of these ratios is constant. These ratios are called trigonometric
+5 ratios.

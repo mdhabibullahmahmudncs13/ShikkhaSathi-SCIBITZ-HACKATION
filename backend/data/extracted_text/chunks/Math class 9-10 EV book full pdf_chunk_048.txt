@@ -1,0 +1,30 @@
+# Chunk 48 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.393657
+# Character count: 742
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_48
+
+========================================
+
+--- Page 19 ---
+14 Mathematics Classes IX-X
+Example 12. Subtract 5.24673 from 8.243.
+Solution: Here number of digits in nonrepeating part should be 2 and that in
+repeating part should be 6, LCM of 2 and 3. Now the numbers have been converted
+into similar numbers, and subtraction has been performed as follows:
+8.243 = 8.24343434
+5.24673 = 524673673
+2.99669761 | subtracting 6 from 3 results in 1 in hand |
+—1
+2.99669760
+The desired result is 2.99669760.
+Remarks: If the minuend starting at the repeating dot is smaller than the
+subtrahend, we must subtract 1 from the rightmost digit.
+Note: In the following is explained why 1 is subtracted from the rightmost
+digit in different way.
+8.243 =8.2434343434
+5.24673 = 5.24673673/67
+2.99669760(67

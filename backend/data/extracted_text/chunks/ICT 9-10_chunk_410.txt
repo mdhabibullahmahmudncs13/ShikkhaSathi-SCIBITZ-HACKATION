@@ -1,0 +1,32 @@
+# Chunk 410 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.886086
+# Character count: 766
+# Chunk ID: ICT 9-10.txt_0_410
+
+========================================
+
+test input=int(input('Insert an integer number:'))
+
+print('This is your integer number:', test_input)
+Then, we will see the output as shown below:
+Insert an integer number: 1245
+This is your integer number: 1234
+Here, notice that when we print text inside the print() function, we write it within
+
+- single quotes (''). However, when we print a variable, we write the name of the
+variable directly without any quotes.
+
+
+--- Page 132 ---
+Problem Solving through Programming 127
+Arithmetic Operations
+
+We can easily use the following operators to perform mathematical operations
+(addition, subtraction, multiplication, division, and modulus):
+
+* | This is the Addition operator. Using this operator, you can calculate
+the sum of the two variables on either side of it.

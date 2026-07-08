@@ -1,0 +1,38 @@
+# Chunk 868 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.475998
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_868
+
+========================================
+
+class IX in a school:
+76, 65, 98, 79, 64, 68, 56, 73, 83, 57, 55, 92, 45, 77, 87, 46, 32, 75, 89, 48
+97, 88, 65, 73, 93, 58, 41, 69, 63, 39, 84, 56, 45, 73, 93, 62, 67, 69, 65, 53
+78, 64, 85, 53, 73, 34, 75, 82, 67, 62
+1) What is the type of the given information? What indicate frequency
+in a class of distribution?
+2) Make frequency table taking appropriate class interval.
+3) Determine the mean of the given number by short-cut method.
+13.
+Y
+11]
+EE.
+ol TAT]
+sb TENT]
+A TTR]
+ol— JEW [1]
+sl TY [0]
+al TEE [1]
+al LEN]
+ob VEER [1]
+eo —;
+WNT,
+30405060708090100
+1) In the above figure, what is the mid-point value of the first class and
+what is the frequency of the last class?
+2) Express by data of information demonstrated in the above figure.
+3) Find the median of frequency obtained from 142.

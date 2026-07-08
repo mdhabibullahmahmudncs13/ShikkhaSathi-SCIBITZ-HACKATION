@@ -1,0 +1,15 @@
+# Chunk 108 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.311001
+# Character count: 321
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_108
+
+========================================
+
+Now the question is, to specify the position of an object, is it necessary for the
+reference point or origin to be a static point? Let us think; in front of you a person
+is sitting still on a chair. If we consider the chair as the reference point or origin,
+we can firmly say, the position of your friend is not changing.

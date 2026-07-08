@@ -1,0 +1,51 @@
+# Chunk 454 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.434975
+# Character count: 765
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_454
+
+========================================
+
+--- Page 195 ---
+190 Mathematics Classes IX-X
+(a) (b) (c)
+r G
+17 8
+P q F
+15 E
+Solution:
+
+1) Hypotenuse 17 units 2) Hypotenuse p 3) Hypotenuse EF
+opposite side 8 units opposite side r opposite side EG
+adjacent side 15 units adjacent side ¢ adjacent side FG
+
+Example 2. Find the lengths of hypotenuse, the adjacent side and the opposite
+side for the angles a and 3.
+7 24
+25
+Solution:
+
+1) For av angle 2) For 3 angle
+hypotenuse 25 units hypotenuse 25 units
+adjacent side 7 units adjacent side 24 units
+opposite side 24 units opposite side 7 units
+
+‘Work:
+
+Indicate the hypotenuse, adjacent side and opposite for the angle 6 and ¢.
+
+@D 12 © d
+Py TT
+b 13 e "
+pe—p <q
+H
+d (© 36 [J
+— <b
+I 27\ as a)
+J
+Constancy of ratios of the sides of similar right-angled triangles
+S
+Bl

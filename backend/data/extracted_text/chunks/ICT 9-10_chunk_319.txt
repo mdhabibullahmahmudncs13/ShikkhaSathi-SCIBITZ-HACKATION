@@ -1,0 +1,34 @@
+# Chunk 319 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.871763
+# Character count: 787
+# Chunk ID: ICT 9-10.txt_0_319
+
+========================================
+
+- Two options are shown as RGB and CMYK in Color Mode. CMYK mode is
+suitable for printing work. but RGB mode is better for electronic medium.
+However, on the computer screen, the difference of these modes are not
+precisely distinguished.
+
+- Fixing the measurement. press OK in the dialogue box. and it will
+disappear. A new window will come.
+
+In the Name box of the New dialogue box, type a file name, and it will be viewed
+
+on the title bar at the right side of Adobe Illustrator above the menu bar. If any
+
+file name is not typed ‘Untitled ..." will be viewed on the title bar.
+
+Work Tools
+
+New vacant files will be found on the screen after creating a new file. Numerous
+
+objects like menu bar. toolbox, floating palette, scroll bar, ste. will be viewed for
+
+starting work.
+
+Title Bar

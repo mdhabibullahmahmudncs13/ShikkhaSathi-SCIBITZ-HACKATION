@@ -1,0 +1,26 @@
+# Chunk 573 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.446833
+# Character count: 554
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_573
+
+========================================
+
+r+y=10 dr +2y=6 3r—3y—10=0
+4. 3rx+2y=0 5. 3x +2y=0 6. Sz —2y—16=0
+_ — Gy = 6
+6x +4y =0 9z — 6y = 0 Sw—2y=2
+1 1 1
+7. —yrty=-1 8. —5T-y=0 9. —yrty=-1
+T—2y=2 z—2y=0 T+y=>5
+10. ar —cy=0
+cx —ay=c* —ad®
+Solution of simple simultaneous equations
+We shall discuss the solutions of only the consistent and independent simple
+simultaneous equations. Such system of equation has only one (unique) solution.
+Here, four methods of solutions are discussed :
+0 1. Method of substitution 2. Method of elimination 3. Method of cross-
+5 multiplication 4. Graphical method.

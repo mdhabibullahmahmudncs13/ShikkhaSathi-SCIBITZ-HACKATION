@@ -1,0 +1,21 @@
+# Chunk 338 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.333551
+# Character count: 751
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_338
+
+========================================
+
+exactly, it attains the maximum velocity. So it does not stop there rather moves
+away in the opposite direction and rises up until its velocity becomes zero.
+Therefore, it again develops a potential energy. When it reaches the maximum
+height it stops there, owing to its potential energy again it starts moving towards
+the stationary state. In this way, the stone oscillates and transformation from
+potential energy to kinetic energy and kinetic energy to potential energy
+continues. This process would continue for an infinite time if there was no
+friction and other causes of energy loss.
+Therefore,the transformation of energy is a very natural process. Transformation
+of energy takes place not only between potential energy and kinetic energy. But

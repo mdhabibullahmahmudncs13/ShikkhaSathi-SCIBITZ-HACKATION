@@ -1,0 +1,16 @@
+# Chunk 955 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404608
+# Character count: 333
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_955
+
+========================================
+
+because every atom attaches to four different atoms around it, and they are all
+using their electrons sharing with the neighboring atoms. (We have drawn the
+figure on a plane. The real arrangement of silicon atoms is three dimensional, as
+shown at the right side of the Figure 13.05. Actually, every atom touches other
+d four atoms.)

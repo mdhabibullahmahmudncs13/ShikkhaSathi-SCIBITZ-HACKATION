@@ -1,0 +1,33 @@
+# Chunk 476 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.437279
+# Character count: 790
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_476
+
+========================================
+
+--- Page 209 ---
+204 Mathematics Classes IX-X
+Trigonometric ratios of the angles 0° and 90°
+We have learnt how to determine the trigonometric r
+ratios for the acute angle 6 of aright-angled triangle. Now,
+we see, if the angle is made gradually smaller, how
+the trigonometric ratios change. As 6 get smaller
+the length of the side, PN also gets smaller. The
+point P closes to the point N and finally the angle 0 N
+6 comes closer to the angle 0°, OP is reconciled with
+ON approximately.
+P
+P
+Pp
+r r
+[9] N [2] N 0 N [2 N [2] N
+When the angle # comes closer to 0°, the length of the line segment PN reduces to
+PN
+zero and in this case the value of sinf = oP is approximately zero. At the same
+ON
+time, the length of OP is equal to the length of ON and the value of cos 0 = oP
+is 1 approximately.

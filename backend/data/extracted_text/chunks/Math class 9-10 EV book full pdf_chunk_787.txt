@@ -1,0 +1,15 @@
+# Chunk 787 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468470
+# Character count: 193
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_787
+
+========================================
+
+-. Area of the square region = a” and the area of the circle = r?.
+According to the question, a? = mr?
+or, a = \/mr = v/3.1416 x 14 = 24.81 (approx.)
+g The required length is 24.81 cm (approx.)

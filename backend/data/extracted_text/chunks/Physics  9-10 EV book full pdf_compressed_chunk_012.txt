@@ -1,0 +1,23 @@
+# Chunk 12 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.301556
+# Character count: 771
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_12
+
+========================================
+
+--- Page 8 ---
+Physical Quantities and Their Measurements 3
+1.1 Physics:
+Physics is the most ancient branch of science. It is because scientists started
+studying and practising astronomy, the most important branch of physics, before
+other branches of science had flourished. Besides, being the oldest branch,
+physics can said to be the most fundamental branch of science. Chemistry
+flourished on the basis of physics. Biology flourished on the basis of Chemistry,
+and again, many other subjects flourished on the basis of Biology.
+Generally, we can say that the branch of science that tries to understand matter
+and energy and the interaction between them is called physics. You must have
+realized that here physics does not refer to only the visible things around us but

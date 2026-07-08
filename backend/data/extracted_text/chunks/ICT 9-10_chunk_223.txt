@@ -1,0 +1,23 @@
+# Chunk 223 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.853866
+# Character count: 730
+# Chunk ID: ICT 9-10.txt_0_223
+
+========================================
+
+--- Page 72 ---
+My Writings and Accounts 67
+Calculation of Percentage
+How much is 15% of Tk. 400? What is the selling price at profit 16% at the
+purchasing cost Tk. 12007 We frequently need to do this sort of calculations in
+our practical life. We can do these calculations on the spreadsheet.
+To solve the first problem on the spreadsheet, put formula =A3*B3% in the result
+cell. The process of writing the formula in the result cell by using keyboard is to
+write the sign = and click the cell where 400 is written. Then press * and click the
+cell where 15 is written. Then writing % (press shift key and 5), press the enter
+button. You will get your result.
+The formula =A3*B3%+A3 should be used to solve the second problem. The

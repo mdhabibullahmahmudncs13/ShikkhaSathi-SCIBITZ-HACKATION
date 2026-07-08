@@ -1,0 +1,27 @@
+# Chunk 91 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.309110
+# Character count: 510
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_91
+
+========================================
+
+|£0.5 mm| = 0.5 mm
+
+‘We can consider the relative error after the absolute error. Let us consider that an
+error of 0.5 mm has occurred while measuning length. If the length of the object
+is 1 mm then this error is very serious, but if the length is 1 m then the
+measurement is accurate enough. The concept of relative error has been
+introduced to give a better understanding.
+Therefore, . Absolute error
+
+Relative error = —————
+
+Measured value
+
+So in our previous example:
+
+Relative error: 0.5 mm/ 7 mm = 0.071

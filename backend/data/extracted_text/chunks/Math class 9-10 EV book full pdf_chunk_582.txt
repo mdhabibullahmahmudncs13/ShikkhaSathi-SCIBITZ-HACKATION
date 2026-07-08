@@ -1,0 +1,36 @@
+# Chunk 582 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.447858
+# Character count: 651
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_582
+
+========================================
+
+--- Page 256 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 251
+‘We observe:
+Equation Relation between x | Illustration
+and y
+. xT [1 1
+ar+by+e =0 | ——— ay | by c ay by
+bicy — bycy
+ar+byy+e; =0] [7] ap | by [2 [2 by
+Crag — aay
+_ 1
+Tabs — aby
+Note: The method of cross-multiplication can also be applied by keeping the
+constant terms of both equations on the right hand side. In that case, changes of
+sign will occur but the solution will remain the same.
+‘Work:
+. dor —y—T7=0
+If the system of equations are expressed as the system of
+3r+y=0
+ax + by +e =0
+equations h wa , find the values of ai, by, 1, ag, by, co.
+ax + boy +c =0
+w“
+J
+5

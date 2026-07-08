@@ -1,0 +1,19 @@
+# Chunk 824 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472237
+# Character count: 663
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_824
+
+========================================
+
+6° — 8°. The lowest range of the class is 6° and the highest range is 8°. The
+frequency of this class is 11. Similarly, The limit of the second class is 9° — 11°
+and the frequency of this class is 13. Now if the frequency 11 of first class is added
+to the frequency 13 of the second class, we get 24. This 24 will be the cumulative
+frequency of the second class and the cumulative frequency of first class as begins
+with the class will be 11. Again, if the cumulative frequency 24 of the second
+class is added to the frequency of the third class, we get 24 + 7 = 31 which is the pS
+cumulative frequency of the third class. Thus cumulative frequency distribution &

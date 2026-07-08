@@ -1,0 +1,25 @@
+# Chunk 394 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.882447
+# Character count: 798
+# Chunk ID: ICT 9-10.txt_0_394
+
+========================================
+
+There are a few things to keep in mind when naming variables:
+
+1. The name of the variable will always be a word. That is, we cannot write the name
+ofthe variable with more than one word. However, if you want, you can exclude the
+spaces between the two words and give them the name of the variable as a word.
+Again, the variable can also be named with an underscore ( _ ) sign between two
+words, omitting the space between them.
+
+2. The first letter of a variable's name must be a-z or A-Z or underscore (_). The first
+letter cannot be a number (0-9) or any other symbol (e.g. * or etc.). However, after
+the first letter, any number (0-9) or a-z or A-Z or underscore ( _ ) can be used as the
+remaining letters,
+
+3. No other symbols such as @, $, %,», etc. can be used in the name of the variable. g

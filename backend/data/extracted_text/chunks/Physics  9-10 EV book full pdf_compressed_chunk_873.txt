@@ -1,0 +1,29 @@
+# Chunk 873 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.396219
+# Character count: 567
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_873
+
+========================================
+
+(d) Who is more economical, Alvi or Alif (considering money)? Analyze
+with mathematical arguments.
+
+3. The potential difference of an electric supply line in our country is 220 V.
+The resistance of the filament of an electric bulb is 484 Q . 220 V- 100 W is
+marked on the bulb.
+
+(a) Define ampere.
+
+(b) What does it mean to say that the electromotive force of a dry cell is
+1.5Vv?
+
+(c) If the bulb is connected with the supply line, what will be the electric
+current?
+
+(d) Propose an experiment to verify 220 V-100 W marked on the bulb.
+
+Forma-42, Physics, Class 9-10

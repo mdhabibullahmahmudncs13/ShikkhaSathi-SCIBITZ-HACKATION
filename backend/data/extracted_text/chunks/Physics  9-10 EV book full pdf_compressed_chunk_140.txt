@@ -1,0 +1,29 @@
+# Chunk 140 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314381
+# Character count: 635
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_140
+
+========================================
+
+The dimension of acceleration: [a] = LT™2
+
+Unit of acceleration: ms?
+When the acceleration a is known and if the initial velocity is u then after time ¢
+it is very easy to find the final velocity v (Figure 2.07). The final velocity is,
+If the object starts its motion with an g
+acceleration from rest, then El
+
+v = at
+In the meantime all the discussions done
+so for are true for uniform acceleration. time Tn
+If the object does not move with uniform i . .
+. Ls Figure 2.07 : Increasing velocity of an
+
+acceleration, then it is not so easy to i So . .
+
+. LS object which is moving with uniform
+find the acceleration from the initial : .

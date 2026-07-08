@@ -1,0 +1,17 @@
+# Chunk 831 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472806
+# Character count: 380
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_831
+
+========================================
+
+been taught how to draw them. Here, how frequency polygon, pie-chart, ogive
+curve are drawn from frequency distribution and cumulative frequency table will
+be discussed.
+Frequency Polygon: In class VIII, we have learnt how to draw the histogram
+of discrete data. Here how to draw frequency polygon from histogram of indiscrete io
+data will be put for discussion through example. S

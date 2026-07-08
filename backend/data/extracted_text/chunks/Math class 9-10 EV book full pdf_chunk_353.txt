@@ -1,0 +1,22 @@
+# Chunk 353 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.424961
+# Character count: 774
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_353
+
+========================================
+
+» construct quadrilateral, parallelogram, trapezium by using given data.
+Construction of Triangles
+Every triangle has three sides and three angles. But, to specify the shape and
+size of a triangle, all sides and angles need not to be specified. For example, as
+sum of the three angles of a triangle is two right angles, one can easily find the
+measurement of the third angle when the measurement of the two angles of the
+triangle is given. Again, from the theorems on congruence of triangles it is found that
+the following combination of three sides and angles are enough to be congruent.
+That is, a combination of these three parts of a triangle is enough to construct a
+unique triangle. In class seven we have learnt how to construct triangles from the 5
+following data: S

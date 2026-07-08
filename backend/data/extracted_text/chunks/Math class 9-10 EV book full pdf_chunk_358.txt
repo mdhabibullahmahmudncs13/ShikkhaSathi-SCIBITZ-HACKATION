@@ -1,0 +1,23 @@
+# Chunk 358 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425377
+# Character count: 562
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_358
+
+========================================
+
+Proof: In AACR and AADR, CR = DR, AR = AR and the included ZARC =
+included ZARD [right angle]
+AACR = NADR.
+LAC = AD
+Now, In AABC, ZABC = Zz, BC =a [by construction]
+and BA+ AC = BA+ AD = BD = s. Therefore, AABC is the required triangle.
+Construction 2. The base of a triangle, an acute angle adjacent the base and
+the difference between the other two sides are given. Construct the triangle.
+Let the base a, a base adjacent acute angle Zz and the difference d of the other
+two sides of a triangle be given. It is required to construct the triangle.
+&§ Drawing:
+&

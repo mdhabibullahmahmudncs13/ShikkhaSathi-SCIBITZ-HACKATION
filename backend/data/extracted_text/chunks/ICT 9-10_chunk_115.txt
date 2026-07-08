@@ -1,0 +1,23 @@
+# Chunk 115 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.836703
+# Character count: 756
+# Chunk ID: ICT 9-10.txt_0_115
+
+========================================
+
+keeping it on your mobile phone, you can use it to fight crime even in times of
+danger. Suppose someone has suffered an accident in the cyber world. In that
+case, they should send a GD to the nearest police station along with a copy of the
+GD and the following information along with the information about the crime in
+the application of Jabrat Jai or contact the cybercrime helpdesk of the nearest
+police station with a copy of the GD.
+The Strategies for Security over the Internet
+The following security strategies can be used for sale Internet use and to protect
+personal information and devices from online threats. namely-
+= Enable Two Factor Authentication (2FA).
+* Using strong passwords and not using the same password across all digital
+platforms.

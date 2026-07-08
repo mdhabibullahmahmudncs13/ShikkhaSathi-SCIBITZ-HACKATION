@@ -1,0 +1,21 @@
+# Chunk 511 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.355681
+# Character count: 646
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_511
+
+========================================
+
+starts is called the melting point. If we continue to measure the temperature,
+surprisingly we will notice that when fusion has started, the temperature of the
+mixture of some amount of solid and some amount of liquid does not increase
+any more even if heat is applied (as shown in the figure 6.08). During this time
+the heat is used to loosen the intermolecular bonds of the molecules in the solid.
+So, the temperature cannot rise because applied heat cannot make the
+molecules move further. During fusion at a definite melting point the amount of
+heat which is used to convert the whole solid into liquid, is called the Latent Heat
+of Fusion.
+3

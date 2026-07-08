@@ -1,0 +1,25 @@
+# Chunk 256 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.415591
+# Character count: 765
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_256
+
+========================================
+
+24. Distance between Dhaka New Market and Gabtoli is 12 km. From New
+Market Sajal departed for Gabtoli by rickshaw at the speed of 6 km per
+hour and Kajal from the same place departed for Gabtoli on foot at the
+speed of 4 km per hour. After reaching Gabtoli Sajal took rest for 30
+minutes and then departed for New Market at the same speed. At which
+distance from New Market will they meet?
+
+25. Number of passengers in a steamer is 376. The fare per head for the cabin
+is thrice that for the deck. The fare per head for the deck is Tk. 60 and the
+total fare collected is Tk. 33840.
+
+1) Letting the number of passengers on the deck as x, form an equation.
+2) What is the number of passengers on the deck and in the cabin?
+3) What is the fare per head for the cabin?

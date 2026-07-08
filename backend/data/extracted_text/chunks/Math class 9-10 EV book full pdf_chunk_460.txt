@@ -1,0 +1,45 @@
+# Chunk 460 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.435471
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_460
+
+========================================
+
+--- Page 199 ---
+194 Mathematics Classes IX-X
+Trigonometric identity
+2 2
+(i) (sin 6)% + (cos 0)? = (or) + (5%)
+PM? OM? PM*+OM? OF?
+=o + OPE = or — op [by the formula of Pythagoras]
+=1
+Or, (sin 0)? + (cos 0) = 1
+| (sin 0) + (cos 0)? = 1
+Remarks: For integer indices n we can write sin" for (sin 6)" and cos™f
+for (cos 0)".
+2
+(ii) sec? = (sec 0)? = (o5)
+2 72 72
+= o = Ms IW [OP is the hypotenuse of right-angled APOM|
+om? n PM?
+TOM? OM?
+Ne
+=1+ (531) =1+ (tan 0)? = 1 + tan¢
+. and
+or\*
+iii 29 _ 2gy2 _ (YL
+(111) cosec?d = (cosec?0)? = (77)
+OP?  PM?*+ OM? ) )
+SPEC Pw [OP is the hypotenuse of right-angled APOM]
+PM? OM? OM\*
+=f ———=14+( =
+PM? PM? PM
+=1+ (cot 0)* = 1 + cot?6
+. ond
+Example 3. If tan A = 5 find the other trigonometric ratios of the angle A.
+4 IS
+Solution: Given that, tan A = 3 =

@@ -1,0 +1,23 @@
+# Chunk 74 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.829633
+# Character count: 761
+# Chunk ID: ICT 9-10.txt_0_74
+
+========================================
+
+--- Page 24 ---
+Information and Communication Technology 19
+Computer Maintenance
+A computer combines various electronic components (hardware) and software.
+Therefore, to ensure optimal performance, it must be properly maintained. The
+computer must be protected [rom external factors such as humidity, temperature,
+electrical fields, magnetic fields, dust, smoke, water, etc. Additionally, the operat-
+ing system and application software must be kept up to date. Thus, computer
+maintenance refers to the efforts to keep the computer in good working condition.
+There are two types of computer maintenance:
+1. Preventive Maintenance: Preventive maintenance refers to taking precaution-
+ary measures before a fault or issue arises in the computer. Users can perform

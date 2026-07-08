@@ -1,0 +1,25 @@
+# Chunk 453 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.345840
+# Character count: 746
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_453
+
+========================================
+
+field of research in physics.
+@ Do Yourself
+Density of a substance
+Objective: Determine the density of a substance
+Apparatus: Spring balance, a solid which can sink in water, water in a pot.
+Theory: Dividing the mass of a body by its volume, density is measured.
+Mass of the body can be measured by a spring balance. It is possible to
+determine the volume of the body using the Archimedes law. After
+immersion, the decrease of the mass in grams is the volume in cc (cm?).
+Procedure: 1. Determine the mass of a body using a spring balance.
+2. Tie the body with a thread and hang it from a spring balance
+and determine the weight keeping the body inside the water.
+3. Determine the density of the body.
+Table: To determine the density of the matter

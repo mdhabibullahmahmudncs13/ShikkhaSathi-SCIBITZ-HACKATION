@@ -1,0 +1,19 @@
+# Chunk 793 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468943
+# Character count: 248
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_793
+
+========================================
+
+8. The circumference of a circle is 220 metre. Determine the length of the side of
+the square, inscribed in the circle.
+
+9. The circumference of a circle is equal to the perimeter of an equilateral
+triangle. Determine the ratio of their areas.
+
+8
+S

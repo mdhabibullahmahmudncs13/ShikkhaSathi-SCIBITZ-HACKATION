@@ -1,0 +1,32 @@
+# Chunk 155 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.405174
+# Character count: 736
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_155
+
+========================================
+
+--- Page 68 ---
+Chapter 3. Algebraic Expressions 63
+fla) =(a—a) h(a) =0
+co fla)=0
+Hence, any polynomial f(z) will be divisible by (x — a) if and only if f(a) = 0.
+This formula is known as factor theorem.
+Proposition 12. If degree of f(z) is positive and a # 0, then if f(z) is divided
+by (ax +b), the remainder will be f (-2).
+Proof: Degree of divisor ax +b, (a #0) is 1.
+Hence, we can write: f(z) = (az +b) h(z) +r =a (x + B) ch(z) +r
+b
+sfx) = (a+ . ca h(z) +r
+It is clear that, if f(x) is divided by (x + 2). the quotient will be a - h(x) and
+the remainder will be 7.
+Here, divisor = 2 — (+9)
+a
+. . b
+Hence, according to remainder theorem r = f 4
+. Co . . b
+Therefore, if f(x) is divided by (az + b), the remainder will be { —— |) .
+a

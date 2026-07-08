@@ -1,0 +1,33 @@
+# Chunk 230 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.412872
+# Character count: 786
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_230
+
+========================================
+
+--- Page 103 ---
+Chapter 5
+. . .
+
+Equations in One Variable
+‘We have known in the previous class what equation is and learnt its usage. We
+have also learnt the solution of simple equations with one variable and acquired
+knowledge thoroughly about the solution of simple equations by forming
+equations from real life problems. In this chapter, linear and quadratic equations
+and identities have been discussed and their usages have been shown to solve the
+real life problems.
+At the end of the chapter, the students will be able to —
+
+» explain the conception of variable.
+
+» explain the difference between equation and identity.
+
+» solve the linear equations.
+
+» solve by forming linear equations based on real life problems.
+
+» solve the quadratic equations and find the solution sets.

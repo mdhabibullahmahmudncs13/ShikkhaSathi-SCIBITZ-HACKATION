@@ -1,0 +1,18 @@
+# Chunk 818 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389867
+# Character count: 166
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_818
+
+========================================
+
+current flows as a result, it can be said that the resistance of the circuit is 1 Q.
+Example
+Question: To make fun you can write Ohm’s law differently:
+14
+I xR Ps
+I
+a

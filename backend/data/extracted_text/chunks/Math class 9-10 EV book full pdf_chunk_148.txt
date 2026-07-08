@@ -1,0 +1,33 @@
+# Chunk 148 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.404593
+# Character count: 684
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_148
+
+========================================
+
+--- Page 65 ---
+60 Mathematics Classes IX-X
+= (a? — 4)(a* + 4a® + 16)
+but a? —4 =a? —-2*= (a +2)(a—2)
+and a! + 4a” + 16 = (a)? + (4)? + 4a°
+= (a? +4)% = 2(a*)(4) + 4a*
+= (a? +4)? — 4a?
+= (a® +4)? — (2a)?
+= (a® +4 +2a)(a® +4 — 2a)
+= (a® + 2a + 4)(a* — 2a + 4)
+ab —64=(a+2)(a—2)(a*+2a+4)(a® — 2a +4)
+Alternative method: a% — 64 = (a®)? — 82
+= (a®+8)(a® — 8)
+= (a® + 2%)(a® — 2%)
+= (a+2)(a® — 2a +4) (a —2)(a® + 2a + 4)
+= (a+2)(a—2)(a*+2a+4)(a* — 2a +4)
+
+‘Work: Resolve into factors:
+
+1) 22+ 16x 2) 8—a®+ 3a’ — 3ab* +b* 3) (a+b)?°*+(a—b)?
+Factors of the expression with fractional coefficients: Factors of the
+expression with fractional coefficients can be expressed in several ways. For

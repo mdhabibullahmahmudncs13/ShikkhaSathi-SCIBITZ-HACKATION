@@ -1,0 +1,29 @@
+# Chunk 574 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.364131
+# Character count: 753
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_574
+
+========================================
+
+--- Page 206 ---
+Waves and Sound 201
+kHz is generated, then the movement created in air will not be heard by us. To
+detect such sounds we can use a special type of microphone or receiver. Many
+animals can hear sounds of low frequency. Before earthquakes, sounds
+of low frequency are generated, and
+often hearing this sound animals panic
+and leave the area. a
+o®
+17 ~~
+Characteristics of sound wave
+Sound is a mechanical wave, because
+sound wave is produced due to the
+vibration of body, and for its transmission
+an elastic medium is needed. This is 2 Figure 7.12: “Phone” can be made
+longitudinal wave, because the direction of by tying thread behind the plastic
+propagation of the wave and the direction glass.
+of vibration is the same. The velocity of

@@ -1,0 +1,28 @@
+# Chunk 114 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.400869
+# Character count: 729
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_114
+
+========================================
+
+--- Page 48 ---
+Chapter 2. Sets and Functions 43
+1) and ii 2) and iii 3) ii and iii 4) i, ii and iii
+If A={6,7,8,9,10,11,12,13}, then answer the questions 7-9 below:
+7. Which one is the correct expression for the set A?
+1) {reN:6<z<13} 2) {reN:6<z<13}
+3) {re N:6<z<13} 4) {re N:6<x<13}
+8. Which one is the set of primes in A?
+1) {6,8,10,12} 2) {7,9,11,13} 3) {7,11,13} 4) {9,12}
+9. Which one of the following sets is a multiple of 3 in set A 7
+1 (6.9) 2) {6.11} 3) {0.12} 1) {6,912}
+10. If A = {3,4},B = {2,4}, © € A and y € B, then determine the relation
+x >yin Aand B.
+11. If C ={2,5},D = {4,6, 7}, x € C and y € D, then determine the relation
+z+ 1<yin Cand D.
+1
+12. If f(z) = 2' + 52 — 3, then determine f(—1), f(2) and f (3):

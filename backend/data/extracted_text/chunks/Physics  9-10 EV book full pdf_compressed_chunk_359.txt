@@ -1,0 +1,13 @@
+# Chunk 359 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.335560
+# Character count: 56
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_359
+
+========================================
+
+Unit of power: W (Watt)
+Dimension of power: [P] = ML*T~3

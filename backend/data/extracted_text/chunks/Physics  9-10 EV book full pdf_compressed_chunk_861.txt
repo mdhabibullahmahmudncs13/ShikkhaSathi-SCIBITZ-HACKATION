@@ -1,0 +1,21 @@
+# Chunk 861 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.394996
+# Character count: 730
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_861
+
+========================================
+
+through the machine and then returns to the source through the neutral
+wire. A voltage less neutral wire is safe, but a high voltage wire should be used
+cautiously. When a switch is used to connect electricity to a machine, it can be
+connected with a high voltage wire or a neutral wire. It is wise to connect the
+switch with the high voltage wire (Figure 11.15). Then high voltage enters the
+machine only when the switch is on. When the switch is off, there is no high
+voltage inside the machine.
+(f) Ground: You may have noticed that there are at least two connections in an
+electric supply in school or at home, high voltage and neutral. But if an
+expensive machine (e.g. computer, fridge) is connected to the current, you will

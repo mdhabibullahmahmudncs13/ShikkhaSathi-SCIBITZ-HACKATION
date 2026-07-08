@@ -1,0 +1,23 @@
+# Chunk 609 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.450204
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_609
+
+========================================
+
+--- Page 268 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 263
+Formation of simultaneous equations from real
+life problems and solution
+In everyday life, there occur some such mathematical problems which are easier
+to solve by forming equations. For this, from the condition or conditions of the
+problem, two mathematical symbols, mostly the variables x, y are assumed for
+two unknown expressions. Two equations are to be formed for determining the
+values of those unknown expressions. If the two equations thus formed are solved,
+values of the unknown quantities will be found.
+Example 12. If 5 is added to the sum of the two digits of a number consisting
+of two digits, the sum will be three times the digits of the tens place. Moreover,

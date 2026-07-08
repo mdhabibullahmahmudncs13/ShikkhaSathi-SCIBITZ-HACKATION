@@ -1,0 +1,28 @@
+# Chunk 594 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.448852
+# Character count: 746
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_594
+
+========================================
+
+--- Page 262 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 257
+Taking some values of = in the equation, we find the corresponding values of y
+and make the adjoining table:
+yl —6]—4]1]
+.-. three points on the graph of the equation are: (—1,—6), (0, —4), (4,4).
+Again, from equation (2) we get,
+4dr —2y = 12, or, 22 — y = 6 [dividing both sides by 2]
+or,y=2r—6
+Taking some values of = in the equation, we find the corresponding values of y
+and make the adjoining table:
+[y[-6]0]6]
+.-. three points on the graph of the equation are: (0,6), (3,0), (6,6).
+In a graph paper let XOX’ and YOY’ be
+respectively the X- axis and Y- axis and O is Y
+the origin. HEE
+‘We take each side of smallest squares of the graph EEREEERESEER asus, dnees

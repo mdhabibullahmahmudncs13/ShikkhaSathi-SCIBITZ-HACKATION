@@ -1,0 +1,31 @@
+# Chunk 207 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.410494
+# Character count: 749
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_207
+
+========================================
+
+If a® = N,(a > 0, a # 1), then z = log, N is defined as a based log, N
+Note: If a > 0,then a” is always positive whatever may be the values of x,
+positive or negative. So, only the log of positive numbers has values that are real;
+log of zero or negative numbers have no real value.
+‘Work: Express the following values in exponents in terms of log:
+In terms of | in terms of log In terms of | in terms of log
+exponent exponent
+ST I log 10
+ERE
+9 0 _ —
+a’ =1 =
+2=ve 0=10 | Togl0 = 1
+ERter 2 I Ra vee pcre
+3 el =.
+EES — TE
+Laws of Logarithms
+Let,a>0,a#1 b>0,b#1land M >0, N >0
+Formula 6 (zero and one log). Ifa >0, a# 11) log,1 =0 2) log,a=1
+Proof: We know from the formula of exponents, a’ = 1
+.. from the definition of log, we get, log,1 = 0 (proved)

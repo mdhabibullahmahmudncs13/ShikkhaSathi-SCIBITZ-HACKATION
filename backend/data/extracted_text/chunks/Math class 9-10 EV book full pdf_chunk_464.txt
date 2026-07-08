@@ -1,0 +1,64 @@
+# Chunk 464 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.436065
+# Character count: 750
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_464
+
+========================================
+
+1+sin®0 1+ cosecd
+EE! 1
+“Trew 141
+sing
+_ 1 sing
+BEET TA
+C14 sin’)
+© 1 +sin®0
+=1=R.H.S (Proved)
+IS
+S
+
+
+--- Page 202 ---
+Chapter 9. Trigonometric Ratio 197
+Example 8. Prove that: 1 + 1 1
+ple © 2 sin? 24 tan?)
+Solution:
+1 1
+LHS = —5 + ——
+2 — sin’) 3 + tang
+RE
+© 2 — sin?) 94 sing
+cos?
+B 1 4 cos?
+"2 —sin®0 | 2c0s?0 + sin’
+_ 1 4 cos)
+© 2—sin?0  2(1 — inf) + sin®f
+_ 1 n cos
+© 2—sin? 2 — 2sin%0 + sin®0
+_ 1 n 1 —sin’0
+CT 2—sin? | 2 sin’
+2 — sin’
+© 2 sin)
+=1=R.HS (Proved)
+tan A sec A—1
+E: le9. P that: ———— — ———— =
+ample rove thats Gee A +1 tan A 0
+Solution:
+tan A sec A—1
+LHS =————— ———
+sec A+ 1 tan A
+_ tan®A — (sec’A — 1)
+© (sec A+ 1)tan A
+tan?A — tan?A 5 5
+= [sec?A — 1 = tan?A]
+(sec A+ 1)tan A [see an*4]
+_ 0
+"(sec A+ 1)tan A
+=0=R.H.S (Proved)
+o
+9
+&

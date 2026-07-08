@@ -1,0 +1,23 @@
+# Chunk 144 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314766
+# Character count: 655
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_144
+
+========================================
+
+s=uvt
+If there is uniform acceleration, the final velocity is:
+v=u+at
+
+This equation shows that the velocity is changing with time. The entire
+duration is divided into many tiny equal intervals, the distance covered in each
+small interval will not be the same. This is because the particle's velocity chang-
+es constantly due to acceleration. However, to calculate the total distance trav-
+eled, these varying distances must be summed. Calculus, a specialized branch of
+mathematics, is used to perform such calculations. However, if the particle's
+acceleration is uniform, it is possible to determine the total distance traveled .
+without using calculus =

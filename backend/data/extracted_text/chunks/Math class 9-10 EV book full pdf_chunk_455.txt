@@ -1,0 +1,54 @@
+# Chunk 455 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.435057
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_455
+
+========================================
+
+@D 12 © d
+Py TT
+b 13 e "
+pe—p <q
+H
+d (© 36 [J
+— <b
+I 27\ as a)
+J
+Constancy of ratios of the sides of similar right-angled triangles
+S
+Bl
+
+
+--- Page 196 ---
+Chapter 9. Trigonometric Ratio 191
+‘Work: Measure the lengths of the sides of the following four similar triangles
+and complete the table below. What do you observe about the ratios of the
+triangles?
+
+C
+C,
+
+INR ae
+B A ALdB A
+(i) (i) A (iii) BB
+
+length of sides ratio(related to angle)
+BC/AC | AB/AC | BO/AB
+
+Let ZX OA is an acute angle. We take a point P on
+
+the side OA. We draw a perpendicular PM from P Pi A
+
+to OX. As a result, a right-angled triangle POM is
+
+formed. The three ratios of the sides PM, OM and Ls
+
+OP of APOM do not depend on the position of the
+
+point P on the side OA.
+
+If we draw the perpendiculars PM and PM; from a

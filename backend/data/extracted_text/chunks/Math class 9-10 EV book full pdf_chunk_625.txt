@@ -1,0 +1,33 @@
+# Chunk 625 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451749
+# Character count: 763
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_625
+
+========================================
+
+PS
+9
+&
+
+
+--- Page 275 ---
+Chapter 13
+
+PE .
+Finite Series
+The term ‘order’ is widely used in our day to day life. For example, the concept
+of order is used to arrange the commodities in the shops, to arrange the events of
+drama and ceremony, to keep the commodities in attractive way in the godown.
+Again, to make many tasks easier and attractive, we use large to small, child to
+old, light to heavy etc. types of order. Mathematical series have been originated
+from these concepts of order. In this chapter, the relation between sequence and
+series and contents related to them have been presented.
+At the end of this chapter, the students will be able to —
+
+» describe the sequence and series and determine the differences between them.
+
+» explain finite series.

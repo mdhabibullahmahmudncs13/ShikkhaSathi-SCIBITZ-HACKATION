@@ -1,0 +1,27 @@
+# Chunk 792 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468865
+# Character count: 750
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_792
+
+========================================
+
+4. The radius of a circle is 14 ¢cm and an arc subtends an angle 75° at its
+centre. Determine the area of the circular segment.
+
+5. There is a road around a circular field. The outer circumference of the road
+is greater than the inner circumference by 44 meters. Find the width of the
+road.
+
+6. The diameter of a circular park is 26 metre. There is a road of 2 metre width
+surrounding the park. Determine the area of the road.
+
+7. The diameter of the front wheel of a car is 28 cm and the back wheel is 35
+cm. To cover a distance of 88 metre, how many integer number of times more
+the front wheel will revolve than the back one ?
+
+8. The circumference of a circle is 220 metre. Determine the length of the side of
+the square, inscribed in the circle.

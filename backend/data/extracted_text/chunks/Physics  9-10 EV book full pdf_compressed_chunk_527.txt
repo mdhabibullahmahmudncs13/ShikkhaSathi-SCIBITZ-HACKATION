@@ -1,0 +1,29 @@
+# Chunk 527 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.357429
+# Character count: 779
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_527
+
+========================================
+
+--- Page 186 ---
+Effect of Heat on Matter 181
+Answer: Let us assume the temperature of ice is 0 °C.
+Mass of ice my; = 100 gm = 0.1 kg
+Mass of liter water mp = 1kg
+Specific heat of water s = 4.2 x 103 Jkg'K!
+The water of 1kg has to supply the heat that is required to melt the piece of ice
+and to raise the temperature of the ice melted water to its final temperature. Let
+us consider the final temperature of water is 7, then the amount of heat absorbed
+by the ice is:
+Heat required to melt: m L
+The heat required to increase the temperature from 0 °C to T after melting: m s(T-0)
+The mass of water m, supplies these amounts of heat, so its temperature will
+decrease.
+That is,
+The heat supplied: m,s(30° C—T)
+These two types of heat must be equal. Hence:
+myL + mysT =mys(30°C —T)

@@ -1,0 +1,20 @@
+# Chunk 266 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.326939
+# Character count: 556
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_266
+
+========================================
+
+3.9.1 Types of Friction
+Friction is divided into three types. These are, static friction, kinetic friction,
+and rolling friction.
+Static friction: The frictional force that develops when two objects are at rest
+relative to each other is called static friction. Due to static friction we can walk,
+our legs or shoe soles rub against the ground and we don’t slip.
+Kinetic friction: The frictional force that is create when an object is in motion
+relative to another object is called kinetic friction. When anyone grips the brake
+Forma-12, Physics, Class 9-10

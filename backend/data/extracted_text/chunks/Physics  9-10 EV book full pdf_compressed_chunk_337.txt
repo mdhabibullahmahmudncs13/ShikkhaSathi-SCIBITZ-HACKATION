@@ -1,0 +1,22 @@
+# Chunk 337 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.333430
+# Character count: 752
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_337
+
+========================================
+
+--- Page 120 ---
+Work, Power, Energy 115
+You definitely have observed that when a stone hits the ground, it hits by producing
+sound and heat i.e. kinetic energy is transformed into sound or heat energy.
+The example (Figure 4.04) of changing between potential and kinetic energy is
+wonderful. A small stone is tied by a thread and hanged from a support. If we
+pull it along one side then the stone goesup by a small amount from its
+stationary position and hence a potential energy is developed in it. Now if we
+release the stone, due to an unbalanced force on it, it starts going towards its
+stationary state, thus creating a motion in it. When it reaches the mid position
+exactly, it attains the maximum velocity. So it does not stop there rather moves

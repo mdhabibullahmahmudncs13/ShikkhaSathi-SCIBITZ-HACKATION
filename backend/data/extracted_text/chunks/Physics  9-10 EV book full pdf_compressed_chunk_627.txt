@@ -1,0 +1,23 @@
+# Chunk 627 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.370062
+# Character count: 750
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_627
+
+========================================
+
+--- Page 233 ---
+228 Physics
+The line FP intersects line OX at the point X' i.e. the image of the point X will
+be formed on the point X'. The perpendicular drawn from X' to OY will intersect
+line OY at Y'. Since it appears that the reflection of X is coming from point X’,
+similarly it will appear that reflection of Y is coming from Y'. Hence, XY" will
+be the image of XY.
+We can observe that X'Y" is always smaller than XY and the further XY is from
+the convex mirror, the smaller X"Y’ will get! One should know how to draw the
+image of an object placed in front of a concave or convex mirror using the laws
+of reflection. It is a very important procedure in physics.
+It is clear that actually no light is coming from X'Y’, it just appears that the

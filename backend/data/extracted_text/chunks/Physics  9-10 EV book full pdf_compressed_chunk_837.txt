@@ -1,0 +1,24 @@
+# Chunk 837 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391511
+# Character count: 404
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_837
+
+========================================
+
+1
+Vs =Ryl =15Qxz A=3V
+So, voltage of point A 8 c
+D =3V-3V = 0, as mentioned l—% ; ;
+earlier. 2v 1 R=30 I R= 60
+—1
+yi E F
+
+Question: Determine the value of =
+I1 and 12 in the circuit shown in Figure 11.10: A circuit where two
+figure 11.10. resistors are connected in parallel.
+Solution: Voltage at points A, B and C is 2V. "
+Voltage at points D, E, F is 0 volt. So, the current through the resistor BE, sg

@@ -1,0 +1,32 @@
+# Chunk 283 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864171
+# Character count: 745
+# Chunk ID: ICT 9-10.txt_0_283
+
+========================================
+
+Stroke
+
+- The border of the selection can be made with the *Stroke’ command.
+
+- Select the ‘Stroke’ command under the 'Edit' menu as the selection is
+floating, and you will get the ‘Stroke’ dialogue box.
+
+- Any number from 1-16 can be typed in ‘Stroke Width Box’. The extension
+of the border is determined with this number. To create the border outside.
+inside or at the middle of the selection, activate any of these three options
+by clicking the radio button attached with them.
+
+- Click the ‘Ok’ button of the dialogue box.
+
+- Borders can be created either by using the colour of the brush or of the
+foreground in the Stroke process.
+
+Saving File
+
+- Give the ‘Save’ command from the ‘Tile’ menu, and the “Save As’ dialogue
+box will be viewed.

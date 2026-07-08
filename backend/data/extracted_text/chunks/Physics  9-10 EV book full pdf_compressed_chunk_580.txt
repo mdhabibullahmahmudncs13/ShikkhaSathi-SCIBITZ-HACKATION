@@ -1,0 +1,25 @@
+# Chunk 580 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.364742
+# Character count: 736
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_580
+
+========================================
+
+In air, velocity of sound is proportional to the in different medium
+square root of temperature. i.e.
+>
+Here the temperature is not Celsius temperature. Hydrogen| 1281 |
+Temperature in the Kelvin scale.
+The velocity of sound does not depend on the air
+pressure. But it is inversely proportional to the
+square root of the density of air. So if there is water
+vapor in the air, its density decreases, hence velocity increases.
+Sound is a mechanical wave. It depends on the elasticity of the medium. The
+nature of liquid and solid is different from air and naturally the velocity of sound
+is different there. In liquid the velocity of sound is more than that in air and in
+solid velocity of sound is even more than in liquid.
+@ Do Yourself

@@ -1,0 +1,17 @@
+# Chunk 208 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.410626
+# Character count: 286
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_208
+
+========================================
+
+Proof: We know from the formula of exponents, a’ = 1
+.. from the definition of log, we get, log,1 = 0 (proved)
+Again, we know, from the formula of exponents, a’ = a
+" .-. from the definition of log, we get, log,a = 1 (proved)
+a
+S Formula 7 (Log of products). log, (MN) = log, M + log, N

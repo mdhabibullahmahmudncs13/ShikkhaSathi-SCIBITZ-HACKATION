@@ -1,0 +1,24 @@
+# Chunk 579 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.364640
+# Character count: 744
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_579
+
+========================================
+
+--- Page 208 ---
+Waves and Sound 203
+Bats have eyes and pretty good eye sight, yet they use echo during flight.
+While flying a bat uses its throat to produce sound, if there is an obstacle in the front,
+the sound returns after reflection, and the bat can estimate the distance from the
+time of the returning sound. For this reason, the bat can fly even in dark
+without being obstructed. We cannot hear the sound produced by the bat;
+because the sound is ultrasound i.e. frequency of the sound is beyond our
+hearing range. Bats can produce sound of frequency 100 kHz or more.
+7.3.2 Variation of Velocity of Sound Table 7.0: velocity of sound
+In air, velocity of sound is proportional to the in different medium
+square root of temperature. i.e.
+>

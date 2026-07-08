@@ -1,0 +1,26 @@
+# Chunk 685 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.376415
+# Character count: 583
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_685
+
+========================================
+
+1.45. With what angle will the ray of |
+light emerge if there is air on the other aA
+
+A | m=145
+side . H
+Answer : We know ENED
+ny sind; = n, sin, | 0;
+1.45 X sin75° = 1X sin0, |
+
+sinf, = 1.40
+We know the value of sin 0, will not be greater than 1, but here it happens
+because light is totally reflected without refracting . Therefore whenever we
+want to see the refraction of light from a denser medium to a rarer medium then
+it is better to determine the critical angle first. If light incidents at an angle less
+than this critical angle, only then it is possible to get refraction.

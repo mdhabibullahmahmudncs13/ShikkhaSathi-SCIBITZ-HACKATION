@@ -1,0 +1,30 @@
+# Chunk 268 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.861970
+# Character count: 711
+# Chunk ID: ICT 9-10.txt_0_268
+
+========================================
+
+should be installed. Editing can be done on a file created earlier.
+
+To open Photoshop program
+
+1. Click the start or Logo button of Windows and place the mouse pointer on
+the ‘All Programs’ command, and get the Fly out menu.
+
+2. Click Adobe Photoshop Programs, from this menu and ‘Adobe Photoshop®
+will open.
+
+To prepare new file in Photoshop program
+
+- Click ‘New’ from the ‘File’ menu after opening up the Photoshop program,
+and get 'New' dialogue box.
+
+= You will get ‘Untitled-1" selected in the square space of ‘Name’ of the
+dialogue box. Pressing the backspace button of the keyboard, erase the
+writing and type a name. It will be the name of the file. Suppose that
+‘Practice’ is typed in the “Name” box.

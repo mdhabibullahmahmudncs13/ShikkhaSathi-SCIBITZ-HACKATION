@@ -1,0 +1,26 @@
+# Chunk 255 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325827
+# Character count: 785
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_255
+
+========================================
+
+--- Page 91 ---
+86 Physics
+This is so negligible that nobody is bothered about it! Next time when you jump
+anywhere, remember that you attract the whole earth towards you when you fall
+downwards. (As small as the acceleration of the earth may be, you pulled the
+whole earth towards you, you may be little proud of it!)
+The easiest way of understanding Newtons third law is to understand the
+mechanism of our walking. We can all walk but nobody knows the physics
+hidden behind this. Since you have started to learn physics a simple question can
+be put to you. Since you have walked
+from a stationary position, so you have
+an acceleration, that means force has 5
+been applied on you. But all of us know g 7
+that nobody is applying a force on us. { EN
+We walk by ourselves. How is that AM

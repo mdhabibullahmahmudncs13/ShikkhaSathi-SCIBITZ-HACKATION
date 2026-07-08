@@ -1,0 +1,27 @@
+# Chunk 195 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.409023
+# Character count: 744
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_195
+
+========================================
+
+power and a is base. Conversely a" =a x a X a X ... X a (n times a).
+Exponents may not only be positive integers, they may be negative integers or
+positive fractions or negative fractions. That is, for base a € R (set of real
+numbers) and power n € @ (set of rational numbers), a” is defined. The case of
+n € N (set of natural numbers) is especially considered. Besides, exponents may
+also be irrational. But as it is out of curriculum, it has not been discussed in this
+chapter.
+Index Laws
+Let, a € R (set of real numbers) and m,n € N (set of natural numbers).
+Formula 1 (Multiplication). a™ x a = a™™"
+am a™ "when m >n
+Formula 2 (Division). — = 1
+a" —— when n >m
+am
+Fill in the blanks of the following table:
+Forma-11, Mathematics, Class 9-10

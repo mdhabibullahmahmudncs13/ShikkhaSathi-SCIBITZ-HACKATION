@@ -1,0 +1,17 @@
+# Chunk 86 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.831991
+# Character count: 268
+# Chunk ID: ICT 9-10.txt_0_86
+
+========================================
+
+basis of our needs.
+Installation of any software requires special attention to the issues given below:
+¥ Whether the hardware of your device supports the pieces of software to be
+installed;
+& » Whether there is anything important in 'read me' file; if any, read it;
+ES

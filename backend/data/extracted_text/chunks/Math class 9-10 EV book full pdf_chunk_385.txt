@@ -1,0 +1,33 @@
+# Chunk 385 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.428030
+# Character count: 767
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_385
+
+========================================
+
+1) Find the length of the other sides of the triangle.
+
+2) Construct the triangle.(Construction is must)
+
+3) Construct a square whose perimeter is equal to the perimeter of the
+triangle. (Construction is must)
+
+18. AB=4cm, BC =5cm, ZA = 85, ZB = 80° and ZC = 95° of the
+quadrilateral ABCD. Use the information to answer the following questions:
+
+1) Find the value of ZD.
+
+2) Use the above information to construct the quadrilateral
+ABCD (Constructon is must)
+
+3) Construct the parallelogram considering the given sides as two sides of
+the parallelogram and ZB = 80°. (Constructon is must)
+
+19. The length of two parallel sides of a trapezium 4 cm and 6 cm and two
+angles adjacent greater side are Zz = 60° and Zy = 50°.
+
+1) Express the given information in a picture.

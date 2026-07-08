@@ -1,0 +1,21 @@
+# Chunk 852 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.393432
+# Character count: 661
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_852
+
+========================================
+
+resistance. The ¥ which we are discussing here is not the potential difference
+between the two sides of the wire. It is the value of potential of the electric wire!
+The value of the potential on two sides of the electrical wire is almost equal. So
+the difference is negligible.
+11.4.1 System Loss of Electricity
+We know that the power plants situated at different parts of the country produce
+electricity. This electricity is to be transmitted to different of the country. To
+distribute electricity, first it is transmitted to the substations of different areas.
+The electrical energy is then distributed to consumers using electricity 3
+distribution systems. h

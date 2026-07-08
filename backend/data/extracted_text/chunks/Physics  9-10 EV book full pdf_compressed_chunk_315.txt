@@ -1,0 +1,13 @@
+# Chunk 315 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.331320
+# Character count: 139
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_315
+
+========================================
+
+Question: A body of mass 10 kg is thrown in the upward direction with a
+velocity of 100 m/s. What will be the height reached by the object?

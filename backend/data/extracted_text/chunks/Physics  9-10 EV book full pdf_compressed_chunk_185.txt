@@ -1,0 +1,36 @@
+# Chunk 185 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.319032
+# Character count: 746
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_185
+
+========================================
+
+--- Page 67 ---
+62 Physics
+® By the end of this chapter we will be able to-
+
+e explain the inertia of object and the qualitative concept of force by
+
+applying Newton’s first law of motion.
+
+* explain the nature of fundamental forces.
+
+* explain the influence of balanced and unbalanced forces.
+
+e analyse the influence of force on the motion of an object.
+
+* measure the force by applying Newton's second law of motion.
+
+o explain the action and reaction force by Newton's third law of motion.
+
+e analyse the influence of motion and force on safe travelling.
+
+o explain the conservation laws of momentum and collision.
+
+o explain different types of frictions and frictional forces.
+
+o analyse the influence of friction on the motion of an object.

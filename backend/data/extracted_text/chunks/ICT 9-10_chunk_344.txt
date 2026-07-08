@@ -1,0 +1,34 @@
+# Chunk 344 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.875388
+# Character count: 741
+# Chunk ID: ICT 9-10.txt_0_344
+
+========================================
+
+i If any object is dragged while Pressing the All bution of the keyboard, it is
+
+= shifted after a copy is created.
+
+
+--- Page 110 ---
+Information and Communication Technology 105
+Give the Paste in Front command, and the object will be placed above the
+existing object.
+
+Give the Paste in Back command. and the copied object will be placed below the
+
+existing object.
+
+Layer
+
+Layer means step. In this process. editing can be done while keeping different
+
+objects on different steps. This layer or step can be compared to transparent glass
+
+or polythene. If three objects or pictures are created on three glasses or
+transparent media and placed on the other, three objects will be viewed. These
+three glasses or media are regarded as layers.

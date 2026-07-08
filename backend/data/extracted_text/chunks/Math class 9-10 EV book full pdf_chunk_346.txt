@@ -1,0 +1,29 @@
+# Chunk 346 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.424205
+# Character count: 754
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_346
+
+========================================
+
+--- Page 149 ---
+144 Mathematics Classes IX-X
+1) 60° 2) 120° 3) 180° 4) 210°
+9. Prove that, the triangle formed by joining the mid points of the sides of an
+equilateral triangle is also equilateral.
+10. Prove that, the three medians of an equilateral triangle are equal.
+11. Prove that, the sum of any two exterior angles of a triangle is greater than
+two right angles.
+12. In AABC, D is the mid point of side BC'. Prove that, AB + AC > 2AD
+A
+13. In the figure given, ZC = 1 right angle and ZB =
+2/A. Prove that, AB = 2BC'
+Cc B
+14. Prove that, the exterior angle so formed by producing any side of a triangle
+is equal to the sum of the interior opposite angles.
+15. Prove that, the difference between any two sides of a triangle is less than
+the third.
+4

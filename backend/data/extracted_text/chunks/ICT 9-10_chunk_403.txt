@@ -1,0 +1,19 @@
+# Chunk 403 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.884102
+# Character count: 177
+# Chunk ID: ICT 9-10.txt_0_403
+
+========================================
+
+For example. if we run the following programme:
+test variable= 73.07
+print (test variable)
+print(type(test_variable))
+‘We will get the following output:
+73.07
+5
+E] <class 'flot=

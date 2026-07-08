@@ -1,0 +1,27 @@
+# Chunk 640 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453361
+# Character count: 728
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_640
+
+========================================
+
+--- Page 281 ---
+276 Mathematics Classes IX-X
+Example 6. Rashid deposits Tk. 1200 from his salary in the first month and
+every subsequent month, he deposits Tk. 100 more than the previous month.
+1) Express the aforesaid problem as a series upto n terms.
+2) How much does he deposit in the 18 th month and how much does he deposit
+in first 18 months?
+3) In how many years does he deposit a total of Tk. 106200?
+Solution:
+1) As per the question, first term of the arithmetic series, a = 1200, common
+difference d = 100
+second term = 1200 + 100 = 1300
+Third term = 1300 + 100 = 1400
+n-th term = a + (n — 1)d =1200 4 (n — 1) 100=1100+100n
+.. The series is 1200 4 1300 + 1400 + - - - + (1100+100n)
+2) We know, n-th term =a + (n — 1)d

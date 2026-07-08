@@ -1,0 +1,14 @@
+# Chunk 246 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325074
+# Character count: 200
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_246
+
+========================================
+
+the objects is given bya=5g/(10+5+m) and the total force acting on the mass is
+given by-T2+TI=-5g+15a. However, it is not possible to determine the value of
+acceleration without knowing the mass m. sg

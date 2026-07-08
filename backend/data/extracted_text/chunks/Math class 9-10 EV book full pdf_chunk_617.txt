@@ -1,0 +1,32 @@
+# Chunk 617 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.450997
+# Character count: 796
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_617
+
+========================================
+
+--- Page 272 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 267
+Exercise 12.4
+1. For which of the following conditions is the system of equations az +by+c = 0
+and pr + qy +r = 0 consistent and mutually independent?
+a,b a bc a b,c ab
+I 9 L-22f gy tofu og fl
+pq pq p qr pq
+2. Ifr+y=4, xr —y=2 which one of the following is the value of (x,y)?
+1) (2.4) 2) (4.2) 3) (3,1) 4) (1,3)
+3. If x+y =6 and 2x = 4, what is the value of 3?
+1) 2 2) 4 3) 6 1) 8
+4. For which one of the following equation is the adjoining chart correct?
+[y[-4]0]4]
+1) y=x—-4 2) y=8—ux 3) y=4-2¢ 4) y=22r-4
+5. If 2x —y=8and x — 2y = 4, then z + y = what?
+10 2) 4 3) 8 1) 12
+6. The equations z —y —4 = 0 and 32 — 3y — 10 = 0:
+(i) are mutually dependent.
+(ii) are mutually consistent.
+(#47) do not have any solution.

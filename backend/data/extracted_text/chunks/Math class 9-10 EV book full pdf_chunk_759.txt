@@ -1,0 +1,38 @@
+# Chunk 759 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.465710
+# Character count: 625
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_759
+
+========================================
+
+or, (x — 8) metre.
+
+Area of the square field excluding the road is = (x — 8)?
+
+sq. metre
+
+Area of the road = 2? — (z — 8)? sq. metre
+
+We know, 1 hector = 10000 sq. metre
+
+According to the question, 2? — (x — 8) = 10000
+
+or, 22 — 2? + 162 — 64 = 10000
+
+or, 16x = 10064
+
+coa= 629
+
+Area of the square field excluding the road
+
+= (629 — 8)? sq. metre = 385641 sq. metre = 38.56 hector (approx.)
+
+The required area = 38.56 hector (approx.).
+
+Example 11. The area of a parallelogram is 120 sq. cm and length of one of
+its diagonal is 24 cm. Determine the length of the perpendicular drawn on that
+diagonal from the opposite vertex.

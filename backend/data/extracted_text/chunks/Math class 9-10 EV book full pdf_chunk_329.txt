@@ -1,0 +1,29 @@
+# Chunk 329 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.422610
+# Character count: 761
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_329
+
+========================================
+
+Congruence of Triangles
+If a triangle when placed on another exactly A
+covers the other, the triangles are congruent. The
+corresponding sides and angles of two congruent
+triangles are equal.
+In the adjacent figure, AABC and ADEF are B c
+congruent. If two triangles AABC and ADEF are D
+congruent and vertices A, B, C superpose on vertices
+D, E, F respectively, then AB = DE, AC = DF,
+BC =FEFand ZA=/D,/B=/FE,/C=/F. To
+express AABC and ADEF congruent it is written E F
+as AABC = ADEF.
+Theorem 5.  (Side-Angle-Side criterion) 4
+If two sides and the angle included between them of
+a triangle are equal to two corresponding sides and
+the angle included between them of another triangle, B Cc
+the triangles are congruent. D
+Let AABC and ADEF be two triangles in which

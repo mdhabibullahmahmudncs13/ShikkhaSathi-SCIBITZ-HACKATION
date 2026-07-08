@@ -1,0 +1,29 @@
+# Chunk 274 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.863165
+# Character count: 776
+# Chunk ID: ICT 9-10.txt_0_274
+
+========================================
+
+of palettes. dialogue boxes, etc. are there. There is a relationship among different
+
+1ools, option palettes, and dialogue boxes.
+
+In addition, the brush colour or foreground and colour conirol icon are there for
+
+the canvas or background and visual space control icon for the monitor, mask
+
+icon, etc. Ifa line is drawn either with the pencil or with the brush tool, the color
+of foreground works as the color of brush.
+
+- Different palettes are kept on the right side of the screen. The minimise icon
+is viewed above the right side of the palette. The palette will be minimised if
+you click the minimise icon. It will be again extended if you click the
+maximise icon.
+
+= Ifyou double click on the top bar of the palette, it will be =|
+either maximised or minimised. con 2 Ah

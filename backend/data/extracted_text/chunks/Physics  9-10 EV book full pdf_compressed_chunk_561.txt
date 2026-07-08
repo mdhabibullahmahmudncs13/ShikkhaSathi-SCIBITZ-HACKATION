@@ -1,0 +1,24 @@
+# Chunk 561 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.361678
+# Character count: 758
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_561
+
+========================================
+
+--- Page 201 ---
+196 Physics
+When we produce a wave in the rope by shaking it, there the vibration of the
+rope does not take place along the direction of the velocity of the wave. The
+direction of vibration i.e. up and down of the rope, is perpendicular to the
+direction of the velocity of the wave. The name of this type of a wave is a
+transverse wave. The wave produced in water is an example.
+@ Do Yourself
+Make a photocopy of figure 7.05. Now cut it shown as in the figure.
+Observe that a small window is made on the rectangular paper below.
+Now put the rectangular paper on the circular paper. Now enter a small
+wire or pin through the cross (x) mark and fold the wire by pressing it.
+Now rotate the circular paper below and see through the cut portion,

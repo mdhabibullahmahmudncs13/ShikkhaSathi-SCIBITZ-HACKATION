@@ -1,0 +1,21 @@
+# Chunk 364 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425917
+# Character count: 371
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_364
+
+========================================
+
+Example 2. Base of a triangle a = 3 cm., base adjacent acute angle 45° and
+the sum of other two sides s = 6 cm.
+1) Express the information of the stem in the picture.
+2) Construct the triangle.(Construction and description of construction are
+must)
+3) If the perimeter of a square is 2s, construct the square. (Construction and
+description of construction are must)
+“
+g
+8

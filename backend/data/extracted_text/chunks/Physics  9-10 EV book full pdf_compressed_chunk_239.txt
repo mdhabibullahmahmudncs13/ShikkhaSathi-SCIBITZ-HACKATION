@@ -1,0 +1,22 @@
+# Chunk 239 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324289
+# Character count: 362
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_239
+
+========================================
+
+r= 100 km space shuttle
+,_ Gem GM _ g
+I= R®R+2 RA+7/R? A +7/R)?
+__ 9 2
+g' = Tol = 9.49 m/s
+The value of g' is not zero at all, but why does the astronaut feel weightless (Figure
+3.08) there?
+If the value of the gravitational acceleration g is known, for any mass m we can
+calculate the value of gravitational force very easily. This is,
+Fe cM _ GM
+SORE TM RET™ 5

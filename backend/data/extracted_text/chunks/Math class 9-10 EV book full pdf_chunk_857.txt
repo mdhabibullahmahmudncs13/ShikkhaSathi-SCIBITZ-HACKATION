@@ -1,0 +1,27 @@
+# Chunk 857 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474890
+# Character count: 459
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_857
+
+========================================
+
+1) What is central tendency?
+
+2) Find mode from the above table.
+
+3) Draw ogive curve of the given data.
+
+Solution:
+
+1) If the disorganized data of statistics are arranged according to the value, the
+data cluster round near any central value. Moreover, abundance of data is
+observed in a single class when these data are presented in some frequency
+distribution table. This tendency of data to cluster around central value is
+known as central tendency. .
+
+g
+S

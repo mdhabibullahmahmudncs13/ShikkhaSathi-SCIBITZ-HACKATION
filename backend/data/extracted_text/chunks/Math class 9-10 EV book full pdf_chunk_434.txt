@@ -1,0 +1,29 @@
+# Chunk 434 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433338
+# Character count: 752
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_434
+
+========================================
+
+--- Page 187 ---
+182 Mathematics Classes IX-X
+Construction 8. To draw a tangent to a circle from a point outside.
+Let P be a point outside of a circle whose centre is
+O. A tangent is to be drawn to the circle from the
+point P. A
+Drawing: p=
+1. Join P,O. The middle point M of the line 7
+segment PO is determined. P
+2. Now with M as centre and MO as radius, a J
+circle is drawn. Let the new circle intersect the |
+given circle at the points A and B. B
+3. Join A, P and B, P.
+Then both AP, BP are the required tangents.
+Proof: A, O and B, O are joined. PO is the diameter of the circle APB.
+:. ZPAO = 1 right angle ['.- the angle inscribed in the semi-circle is a right
+angle]
+So the line segment OA is perpendicular to AP. Therefore, the line segment AP

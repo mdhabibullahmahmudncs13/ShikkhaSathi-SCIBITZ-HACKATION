@@ -1,0 +1,29 @@
+# Chunk 158 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.842861
+# Character count: 748
+# Chunk ID: ICT 9-10.txt_0_158
+
+========================================
+
+properly to the computer.
+5. Opening the cover of the printer, find out whether
+any paper is jammed inside the machine.
+6. Check whether the cartridge contains any ink.
+Remove the cartridge, and fix again after shaking
+it well.
+7. If red or yellow blinking light is shown, press the
+reset button of the printer.
+g. If the problem is not resolved, install the driver
+sofware supplied with the printer.
+9. Consultan experienced hardware expert.
+Group Activity i i
+Discuss what other problems a computer may have besides the ones listed
+above. Identify some solutions to these problems.
+Exercise
+1. What happens when you have many temporary files?
+A. Computer runs slow. B. Computer runs fast.
+C. Antivirus does not work. D. Internet access is denied.

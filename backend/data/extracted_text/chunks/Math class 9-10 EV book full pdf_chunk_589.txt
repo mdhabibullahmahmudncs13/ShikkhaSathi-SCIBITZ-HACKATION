@@ -1,0 +1,24 @@
+# Chunk 589 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.448447
+# Character count: 738
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_589
+
+========================================
+
+Solving by using Graphical Method
+In a simple equation in two variables, the relation of existing variables x and y
+and can be expressed by picture. This picture is called the graph of that relation.
+In the graph of such equation, there exist infinite number of points. Plotting a
+few such points and joining them with each other, we get the graph.
+Each of a simple simultaneous equations has infinite number of solutions. Graph
+of each equation is a straight line. Coordinates of each point of the straight line
+satisfies the equation. To indicate a graph, two or more than two points are
+necessary.
+Now we shall try to solve graphically the following system of equations:
+2w+y=3...(1)
+dr+2y=6...(2)
+From equation (1) we get, y = 3 — 2x.

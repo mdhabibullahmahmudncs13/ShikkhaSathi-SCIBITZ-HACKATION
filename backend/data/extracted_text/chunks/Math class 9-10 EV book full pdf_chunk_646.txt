@@ -1,0 +1,20 @@
+# Chunk 646 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453856
+# Character count: 332
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_646
+
+========================================
+
+24. The lth term of an arithmetic series is [? and the kth term is &%.
+
+1) Construct two equations according to the information of the stem
+considering a as the first term of the series and d as common difference.
+2) Find the (I + k) th term.
+I+k
+3) Prove that summation of the first (I + k) terms of the series is =e +
+3
+E+ 14k). s

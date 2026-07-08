@@ -1,0 +1,26 @@
+# Chunk 912 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.400332
+# Character count: 769
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_912
+
+========================================
+
+--- Page 349 ---
+344 Physics
+6. What is magnetic effect of electric current?
+7. What is an electromagnet?
+8. What is a generator? What are the functions of generator?
+9. What is the difference between a generator and electric motor?
+10. What are the functions or activities of step up and step down transformers?
+11. How can the intensity of electromagnet be increased?
+12. A transformer is connected with a 240 V AC source. The number of turns of
+its primary and secondary coil are 1000 and 50 respectively. What is the voltage
+of its secondary coil?
+Mathematical questions
+1. Due to the flow of I amount of current through a coil having 10 turns made of
+an insulated wire, a magnetic field B is produced. What will be the magnetic
+field if the number of turns is 100?

@@ -1,0 +1,25 @@
+# Chunk 618 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.451135
+# Character count: 674
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_618
+
+========================================
+
+6. The equations z —y —4 = 0 and 32 — 3y — 10 = 0:
+(i) are mutually dependent.
+(ii) are mutually consistent.
+(#47) do not have any solution.
+On the basis of information above, which one of the following is correct?
+1) ii 2) iii 3) i and iii 4) ii and dii
+On the basis of information given below answer questions 7 — 9.
+Length of the floor of a rectangular room is 2 metres more than its breadth
+and perimeter of the floor is 20 metre. For decorating the floor with mosaic
+it costs Tk. 900 per square metre.
+7. What is the length of the floor of the room in metre?
+1) 10 2) 8 3) 6 4) 4
+N 8. What is the area of the floor of the room in square metre?
+s 1) 24 2) 32 3) 48 1) 80

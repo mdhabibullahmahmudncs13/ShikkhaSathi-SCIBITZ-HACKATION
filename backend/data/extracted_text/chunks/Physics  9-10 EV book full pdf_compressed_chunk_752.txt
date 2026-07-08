@@ -1,0 +1,29 @@
+# Chunk 752 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383499
+# Character count: 558
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_752
+
+========================================
+
+--- Page 285 ---
+280 Physics
+F=k (6 1%
+rT
+
+the unit of k will be Nm?*/C?, so that the unit of F becomes N.
+
+The value of &:
+k =9 x 10° Nm2/C?
+
+Coulomb is the unit of charge. We will see in the next chapter that the flow of
+charge is electricity or current, and the unit of current is ampere. If one ampere
+current flows for one second, the amount of charge that flows is called one
+coulomb (C).
+But, the authentic way to understand the coulomb is to understand the amount
+of charge of an electron or proton. Its amount is:
+
+Charge of electron : —1.6 x 107° C

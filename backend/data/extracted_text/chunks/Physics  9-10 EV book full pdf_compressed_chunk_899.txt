@@ -1,0 +1,21 @@
+# Chunk 899 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.398565
+# Character count: 789
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_899
+
+========================================
+
+the magnetic field can be removed. Keeping the second coil near the first coil,
+if a magnetic field is produced once in it and the magnetic field is removed
+again, then the magnetic field will be changed in the first coil and due to this we
+will see current in the ammeter! When current is produced by turning on the
+switch, then the ammeter will show the presence of the current by deflecting its
+needle in one direction. When the switch is turned off, the needle will deflect in
+another direction, and show the current flowing in the opposite direction.
+One thing we have to remember: when the magnetic field changes, only then
+does the current flow. If a strong magnet is kept inside a coil, no current will
+flow through the coil. Only by moving the coil, the magnetic field is changed,

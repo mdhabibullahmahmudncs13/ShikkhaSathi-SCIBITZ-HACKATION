@@ -1,0 +1,32 @@
+# Chunk 847 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.392501
+# Character count: 766
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_847
+
+========================================
+
+--- Page 324 ---
+Current Electricity 319
+consumed
+VI. Every house has an electric meters. It continuously measures potential
+(¥) and what amount of current is flowing (7). From there it can determine how
+much electrical energy (P=VI) is provided in each second in the house.
+Multiplying this with the total time we can find the total electrical energy spent.
+The conventional unit of electrical energy spent is kilowatt-hour (kW-h). This
+unit is called Board of Trade Unit (BOT) or briefly, Unit. The electric bill we pay
+is calculated in this unit.
+Example
+Question: What is the resistance of the filament of a 100 W bulb?
+Answer: 100W is written on a 220V bulb, as
+Vz
+P="
+Therefore,
+R= ve = @207 =484Q
+TP 100 CT
+How much current is flowing here?
+(= 220 usa
+TR O484

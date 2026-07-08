@@ -1,0 +1,31 @@
+# Chunk 67 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307153
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_67
+
+========================================
+
+--- Page 23 ---
+18 Physics
+
+1.5.4 Scientific symbols and notations
+
+The following methods are followed to write the symbol of units:
+
+1. To express the value of a quantity, first we write a number, leave a
+space after it and then write the symbol of the unit. For example, 2.21
+kg, 7.3 x 102 m? or 22 K. The percentage (%) sign also follows the same rule.
+However no space is left after a number to write degrees (°) minutes (") and seconds (*").
+
+2. Derived unit produced by multiplication is written using a space between
+two units, e.g. 2.35 Nm
+
+3. Derived unit produced by division is expressed as negative power or slash
+(e.g. ms~! or m/s)
+
+4. No punctuation mark or period is used with the symbols, as they are
+mathematical expressions but not the abbreviated form of anything.

@@ -1,0 +1,30 @@
+# Chunk 715 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.379232
+# Character count: 776
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_715
+
+========================================
+
+--- Page 268 ---
+Refraction of light 263
+Outside the focal length
+Now let’s see what happens if the object is kept outside the focal length. Three
+different things can happen in this case, like in a concave mirror. (i) The object
+is outside the focal length but inside twice of the focal length. (ii) The object is
+outside twice of the focal length and (iii) The object is exactly on the twice of the
+focal length. Let’s examine this
+one by one. Xx Cc
+(i) First, the object will be kept I A
+outside the focal length but MN
+inside twice of the focal IN NF ¥
+length. In Figure 9.24, the Y “N (
+image of the point Y of the IE]
+object XY will be on the YO |
+line. So, we find the image J
+of the point X, as before. f f f Y
+The ray from point X which is x
+parallel to the axis will

@@ -1,0 +1,17 @@
+# Chunk 30 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.391910
+# Character count: 390
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_30
+
+========================================
+
+e In converting repeating decimal fraction into common fraction we have
+denominator having as many 9s as many repeating digits followed by as
+many Os as many nonrepeating digits after decimal point. Numerator
+equals a whole number we get after removing decimal and repeating points
+in the fraction less the number obtained by deleting the decimal point and
+all digits in the repeating part.

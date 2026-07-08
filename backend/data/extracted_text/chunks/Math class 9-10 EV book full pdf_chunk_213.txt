@@ -1,0 +1,39 @@
+# Chunk 213 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.411372
+# Character count: 752
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_213
+
+========================================
+
+--- Page 95 ---
+90 Mathematics Classes IX-X
+sa=2V5 [a*=b" a #0, a=
+Base 2/5
+Example 8. Find the value of x: 1) log gz = —2 2) log,324 = 4
+Solution:
+1) logx = —2
+or,r=10"2= = = — =0.01
+cox =0.01
+2) log,324 = 4
+or, 7 =324=3x3x3x3x2x2=3"x2%
+or, xt = 3% x (v2)!
+or, t= (3v/2)!
+cr =3V2
+Example 9. Prove that, 3log,(2 + log,,5 = log,,40
+Solution: Left hand side = 3log,,2 + log,,5
+= log;y2° + logy, [ log, M" = rlog,M]|
+= log;(8 + log;(5
+= log,((8 x 5) [. log, (MN) = log, M + log,N]|
+= log,(40 = right hand side (proved)
+Example 10. Simplify: 0819/27 + 10108 — logy v/ 1000 Te logyv/1000
+Solution: logo v/27 + logiy8 — logy v'1000 + logy8 — logy 1000
+log,y1.2
+_ log;(3%)2 +log;o8 — log; (10%)%
+- logo
+10
+_ log 437 + log;2° — log, (10)? g
+logyy12 — log, 10 ~

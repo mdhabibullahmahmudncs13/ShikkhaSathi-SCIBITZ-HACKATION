@@ -1,0 +1,22 @@
+# Chunk 422 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.342122
+# Character count: 759
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_422
+
+========================================
+
+--- Page 150 ---
+State of Matter and Pressure 145
+The pressure on the surface of the earth originates from the weight of the air
+column. So if we rise above then the height of the air column above us will
+decrease, the weight will also decrease, due to this the air pressure will also
+decrease there. The matter is true and how this air pressure decreases with height
+is shown in Figure 5.09. What you have to observe separately is that the air
+pressure has decreased by half after reaching a height of five kilometer.
+Generally, one may ask by reduction of pressure why does it not become zero
+after the next five kilometer? There is a specific reason behind it. Air or gas can
+be compressed by putting a pressure. So on the surface of the earth, air becomes

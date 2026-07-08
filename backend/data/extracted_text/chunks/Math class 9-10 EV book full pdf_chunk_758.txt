@@ -1,0 +1,42 @@
+# Chunk 758 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.465617
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_758
+
+========================================
+
+--- Page 334 ---
+Chapter 16. Mensuration 329
+or, 22 — 50 + 402 — 2000 = 0 or, (x — 50)(z + 40) = 0
+
+cox =50 or, x = —40
+
+But length can never be negative. .-, x = 50
+
+Now putting the value of z in equation (2) we get, y = 50 — 10 = 40
+
+.. The length of the rectangular is 50 and breadth 40 metre.
+
+Example 10. There is a road of 4 metre width inside around a square field.
+If the area of the road is 1 hector, determine the area of the field excluding the
+road.
+
+Solution: Let, the length of the square field is 2 metre.
+
+Its area is 2? sq. metre
+
+There is a road around the field with width 4 metre. xm
+
+Length of the square field excluding the road = (z—2x4) im
+
+or, (x — 8) metre.
+
+Area of the square field excluding the road is = (x — 8)?
+
+sq. metre
+
+Area of the road = 2? — (z — 8)? sq. metre

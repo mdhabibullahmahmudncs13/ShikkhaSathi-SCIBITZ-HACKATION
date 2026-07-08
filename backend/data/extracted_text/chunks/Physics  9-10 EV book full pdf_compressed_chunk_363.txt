@@ -1,0 +1,18 @@
+# Chunk 363 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.336005
+# Character count: 294
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_363
+
+========================================
+
+of electricity in a power plant, and if all these wastage is taken into account,
+the efficiency of the power plant can drop down to 30%.
+Question: If 10% energy is wasted in every step, what is the efficiency in
+4 steps?
+Answer: 0.9 0.9 x0.9 x0.9 = 0.6561
+Or 65.6%
+Forma-16, Physics, Class 9-10

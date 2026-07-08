@@ -1,0 +1,33 @@
+# Chunk 382 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427774
+# Character count: 788
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_382
+
+========================================
+
+--- Page 167 ---
+162 Mathematics Classes IX-X
+A D
+| >
+B C
+6. How many cm is the length of BF?
+1) 1 2) V5 3) V13 4) 5
+7. How many cm is the length of AB?
+1) 2 2) 25 3) 5V2 4) 10
+8. How many square c m is the measurement of ABCD?
+1) 8/5 2) 20 3) 12v/5 4) 325
+9. Construct a quadrilateral with the following data :
+1) The lengths of four sides are 3 cm, 3.5 cm, 25cm and 3 cm and
+an angle is 45°.
+2) The lengths of four sides are 3.5 cm, 4 cm, 2.5 cm and 3.5 cm and
+a diagonal is 5 ¢ m.
+3) The lengths of three sides are 3.2 cm, 3 cm, 3.5 cm and two
+diagonals are 2.8 ¢ m. and 4.5 ¢ m.
+4) The lengths of three sides are 3 cm, 3.5 cm, 4 cm and two angles
+are 60° and 45°.
+10. Construct a parallelogram with the following data:
+1) The lengths of two diagonals are 4 cm, 6.5 cm and the included

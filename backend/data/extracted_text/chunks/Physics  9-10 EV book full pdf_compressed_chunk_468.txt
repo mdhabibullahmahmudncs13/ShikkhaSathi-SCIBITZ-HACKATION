@@ -1,0 +1,21 @@
+# Chunk 468 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.347822
+# Character count: 730
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_468
+
+========================================
+
+from their intermolecular forces. Then we call it a gas. The more a gas will be
+heated, the faster its molecules will move. The more the velocity, the more the
+kinetic energy.
+Since we cannot see the molecules with our naked eyes, we cannot see their
+movement, so we try to understand the whole thing indirectly, we call it heat
+energy and try to explain the states of matter considering it as temperature. So
+we can say that the energy which is obtained due to molecular vibration or
+motion of a substance is called heat. As it is a form of energy like other energy,
+so its unit is Joule (J). There is another unit of heat which is calorie (cal). The
+amount of heat energy required to increase the temperature of 1 gm of water by

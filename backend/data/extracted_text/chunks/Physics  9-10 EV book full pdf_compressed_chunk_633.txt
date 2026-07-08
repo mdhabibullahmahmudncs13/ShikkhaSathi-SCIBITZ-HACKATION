@@ -1,0 +1,26 @@
+# Chunk 633 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.370678
+# Character count: 406
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_633
+
+========================================
+
+(divergent).
+
+Example
+
+Question: If we imagine a plane mirror as a spherical concave mirror, what will
+
+be its focal distance?
+
+Answer: Infinite!
+
+We got the same answer in case of convex mirrors, which means when the focal
+
+distance increases to infinity then both convex and concave mirrors turn into
+.. plane mirrors! The focal distance is half of the radius in concave mirrors as in a
+El convex mirror.

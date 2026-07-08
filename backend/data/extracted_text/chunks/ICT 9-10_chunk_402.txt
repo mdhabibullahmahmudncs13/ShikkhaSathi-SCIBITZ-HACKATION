@@ -1,0 +1,26 @@
+# Chunk 402 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.883785
+# Character count: 793
+# Chunk ID: ICT 9-10.txt_0_402
+
+========================================
+
+data in a variable, then it will be boolean data. Only two information can be
+stored in bool data type: True or False. One such example is:
+a=True
+Python programme has other datatypes besides int, float, str and bool; we will
+know about them if ever needed while writing a programme. The data we store
+in the variable is stored in the computer's memory. So, when we use the variable
+somewhere in the programme, the value of the variable stored in the computer
+memory will be used.
+Change of Data Type: Type Casting
+The data type of a variable can be easily determined using type(). If we print a
+variable inside the type() function. we will get the datatype of that variable.
+For example. if we run the following programme:
+test variable= 73.07
+print (test variable)
+print(type(test_variable))

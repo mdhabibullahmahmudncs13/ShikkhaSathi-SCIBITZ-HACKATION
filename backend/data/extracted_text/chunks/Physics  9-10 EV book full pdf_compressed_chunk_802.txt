@@ -1,0 +1,24 @@
+# Chunk 802 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.388641
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_802
+
+========================================
+
+--- Page 307 ---
+302 Physics
+produced by a chemical reaction inside the battery cell, if the flow of
+charge starts, chemical substances start decreasing. When chemical
+substances are finished, battery cells cannot create a flow of electricity.
+The ordinary battery cells that we see regularly have a potential difference
+of 1.5 volt.
+For the supply of electricity that you have in your school or residence,
+there are two points for using it, one of them is at higher potential and the
+other one is at lower potential. This difference in potential is maintained by
+a generator, which develops this continuously. A battery cell or a generator
+has to send charges continuously from low potential to high potential for
+continuous flow of electricity, and for that it needs energy. If # amount of

@@ -1,0 +1,30 @@
+# Chunk 216 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321736
+# Character count: 792
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_216
+
+========================================
+
+--- Page 77 ---
+72 Physics
+mau; + mou, = mv, + my,
+Here we have only one equation and two a
+unknown quantities v, and v,, therefore we TH
+cannot calculate the values of v, and v,. We ms ¢ ( ) me
+need another equation to determine the
+values of v, and v,. Fortunately, we have ie ad
+another equation too. In the next chapter, ms ¢ : $ jm:
+when we will learn about energy, we will
+get the second equation from the law of —$w
+conservation of energy. This phenomenon . ( ) ©
+is the law of conservation of energy. In the Hs
+next chapter you will find that the kinetic
+. Figure 3.04: After collision, v, and
+energy of an object can be expressed as /
+PR . . v, are the new velocities of masses
+3 mu, where m is the mass and u is the mand m, respectively
+velocity of the object. We assume that no / ’

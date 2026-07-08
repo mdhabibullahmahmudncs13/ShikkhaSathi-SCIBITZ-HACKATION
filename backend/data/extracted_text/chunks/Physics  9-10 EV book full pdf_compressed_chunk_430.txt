@@ -1,0 +1,40 @@
+# Chunk 430 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.343129
+# Character count: 741
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_430
+
+========================================
+
+of the liquid, even down the tube. There is no |
+
+leakage above the tube, so air cannot exert 76.cm
+
+pressure through that side. Therefore to i
+
+equalize the pressure there is only a pressure |
+
+under the tube, which is the pressure due to |
+
+the weight of 76 cm mercury column! :
+
+The instrument by which air pressure is —_
+
+measured is called a barometer (Figure:
+
+5.10) and till now the pressure of the air is
+
+measured by a barometer which uses the Figure 5.10: Mercury
+
+process of Torricelli. The height of the becomes stationary just at 76
+
+mercury column becomes more than 76 cm if cm height due to air pressure.
+
+the air pressure increases and if pressure decreases the height become less than
+
+76 cm.
+
+5.4.2 Air Pressure and Weather

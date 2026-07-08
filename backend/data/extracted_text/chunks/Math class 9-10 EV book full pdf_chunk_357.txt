@@ -1,0 +1,32 @@
+# Chunk 357 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425290
+# Character count: 791
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_357
+
+========================================
+
+--- Page 154 ---
+Chapter 7. Practical Geometry 149
+Now, in AABC, ZABC = Zz, BC =a [by construction]
+and BA+ AC = BA+ AD = BD = s. Therefore, AABC is the required triangle.
+Alternate Method Let the base a, a base adjacent Zz and the sum s of the
+other two sides of a triangle be given. It is required to construct the triangle.
+Drawing:
+1. From any ray BE cut the line segment BC
+equal to a. At B of the line segment BC' draw .
+an angle ZCBF = Zz. pd
+2. Cut a line segment BD equal to s from the ray
+BF. PAL yo
+3. Join C,D and construct the perpendicular
+bisector PQ of C'D. B TCE
+4. Let the ray PQ intersect BD at A and CD at
+R. Join A,C.
+Then, AABC is the required triangle.
+Proof: In AACR and AADR, CR = DR, AR = AR and the included ZARC =
+included ZARD [right angle]
+AACR = NADR.
+LAC = AD

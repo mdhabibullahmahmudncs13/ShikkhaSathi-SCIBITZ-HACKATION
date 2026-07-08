@@ -1,0 +1,18 @@
+# Chunk 55 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.305710
+# Character count: 554
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_55
+
+========================================
+
+of quantities, we have to prepare the definitions and units for these infinite
+number of quantities! Actually that is not true, you will be surprised hearing that
+(and definitely be happy) if we can fix seven units of seven quantities, we will
+be able to calculate everything using these seven units. These seven quantities
+are called fundamental quantities. When we express other quantity using these
+«fundamental quantities that is called a derived quantity. The fundamental
+& quantities are length, mass, time, electric current, temperature, amount of

@@ -1,0 +1,24 @@
+# Chunk 688 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.457538
+# Character count: 449
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_688
+
+========================================
+
+the sides adjacent to the equal angles are proportional, the triangles are similar.
+AB AC
+ial Nomination: Let in AABC and ADEF, ZA = /D and —— = —.
+Special Nomination: Let in Can R an DE = DF
+It is to be proved that, AABC and ADEF are similar.
+A D
+Ae LN
+E F
+B C
+Drawing: Consider the matching sides of ABC and DEF unequal. Take two
+points P and Q on AB and AC respectively so that AP = DE and AQ = DF.
+Join P and Q.
+Forma-38, Mathematics, Class 9-10

@@ -1,0 +1,22 @@
+# Chunk 925 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.401844
+# Character count: 756
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_925
+
+========================================
+
+The main three radioactive rays that emit from the nucleus are alpha, beta and
+gamma rays (Figure 13.01).
+13.1.1 Alpha ray
+Alpha ray or alpha particle is actually a helium nucleus. A helium nucleus
+contains two protons and two neutrons, so it is a charged particle. So its path of
+motion can be influenced by electric and magnetic field. When an alpha particle
+emits from a nucleus, it possesses some MeV of energy, so when it passes
+through air and collides with the molecule -atoms it can ionize them intensively.
+In air, the path of motion of an alpha particle is straight. Since an alpha particle
+is a helium nucleus, it cannot travel far through air. It loses its energy by
+ionizing air molecule-atoms ans travels approximately 6 cm through air before

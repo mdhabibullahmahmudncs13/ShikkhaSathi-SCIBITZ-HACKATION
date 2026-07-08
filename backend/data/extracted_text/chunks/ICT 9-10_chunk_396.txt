@@ -1,0 +1,36 @@
+# Chunk 396 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.882648
+# Character count: 612
+# Chunk ID: ICT 9-10.txt_0_396
+
+========================================
+
+Incorrect naming of variable Correct naming of variable
+tons ox Nima 1
+Habe abc?
+$variable _ variable
+print Keywords cannot be used as variable names.
+But Myprint or print] is correct.
+
+Storing or assigning data to variables
+
+We use = symbol to store data in variables. This is called assigning value.
+
+Suppose, we have a variable ‘age’, Now, if we want to keep the value of age 25, we will write
+
+in the programme: value.
+
+age=25
+If we want to print this value then we have to write:
+print (age)
+Now if we write and run the following programme Assignment
+age=25
+. age = 25
+print (age) rE 7
+Variable — Value
+55
+2

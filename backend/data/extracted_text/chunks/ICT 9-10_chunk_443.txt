@@ -1,0 +1,31 @@
+# Chunk 443 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.893074
+# Character count: 754
+# Chunk ID: ICT 9-10.txt_0_443
+
+========================================
+
+--- Page 145 ---
+140 Information and Communication Technology
+Solution: Let's say, the omitted number is 4. The programme is given below-
+for num in ranga(l, 11, 1):
+if num == 4:
+continue
+else:
+print (num, end=" ")
+print (‘Used continue to skip printing the value 4')
+Running the programmeme will show the following result-
+123578910
+Used confinue to skip printing the value 4
+Break Statement
+If a break statement is found in the loop of Python programmes, the loop finishes
+its task there and comes out of the loop. Like a running vehicle that halts when
+its brakes are applied, the loop execution stops when a break statement is found
+in the loop. In most cases, the break statement is used with if, elif, efc.
+Exercise:
+
+The function of Interpreter is

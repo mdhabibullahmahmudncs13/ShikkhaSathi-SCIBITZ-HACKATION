@@ -1,0 +1,19 @@
+# Chunk 427 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.889636
+# Character count: 319
+# Chunk ID: ICT 9-10.txt_0_427
+
+========================================
+
+with a colon. A case statement usually has a default statement at the end, which
+ends with a colon,
+Practical Problem #8: Write a program to determine whether a lowercase
+English letter is a vowel or a consonant.
+Solution: A lowercase English letter will be typed as input. The code for the
+program is given below.
+8
+Sa

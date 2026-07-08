@@ -1,0 +1,30 @@
+# Chunk 868 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.395768
+# Character count: 797
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_868
+
+========================================
+
+--- Page 332 ---
+Current Electricity 327
+using Ohm’s Law
+for an Ohmic substance.
+the headlight of a motor
+car. If the potential difference between the two ends of the filament is 12 V, what
+is the resistance?
+16. The electromotive force of a dry cell is 1.5 V. What is the energy spent by the
+cell in driving 0.5 C of charge round the circuit?
+17. What are fixed and variable resistors?
+18. What do you understand by electromotive force and potential difference?
+1. Make a 2 Q resistor using infinite number of 1 Q resistor.
+2. Using nichrome sheet of 1 mm thickness, your friend has made a resistor of
+10 cm x 10 cm square (Figure 11.18). You have made a resistor of Im x1m
+square. What is the value of the resistance made by your friend? What is the
+value of your resistance?
+ome .
+" Ri= 200 u
+0

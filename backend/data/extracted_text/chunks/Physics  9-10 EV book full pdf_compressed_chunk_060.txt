@@ -1,0 +1,38 @@
+# Chunk 60 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.306261
+# Character count: 778
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_60
+
+========================================
+
+Ampere (A): Flow of 1/1.602176634x10""” numbers of charge equivalent to
+
+charge of electron in one second is called one ampere.
+
+Mole (Mol): Amount of substance that contains 6.02214076x10% particles
+
+(Avogadro’s number) is called one mole.
+
+Kelvin (K): Amount of change of temperature with the change of
+
+1.380649x10 joule heat is called one kelvin.
+
+Candela (cd): One candela is defined as the amount of 1/683 watt luminous
+
+intensity which is emitted by a source of light vibrating 540x10" cycle per
+
+second into one Steradian solid angle. Table 1.04: New Sl unit
+
+You should have a practical idea about how
+
+much is meant by one meter, what amount of
+
+mass is one kilogram, what time is one
+
+second, how much hot is one kelvin
+
+temperature, what amount of electric current -

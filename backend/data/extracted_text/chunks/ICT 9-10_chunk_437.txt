@@ -1,0 +1,38 @@
+# Chunk 437 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.891992
+# Character count: 745
+# Chunk ID: ICT 9-10.txt_0_437
+
+========================================
+
+--- Page 142 ---
+Problem Solving through Programming 137
+A for loop statement may contain some other
+for statements. This type of for loop is called for...
+nested for loop, the intermediate [or loop is {
+1 for.)
+called inner for loop and the external for loop {
+is outer for loop. The inner for loop completes Block1;
+before the outer for loop. } 7
+Block;
+I caper for Lop
+Block3;
+( start loop. ] Tog condicon varied
+while loop. The loop
+terminates if the
+Pa
+is ”
+nditit
+= staples
+yes a statements in the
+while loop will
+execute if the
+w | Ehiesmann
+something hile loop is true.
+While Loop
+A While Loop statement is used in Python programmes to exccute a statement
+two or more times subject to a condition. The condition is verified at the begin-

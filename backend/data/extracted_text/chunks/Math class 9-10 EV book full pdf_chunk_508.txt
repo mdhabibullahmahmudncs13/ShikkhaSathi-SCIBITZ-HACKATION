@@ -1,0 +1,23 @@
+# Chunk 508 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440159
+# Character count: 540
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_508
+
+========================================
+
+12. Forming 45° angle with ground an 18 metre long ladder touches the top of
+the wall, find the height of the wall.
+
+13. If the angle of depression at a point on the ground 20 metre from the top of the
+house is 30°, then find the height of the house.
+
+14. The angle of elevation of a tower at any point on the ground is 60°. If
+moved back 25 metre, the angle of elevation becomes 30°, find the height of
+the tower.
+
+15. The angle of elevation of a tower becomes 60° from 45° by moving 60 metre
+towards a minar. Find the height of the minar.

@@ -1,0 +1,23 @@
+# Chunk 78 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.830265
+# Character count: 774
+# Chunk ID: ICT 9-10.txt_0_78
+
+========================================
+
+--- Page 25 ---
+20 Computer Maintenance and Cyber Security
+sending emails, listening to music, and watching movie. Recently he has found
+the computer often restarting without any prior notification. In addition, the
+internet browser opens different sites without any command. One day, he
+inserted a memory stick into the USB connection port on his computer. He was
+shocked to find out that his files turned into 'shortcuts'. He could not even locate
+the original files.
+‘What do you understand from the above events? Is it similar to your experience?
+You have already known many things about Information and Communication
+Technology this time. and you have understood that the processor and software
+are the main components in ICT. A new computer, be it a desktop, laptop or

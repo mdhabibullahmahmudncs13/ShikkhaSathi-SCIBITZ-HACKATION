@@ -1,0 +1,31 @@
+# Chunk 673 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456124
+# Character count: 784
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_673
+
+========================================
+
+--- Page 296 ---
+Chapter 14. Ratio, Similarity and Symmetry 291
+Theorem 28. A straight line drawn parallel to one side of a triangle intersects
+the other two sides or those sides produced proportionally.
+Special Nomination: In the figure, A
+the straight line DE is parallel to the A
+side BC of the triangle ABC. DE
+intersects AB and AC (figure-1) or their D E
+produced sections (figure-2) at D and FE B C
+respectively. It is required to prove that
+AD: DB = AE: EC Bo cb E
+Drawing: Join B, E and C, D. Figure 1 Figure 2
+Proof:
+Step 1. The heights of AADE and ABDE are equal.
+NADE AD . Co. .
+“ ABDE ~ DB [The bases of the triangles of equal height are
+proportional |
+Step 2. The heights of AADE and ADEC are equal
+cL —— = = [The bases of the triangles of equal height are
+proportional |

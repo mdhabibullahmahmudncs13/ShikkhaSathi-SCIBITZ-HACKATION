@@ -1,0 +1,25 @@
+# Chunk 378 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.880506
+# Character count: 722
+# Chunk ID: ICT 9-10.txt_0_378
+
+========================================
+
+--- Page 120 ---
+Sixth Chapter
+Problem Solving through Programming
+After completing this chapter, we will be able to........
+# understand problem-solving;
+7 learn about programming languages;
+» code using the Python programming language?
+3 solve common problems using the Python programming language.
+Programming in problem solving
+In real life, we encounter various types of problems. We need 10 solve these
+problems to move forward. Problem-solving is the process of identifying chal-
+lenges or obstacles to understand the nature of the problem and find ways to
+overcome it. This involves analyzing the surrounding circumstances, thinking
+critically, and discovering possible solutions to the problem. This process typi-

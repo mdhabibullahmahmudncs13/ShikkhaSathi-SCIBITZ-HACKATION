@@ -1,0 +1,19 @@
+# Chunk 906 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.399244
+# Character count: 549
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_906
+
+========================================
+
+called the primary coil and the right side coil (from where voltage is returned
+back) is called the secondary coil. You may think that if it is possible to be
+happened, then why don’t we arrange an enormous amount of electrical energy
+by giving small numbers of turns and applying small voltage in the primary coil
+and by giving much more turns in the secondary coil, and thus obtaining a much
+higher voltage? We have to remember one thing: the amount of electrical energy
+applied per second is measured by the formula VI (voltage x current). The
+BS

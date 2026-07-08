@@ -1,0 +1,20 @@
+# Chunk 636 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.370951
+# Character count: 625
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_636
+
+========================================
+
+the object XY. Light coming from point Y reflects from point P of the concave
+mirror and again goes through point Y towards point O. So it can be
+comprehended that it will stay on a point of line OP or on an extended part of
+line OP. To determine this exact point another ray has to be drawn from point Y
+towards the concave mirror, but we are not doing that. If we can determine the
+image of the point X as before we can find the exact location of the image of
+point Y. To determine the image of point X, two lines have to be drawn from this
+point. The first line will be an extended part of the line OX. It will touch the
+8

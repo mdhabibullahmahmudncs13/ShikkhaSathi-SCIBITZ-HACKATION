@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Camera Test - ShikkhaSathi</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        video { width: 400px; height: 300px; border: 1px solid #ccc; }
+        button { padding: 10px 20px; margin: 10px; font-size: 16px; }
+        .status { padding: 10px; margin: 10px 0; border-radius: 5px; }
+        .success { background: #d4edda; color: #155724; }
+        .error { background: #f8d7da; color: #721c24; }
+        .info { background: #d1ecf1; color: #0c5460; }
+    </style>
+</head>
+<body>
+    <h1>🎥 Camera Access Test</h1>
+    <p>This page will help diagnose camera access issues for ShikkhaSathi.</p>
+    
+    <div id="status" class="status info">
+        Click "Test Camera" to check if your camera works in this browser.
+    </div>
+    
+    <button onclick="testCamera()">🎥 Test Camera</button>
+    <button onclick="testMicrophone()">🎤 Test Microphone</button>
+    <button onclick="testBoth()">🎥🎤 Test Both</button>
+    <button onclick="stopStream()">⏹️ Stop</button>
+    
+    <br><br>
+    <video id="video" autoplay muted></video>
+    
+    <div id="details"></div>
+
+    <script>
+        let currentStream = null;
+        const video = document.getElementById('video');
+        const status = document.getElementById('status');
+        const details = document.getElementById('details');
+
+        function updateStatus(message, type = 'info') {
+            status.className = `status ${type}`;
+            status.innerHTML = message;
+            console.log(message);
+        }
+
+        function updateDetails(info) {
+            details.innerHTML = `
+                <h3>📋 Technical Details:</h3>
+                <pre>${JSON.stringify(info, null, 2)}</pre>
+            `;
+        }
+
+        async function testCamera() {
+            updateStatus('🔍 Testing camera access...', 'info');
+            
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ 
+                    video: true, 
+                    audio: false 
+                });
+                
+                currentStream = stream;
+                video.srcObject = stream;
+                
+                updateStatus('✅ Camera access successful! You should see video above.', 'success');
+                updateDetails({
+                    success: true,
+                    videoTracks: stream.getVideoTracks().length,
+                    videoTrack: stream.getVideoTracks()[0]?.label || 'Unknown',
+                    constraints: { video: true, audio: false }
+                });
+                
+            } catch (error) {
+                updateStatus(`❌ Camera access failed: ${error.name} - ${error.message}`, 'error');
+                updateDetails({
+                    success: false,
+                    error: error.name,
+                    message: error.message,
+                    constraints: { video: true, audio: false }
+                });
+            }
+        }
+
+        async function testMicrophone() {
+            updateStatus('🔍 Testing microphone access...', 'info');
+            
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ 
+                    video: false, 
+                    audio: true 
+                });
+                
+                currentStream = stream;
+                
+                updateStatus('✅ Microphone access successful!', 'success');
+                updateDetails({
+                    success: true,
+                    audioTracks: stream.getAudioTracks().length,
+                    audioTrack: stream.getAudioTracks()[0]?.label || 'Unknown',
+                    constraints: { video: false, audio: true }
+                });
+                
+            } catch (error) {
+                updateStatus(`❌ Microphone access failed: ${error.name} - ${error.message}`, 'error');
+                updateDetails({
+                    success: false,
+                    error: error.name,
+                    message: error.message,
+                    constraints: { video: false, audio: true }
+                });
+            }
+        }
+
+        async function testBoth() {
+            updateStatus('🔍 Testing camera and microphone access...', 'info');
+            
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ 
+                    video: true, 
+                    audio: true 
+                });
+                
+                currentStream = stream;
+                video.srcObject = stream;
+                
+                updateStatus('✅ Camera and microphone access successful!', 'success');
+                updateDetails({
+                    success: true,
+                    videoTracks: stream.getVideoTracks().length,
+                    audioTracks: stream.getAudioTracks().length,
+                    videoTrack: stream.getVideoTracks()[0]?.label || 'Unknown',
+                    audioTrack: stream.getAudioTracks()[0]?.label || 'Unknown',
+                    constraints: { video: true, audio: true }
+                });
+                
+            } catch (error) {
+                updateStatus(`❌ Camera/microphone access failed: ${error.name} - ${error.message}`, 'error');
+                updateDetails({
+                    success: false,
+                    error: error.name,
+                    message: error.message,
+                    constraints: { video: true, audio: true }
+                });
+            }
+        }
+
+        function stopStream() {
+            if (currentStream) {
+                currentStream.getTracks().forEach(track => track.stop());
+                currentStream = null;
+                video.srcObject = null;
+                updateStatus('⏹️ Stream stopped.', 'info');
+                details.innerHTML = '';
+            }
+        }
+
+        // Check browser support on load
+        window.onload = function() {
+            const info = {
+                userAgent: navigator.userAgent,
+                mediaDevices: !!navigator.mediaDevices,
+                getUserMedia: !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia),
+                location: window.location.href,
+                isSecureContext: window.isSecureContext
+            };
+            
+            updateDetails(info);
+            
+            if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+                updateStatus('❌ Your browser does not support camera access.', 'error');
+            } else {
+                updateStatus('✅ Browser supports camera access. Click "Test Camera" to check permissions.', 'success');
+            }
+        };
+    </script>
+</body>
+</html>

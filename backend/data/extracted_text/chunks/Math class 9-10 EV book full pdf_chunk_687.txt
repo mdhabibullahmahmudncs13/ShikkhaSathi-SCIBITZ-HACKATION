@@ -1,0 +1,34 @@
+# Chunk 687 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.457454
+# Character count: 776
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_687
+
+========================================
+
+--- Page 302 ---
+Chapter 14. Ratio, Similarity and Symmetry 297
+Proof:
+. AB AC AB AC
+Since DE- DF Therefore ap = aq
+Therefore PQ || BC [theorem 29]
+ LABC = ZAPQ [ corresponding angles made by the transversal AB]
+and ZACB = ZAQP | corresponding angles made by the transversal AC]
+SL AABC and AAPQ are equiangular.
+Therefore, — = = or, 2 = = [theorem 32]
+But AB BC [supposition]
+DE ~ EF PP
+. BC BC
+“EF PQ
+EF =PQ
+Therefore AAPQ and ADEF are congruent. [SSS theorem]
+ LPAQ = LEDF, ZAPQ = ZDEF, ZAQP = Z/DFE
+o LAPQ = ZABC and ZAQP = ZACB
+JA=/D, /B=/E /C=/F
+Theorem 34. If one angle of a triangle is equal to an angle of the other and
+the sides adjacent to the equal angles are proportional, the triangles are similar.
+AB AC
+ial Nomination: Let in AABC and ADEF, ZA = /D and —— = —.

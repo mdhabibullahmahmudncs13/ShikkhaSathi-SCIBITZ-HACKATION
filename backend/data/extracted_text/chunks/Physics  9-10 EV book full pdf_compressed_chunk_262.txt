@@ -1,0 +1,25 @@
+# Chunk 262 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.326591
+# Character count: 742
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_262
+
+========================================
+
+an acceleration by applying a .
+force on it. As shown in figure liz d
+3.15, we are applying a force F on | fF
+the mass from left to right. It will |
+be seen that due to friction : L | B
+between the wooden piece and the LSS NNR Som 8 ZB em
+table, a frictional force f is 1
+developed on the wooden piece
+and this is lowering the applied Figure 3.15: If a force is applied on a mass
+force acting from right to left. then another force may develop in the
+reverse direction due to friction.
+If you think that due to friction a frictional force is developed from right to left,
+so if T apply a force on the wooden piece from the left too, then since the applied
+force and the frictional force are in the same direction, I will get an extra force! "

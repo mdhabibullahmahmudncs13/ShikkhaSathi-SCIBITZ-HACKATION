@@ -1,0 +1,29 @@
+# Chunk 699 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.377804
+# Character count: 789
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_699
+
+========================================
+
+--- Page 262 ---
+Refraction of light 257
+the concave lens is thinner than the edges as shown in 9.14. If we see the cross
+section of the concave or convex lens we can understand that both are bound
+with two round circles. The radius of these two circles can be different or the
+same. The centers of these circles are called the centres of curvature. In the
+picture 9.15, C, and C, are the centres of curvature.
+Different kinds of lenses are used in everyday life or in different subjects of
+science.
++: ) + + I +
+Gi C Gi C2
+Figure 9.15: Convex and concave lens can be imagined as the part of two
+circles.
+We will keep our discussion limited to
+thin lenses. Though the difference
+between thin and thick lenses can be
+understood by their names, let us
+explain this more. Looking at the cross

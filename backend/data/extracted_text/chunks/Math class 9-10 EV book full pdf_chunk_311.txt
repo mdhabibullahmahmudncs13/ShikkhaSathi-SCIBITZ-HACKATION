@@ -1,0 +1,30 @@
+# Chunk 311 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420889
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_311
+
+========================================
+
+--- Page 133 ---
+128 Mathematics Classes IX-X
+Acute angle and obtuse angle B c
+An angle which is less than a right angle is called an /
+acute angle and an angle greater than one right angle
+but less than two right angles is an obtuse angle. In
+the figure, ZAOC' is an acute angle and ZAOD is an 0 =
+obtuse angle. Here ZAOB is a right angle.
+Reflex angle JL
+An angle which is greater than two right angles and
+. 0 A
+less than four right angles is called a reflex angle. In p
+the figure, ZAOC' is a reflex angle. c
+Complementary angle
+If the sum of two angles is one right angle, the two
+angles are called complementary angles. A Cc
+In the adjacent figure, ZAOB is a right angle. The
+ray OC is in the inner side of the angle and makes
+two angles ZAOC and ZC'OB.So taking together the

@@ -1,0 +1,33 @@
+# Chunk 366 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.879114
+# Character count: 768
+# Chunk ID: ICT 9-10.txt_0_366
+
+========================================
+
+called Baseline Shift.
+
+Selecting the measurement number from the drop-down menu in ‘Set the
+
+Baseline Shift box" of the Character palette, or typing measurement number
+
+directly in the Set the Baseline Shift box, the measurement of Baseline Shift
+
+should be fixed. The use of a negative number will take the text below the
+baseline, and conversely an positive number will bring the text above the
+baseline.
+
+The Leading
+
+The space between the lines is called the ‘Leading’ which can be required for
+
+the text containing many lines.
+
+A. By selecting a measurement number from the drop-down menu in Set the
+Leading box of the Character palette. or typing the measurement number
+directly in the Set the Leading box. and pressing the Enter, the Leading will
+be activated.

@@ -1,0 +1,32 @@
+# Chunk 654 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.373040
+# Character count: 736
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_654
+
+========================================
+
+only function of a good telescope is to create
+
+a large image of the small objects situated Ll
+
+far away. Actually that’s not true, the ii
+
+function of a good telescope is also to create
+
+a distinct image in very dim light. That is
+
+why the bigger the concave mirror is, the
+
+more light it can converge to create a clear
+
+image. Concave mirrors are used in all of
+
+the large telescopes of the world. Figure 8.27: When an intense
+Another use of concave mirrors is to create a light source is placed at the focal
+parallel beam of light. Concave mirrors are point, then that light is reflected
+used in search lights of ships or launches. The at the concave mirror as parallel
+light source is kept at the focus of the mirror, beam of light.

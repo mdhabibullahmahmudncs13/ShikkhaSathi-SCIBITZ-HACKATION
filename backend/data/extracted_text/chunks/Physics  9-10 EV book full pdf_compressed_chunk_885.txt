@@ -1,0 +1,28 @@
+# Chunk 885 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397301
+# Character count: 580
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_885
+
+========================================
+
+magnets, which generally don’t act as a magnet as they are aligned in different
+
+directions. These substances consist of an enormous number of small
+
+magnets that are randomly oriented. Since the small magnets are randomly
+
+oriented, the piece of iron does not act as a magnet.
+
+But when this piece is kept inside a solenoid or a coil, and if current is passed
+.. through the solenoid, then the magnetic field produced by that current aligns the
+§ individual tiny magnets.
+
+
+--- Page 341 ---
+336 Physics
+Therefore, the magnetic field produced by
+the current and the magnetic field

@@ -1,0 +1,26 @@
+# Chunk 289 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418906
+# Character count: 543
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_289
+
+========================================
+
+1. A point is that which has no part.
+
+2. A line has no end point.
+
+3. A line has only length, but no breath and height
+
+4. A straight line is a line which lies evenly with the points on itself.
+
+5. A surface is that which has length and breadth only.
+
+6. The edges of a surface are lines.
+
+7. A plane surface is a surface which lies evenly with the straight lines on itself.
+It is observed that in this description, part, length, width, evenly etc have been =
+accepted without any definition. It is assumed that we have primary ideas about —&

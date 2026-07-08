@@ -1,0 +1,32 @@
+# Chunk 217 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321820
+# Character count: 714
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_217
+
+========================================
+
+PR . . v, are the new velocities of masses
+3 mu, where m is the mass and u is the mand m, respectively
+velocity of the object. We assume that no / ’
+other energy is exchanged here rather than
+kinetic energy.
+Therefore using the law of conservation of energy, we can write,
+1 2, 1 21 2,1 2
+Fm + Fmt =o mvi + 5 M23
+@ Do Yourself
+Using these two equations calculate the values of v and v,.
+We can write the law of conservation of momentum as:
+my (uy — vp) = my(vy — up)
+The law of conservation of energy, we can be expressed as
+my (uf — vf) = my (vi — ud)
+Now using these two equations we can calculate the values of the velocities
+v, and v,. These are:
+_ (my —myluy + 2myuy
+v= my +m,
+(my — mu, + 2myuy
+VE 2
+my + my s

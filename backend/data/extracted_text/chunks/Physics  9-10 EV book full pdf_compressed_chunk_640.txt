@@ -1,0 +1,17 @@
+# Chunk 640 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.371391
+# Character count: 169
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_640
+
+========================================
+
+(b) It is virtual
+(c) Straight
+
+..  (d) The length of the image will also depend on its position, the closer it gets to
+
+E the focal point the larger its length becomes.

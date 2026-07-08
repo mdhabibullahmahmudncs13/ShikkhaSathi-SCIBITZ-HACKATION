@@ -1,0 +1,27 @@
+# Chunk 323 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.872677
+# Character count: 783
+# Chunk ID: ICT 9-10.txt_0_323
+
+========================================
+
+same position. If you click the visible tool in the box and continue pressing the
+mouse, all the tools will be viewed together. Drag the mouse pointer on the
+required tool and click, and the tool will be visible in the toolbox.
+There are some icons in the swatch below the tools in the toolbox. Imposing
+color in an object or on the edges of an object or cancelling a command can be
+done with these icons. Create an object to understand the use of the icons, To
+make an object like this—
+Toggle column —» CEE
+(v) Selection Tool [i] & | Direct Selection (A)
+()magic wand K §3 | Lasso (Q)
+®P)Pen  § T, Type
+ruling Segment [Gl Rectangle (M)
+(e)yPaintbrush #7 oF, Pencil (N)
+(R)Rotate ©) EJ Scale (Ss)
+shift + Rywap ELEY Free Transform (E)
+(Shitt+5) Symbol Sprayer "Blu, Column Graph ())

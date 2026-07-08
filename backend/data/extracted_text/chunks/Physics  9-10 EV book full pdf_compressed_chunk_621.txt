@@ -1,0 +1,43 @@
+# Chunk 621 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.369323
+# Character count: 732
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_621
+
+========================================
+
+--- Page 230 ---
+mw
+
+H
+sf oe
+=!
+
+~J
+
+
+--- Page 231 ---
+226 Physics
+come from A and B respectively. The first ray has come to point X and the
+second one has come to another point Y. The ray coming to point X will be
+reflected back the way it has come. Let us extend this ray to the center of the
+sphere, O. We can see that OX=r (radius of the sphere). The ray coming from
+point B to point Y will create an angle of incidence Oiwith perpendicular
+ON at that point. The angle of
+
+reflection of the ray BY is 0,and it will ¢ oo
+
+be reflected towards YP. If we extend Pau 5
+PY, it would intersect line OX at point x Y
+
+F. a e = A
+FO=FY because in the triangle OFY,
+
+ZFOY=Z0YF , as FOY= 0; and
+
+ZFYO=6,.
+
+FY = FX when XY is small compared

@@ -1,0 +1,25 @@
+# Chunk 262 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.861301
+# Character count: 771
+# Chunk ID: ICT 9-10.txt_0_262
+
+========================================
+
+insert transition to the textbox
+1. Keep the second slide open.
+2. Select the textbox.
+3. Click the Animations menu to activate it.
+A command called Custom Animation will be added to the bottom of
+Animation. Click Custom Animation and a palette will come.
+4. Select Entrance from the Add Effect drop-down list of Custom Animation,
+and a list of custom transition will appear. From this list
+- ‘Blinds’ is selected for the first textbox.
+- “Fly in’ is selected for the second textbox.
+- ‘Diamond’ is selected for the third textbox.
+- If you select ‘More Effects’ from this list, another list of transition will be
+viewed. Selection of any transition from this list will show the same effect.
+5. In order to remove a transition from a specific textbox. select it. Click the

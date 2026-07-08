@@ -1,0 +1,28 @@
+# Chunk 452 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.434816
+# Character count: 766
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_452
+
+========================================
+
+--- Page 194 ---
+Chapter 9. Trigonometric Ratio 189
+angles 0° and 90°.
+» prove the trigonometric identities.
+» apply the trigonometric identities.
+Naming of sides of a right-angled triangle
+We know that, the sides of right-angle triangle are known as hypotenuse, base
+and height. This is successful for the horizontal position of triangle. Again, the
+naming of sides is based on the position of one of the two acute angles of right-
+angled triangle. As for example :
+1. ‘(hypotenuse)’ the side of a right-angled triangle, which is the opposite side
+of the right angle.
+2. ‘(opposite side)’, which is the direct opposite side of a given angle.
+3. ‘(adjacent side)’, which is a line segment constituting the given angle.
+P, P,
+[&] N [e} N
+For the angle ZPON, OP is the

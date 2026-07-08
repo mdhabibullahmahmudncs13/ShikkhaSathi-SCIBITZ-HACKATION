@@ -1,0 +1,37 @@
+# Chunk 611 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368436
+# Character count: 755
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_611
+
+========================================
+
+Forma-28, Physics, Class 9-10
+
+
+--- Page 223 ---
+
+
+--- Page 224 ---
+Reflection of Light 219
+
+8.2.3 Reflection from smooth and rough planes
+
+Parallel light rays become parallel after reflecting from mirrors or smooth plane
+
+surfaces because each ray obeys the law of reflection and reflects with an angle
+
+of reflection equal to the angle of incidence. Even if the plane is not smooth,
+
+every ray of light will obey the law of reflection. But the rays are incident at
+
+different angles at different points of the plane, therefore the rays will reflect in
+
+different angles after reflection. After reflection, the reflected rays are not
+
+parallel and spread in different directions. (Figure 8.07) These types of
+
+reflections are called irregular reflection.

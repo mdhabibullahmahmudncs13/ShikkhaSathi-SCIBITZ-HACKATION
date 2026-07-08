@@ -1,0 +1,28 @@
+# Chunk 722 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461088
+# Character count: 764
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_722
+
+========================================
+
+--- Page 318 ---
+Chapter 15. Area Related Theorems and Constructions 313
+Proof: The area of AABC = 3 x AB x CL and
+The area of AABE = 3 x AB x EK
+CL = EK, [by construction AL || FC]
+.. The area of AABC = The area of AABE
+Ed 3 area of the parallelogram ABCD = 3 area of the parallelogram ABEF.
+.-. Area of the parallelogram ABC'D = area of the parallelogram ABEF. (proved)
+Theorem 38. Pythagoras Theorem
+In a right-angled triangle, the area of the square drawn on the hypotenuse is equal
+to the sum of the areas of the squares drawn on the other two sides.
+Special Nomination: Let ABC be a right
+angled triangle in which ZACB is a right angle G 4
+and hypotenuse is AB. It is to be proved that, c
+) ) K
+AB? = BC? + AC? F A
+Drawing: Draw three squares ABED, ACGF NA %

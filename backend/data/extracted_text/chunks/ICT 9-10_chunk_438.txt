@@ -1,0 +1,20 @@
+# Chunk 438 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.892349
+# Character count: 401
+# Chunk ID: ICT 9-10.txt_0_438
+
+========================================
+
+two or more times subject to a condition. The condition is verified at the begin-
+ning of this loop. The loop will only be executed if the given condition is true or
+non-zero. Otherwise, the loop will terminate, and no statement will be executed.
+The format of While Loop control is as follows:
+CounterInitialization:
+while Conditicn:
+Ji Statement (s)
+Counterbecrament/ Increment;
+Forma-18, TCT-(9-10)

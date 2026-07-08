@@ -1,0 +1,29 @@
+# Chunk 910 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.400098
+# Character count: 735
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_910
+
+========================================
+
+--- Page 348 ---
+Magnetic Effects of Current 343
+cor: = (2s) py, = (20 =
+Answer: Vg = ®) Vp = =) x 12V = 120V AC
+Example: In the above transformer, if 1A current flows through the primary
+coil, what is the maximum current that will flow through the secondary coil?
+er: = (Ye), = (12 —
+Answer: Ig = 6) Ip = (2) x1A=01A
+©) Exercise
+General questions
+1. If you send an electron beam from one end to the
+other end of your room and see that it is going
+upward, what explanation will you give? i
+2. While making an electromagnet, an insulated
+wire is wrapped around an iron bar. Is it better to
+use a single turn with a thick wire or many turns
+with a thin wire? Why?
+3. Between two iron bars, one is a magnet and the Figure 12.14: Change of

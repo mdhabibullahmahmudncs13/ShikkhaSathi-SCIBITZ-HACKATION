@@ -1,0 +1,21 @@
+# Chunk 949 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404104
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_949
+
+========================================
+
+continuously. We might need these values in our different works, so we preserve
+and analyze these values and send them from one place to another. To process
+the data we might use electronics. This continuously changing data can be
+converted into electrical signals and these types of signals are called analog
+signals. If we process these signals with a type of electronics, it is called analog
+electronics. When discrete signals are processed, then it is called digital signal.
+Continuously changing information or data signals can be processed in a
+different way. To do this, we have to find the value for a definite interval of time
+and express this in a type of number. Then we have to preserve this value
+successively. Then we will be able to process these numbers using electronics.

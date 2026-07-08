@@ -1,0 +1,32 @@
+# Chunk 762 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384409
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_762
+
+========================================
+
+are drawn in a plane (Fig Figure 10.11: Lines of force diverges from
+
+10.11). positive charge and converges into negative
+
+There are some rules of charge
+
+drawing lines of forces:
+
+(a) In case of positive charge the lines of forces emerges from positive charges,
+and in case of negative charge converges into negative charges . In a specific
+point, the direction of tangent line of force is the direction of electric field.
+
+(b) The more the amount of charge, per unit volume or area the more the number
+of lines of forces.
+
+(c) The nearer the lines of force, the more the magnitude of the electric field.
+
+(d) The lines of force of one charge never intercept the lines of force of another
+charge.
+
+In Figure 10.12 (a), the lines of force of two opposite charges are shown. You

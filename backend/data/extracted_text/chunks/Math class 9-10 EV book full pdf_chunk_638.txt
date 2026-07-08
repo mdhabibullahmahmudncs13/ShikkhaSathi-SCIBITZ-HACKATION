@@ -1,0 +1,33 @@
+# Chunk 638 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.453198
+# Character count: 774
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_638
+
+========================================
+
+--- Page 280 ---
+Chapter 13. Finite Series 275
+Example 4. 14+2+3+4+ +99 = what?
+Solution:
+The first term of the series a = 1, common difference d = 2 — 1 = 1 and the last
+term p = 99.
+It is an arithmetic series.
+Let the nth term of the series = 9
+We know, nth term of an arithmetic progression = a + (n —1)d
+coat (n—1)d=99
+or, 14 (n—1)1=99
+or, 1+n—-1=99
+con =99
+From (4) formula, the sum of first n-terms of an arithmetic series,
+Sp = Hea +(n—1)d}
+Hence, the sum of first 99 terms of the series Sgg = Pre x1+(99—-1) x1} =
+20 +98)
+= 20 _ 99 50 = 4950
+Alternative method: From formula (3), S, = Za +p)
+Seg = 2a +99) = Bx = 4950
+Example 5. What is the sum of first 30 terms of the series 7+ 12 + 17 +---?
+Solution: First term of the series a = 7, common difference d = 12-7 =75

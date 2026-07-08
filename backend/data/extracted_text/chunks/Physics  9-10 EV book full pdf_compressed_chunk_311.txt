@@ -1,0 +1,31 @@
+# Chunk 311 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330992
+# Character count: 791
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_311
+
+========================================
+
+--- Page 112 ---
+Work, Power, Energy 107
+If the constant of a spring is k, and if the spring is compressed by a
+distance x from its normal state, then the potential energy stored in it is,
+— 12
+V= 3 kx
+@ Do Yourself
+If a spring is compressed or expanded by an amount x, it will
+exert a force of F= -kx, using this equation it is possible to find out the
+relation, V = Th? Can you find it? (Since the force depends on the length
+of the spring, so calculate the average force and multiply it by the total
+distance.)
+0) Example
+Question: A body of mass 10 kg falls on a spring with a velocity of 10 m/s. If
+the spring constant k=100,000 J/m?, what is the compression?
+Answer: Kinetic energy of the object,
+1 210x102 = 500
+3 mv = 2 ]= ]
+This energy will compress the spring, that is,
+! kx? = 500

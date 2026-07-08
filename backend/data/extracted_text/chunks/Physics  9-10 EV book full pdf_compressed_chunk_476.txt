@@ -1,0 +1,15 @@
+# Chunk 476 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.348585
+# Character count: 275
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_476
+
+========================================
+
+junctions of different metals (thermocouple) are kept at different temperatures,
+it produces anemf and by measuring this, the temperature can be calculated. This
+thermocouple is used in industries on a large scale because it can measure the
+temperature from -200°C to 1000°C.

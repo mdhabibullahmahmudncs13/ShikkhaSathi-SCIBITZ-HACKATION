@@ -1,0 +1,24 @@
+# Chunk 342 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.875107
+# Character count: 758
+# Chunk ID: ICT 9-10.txt_0_342
+
+========================================
+
+Lock the Objects
+‘While working with more than one object, it is required to keep one or more
+than objects locked. As a locked object can not be selected, the editing work can
+not be done. So the locked object can not be changed by mistake.
+To lock an object:
+A. Select a particular object.
+B. Give the Lock command from the Object menu.
+If it 1s required to edit or change a locked object, unlock it. To unlock an object
+select the “Unlock All’ command from the object menu. Thus all the objects will
+be unlocked. An unlocked object can be edited in the usual way.
+Use of Cut, Copy and Paste Command
+After selecting any abject with the selection tool and giving the Cut command
+from the Edit menu. the object will disappear and it will be copied if the Copy

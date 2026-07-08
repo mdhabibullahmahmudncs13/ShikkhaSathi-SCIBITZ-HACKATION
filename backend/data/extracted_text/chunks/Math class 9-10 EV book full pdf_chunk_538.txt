@@ -1,0 +1,24 @@
+# Chunk 538 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.443218
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_538
+
+========================================
+
+--- Page 240 ---
+Chapter 11. Algebraic Ratio and Proportion 235
+2: 3; Soni’s earning : Samir’s earning = 1500 : 2500 = 3 : 5. Hence, Ronis :
+Soni’s : Sami’s earning = 2:3: 5.
+If two ratios are of the form a : b and b : ¢, they can be re-written in the form
+a:b:c This is called continued ratio. Any two or more ratios can be expressed
+in this form. It is noted that if two ratios are to be expressed in the form a:b: ¢,
+the antecedent of the first ratio and the subsequent of the second ratio need to be
+equal. For example, if two ratios 2 : 3 and 4 : 3 are to be put in the form a : b: ¢,
+the subsequent quantity of the first ratio is to be made equal to the antecedent
+quantity of the second ratio. That is, those quantities are to be made equal to
+their L.C.M.
+Here, L.C.M of 3 and 4 is 12.

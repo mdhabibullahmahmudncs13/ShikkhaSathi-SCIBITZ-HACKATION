@@ -1,0 +1,30 @@
+# Chunk 647 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.372209
+# Character count: 658
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_647
+
+========================================
+
+--- Page 239 ---
+234 Physics
+1 + 1 1
+u'v f
+cal distance.
+Real image is a very important idea. We will find in the next chapter how real
+images can be formed with a lens. You have already seen that there are real light
+rays in a real image, so if it is projected on a screen, it is possible to see the
+image. In ordinary mirrors, you can look at yourself but you cannot project
+yourself on screens with ordinary mirrors.
+Example
+
+Question: Figure 8.24 shows that the
+image of object XY is formed at
+X'Y". If the object is X'Y’, where will Q X
+the image be formed? it
+Answer: This is a real image. So if =
+X'Y'’ is an actual object, the image Oy
+will be XY. mi

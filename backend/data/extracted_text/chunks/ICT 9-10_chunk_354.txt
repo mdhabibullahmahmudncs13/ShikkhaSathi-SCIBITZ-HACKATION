@@ -1,0 +1,42 @@
+# Chunk 354 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.877725
+# Character count: 797
+# Chunk ID: ICT 9-10.txt_0_354
+
+========================================
+
+dragging the Pencil Tool. - a
+
+The Pen Tool is the main lool for drawing A of
+
+vector objects. A subtle object can be hp
+
+created by a keen path with he help of the 2 a
+
+Pen Tool. 8
+
+
+--- Page 113 ---
+108 Multimedia and Graphics
+
+Closed Path and Opened Path
+
+A closed Path has no beginning and no closing point, as in a circle and square,
+
+ele. A closed path may have curved ends. On the contrary, an Open Path has a
+
+begining and a closing end.
+
+Pencil Tool and Pen Tool
+
+A Path can be created easily with the Pencil Tool. By selecting the pencil tool
+
+from the tool box. and clicking and dragging it on the screen path, a drawing
+
+curved line is possible. The function of the pencil tool is like making a sketch on
+
+the paper. On the contrary, a path is created with the Pen Tool by clicking and

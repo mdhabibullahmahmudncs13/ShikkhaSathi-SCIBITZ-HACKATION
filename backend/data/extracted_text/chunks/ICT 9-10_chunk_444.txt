@@ -1,0 +1,31 @@
+# Chunk 444 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.893214
+# Character count: 407
+# Chunk ID: ICT 9-10.txt_0_444
+
+========================================
+
+The function of Interpreter is
+
+i)To transform every command into machine language all at a time
+
+it)To transform commands into machine language one by one
+
+iii) To wansform machine code into Python code
+
+Which of the following is true?
+
+A)iand ii B) i and iii
+
+C) ii and iii D) i, ii and iii
+2. Which function is used in Python to show a text on the screen?
+
+A) printf) C) print
+
+B) print() D) println()
+
+]

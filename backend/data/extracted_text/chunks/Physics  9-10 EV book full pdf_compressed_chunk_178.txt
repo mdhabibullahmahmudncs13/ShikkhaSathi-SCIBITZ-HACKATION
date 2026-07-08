@@ -1,0 +1,27 @@
+# Chunk 178 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.318307
+# Character count: 641
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_178
+
+========================================
+
+5.Do we travel double the distance at double the time in case of uniform
+acceleration?
+
+Mathematical question
+
+1. From your school a car has gone 40 km east, then 40 km north, then 30 km
+west, then 30 km south, then 20 km east, then 20 km north, then 10 km west,
+then 10 km south. In which direction and how far is the car from your
+school?
+
+2. Show when velocity and acceleration become positive, negative or zero on
+the portions OA, AB, BC and CD in figure 2.11.
+
+3. If position is plotted along the Y- axis instead of velocity then what would be
+the value of velocity and acceleration on the portions OA, AB, BC and CD
+in the figure 2.11.

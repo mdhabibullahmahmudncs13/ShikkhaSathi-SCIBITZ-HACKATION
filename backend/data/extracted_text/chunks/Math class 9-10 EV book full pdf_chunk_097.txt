@@ -1,0 +1,27 @@
+# Chunk 97 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.399232
+# Character count: 734
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_97
+
+========================================
+
+relation y = 2x exists, then find the relations.
+Solution: Given, P = {2,3,4} and Q = {4,6}
+According to the question R = {(2,y) : 2 € P,y € Q and y = 2x}
+Here, Px Q ={2,3,4} x {4,6} = {(2,4),(2,6),(3,4), (3,6), (4,4), (4,6)}
+SL R={(2,4),(3,6)}
+The required relation is {(2,4), (3,6)}
+Example 17. If A={1,2,3} B= {0,2,4} and elements of A and B have the
+relation x = y — 1, find the relations.
+Solution: Given, A = {1,2,3}, B = {0,2,4}
+According to the question, relation R = {(z,y) : z € A,y € Band z = y—1}
+Here, A x B ={1,2,3} x {0,2,4}
+={(1,0),(1,2),(1,4),(2,0),(2,2), (2,4), (3,0). (3,2), (3,4) }
+cS R={(1,2),(3,4)}
+Work: If C= {2,5,6}, D = {4,5} and the relation z < y holds between
+3 elements of C' and D, find the relations.
+5

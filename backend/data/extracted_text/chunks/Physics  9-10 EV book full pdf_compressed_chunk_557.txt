@@ -1,0 +1,34 @@
+# Chunk 557 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.361281
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_557
+
+========================================
+
+--- Page 199 ---
+194 Physics
+only two easy matters are shown in figure 7.03. The two waves, can reinforce
+one another or can destroy each other.
+@ Do Yourself
+
+Pour some water on a big plate in a bright place. Make sure that there is
+
+no vibration on the plate. If you touch any point of the water, the wave
+
+will spread around from that point and at the bottom of the plate you will
+
+see its shadow or reflections. Touching just the centre of the water of the
+
+plate, you will see a wave starting from the centre and spreading to the
+
+edge of the plate and again returning to the centre after reflection from
+
+there. If the wave can be created properly, meeting at the centre it will
+
+again spread around. If you try a little bit, you can measure the velocity
+
+of this wave. Try and see.

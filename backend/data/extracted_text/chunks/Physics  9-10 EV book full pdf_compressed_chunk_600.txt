@@ -1,0 +1,23 @@
+# Chunk 600 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.367229
+# Character count: 796
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_600
+
+========================================
+
+shown in Figure 8.1.
+@ Do Yourself
+Hold a CD in the sunlight and reflect the light on a nearby wall. You can see
+the full spectrum of light on the wall. CDs have sharp indentations which
+work as grating and separate the colors.
+In Figure 8.01, the name of different wavelengths is shown. If the wavelength is
+less than the smallest wavelength of visible light, then we call it ultraviolet light.
+If the wavelength is even smaller than it is called x-ray, and even smaller is
+called gamma ray- which comes out from radioactive nucleus. If the wavelength
+is larger than the largest wavelength of visible light, we call it an infrared ray. If
+it gradually becomes larger we call them microwave, and then radio waves! To
+learn physics this division of wavelengths is one of the most important topics.

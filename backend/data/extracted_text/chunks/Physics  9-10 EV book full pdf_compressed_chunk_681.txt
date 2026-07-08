@@ -1,0 +1,21 @@
+# Chunk 681 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.375944
+# Character count: 742
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_681
+
+========================================
+
+When discussing reflection, we learned that when perfect and total reflection
+is needed, then instead of mirror a perfect transparent medium is
+used, and a kind of reflection is made. This is called total internal
+reflection. It is a very easy and exciting process. Here, light rays are sent
+to a rarer medium from a denser medium using the refraction of light. We
+know (and have used many times) that the law of refraction is
+n, sing, =n,siné, ie if n, is greater than n, then 6, is greater than 6,.
+Suppose you are sending a ray of light from a denser(n, ) medium to a rarer(n,)
+medium (Figure 9.06).According to the laws of reflection and refraction some
+amount of light will be reflected and some will be refracted . As 6, will be greater

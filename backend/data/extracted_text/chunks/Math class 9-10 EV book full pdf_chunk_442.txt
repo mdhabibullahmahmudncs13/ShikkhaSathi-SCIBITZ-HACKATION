@@ -1,0 +1,27 @@
+# Chunk 442 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433967
+# Character count: 384
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_442
+
+========================================
+
+H, Gand L.
+
+Again, the line segments BC, BD and C'F respectively are perpendiculars at the
+
+extremities of EH, EG and EL.
+
+Hence, the circle touches the three line segments at the three points H, G and L.
+
+Therefore, the circle HGL is the ex-circle of AABC'.
+
+Remarks: Three ex-circles can be drawn with any triangle. |
+
+‘Work: Construct the two other ex-circles of a triangle. a
+
+g
+8

@@ -1,0 +1,33 @@
+# Chunk 423 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.888864
+# Character count: 788
+# Chunk ID: ICT 9-10.txt_0_423
+
+========================================
+
+--- Page 136 ---
+Problem Solving through Programming 131
+Practical Problem #6: Write a program to convert metres to feet and feet to
+metres.
+Solution; The code for the program is given below.
+print ('l:Fest to Meters, 2:Meters to Feet. ')
+choice = int (input ('Enter Choice: '))
+if choice == 1:
+num = Float (input ('Enter number of feet: ))
+print {‘Meters: ', round((num/3.28},3))
+else :
+num = float tinput (‘Enter number of meters: '))
+print ('Feet: ', round ((num*3.28),3))
+The sample results obtained by running the program-
+1:Fest ta Meters. 2:Meters to —Feet. Enter Choice:]
+Enter number of feel: 25
+Mesers: 7.622
+1:Feet to Meters, 2:Meters to Feet,
+Enter Choice: 2
+Eater number of Meters: 60
+Feel : 196.800
+To check muluple conditions in a Python program, the elif statement is used

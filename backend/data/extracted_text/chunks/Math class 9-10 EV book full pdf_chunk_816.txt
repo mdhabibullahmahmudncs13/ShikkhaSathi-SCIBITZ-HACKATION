@@ -1,0 +1,34 @@
+# Chunk 816 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.471430
+# Character count: 798
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_816
+
+========================================
+
+20. ABCD is a parallelogram and BCEF is a rectangle and BC is the base of
+both of them.
+
+1) Draw a figure of the rectangle and the parallelogram assuming the same
+height.
+
+2) Show that the perimeter of ABCD is greater than the perimeter of
+BCEF.
+
+3) Ratio of length and width of the rectangle is 5: 3 and its perimeter is
+48 metre. Determine the area of the parallelogram
+
+21. The perimeters of a square region and a rectangular region are same. The
+length of the rectangle is 3 times of its width and its area is 1200 square
+metre.
+
+1) Determine the perimeter of the rectangle using the variable x.
+
+2) Determine the area of the square region.
+
+3) Consider a 1.5 metre wide path just around the rectangular region.
+How many 25 x 12.5 square cm bricks will be required to make the
+path metalled ? g

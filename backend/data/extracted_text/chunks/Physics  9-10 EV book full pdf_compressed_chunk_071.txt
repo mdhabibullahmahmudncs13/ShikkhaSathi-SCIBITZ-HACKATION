@@ -1,0 +1,21 @@
+# Chunk 71 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.307471
+# Character count: 782
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_71
+
+========================================
+
+inch-foot is familiar still now (USA is an example!) inch is marked very often
+on the other side of a meter scale. One inch equals 2.54 cm.
+We can measure up to the smallest division on a scale. A meter scale is generally
+divided up to millimeter, so using a meter scale we can measure the length of
+anything up to millimeter. Therefore, if we say the length of anything is 0.364 m,
+this means the length of this is 36 centimeter and 4 millimeter. Using a meter
+scale it is not possible to measure lengths smaller than this - that is, generally we
+can never say the length of a body is 0.3643 m. But from time to time, for
+microscopic purposes we have to measure the smallest length of objects of this
+type, which can be performed by using an interesting scale called vernier scale.

@@ -1,0 +1,25 @@
+# Chunk 84 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308529
+# Character count: 756
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_84
+
+========================================
+
+--- Page 29 ---
+24 Physics
+Investigation 1.01
+Objective: To find out the volume of a match box or any other object by’
+measuring its length, breadth and height using a slide calipers. If you have
+no slide calipers with you, you can make a slide calipers as shown in figure
+1.10.
+1. To measure the length of an object by slide calipers we need to place it
+between the jaws of the slide calipers. The jaws need to touch the object
+from both the sides.
+2. Now observe carefully the mark of the main scale that the zero marking
+of vernier scale has just crossed. Mark of the main scale that the. That will
+be the main scale reading M. Notice that, the mark which is very close to the
+main scale, is not the reading of main scale, the mark that has just crossed

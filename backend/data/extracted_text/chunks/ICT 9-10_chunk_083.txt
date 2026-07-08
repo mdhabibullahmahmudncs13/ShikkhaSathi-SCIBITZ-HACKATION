@@ -1,0 +1,23 @@
+# Chunk 83 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.831474
+# Character count: 758
+# Chunk ID: ICT 9-10.txt_0_83
+
+========================================
+
+--- Page 26 ---
+Information and Communication Technology 21
+Nowadays, the use of ICT device can not be imagined without the internet
+connection. Many cookies and temporary internet files are saved in the cash
+memory of the internet browser when you surf the net. It slows down the
+computer. If it is not possible to clean up the cash memory everyday, it must be
+done in every few days’ intervals. A piece of software can help you to get the
+job done.
+Using ICT device without anti-virus, anti-spyware and anti-malware is very
+risky. It is an important maintenance activity that protects the users' device from
+the attack of virus, malware and spyware, and they can safely use their devices.
+Now many anti-virus, anti-malware, and anti-spyware software can be

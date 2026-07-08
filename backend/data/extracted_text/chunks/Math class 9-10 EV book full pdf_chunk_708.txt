@@ -1,0 +1,25 @@
+# Chunk 708 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.459727
+# Character count: 348
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_708
+
+========================================
+
+--- Page 312 ---
+Chapter 14. Ratio, Similarity and Symmetry 307
+‘Work: Determine the line of symmetry and the rotational symmetry of the
+given alphabet and complete the table below:
+
+Letter Number of lines of symmetry | Rotational symmetry | Order of rotational symmetry
+28 IN TS EN NN
+ ——
+ol rr rr]
+FF A
+cl rr]
+
+Exercise 14.3
+1. In plane geometry:

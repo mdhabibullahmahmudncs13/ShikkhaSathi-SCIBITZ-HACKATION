@@ -1,0 +1,28 @@
+# Chunk 430 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.890393
+# Character count: 750
+# Chunk ID: ICT 9-10.txt_0_430
+
+========================================
+
+--- Page 139 ---
+134 Information and Communication Technology
+The sample result obtained by running the program-
+Enter integer number 1¢ 10
+Enter integer number 2: 20
+Enter integer number 3: 30
+40 is the largest number.
+Repeating the Same Task: Using Loops in Programming
+As we repeat certain tasks in our daily lives, we also need to perform some tasks
+multiple times in programming. When we want to repeat the same task several
+times in a program, we have to use a loop. In programming, loop control state-
+ments are used 10 execute a statement two or more times. Some of the main loop
+control statements used in Python programming are:
+= for statement
+= while statement
+= continue, break and pass statement.
+Various statements are discussed below-

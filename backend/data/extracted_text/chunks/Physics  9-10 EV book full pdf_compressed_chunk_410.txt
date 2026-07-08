@@ -1,0 +1,30 @@
+# Chunk 410 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.341132
+# Character count: 751
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_410
+
+========================================
+
+--- Page 145 ---
+140 Physics
+Question: Let’s suppose the mass of the gold crown of Archimedes is 10 kg in
+air and 9.4 kg when immersed in water. What is the density of the crown?
+Answer: If the volume of the crown is Vand density is # then
+Vp=10kg
+Vp—Vp, =94kg
+Vp, =Vp—94kg=10kg—9.4kg = 0.6 kg
+0.6 kg 0.6 kg 33
+v= on = 105i = 06% 10 m
+10 kg 10 kg
+=== kg/m?
+P= Toe x10 Tm 16666 ke/m
+Real density of gold is 19,300 kg/m?, therefore it is understood that the crown is
+mixed by impurities.
+5.3.4 Pascal’s Law
+We have shown many times in this chapter that if pressure is applied on a liquid,
+it is transmitted towards all directions. You will understand that it is normal if
+you think a bit. Because if the pressure is not transmitted into the whole liquid

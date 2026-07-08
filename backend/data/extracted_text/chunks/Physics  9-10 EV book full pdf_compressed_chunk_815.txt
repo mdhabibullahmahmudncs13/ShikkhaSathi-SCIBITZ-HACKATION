@@ -1,0 +1,25 @@
+# Chunk 815 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389621
+# Character count: 586
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_815
+
+========================================
+
+h 5 ®" (b)
+voltage is called a voltmeter, and E | of &
+the equipment used for measuring ° 0 o
+current is known as ammeter. L | SF
+(Actually the same equipment can 5 L me @
+be used sometimes as a voltmeter @ =1
+and sometimes as an ammeter by Pd ul
+turning a switch.) Let us take a few -2
+battery cells. If the voltage for one =
+battery cell is 1.5 V, for two cells it -3
+will be 2x1.5 =3V, for three cells it
+will be 3x1.5 = 4.5 V. We can apply Figure 11.04: Current flow relative to
+different potential differences in potential difference due to resistance
+Forma-39, Physics, Class 9-10

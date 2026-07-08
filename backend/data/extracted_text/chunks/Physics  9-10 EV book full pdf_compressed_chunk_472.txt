@@ -1,0 +1,28 @@
+# Chunk 472 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.348211
+# Character count: 633
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_472
+
+========================================
+
+state which indicates whether an object ike the volume of liquid
+
+absorbs or rejects heat when it comes in contact with another object. To
+
+understand this, we can compare it with the height of the surface of water in
+
+(Figure 6.01).
+
+If the heights of the upper surface of water in the two containers are different,
+
+and they are connected with a pipe, the flow of water will not be determined by
+
+which container contains more or less water. Water flow will depend on the
+
+height of the upper surface of water of the containers. Always water will flow
+
+from higher height to lower height until the two heights become equal. Here we

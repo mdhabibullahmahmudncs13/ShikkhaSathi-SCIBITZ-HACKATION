@@ -1,0 +1,23 @@
+# Chunk 651 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.454252
+# Character count: 759
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_651
+
+========================================
+
+Lo . 32
+the ratio of the fifth term to the fourth term = 6= 2.
+So, this series is a geometric series. In this series, the ratio of any term to its
+antecedent term is always equal. The common ratio of the mentioned series is
+2. The numbers of terms of the series are finite. That is why the series is finite
+geometric series.
+The geometric series is widely used in different areas of physical and
+biological science, in organizations like Banks and Life Insurance etc,
+and in different branches of technology.
+If the numbers of terms are not fixed in a geometric series, it is called an infinite
+geometric series. The first term of a geometric series is generally expressed by a
+and common ratios by 7. So by definition, if the first term is a, the second term

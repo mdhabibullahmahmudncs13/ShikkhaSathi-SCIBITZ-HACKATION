@@ -1,0 +1,35 @@
+# Chunk 281 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.863970
+# Character count: 754
+# Chunk ID: ICT 9-10.txt_0_281
+
+========================================
+
+- Select the lasso tool in the toolbox, FEE———
+
+Numerous selections can be made With |e ry
+lasso tool such as By = i
+2 I
+
+- Clicking and dragging on the canvas after by | >
+selecting the lasso tool, selections of |; |
+a non-circular and uneven edges can be bi i 2
+made. If you release the finger from the |=" .
+pressing position on the mouse while [24
+dragging. a closed selection will be [= |
+created from that position to the first ey
+clicking point.
+
+- By clicking inside the selection while floating, it can be shifted elsewhere by 8
+
+
+--- Page 91 ---
+86 Multimedia and Graphics
+dragging. Filling any floating selection with colour, it can be filled either
+with the same or a different colour.
+
+- Opacity is used to determine the thickness of colour.

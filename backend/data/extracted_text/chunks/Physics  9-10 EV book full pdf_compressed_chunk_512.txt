@@ -1,0 +1,22 @@
+# Chunk 512 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.355770
+# Character count: 752
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_512
+
+========================================
+
+--- Page 182 ---
+Effect of Heat on Matter 177
+On the solid being totally liquefied the temperature starts to increase again (as
+shown in the figure 6.08). The temperature increases gradually and at one stage
+the liquid starts to convert into gas. This process is called vaporization and the
+temperature at which vaporization occurs is called the boiling point. Again,
+everyone is being reminded that this boiling point depends upon pressure.
+When the process of vaporization starts by absorbing the heat energy, the
+molecules of the liquid start to become free from the molecular bonds among
+themselves. Here also the temperature does not increase like fusion even if heat
+is applied. During vaporization of liquid the amount of heat by which the whole

@@ -1,0 +1,24 @@
+# Chunk 509 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.355453
+# Character count: 762
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_509
+
+========================================
+
+--- Page 181 ---
+176 Physics
+@ Do Yourself
+Take two balloons, put a small amount of water into one of them and air of
+the same volume in another one. Now put the two balloons under hot water
+for a small interval of time. You will notice that the balloon containing water
+remains the same, because the expansion of liquid due to heat is smaller but
+the balloons containing air has expanded in volume to a large extent,
+because the expansion of gas is much more higher than that of liquid.
+6.4 Effect of Temperature in Change of State
+Already you have know that all solids consist of molecules and in solids
+molecules attract one another from a certain position. If heat is applied, their
+vibrations increase and the molecular bonds become weak. They start to move

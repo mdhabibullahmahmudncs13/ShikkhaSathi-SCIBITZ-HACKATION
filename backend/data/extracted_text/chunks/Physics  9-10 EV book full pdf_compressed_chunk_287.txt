@@ -1,0 +1,33 @@
+# Chunk 287 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.328648
+# Character count: 593
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_287
+
+========================================
+
+(a) 10kg ms’ (b) 120 kg ms!
+(c) 100 kg ms’ (d) | kg ms” I<
+
+
+--- Page 102 ---
+Force 97
+
+Creative questions
+
+1. Faruque pulls a box of mass 4 kg on the floor with a constant force. The
+frictional force between the box and the floor is 1.5 N. While pulling, the
+box accelerates at 0.8 ms? Then the box is pulled with the same force on
+a frictionless floor.
+
+(a) What is a balanced force?
+
+(b) Why is the frictional force generated?
+
+(c) What is the force applied to the box in the first case?
+
+(d) What is the change in acceleration in frictional and frictionless
+floors? Explain mathematically.

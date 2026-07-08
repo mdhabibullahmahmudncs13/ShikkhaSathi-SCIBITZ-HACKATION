@@ -1,0 +1,28 @@
+# Chunk 786 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.468387
+# Character count: 787
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_786
+
+========================================
+
+Solution: 211 metre 20 cm = 21120 cm
+Let, the radii of two wheels are R and r respectively ; where R > r.
+.. Circumferences of two wheels are 27 R and 27r respectively and the difference
+of radii is (R —r).
+As per the question, 32 x 27 R = 21120.
+21120 21120
+== = 105.04 ¢ .
+on R= ar Bawax aig | 0004 cm (approx)
+and 48 x 2mr = 21120
+21120 21120
+OTS Rxar Bx axe 0 em (approx)
+oR —7r = (105.04 — 70.03) = 35.01 cm = 0.35 m (approx.)
+The difference of radii of the two wheels is 0.35 metre (approx.)
+Example 25. The radius of a circle is 14 em. The area of a square is equal to
+the area of the circle. Determine the length of the square.
+Solution: Let the radius of the circle, 7 = 14 cm and the length of the square is a.
+-. Area of the square region = a” and the area of the circle = r?.

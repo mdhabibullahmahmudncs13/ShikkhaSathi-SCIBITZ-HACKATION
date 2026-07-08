@@ -1,0 +1,20 @@
+# Chunk 967 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.405763
+# Character count: 579
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_967
+
+========================================
+
+(d) Analyze the validity of the teacher's statement regarding the storage of nucle-
+ar reactor fuel.
+2. Shovon found a broken radio among the old items in his house. Out of curiosi-
+ty, he started taking apart various parts of the radio. Inside, he discovered several
+small components with multiple legs,all connected to a large board. When he
+asked his physics teacher about them, the teacher told Shovon that the
+many-legged components are known as ICs (integrated circuits). The teacher
+., further explained that they are typically made of specific semiconducting
+S$ elements.

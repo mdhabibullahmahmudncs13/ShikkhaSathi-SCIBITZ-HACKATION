@@ -1,0 +1,27 @@
+# Chunk 293 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.866035
+# Character count: 625
+# Chunk ID: ICT 9-10.txt_0_293
+
+========================================
+
+- If the ‘Layer’ palette is not viewed on the screen, select the ‘Layers’
+command from the “Window’ menu, and you will get the ‘Layer’ palette.
+
+Making Layer Object
+
+The process of making Selection and filling it with colour has been learnt. Now
+
+we will learn how to make two simple objects with rectangular and circular
+
+selection tools. We will learn how to write using the text tool too.
+
+A. Crealing a rectangular object on Layer no. 1:
+
+- Select White from the option of Background Contents of New dialogue box.
+and Background will be the base of the Layer palette. For making a
+transparent layer on a white background.

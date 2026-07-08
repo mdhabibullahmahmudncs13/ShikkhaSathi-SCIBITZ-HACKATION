@@ -1,0 +1,29 @@
+# Chunk 623 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.369691
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_623
+
+========================================
+
+8.5.1 Image in a Spherical Convex Mirror
+
+We have already said that the outer part of a spoon acts as a spherical convex
+mirror. You can see an upright and small image of yourself there. This means
+that the image in a convex mirror should always be small. sg
+
+
+--- Page 232 ---
+Reflection of Light 227
+To understand how an image is formed in a spherical convex mirror, we first need
+to understand how light rays reflect on such a mirror. This depends on what
+angle the light rays are incident on the mirror. If we know the rules of reflection
+of only three special light rays, we can easily explain how an image is formed:
+
+(i) If light rays are travelling towards the center (Figure 8.19, XN or YR ray),
+
+they are reflected perpendicularly and go back along the line they were as
+incident on.

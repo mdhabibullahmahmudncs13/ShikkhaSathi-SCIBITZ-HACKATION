@@ -1,0 +1,35 @@
+# Chunk 238 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.324196
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_238
+
+========================================
+
+--- Page 85 ---
+80 Physics
+therefore,
+GM _ 667X107 XS98 x10
+I=Fz = (6.37 x 106)? m/st = 98m/s
+In the previous chapter, we used this value of g in the equations of motion. Now
+you understand why this value of g was used.
+0) Example
+Question: The height of the space 3 LS
+station from the earth’s surface is i oh . { Sh =< d
+approximately 100 km. What is the | EN YT 1
+. 7] f— |
+value of g there? k il 2. y | =
+Answer: In the space station, if the | —~ Wl a
+acceleration due to gravity is g', then a AW
+,_ GM
+SCETL -§
+Here, radius of the earth R=6370 km, i ‘ 3.08: the floati n
+and height of the space station, Lore po ne ¢ floating astronaut in
+r= 100 km space shuttle
+,_ Gem GM _ g
+I= R®R+2 RA+7/R? A +7/R)?
+__ 9 2
+g' = Tol = 9.49 m/s

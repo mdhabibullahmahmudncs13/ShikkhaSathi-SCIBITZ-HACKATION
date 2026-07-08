@@ -1,0 +1,34 @@
+# Chunk 358 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.335459
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_358
+
+========================================
+
+g
+
+
+--- Page 125 ---
+120 Physics
+4.7 Power
+The term "power is used a lot of times in our daily lives, and it is not that the
+term is always used in a positive sense! But the word ‘power’ has a definite
+meaning in physics; power is the rate of doing work. That is, if work # is done
+in time t, then power P is:
+
+w
+
+p=—
+
+t
+We have seen before that work is nothing but transformation of energy. As
+energy can’t be destroyed, so it is only being transformed by doing work. So we
+can say, if we desire, power is the rate of transformation of energy. As work or
+energy is a scalar quantity, then power is also a scalar quantity.
+We have known about different quantities, their units, and tried to know their
+dimensions in every case while learning physics. Unit and dimension of power
+are:

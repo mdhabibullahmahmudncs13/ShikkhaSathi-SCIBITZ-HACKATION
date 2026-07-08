@@ -1,0 +1,32 @@
+# Chunk 615 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.450813
+# Character count: 704
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_615
+
+========================================
+
+the path - Area of the garden 2°
+
+30m
+2m
+
+= (34 x 24 — 30 x 20) square metre. Tam
+
+= (816 — 600) square metre.
+
+= 216 square metre.
+
+.-. cost for making the path by bricks = Tk. (216 x 110) = Tk. 23760
+Example 15. How many times will minute hand and hour hand coincide? Find
+the times.
+
+Solution: Let minute hand and hour hand coincide at the time z : y. We need
+to remember that z (x = 0,1,--- 11 where 0 means 12) is always an integer but y
+may not be. We know, minute hand runs 12 times faster than the hour hand. At
+time x the hour hand is exactly on the x and minute hand is on the 12. Within
+y minutes the hour hand passes 2 and the minute hand passes y ticks. So,
+Forma-34, Mathematics, Class 9-10

@@ -1,0 +1,47 @@
+# Chunk 751 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.383417
+# Character count: 710
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_751
+
+========================================
+
+repel each other. But we do not
+
+know yet how attraction or
+
+repulsion works. To know this, we r
+
+need to look at Coulomb's law. q; qa,
+
+Coulomb determined how much
+
+force works between two charges. Figure 10.09: The force F acting
+
+We have already seen such a law, between two charges ¢, and ¢ , can
+
+Newton's gravitational force law, either be attractive or repulsive.
+
+which is as follows:
+
+mm,
+F=6—2
+r
+
+The interesting thing is, if mass m1 and m, is replaced by ¢, and ¢,, we get
+& Coulomb's law. G was the constant for gravitational force, now we will use the
+S
+
+
+--- Page 285 ---
+280 Physics
+F=k (6 1%
+rT
+
+the unit of k will be Nm?*/C?, so that the unit of F becomes N.
+
+The value of &:
+k =9 x 10° Nm2/C?

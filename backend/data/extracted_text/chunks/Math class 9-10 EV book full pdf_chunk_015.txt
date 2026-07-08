@@ -1,0 +1,27 @@
+# Chunk 15 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.390601
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_15
+
+========================================
+
+4
+fractions, whereas 3= 1.333...,v/5 = 2.123512367...,etc are infinite decimal
+fractions. Again, in case of infinite decimal numbers, if some degits after decimal
+point are repeated, they are called infinite repeated decimal fractions. If digits
+are not repeated, they are called infinite decimal numbers without repeatation.
+122 F
+For example, 9 = 1.2323, ..,5.1654 etc are infinite repeated decimal fractions
+and 0.523050056. ..,2.12340314... etc are infinite decimal numbers without
+repeatation.
+Real Number: All rational and irrational numbers are called real numbers.
+For example, the following numbers are real numbers. a
+1
+0,41, £2, £3,--- Be a aE
+’ ! 2723
+V2, VBE, 1.23, 0.415, 1.3333..., 0.62, 4.120345061 . . .
+Positive Number: All real numbers bigger than 0 are called positive numbers.

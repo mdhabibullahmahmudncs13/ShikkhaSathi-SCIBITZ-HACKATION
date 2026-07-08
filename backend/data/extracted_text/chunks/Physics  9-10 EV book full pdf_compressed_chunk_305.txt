@@ -1,0 +1,22 @@
+# Chunk 305 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.330469
+# Character count: 331
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_305
+
+========================================
+
+Multiplying both sides by im the equation becomes smu? = smu? + mas
+If we write F instead of ma and W instead of Fis, then the equation becomes,
+
+1 1
+
+Fm? = Fm’ + Ww
+That is, if an object moves with velocity u, then its kinetic energy is mu?
+and if / amount of work is done on it, then its kinetic energy is increased to
+12
+-my
+2 I

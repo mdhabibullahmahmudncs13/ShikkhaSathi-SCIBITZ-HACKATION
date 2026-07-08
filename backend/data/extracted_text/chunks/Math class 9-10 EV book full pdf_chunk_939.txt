@@ -1,0 +1,53 @@
+# Chunk 939 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.483450
+# Character count: 774
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_939
+
+========================================
+
+--- Page 416 ---
+Appendix 411
+Now, we get from (4) and (5)
+4u-9 (12u)=-1
+or, 4u—9+18u=-1
+or, 22u=9-1
+ou 84
+7 RT
+1 4 11 C1
+Th Ty pte
+Putting the value of u in (5), we get
+PS
+ve 11
+_ 11-8
+11
+3
+VT
+13
+Ly Th
+Rt
+LYE 3
+1
+C=]
+y
+i ) Co 111
+
+Required solution is (x, y) = 5 3)
+
+(2) Method of Elimination
+
+Applying by this method, we can solve the equations by following the steps
+
+below :
+
+(a) Multiply both the equations by two such numbers separately so that
+the coefficients of one variable become equal.
+
+(b) If the coefficients of a variable are of the same or opposite sign, subtract
+or add the equations. The equation after subtraction (or addition) will
+be reduced to an equation of one variable.
+
+(c) Find the value of a variable by the method of solution of simple equation.

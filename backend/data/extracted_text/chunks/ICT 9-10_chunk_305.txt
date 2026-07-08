@@ -1,0 +1,29 @@
+# Chunk 305 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.868447
+# Character count: 721
+# Chunk ID: ICT 9-10.txt_0_305
+
+========================================
+
+Cropping up Tilted Picture
+
+- To crop any tilted picture, the picture is to be opened and the Crop and
+Straightened Photo command is to be selected from the sub-menu of
+Automate command in File menu. This process 1s applicable only for solid
+background. If the background is of multicolor, the work of cropping will be
+impossible. In that case
+
+- Select with the crop tool.
+
+- The mouse pointer will be transformed inte a curved pointer or rotate tool.
+The selection will be attached with the tilted position of the picture, and the
+area of cropping will be finalized with other handles.
+
+- Press the Enter button, and the cropping up of the picture will be done, and
+its positioning will be straight.
+
+Use of Eraser Tool

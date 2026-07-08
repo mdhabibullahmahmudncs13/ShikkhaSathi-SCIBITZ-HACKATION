@@ -1,0 +1,37 @@
+# Chunk 414 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.431016
+# Character count: 731
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_414
+
+========================================
+
+--- Page 180 ---
+Chapter 8. Circle 175
+Theorem 24. If two opposite angles of a quadrilateral are supplementary, the
+four vertices of the quadrilateral are concyclic.
+
+Let ABCD be the quadrilateral with ZABC +
+
+ZADC = 2 right angles. It is required to prove that gD
+
+the four points A, B, C', D are concyclic.
+
+Drawing: Since the points A, B, C are not A c
+collinear, there exists a unique circle which passes
+
+through these three points. Let the circle intersect B
+
+AD at E. Join C, E.
+
+Proof: ABCE is a quadrilateral inscribed in the circle.
+
+Therefore, ZABC + ZAEC = 2 right angles. [The sum of the two opposite angles
+of an inscribed quadrilateral is two right angles.]
+
+But ZABC + ZADC = 2 right angles. [given]
+
+CS LAEC = LADC

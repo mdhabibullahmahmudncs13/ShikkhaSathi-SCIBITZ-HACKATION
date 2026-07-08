@@ -1,0 +1,27 @@
+# Chunk 667 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455568
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_667
+
+========================================
+
+--- Page 293 ---
+288 Mathematics Classes IX-X
+3) Find the series and then determine the sum of the first seven terms of
+the series.
+24. The nth term of a series is 2n — 4.
+1) Find the series.
+2) Find the 10th term of the series and determine the sum of the first
+20 terms.
+3) Considering the first term of the obtained series as the Ist term and the
+common difference as common ratio, construct a new series and find
+the sum of the first 8 terms of the series by applying the formula.
+25. An S.S.C. examinee gets his result at 1: 15 pm. At 1:20 p.m. 8 students
+get their results, at 1: 25 p.m 27 students get theirs.
+1) As per the stem write down the two patterns.
+2) How many students will know their results at exactly 2: 10 p.m.? How
+many students would be knowing their results by 2 : 10 p.m.?

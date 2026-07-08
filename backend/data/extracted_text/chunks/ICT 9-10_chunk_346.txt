@@ -1,0 +1,24 @@
+# Chunk 346 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.875904
+# Character count: 639
+# Chunk ID: ICT 9-10.txt_0_346
+
+========================================
+
+A. A new layer will be added on the layer palette when you click the Create
+New Layer icon below the row of Layer Palette.
+
+B. If any layer numbered serially needs to be identified with a particular
+name, double-click the layer and a dialogue box called Layer Options will
+be viewed. Type the necessary name on the Name box, and click the Ok
+button. The serial number or name of the concerned Layer (if the name was
+previously given) will be changed into the name typed in the dialogue box.
+
+Cancelling Layer
+
+A. By selecting the Layer and the Delete command from the pop-up menu on
+the layer palette, the selected layer will be cancelled.

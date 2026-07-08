@@ -1,0 +1,36 @@
+# Chunk 59 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.306151
+# Character count: 762
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_59
+
+========================================
+
+--- Page 20 ---
+Physical Quantities and Their Measurements 15
+Vibration frequency of Cy'* (Avg) 9.192,631,770 hertz
+
+Boltzmann constant (kg) 1.380649 x 107% joule/kelvin
+Avogadro constant (N,) 6.02214076 x 10% particles/mole
+Luminous Intensity (Kop) | 683 lumens/watt
+
+New definition of these units:
+
+Second (s): The time required to complete 9,192,631,770 vibrations by
+
+Cesium-133 (Cs'**) atom is called one second.
+
+Meter (m): In vacuum the distance travelled by light in 1/299,792,458 second
+
+called one meter.
+
+Kilogram (kg): The mass which is obtained by dividing Plank’s constant by
+
+6.62607015%10" “ms is called one kilogram.
+
+Ampere (A): Flow of 1/1.602176634x10""” numbers of charge equivalent to
+
+charge of electron in one second is called one ampere.

@@ -1,0 +1,23 @@
+# Chunk 517 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440884
+# Character count: 406
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_517
+
+========================================
+
+i.e. the ratio of two areas is equal to the ratio of two bases.
+Continued proportion
+By continued proportion of a, b, ¢, it is meant that a : b=b: c. a,b,c will be
+continued proportion, If and only if b2=ac. In case of continued proportional,
+all the quantities are to be of same kind. In this case, ¢ is called the third
+proportional of a and b, and b is called the mid-proportional of a and c.
+
+i"
+
+IS
+
+S

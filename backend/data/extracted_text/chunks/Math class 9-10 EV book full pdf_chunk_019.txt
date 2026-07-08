@@ -1,0 +1,27 @@
+# Chunk 19 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.390968
+# Character count: 758
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_19
+
+========================================
+
+--- Page 10 ---
+Chapter 1. Real Numbers 5
+5. If ais real number, (i) a + (—a) =0 (ii) If a # 0 then a - 1 1
+6. If a,b,c are real numbers, a(b+ ¢) = ab + ac ‘
+7. If a,b are real numbers,a <bora=bora>b
+8. If a,b,c are real numbers and a < b,then a +c <b+¢
+9. If a,b ¢ are real numbers and a < b, then (i) ac < be whenever ¢ > 0
+(i1) ac > be whenever ¢ < 0
+Proposition: V2 is an irrational number.
+Proof: Suppose, v/2 is an irrational number.
+Then there are two mutually prime numbers p, ¢ > 1 so that v2 = 2 .
+7 . . » a. ) !
+Or, 2 = Zz [squaring] that is 2¢ = n [multiplying both sides by ¢ |
+Obviously 2¢ is an integer but v is not an integer, because p and ¢ are natural
+numbers and they are mutually Trime and ¢ > 1.
+2g and z cannot be equal, that is 2¢ # Z

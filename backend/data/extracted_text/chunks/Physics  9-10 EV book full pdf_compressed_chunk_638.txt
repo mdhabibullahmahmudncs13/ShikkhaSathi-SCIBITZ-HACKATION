@@ -1,0 +1,21 @@
+# Chunk 638 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.371167
+# Character count: 785
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_638
+
+========================================
+
+cannot be an image formed on the right side. But if we are able to look at the left
+side from the right side then it will look like line ON and line FQ coincide at X'
+point- so X’ will be the image of X. If we draw a perpendicular from this point
+on OP axis then we will get X'Y" which is the full image of XY. No light is
+coming from X'Y’, only we are thinking that the image is being formed there. So
+this image is a virtual image. We can see from the figure that the image is larger
+than the object. Not only will the image be larger but moving the object closer to
+the focal point will create a yet larger image. (If the object is placed just on the
+focal point then the reflected rays will become parallel meaning that the light
+rays won't be able to coincide to create an image.)

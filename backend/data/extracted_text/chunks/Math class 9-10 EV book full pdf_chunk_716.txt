@@ -1,0 +1,27 @@
+# Chunk 716 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.460451
+# Character count: 558
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_716
+
+========================================
+
+» explain the area of polygons
+
+» verify and prove theorems related to areas.
+
+» construct polygons and justify construction by using given data.
+
+» construct a quadrilateral with area equal to the area of a triangle.
+
+» construct a triangle with area equal to the area of a quadrilateral.
+Area of a Plane Region
+Every closed plane region has definite area. In order to measure such area, usually
+the area of a square having sides of unit length is taken as the unit. For example,
+the area of a square with a side of length 1 em is 1 square centimere.
+
+IS
+Bl

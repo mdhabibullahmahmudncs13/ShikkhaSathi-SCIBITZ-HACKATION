@@ -1,0 +1,29 @@
+# Chunk 692 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.458210
+# Character count: 779
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_692
+
+========================================
+
+--- Page 305 ---
+300 Mathematics Classes IX-X
+Construction 12. To divide a given line segment internally in a given ratio.
+Special Nomination: Let the line segment AB
+be divided internally in the ratio m : n.
+Drawing: Let an angle BAX be drawn at Xx
+A. From AX cut the lengths AE = m and C
+EC = n sequentially. Join B,C. At E, draw py
+line segment ED parallel to C'B which intersects m
+AB at D. Then the line segment AB is divided
+at D internally in the ratio m : n. i ’ "
+Proof: Since the line segment DE is parallel to
+a side BC of the triangle ABC.
+AD: DB=AE:EC=m:n
+‘Work: Divide a given line segment in definite ratio internally by an
+alternative method.
+Example 1. Divide a line segment of length 7 ¢ m internally in the ratio 3: 2.
+Solution: Draw any ray AG. From AG, cut a

@@ -1,0 +1,29 @@
+# Chunk 864 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.475641
+# Character count: 775
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_864
+
+========================================
+
+--- Page 377 ---
+372 Mathematics Classes IX-X
+1) and ii 2) i and iii 3) ai and iii 4) i, ii, and iii
+5. In case of data, Mode is -
+(i) Measures of central tendency
+(i1) Represented value which is mostly occurred
+(477) May not unique in all respect
+Which is correct on the basis of above information?
+1) iand ii 2) i and di 3) ii and iii 4) i, 4 and ii
+In winter, the statistics of temperatures (in Celsius) of a region in
+Bangladesh is 10°,9°,8°,6°,11°,12°,7°,13°,14°,5°. In the context of this
+statistics, answer questions(6- 8).
+6. Which is the mode of the above numerical data?
+1) 12° 2) 5° 3) 14° 4) no mode
+7. Which one is the mean of temperature of the above numerical data?
+1) 8° 2) 85° 3) 9.5° 4) 9°
+8. Which one is the median of the data?
+1) 9.5° 2) 9° 3) 8.5° 4) 8°

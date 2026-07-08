@@ -1,0 +1,23 @@
+# Chunk 234 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.413293
+# Character count: 708
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_234
+
+========================================
+
+--- Page 104 ---
+Chapter 5. Equations in One Variable 99
+Ifaset, S={r:2€ R11 <x <10}, z-may be any real number from 1 to 10.
+Here, a is a variable. So, we can say that when a letter symbol means the element
+of a set, it is called variable.
+Degree of an equation : The highest degree of a variable in any equation
+is called the degree of the equation. Degree of each of the equations = + 1 =
+5, 2e—1=ua+5, y+7=2y—3is 1; these are linear equations with one variable.
+Again, the degree of each of the equations 2% + 52 +6 = 0, y? —y = 12, 4a” —
+2x = 3 — 6x is 2; these are linear equations with two variable. The equation
+22% — 2% — dz +4 = 0 is the equation of degree 3 with one variable.
+Equation and Identity

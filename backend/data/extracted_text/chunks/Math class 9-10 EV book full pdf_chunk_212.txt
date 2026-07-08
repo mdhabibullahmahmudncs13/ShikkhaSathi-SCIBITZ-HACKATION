@@ -1,0 +1,25 @@
+# Chunk 212 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.411293
+# Character count: 395
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_212
+
+========================================
+
+=8log V3 =8x1=8[log,a=1]
+Example 7. 1) What is the log of 5/5 to the base of 57 2) If the log of
+400 is 4, then what is the base of log?
+Solution:
+1) Log of 5/5 to the base of 5
+= log;5v/5 = logs (5 x 5%) = logy?
+3
+= logsd [-log,M" = rlog,M]
+3 3
+=5x1=5[loga=1]
+2) Let the base be a
+.. By the question, log,400 = 4
+cat = 400 or, at = (20)? = {(2v/5)?}? = (2v/5)*
+Forma-12, Mathematics, Class 9-10

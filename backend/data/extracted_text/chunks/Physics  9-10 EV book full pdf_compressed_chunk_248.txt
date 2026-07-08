@@ -1,0 +1,30 @@
+# Chunk 248 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325235
+# Character count: 741
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_248
+
+========================================
+
+Put a black dot on the string from which you have hanged the pan with the
+
+rubber band. When there is no weight on the pan, put a black spot on the
+
+board where the black spot of the string remains. This point indicates zero
+
+mass. Now put five coins of five taka in the pan. Since mass of each coin is
+
+8 gm, hence total mass will be 40 gm. Then put another black mark on the
+
+board where the black spot of the string stays. This indicates mass of 40 gm.
+
+Now draw a line from 0 gm to 40 gm marking points and divide the line into
+
+four equal parts. Each division equals 10 gm mass. Now increase the length
+
+of the line and calibrate it to measure more mass. Divide the line
+
+accordingly, as much accurately as you want to measure the mass.

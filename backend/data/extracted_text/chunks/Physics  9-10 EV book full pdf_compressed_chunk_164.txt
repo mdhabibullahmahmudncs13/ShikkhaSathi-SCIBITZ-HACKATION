@@ -1,0 +1,28 @@
+# Chunk 164 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.316479
+# Character count: 504
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_164
+
+========================================
+
+(6-4 m/s ,
+
+a= Gos - 2m/s
+
+For any other time if we calculate the acceleration, the same value will be
+found. It is shown in the acceleration- time graph in figure 2.09.
+
+
+--- Page 58 ---
+Motion 53
+Therefore, you have seen that we have found velocity or acceleration
+at any time starting from the distance- time graph. To more accurately
+we draw this graph, the more precisely we calculate those quantities.
+Now, use the second set to calculate velocity and acceleration from
+graph.
+
+@ Investigation 2.01

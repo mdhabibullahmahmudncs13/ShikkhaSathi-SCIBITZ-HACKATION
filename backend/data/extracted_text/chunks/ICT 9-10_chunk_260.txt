@@ -1,0 +1,22 @@
+# Chunk 260 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.860856
+# Character count: 752
+# Chunk ID: ICT 9-10.txt_0_260
+
+========================================
+
+--- Page 84 ---
+Information and Communication Technology 79
+On the ribbon of Animations menu, a row of Transition samples will be viewed.
+On the ribbon of Animations menu, a row of Transition sample will be viewed.
+The sample on which the mouse pointer is placed will be viewed in the slide.
+There are three arrows on the right to pick more from the given samples. If you
+click repeatedly on the middle arrow, a new row will be viewed with every press
+of the mouse button. If you click the arrow on the top, a column will appear. If
+you click the arrow at the bottom, all the samples will be viewed. Click the
+sample chosen, and the (ransition will be applied to the slide.
+3. If you want to apply the same transition to all the slides. click ‘Apply to

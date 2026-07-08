@@ -1,0 +1,26 @@
+# Chunk 852 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.474474
+# Character count: 739
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_852
+
+========================================
+
+where L is the lower limit of the median class, n is the frequency, F, is the
+cumulative frequency of previous class to median class, f,, is the frequency of
+median class and h is the class interval.
+Example 12. Determine median from the following frequency distribution
+table :
+(Timetoee | 30 | 341 [217 | 55 [51—5 [05
+requeny | 3 | © | 5% | 5 | 5 | 5 |
+1) What is a frequency distribution table?
+2) Determine median from the frequency distribution table given above.
+3) Draw the frequency polygon of the given data.
+Solution:
+1) Frequency distribution table refers to organize and tabulate a dataset by
+determining specific class interval and number of classes.
+2) The frequency distribution table to determine median is given below: S
+S

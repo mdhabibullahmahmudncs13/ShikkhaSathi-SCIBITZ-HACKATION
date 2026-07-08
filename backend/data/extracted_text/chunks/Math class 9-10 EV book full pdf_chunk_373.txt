@@ -1,0 +1,23 @@
+# Chunk 373 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.426884
+# Character count: 497
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_373
+
+========================================
+
+AB and C'D are parallel and equal.
+Similarly, AD and BC are parallel and equal.
+Therefore, ABCD is a parallelogram with diagonals
+1 1
+AC = AO+0C = Fate =a
+and BD = BO+0D = high = band the angle included between the diagonals
+is ZAOB = Zax.
+Therefore, ABCD is the required parallelogram.
+Construction 5. Two diagonals and a side of a parallelogram are given.
+Construct the parallelogram.
+. Let a and b be the diagonals and ¢ be a side of the parallelogram. The
+g parallelogram is to be constructed.

@@ -1,0 +1,23 @@
+# Chunk 691 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.377046
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_691
+
+========================================
+
+optical fiber by total internal
+lass. The inner part of it is called the reflection.
+core and the outer part is called clad . Although the two are made of same glass,
+the refractive index of the inner part (core) is greater than that of the outer part.
+For this reason light can be taken very long distances by trapping it in optical
+fibers the through total internal reflections (Figure 9.10). Light can be taken
+hundreds of kilometers through optical fibers, because the absorption of light in
+optical fibers is very low. Absorption would have been greater if the visible light
+was there so infrared rays of long wavelength are used in optical fibers. How
+optical fibers are used in a process called endoscopy of medical science is
+described in the last chapter.
+Example

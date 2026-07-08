@@ -1,0 +1,21 @@
+# Chunk 411 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.341220
+# Character count: 683
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_411
+
+========================================
+
+you think a bit. Because if the pressure is not transmitted into the whole liquid
+then the pressure experienced in one part will be more and it will be less in
+another part. Therefore if we imagine a cross sectional area then force applied
+from one direction will be more than the force from an other direction and due
+to this force the liquid will flow until the pressure becomes equal. Pascal
+expressed this in the form of a law, that is stated below:
+Pascal’s Law: If pressure is applied on a liquid or a gas enclosed in a
+container from outside, then this pressure is transmitted equally and acts
+perpendicularly on the surface of the container in contact with the liquid or
+gas.

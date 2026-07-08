@@ -1,0 +1,50 @@
+# Chunk 941 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.483667
+# Character count: 605
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_941
+
+========================================
+
+--- Page 418 ---
+Appendix 413
+Now, multiplying equation (1) by 3 and equation (1) by 4, we get
+3412) = 4203)
+28x12 =20.........o.....(4)
+31x =62 (Adding)
+62
+or, x=—
+31
+Lx=2
+Now, putting the value of Xx in equation (1), we get
+2+4y=14
+or, 4y=14 -2
+or, 4y =12
+12
+of, y=——
+i 4
+Loy =3.
+-. Required solution is (x, y) = (2,3).
+Example 7. Solve the following equations :
+S5x-3y=9
+3x-5y=-1
+
+Solution : The given equations are
+
+5x=3y =n]
+3x=5y=—Turn(2)
+
+Multiplying equation (1) by 5 and equation (2) by 3 we get
+25x—15y=45...ccccccccece.(3)
+9x=15y = 3c (4)
+
+=H ©
+16x=48 [by subtracting]
+48
+or, x=—
+. 16
+Q Sox=3
+S

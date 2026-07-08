@@ -1,0 +1,31 @@
+# Chunk 607 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.450004
+# Character count: 760
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_607
+
+========================================
+
+--- Page 267 ---
+262 Mathematics Classes IX-X
+In a graph paper let XOX’ and YOY’ be
+respectively the X- axis and Y- axis and O is Y
+the origin. EE
+We take each side of the smallest squares of the graph SESE REL Es nanan amma
+: - EHH ENN
+paper as unit along with both axes. Fre N RR DHHH
+EH HPN HHH
+Now, we plot the points (=2,6),(0,3),(2,0) yr Ham»
+obtained from equation (1) and join them each EEF HNP
+: . HHH
+other. The graph is a straight line. FERRE HEA NTH
+Again, we plot the points (1,4),(2,0),(3,—4) EERE
+obtained from equation (2) and join them each EEE EEE
+other. In this case also the graph is a straight Y
+line.
+Let the two straight lines intersect each other at P. It is seen from the picture
+that the coordinates of P are (2,0).
+.. solution: = = 2

@@ -1,0 +1,23 @@
+# Chunk 118 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.401199
+# Character count: 753
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_118
+
+========================================
+
+--- Page 50 ---
+Chapter 3
+Algebraic Expressions
+[Prior knowledge of this chapter are attached to the Appendix at the end of this
+book. At first the Appendix should be read / discussed. ]
+Algebraic formulae are used to solve many algebraic problems. Moreover, many
+algebraic expressions are presented by resolving them into factors. That is why the
+problem solved by algebraic formulae and the contents of resolving expressions into
+factors by making suitable for the students have been presented in this chapter.
+Moreover, different types of mathematical problems can be solved by resolving
+into factors with the help of algebraic formulae. In the previous class, algebraic
+formulae and their related corollaries have been discussed elaborately. In this

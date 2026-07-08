@@ -1,0 +1,30 @@
+# Chunk 624 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.369784
+# Character count: 790
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_624
+
+========================================
+
+they are reflected perpendicularly and go back along the line they were as
+incident on.
+
+(ii) If light rays travel parallel to the principal axis (Figure 8.19, XP), they will
+appear to have diverged from the focal (F) point.
+
+(iii) If the direction of the light ray is changed, it goes back the way it has
+come. When the light ray is travelling towards the focus (Figure 8.19, QP),
+it will be reflected parallel to principal axis (PX).
+
+We can now create an image using these three rules. In figure 8.19, an object XY
+
+is kept in front of a convex mirror. The light ray travelling from point Y towards
+
+R will be reflected back along the same path towards Y, which means the image
+
+of the point Y will be created somewhere along the line YO. To know exactly
+
+where the image is formed, we Q

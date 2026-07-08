@@ -1,0 +1,117 @@
+version: '3.8'
+
+# Development Docker Compose override for ShikkhaSathi
+# This extends the base docker-compose.yml with development-specific settings
+
+services:
+  # PostgreSQL Database - Development settings
+  postgres:
+    environment:
+      POSTGRES_DB: shikkhasathi_dev
+      POSTGRES_USER: dev_user
+      POSTGRES_PASSWORD: dev_password
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - "5432:5432"
+
+  # MongoDB Database - Development settings
+  mongodb:
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: dev_user
+      MONGO_INITDB_ROOT_PASSWORD: dev_password
+      MONGO_INITDB_DATABASE: shikkhasathi_dev
+    ports:
+      - "27017:27017"
+
+  # Redis Cache - Development settings
+  redis:
+    command: redis-server --appendonly yes --requirepass dev_password
+    ports:
+      - "6379:6379"
+
+  # ChromaDB Vector Database - Development settings
+  chromadb:
+    ports:
+      - "8001:8000"
+
+  # Ollama for Local AI - Development settings
+  ollama:
+    ports:
+      - "11434:11434"
+
+  # Backend API Server - Development settings
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: development
+    environment:
+      - DATABASE_URL=postgresql://dev_user:dev_password@postgres:5432/shikkhasathi_dev
+      - MONGODB_URL=mongodb://dev_user:dev_password@mongodb:27017/shikkhasathi_dev
+      - REDIS_URL=redis://:dev_password@redis:6379/0
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - ENVIRONMENT=development
+      - SECRET_KEY=dev-secret-key-not-for-production
+      - BACKEND_CORS_ORIGINS=http://localhost:3000,http://localhost:5173,http://frontend:3000
+      - DEBUG=true
+    volumes:
+      - ./backend:/app
+      - ./backend/uploads:/app/uploads
+      - ./backend/data:/app/data
+    ports:
+      - "8000:8000"
+    command: >
+      sh -c "pip install -r requirements.txt &&
+             python -m uvicorn run_dev:app --host 0.0.0.0 --port 8000 --reload"
+
+  # WebSocket Signaling Server - Development settings
+  websocket:
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8002:8001"
+    command: python websocket_server.py
+
+  # Frontend Application - Development settings
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: development
+    environment:
+      - VITE_API_BASE_URL=http://localhost:8000
+      - VITE_WS_URL=ws://localhost:8002
+      - VITE_ENVIRONMENT=development
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "5173:5173"
+    command: >
+      sh -c "npm install &&
+             npm run dev -- --host 0.0.0.0 --port 5173"
+
+  # Development tools
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    networks:
+      - shikkhasathi_network
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: dev_user
+      ME_CONFIG_MONGODB_ADMINPASSWORD: dev_password
+      ME_CONFIG_MONGODB_URL: mongodb://dev_user:dev_password@mongodb:27017/
+    networks:
+      - shikkhasathi_network
+    depends_on:
+      - mongodb

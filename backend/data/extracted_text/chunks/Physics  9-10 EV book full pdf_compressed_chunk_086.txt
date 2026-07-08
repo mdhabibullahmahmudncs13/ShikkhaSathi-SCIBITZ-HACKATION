@@ -1,0 +1,22 @@
+# Chunk 86 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.308696
+# Character count: 732
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_86
+
+========================================
+
+--- Page 30 ---
+Physical Quantities and Their Measurements 25
+L17Errorand Accuracy ~~ 000000000000
+Error is a negative word and if the word "error in measurement" used, we think
+that the person who is doing the measurement is not performing his duties
+properly and an error has occurred! But this is not the case. Sometimes error
+may occur due to the person who is doing the measurement for his negligence,
+but we have to know that the instrument with which we measure is not error free.
+Therefore, there is a limit of how much accurately we can measure, i.e. it is very
+natural to have errors in measurement. But there is a need to mearuse to what
+extent a measusement is accurate . The reliability of a result will be increased if

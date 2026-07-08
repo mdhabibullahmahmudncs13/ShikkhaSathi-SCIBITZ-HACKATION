@@ -1,0 +1,24 @@
+# Chunk 789 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.387112
+# Character count: 756
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_789
+
+========================================
+
+--- Page 299 ---
+294 Physics
+Not only thunderbolt occurs in the pointy needles, but also the needles can pass
+opposite charges to neutralize the charges stored in the clouds. That is why,
+when lightning arresters are installed in tall buildings, the risk of that building
+being thunderstruck is reduced greatly.
+10.8.6 Static Electric Color Spray
+Static electric color sprays are used now-a-days to paint cars, bicycles, steel
+cupboards and other metallic things. In these sprays very small particles of
+colors are created and since they are charged, while getting out one particle
+repels another particle and spreads out. So a large space can be smoothly painted
+using spray.
+To charge the color particles, the pointy head of the spray is connected with a

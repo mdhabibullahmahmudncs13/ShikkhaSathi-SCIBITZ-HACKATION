@@ -1,0 +1,33 @@
+# Chunk 291 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.865492
+# Character count: 765
+# Chunk ID: ICT 9-10.txt_0_291
+
+========================================
+
+picture on the screen. Click again on the empty place of the eve, and the icon will
+
+be visible again, and the picture on that layer will be visible again. The picture
+of the flower on the layer can be made visible and invisible for
+experimentation.
+
+Thumbnail Icon
+
+There is a thumbnail icon on the right side of the icon of eye. The meaning of
+
+thumbnail means the miniature version of a large picture. This miniature version
+
+., onthe layer along with the picture on the sereen is viewed in the thumbnail icon.
+5 It facilitates the editing of the pictures on particular layers.
+
+
+--- Page 94 ---
+Information and Communication Technology 89
+
+Clustering, Integrating and Segregating Palette
+
+Numerous palettes can be panelled together. For example. Layer, Path and

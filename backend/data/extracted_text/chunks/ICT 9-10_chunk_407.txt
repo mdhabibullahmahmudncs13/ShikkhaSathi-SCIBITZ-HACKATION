@@ -1,0 +1,24 @@
+# Chunk 407 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.885343
+# Character count: 688
+# Chunk ID: ICT 9-10.txt_0_407
+
+========================================
+
+--- Page 131 ---
+126 Information and Communication Technology
+What will be the output of this program. then? Whatever you input will be print-
+ed as the output. However, notice that even if you input an integer or a fraction,
+its data type is printed as str. This means that any data you enter will be received
+as a string by the input() function. But if you want the input to be stored not as a
+string, but as an integer or a float data type, you'll need to convert the data to that
+specific data type. By writing the program as shown below, when taking any
+input, we can directly convert il lo the desired data type in the input() function-
+
+test_input = ini{input(})
+
+priniftest input)

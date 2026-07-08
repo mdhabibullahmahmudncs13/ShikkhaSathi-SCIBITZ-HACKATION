@@ -1,0 +1,24 @@
+# Chunk 828 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390708
+# Character count: 646
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_828
+
+========================================
+
+temperature rise causes the decrease of resistance of a semiconductor.
+11.2.3 Circuit
+If we have understood Ohm's law, we should be able to analyse circuits now.
+Before that, let us introduce some of the symbols that are used in circuits:
+(Figure 11.07)
+Every substance has some resistance, but we do not consider the resistance of
+electrical wires while using them in circuits in our daily life. When a resistance
+is needed, we use different resistances prepared in special ways. Sometimes we
+use such resistances for some special purposes, where even their magnitudes
+can be changed, these are called variable resistance or rheostat. -
+5
+IS)
+BS

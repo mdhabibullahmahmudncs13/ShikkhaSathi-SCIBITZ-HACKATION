@@ -1,0 +1,31 @@
+# Chunk 10 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.301345
+# Character count: 780
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_10
+
+========================================
+
+--- Page 7 ---
+2 Physics
+If we read the history of physics we will see that it is developed by the combined
+efforts of both theoretical and experimental scientists. In order to carry out
+research in the laboratory, we need to measure different quantities precisely.
+This chapter offers discussion of how the measuring units are developed, how
+one can measure and what type of instrument are used for measuring them.
+® By the end of this chapter we will be able to-
+
+o explain the scope and gradual development of physics.
+
+o describe the objectives of studying physics.
+
+o cxplain the physical quantities [with units and magnitude] and the origin of
+
+physics.
+
+e explain the necessity of measurement and units.
+
+o explain the difference between fundamental and derived quantities.

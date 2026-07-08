@@ -1,0 +1,29 @@
+# Chunk 513 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.355855
+# Character count: 781
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_513
+
+========================================
+
+is applied. During vaporization of liquid the amount of heat by which the whole
+liquid is converted into a gas, that heat is called Latent Heat of Vaporization.
+[| [] [ L-
+100)
+ol TAT 11
+5 w —1— 1
+Sol [A 1 1 1 |
+fo I 74
+& —
+el FT [J J |
+Time (s)
+Figure 6.08 : Melting and boiling point does not change during heat.
+After converting the whole liquid into a gas the temperature of the gas continues
+to increase if heat is being applied. If the temperature is raised to
+extremely high levels, the molecules will become ionized and a fourth state of
+matter called plasma will start to form but this is something different.
+All of us have seen at least one example of the process by which solids can be
+converted into liquids and liquids into gases, that one is ice converted into water

@@ -1,0 +1,26 @@
+# Chunk 856 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.394173
+# Character count: 710
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_856
+
+========================================
+
+We can go on telling all day about the uses of electricity in our houses, schools,
+colleges, fields, farms, industries and hospitals etc. In our country, generally
+220V (AC) electricity is supplied, which can give electric shock to people and
+Forma-41, Physics, Class 9-10
+
+
+--- Page 327 ---
+322 Physics
+may even cause death from those shocks. That is why all electrical appliances
+are made in such a way that no one comes in direct contact with those things.
+
+If electricity passes directly through the heart then only 10 mA of current can
+cause death. The electricity we use for different purposes is AC. The resistance
+of dry skin of human beings is around 100,000 © which decreases by a thousand
+times when

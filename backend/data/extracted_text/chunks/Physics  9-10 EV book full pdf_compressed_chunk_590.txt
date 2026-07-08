@@ -1,0 +1,38 @@
+# Chunk 590 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.366072
+# Character count: 777
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_590
+
+========================================
+
+1. A wave is shown in Figure 7.15 with respect to time and position. What
+is the velocity of the wave?
+
+2. The ratio of velocity and of an object in a medium velocity of sound
+in that medium iscalled MACH. What is the velocity of the fighter plane
+MACH 9?
+
+3. In summer, the velocity of sound is increased by 0.5 % in a town. If the
+temperature in winter is 10°C, what is the temperature in the summer?
+
+8
+5
+
+
+--- Page 213 ---
+208 Physics
+4. We can hear sound from 20 Hz to 20 kHz. What are the wavelengths of
+
+sounds of 20 Hz and 20 kHz?
+EX) Multiple choice questions
+Put tick (\) mark on the correct answer
+1. ‘What type of wave is sound?
+
+(a) Transverse wave (b) Electromagnetic wave
+
+(c) Longitudinal wave (d) Radio wave
+2. In which medium is the velocity of sound maximum?

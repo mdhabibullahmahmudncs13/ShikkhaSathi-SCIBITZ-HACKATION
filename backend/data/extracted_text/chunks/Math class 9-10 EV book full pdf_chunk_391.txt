@@ -1,0 +1,27 @@
+# Chunk 391 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.428528
+# Character count: 772
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_391
+
+========================================
+
+at R only.
+Chord and diameter of a circle
+The line segment connecting two different points of
+a circle is a chord of the circle. If the chord passes
+through the centre, it is known as diameter. That
+is, any chord forwarding to the centre of the circle is B
+diameter. In the figure, AB and AC" are two chords Cc
+and O is the centre of the circle. The chord AC is
+a diameter, since it passes through the centre. OA A
+and OC are two radii of the circle. Therefore, the
+centre of a circle is the midpoint of any diameter.
+The length of a diameter is 2r, where r is the radius
+of the circle.
+Theorem 17. The line segment drawn from the centre of a circle to bisect a
+chord other than diameter is perpendicular to the chord.
+Let AB be a chord (other than diameter) of a circle C

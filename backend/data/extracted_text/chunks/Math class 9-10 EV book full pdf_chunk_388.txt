@@ -1,0 +1,24 @@
+# Chunk 388 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.428274
+# Character count: 728
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_388
+
+========================================
+
+» state constructions related to circle.
+Circle
+A circle is a geometrical figure in a plane whose points are equidistant from a
+fixed point. The fixed point is the centre of the circle. The closed path traced by
+a point that keeps it distance from the fixed centre is a circle. The distance from
+the centre is the radius of the circle.
+Let, O be a fixed point in a plane and r be a fixed
+measurement. The set of points which are at a ¢
+distance 7 from O is the circle with centre O and IN)
+radius 7. In the figure, O is the centre of the circle n B
+and A, B and C' are three points on the circle. Each
+of OA, OB and OC is a radius of the circle.
+Some coplanar points are called concylcic if a circle passes through these points,

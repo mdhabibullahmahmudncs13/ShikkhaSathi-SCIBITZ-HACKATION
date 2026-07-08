@@ -1,0 +1,28 @@
+# Chunk 676 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.456419
+# Character count: 553
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_676
+
+========================================
+
+Step 4. But ABDE and ADEC are on the same side of the common base DE.
+
+So they lie between a pair of parallel lines.
+
+BC and DE are parallel.
+Theorem 30. The internal bisector of an angle of a triangle divides its opposite
+side in the ratio of the sides constituting to the angle.
+Special Nomination: In AABC the line E
+segment AD bisects the internal angle ZA and
+intersects the side BC at D. It is required to A
+prove that BD : DC = BA: AC.
+Drawing: Draw the line segment C'E parallel
+to DA, so that it intersects the side BA produced
+B D C
+at £.
+IS
+S

@@ -1,0 +1,32 @@
+# Chunk 164 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.844129
+# Character count: 679
+# Chunk ID: ICT 9-10.txt_0_164
+
+========================================
+
+Types of Digital Content
+
+Any information, image, sound or everything expressed through a digital media
+is digital content though it can be divided into four major categories:
+
++ Text or written content;
+
++ Image;
+
++ Sound or audio and
+
++ Video and animation.
+
+Text or written content: The written content is still voluminous in digital
+media, It includes all kinds ol written information, such as essays, blogposts,
+list of commodities and citizen's charter, prices of commodities, e-paper,
+repotts, ete.
+
+Image: All kinds of pictures. photographs. sketches, and computer images such
+as illustrations, cartoons, info-graphics, or animated pictures are the contents of
+this sort.

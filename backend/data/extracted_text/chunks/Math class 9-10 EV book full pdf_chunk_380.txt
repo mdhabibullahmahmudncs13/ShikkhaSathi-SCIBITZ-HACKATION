@@ -1,0 +1,28 @@
+# Chunk 380 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427603
+# Character count: 773
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_380
+
+========================================
+
+--- Page 166 ---
+Chapter 7. Practical Geometry 161
+Exercise 7.2
+1. The two angles of a right angled triangle are given. Which one of the
+following combinations allows constructing the triangle?
+1) 60° and 36° 2) 40° and 50°
+3) 30° and 70° 4) 80° and 20°
+2. If the lengths of two sides of a triangle are respectively 4 cm and 9 cm,
+then what of the following will be the length of the third side?
+1) 4 2) 5 3) 6 4) 13
+3. If the lengths of two equal sides of a isosceles right angled triangle are 18
+cm, then what of the following is the measurement of the triangle?
+1) 36 2) 81 3) 162 4) 324
+4. The construction of a particular quadrilateral is possible if there is given-
+(i) four sides and an angle
+(74) three sides and two included angles
+(iii) two sides and three angles

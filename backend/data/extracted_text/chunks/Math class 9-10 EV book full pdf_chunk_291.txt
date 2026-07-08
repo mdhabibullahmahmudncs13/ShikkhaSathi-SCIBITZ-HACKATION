@@ -1,0 +1,23 @@
+# Chunk 291 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.419066
+# Character count: 783
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_291
+
+========================================
+
+5. The whole is greater than the part.
+In modern geometry, we take a point, a line and a plane as undefined terms and
+some of their properties are also admitted to be true. These admitted properties
+are called geometric postulates. These postulates are chosen in such a way that
+they are consistent with real conception. The five postulates of Euclid are:
+Postulate 1: A straight line may be drawn from any one point to any other
+point.
+Postulate 2: A terminated line can be produced indefinitely.
+Postulate 3: A circle can be drawn with any centre and any radius.
+Postulate 4: All right angles are equal to one another.
+Postulate 5: If a straight line falling on two straight lines makes the interior
+angles on the same side of it taken together less than two right angles, then the

@@ -1,0 +1,31 @@
+# Chunk 173 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.317328
+# Character count: 756
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_173
+
+========================================
+
+Apparatus: Ruler.
+
+Working Procedure:
+
+1. To determine the speed of a vehicle, at first you have to measure the
+distance between two stationary objects beside a road (e.g. light post, Tree,
+
+shop etc). Measurement of distance very accurately may be complex that’s
+
+why we will use a simple way to do it. At first you have to measure the
+distance of your step by a ruler. (Measure the distance of ten steps and -
+divide it by ten to make it accurate). s
+
+
+--- Page 62 ---
+Motion 57
+2. Now walk from one stationary object to another object on road sides.
+Count the number of steps you need to travel the distance and
+multiply it by the distance of your single step to calculate the distance. It
+will be better if the distance is approximately hundred meters.

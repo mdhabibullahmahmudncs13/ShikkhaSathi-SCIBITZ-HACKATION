@@ -1,0 +1,29 @@
+# Chunk 669 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.455732
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_669
+
+========================================
+
+--- Page 294 ---
+Chapter 14
+. . . .
+Ratio, Similarity and Symmetry
+For comparing two quantities, their ratios are to be considered. Again, for
+determining ratios, the two quantities are to be measured in the same units. In
+algebra we have discussed this in detail.
+At the end of this chapter, the students will be able to —
+» explain geometric ratios.
+» explain the internal division of a line segment.
+» verify and prove theorems related to ratios.
+» verify and prove theorems related to similarity.
+» explain the concepts of symmetry.
+» verify line and rotational symmetry of real objects practically.
+Properties of Ratio and Proportion
+(i) fa:b=x:yand c:d=x:y,it follows that, a : b=c: d.
+(ii) If a:b="b:a,it follows that, a = b
+(iii) If a:b =x: y,it follows that, b: a =y : x (inversendo).

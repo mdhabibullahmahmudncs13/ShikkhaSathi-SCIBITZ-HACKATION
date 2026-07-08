@@ -1,0 +1,25 @@
+# Chunk 88 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.398100
+# Character count: 615
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_88
+
+========================================
+
+23 when they divide 311 and 419.
+Solution: The natural numbers that leave 23 as residue when they divide 311
+and 419 will be bigger than 23 and will be common factors of both 311 — 23 = 288
+and 419 — 23 = 396.
+Let the set of factors of 288 are larger than 23 be A.
+Here 288 = 1x 288 =2x 144 =3x96=4x72=6x48=8x36=9 x32 =
+12x24 =16 x 18
+A= {24,32,36,48, 72,96, 144, 288}
+Let the set of factors of 396 greater than 23 be B.
+Here 396 = 1x 396 =2x 198 =3 x 132 =4x99 =6 x66 =9 x 44 = 11 x 36 =
+12x33 =18 x22
+"- B= {33,36,44,66,99,132,198,396}
+a
+S ANB = {24,32,36,48, 72,96, 144, 288} N {33, 36, 44, 66,99, 132, 198, 396}

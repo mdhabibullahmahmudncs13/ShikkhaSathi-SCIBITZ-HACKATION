@@ -1,0 +1,31 @@
+# Chunk 807 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.389013
+# Character count: 785
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_807
+
+========================================
+
+--- Page 308 ---
+Current Electricity 303
+Example
+ial difference of
+a battery cell is 1.5V. What is the Find jo Hy ay
+actual potential of both terminals? hil 1 1
+Negative is zero and positive is 1.5V? T T
+or negative one is -1.5 V and positive -
+one is zero? Ld Hi | 1
+Answer: Both of them can be true. If id = fd id
+it is like Figure 11.02 (a) then the
+negative is zero and the positive is
+1.5 V. But if it is like 11.02 (b) then
+the positive is zero and the negative is
+-1.5V.
+Example: Make voltage 1.5V,3.0V,-1.5V,-3.0 V using two 1.5 V battery.
+Answer: This is shown in Figure 11.03.
+11.1.2 Conductor, Insulator and Semiconductor
+Conductor: If we have understood the structure of matter properly, then we
+have understood one thing clearly. In solids the atoms and molecules strongly

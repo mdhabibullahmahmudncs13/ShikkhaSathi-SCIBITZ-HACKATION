@@ -1,0 +1,40 @@
+# Chunk 377 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.337736
+# Character count: 770
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_377
+
+========================================
+
+--- Page 133 ---
+128 Physics
+® By the end of this chapter we will be able to-
+
+e explain the change of pressure with the change of force and area.
+
+e determine the expression for pressure at a point in a liquid at rest
+
+e explain the upward pressure on submerged bodies in a liquid
+
+e cxplain Pascal’s law.
+
+e demonstrate practical application of Pascal’s law
+
+e explain the theory of Archimedes.
+
+e explain the density.
+
+e explain the usage of density in our everyday lives.
+
+e cxplain why objects float on water.
+
+e explain the atmospheric pressure.
+
+e determine atmospheric pressure by using the height of the liquid column.
+
+e analyse the change of atmospheric pressure with the increase of height.
+
+e analyse the effect of change of atmospheric pressure on weather.

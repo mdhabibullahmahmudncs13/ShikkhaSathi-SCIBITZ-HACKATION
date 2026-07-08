@@ -1,0 +1,21 @@
+# Chunk 958 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404857
+# Character count: 781
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_958
+
+========================================
+
+by a neighboring electron. Then an empty place will be created in the
+neighboring atom, this place again can be occupied by an electron of its
+neighboring atom, then an empty place also will be created there. Another way
+to see it is that an empty place with the lack of an electron is moving from atom
+to atom. It seems that it is one type of particle and its charge is positive. It is
+called a hole. That is, we can say that keeping a boron atom as a negative ion,
+this hole can move through the whole silicon crystal. That is, this semiconductor
+almost acts as a conductor and positively charged holes conduct electricity
+through it! When a semiconductor becomes a conductor by adding atoms having
+three electrons in their outer most shells, it is called a p-type semiconductor.

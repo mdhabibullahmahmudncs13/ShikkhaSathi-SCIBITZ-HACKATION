@@ -1,0 +1,18 @@
+# Chunk 392 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.428611
+# Character count: 293
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_392
+
+========================================
+
+chord other than diameter is perpendicular to the chord.
+Let AB be a chord (other than diameter) of a circle C
+ABC with center O and M be the midpoint of the
+chord. Join O, M. Tt is to be proved that the line
+segment OM is perpendicular to the chord AB.
+Drawing: Join O, A and O, B. A B
+Proof:

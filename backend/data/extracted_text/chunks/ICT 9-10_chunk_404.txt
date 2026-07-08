@@ -1,0 +1,24 @@
+# Chunk 404 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.884238
+# Character count: 750
+# Chunk ID: ICT 9-10.txt_0_404
+
+========================================
+
+--- Page 130 ---
+Problem Solving through Programming 125
+From here we understand that the information stored in the variable named
+test variable is 73.07 and its data type is float,
+During programming there may be times when the data type of a variable needs
+to be changed or specified. This can be done by casting. This is done using the
+casting constructor function in Python
+Three important type casting functions are mentioned below.
+int()- creates integers from floats or strings.
+float()- creates fractional numbers from strings, floats or integers.
+str()-creates sirings [rom different data types.
+Now consider the following examples
+x=innl} # the value of x willbe | |= foat(l}  #the valisofxwill be 10 | x= sts 1") she value of x will be 51!

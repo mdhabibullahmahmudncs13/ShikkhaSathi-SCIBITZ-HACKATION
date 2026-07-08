@@ -1,0 +1,42 @@
+# Chunk 258 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.415962
+# Character count: 797
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_258
+
+========================================
+
+equation. The equation, which has the highest
+
+degree 2 of the variable, is called the quadratic
+
+equation.
+
+In class VIII, we have factorized the quadratic expressions inone variable of
+
+the forms 2% + pa + ¢ and ax? + bx + c. Here, we shall solve the equations of the
+
+forms 2° + pz + ¢ = 0 and az? + bx + ¢ = 0 by factorizing the left hand side and
+
+by finding the value of the variable.
+
+An important law of real numbers is applied to the method of factorization. The
+
+law is as follows :
+
+If the product of two quantities is equal to zero, either only one of the quantities
+
+or both quantities will be zero. That is, if the product of two quantities a and b
+
+ie,ab=0,a=0o0r,b=0, or, both a=0and b=0.
+
+Example 8. Solve: (z+ 2)(z —3)=0
+
+Solution: (z+ 2)(z —3)=0
+
+cr+2=0o0rnx—-3=0
+
+Ifer4+2=02=-2

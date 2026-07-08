@@ -1,0 +1,36 @@
+# Chunk 156 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.842612
+# Character count: 701
+# Chunk ID: ICT 9-10.txt_0_156
+
+========================================
+
+3. Clean up the virus by running an anti-virus software.
+
+4. If the problem is not fixed yet, install a new
+keyboard.
+
+13. | The mouse is 1. Check the connecting-cable of the mouse to the
+not detecting computer.
+anything. 2. Change the port to see whether it works,
+
+3. Connecting a new mouse to the port, check it
+again.
+
+4. Entering the BIOS check whether the mouse is
+disabled. If so, enable it, and come out of the BIOS.
+
+5. If the problem persists, connect a new mouse to
+the computer. The problem will be resolved.
+
+14. | No power is 1. Be surewhether the power button is turned on.
+viewedonthe |5 hack the AC power cord connected properly to
+iohitar the power outlet behind the monitor.
+
+i
+al
+]

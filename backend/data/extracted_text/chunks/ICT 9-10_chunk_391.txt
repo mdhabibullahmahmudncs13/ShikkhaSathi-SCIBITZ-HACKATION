@@ -1,0 +1,43 @@
+# Chunk 391 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.882078
+# Character count: 739
+# Chunk ID: ICT 9-10.txt_0_391
+
+========================================
+
+1 print ("Hello World")
+shat
+salle Worlds
+»
+Local yan 3 + Thosey' Python #
+
+8. Now we will click on the save button and save the file with a name of the
+programme. Then our file name will also be displayed on the top of the
+programme.
+
+a
+BE
+
+
+--- Page 126 ---
+Problem Solving through Programming 121
+
+To Show Text
+
+Just as we printed English text, we can also print Bangla.
+
+Let's write down the following line and run it and see what happens:
+
+prize" wf eT we 1)
+
+So, the print() function prints definite texts on the monitor screen or other standard
+
+output devices. The message may be a string or any other object. Before appearing on
+
+the screen, the object will transform into string.
+
+Using Variables in the Programme (Variable) RE a

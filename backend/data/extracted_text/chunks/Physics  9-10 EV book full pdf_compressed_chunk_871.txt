@@ -1,0 +1,48 @@
+# Chunk 871 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.396038
+# Character count: 774
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_871
+
+========================================
+
+(@)8Q b)7Q
+
+(c)9Q (d)20Q
+3. The potential difference between the two terminals of a conductor is 100 V. If
+the amount of current flowing through it is 10 A, what will its resistance be?
+
+(a) 1000 © (b)0.1Q
+(c)10Q (d) none of them
+
+4. The electrical condition of a circuit is measured by-
+
+i. Voltmeter
+
+ii. Ammeter
+
+ii. Generator
+
+Which one is correct?
+(a) iand ii (b) i and iii
+(c) ii and iii (d) i, ii and iii
+Ps
+
+
+--- Page 334 ---
+Current Electricity 329
+rome is
+
+100 x 10* Q m. The nichrome wire is replaced by a copper wire of identical
+
+length and cross-sectional area. The resistivity of copper is 1.7 x 10* Q m.
+
+(a) What is resistance?
+
+(b) Why does the resistance of conductor increase with increasing
+temperature?
+
+(c) Determine the resistance of the copper wire.

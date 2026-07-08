@@ -1,0 +1,38 @@
+# Chunk 214 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321575
+# Character count: 797
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_214
+
+========================================
+
+what is the change of momentum?
+
+Answer: when the ball is thrown, then the momentum is p = mv. After striking
+
+the wall, when the ball bounces back, its momentum becomes p’ = -mv.
+
+Therefore the change of momentum:
+
+p-p' =mv-(-mv) =2mv
+
+For this change of momentum, the wall exerts a force on the tennis ball for a
+
+very short time. In cricket, the batsman hits the ball by the bat for a very short
+
+interval of time and the change of its momentum occurs. We call these six’s or a
+
+boundary.
+
+3.5 Collision
+
+3.5.1 Conservation of Momentum and Energy
+
+Let us consider that two objects of masses m, and m, are moving along a straight
+
+line on a plane. Due to the difference of their velocities they collide and hence
+
+their velocities are changed. Now, v, and v, are the new velocities of masses mm,

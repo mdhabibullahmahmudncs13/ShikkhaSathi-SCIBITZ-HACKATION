@@ -1,0 +1,33 @@
+# Chunk 429 from English Grammer pdf class 9-10 com_oc
+# Page: None
+# Subject: english
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:06.076370
+# Character count: 779
+# Chunk ID: English Grammer pdf class 9-10 com_oc.txt_0_429
+
+========================================
+
+--- Page 220 ---
+Letters 215
+C There is also a full-block style in which all the parts are left aligned.
+Here is a request letter written in the block style:
+Ocean Building
+20 Lake Circus Road
+Dhaka- 1000
+10 November 2016
+The Manager
+Fashion Garments
+5 Gulshan DIT Market
+Dhaka
+Dear Sir or Madam
+| saw the advertisement of your Fall and Winter collections in yesterday's
+newspaper The Timely News and would like to buy a jacket.
+Please send me your latest catalogue showing winter jackets. | am interested
+in purchasing a leather jacket preferably brown colour costing between
+Tk. 1000 to Tk. 1500.
+Your sending this catalogue by 25 November will be appreciated.
+Yours sincerely,
+(Ahmed Jamal )
+Notice that the first part of a formal letter usually states the reason for writing.

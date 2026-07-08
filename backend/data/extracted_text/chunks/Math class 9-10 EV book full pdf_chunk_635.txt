@@ -1,0 +1,49 @@
+# Chunk 635 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.452928
+# Character count: 790
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_635
+
+========================================
+
+or, 3n =383 -5+3
+
+or, 3n = 381
+
+381
+
+or, n= =
+
+or, n= 127
+
+127th term of the given series is 383
+
+Sum of n terms of an arithmetic series
+
+Let the first term of any arithmetic series be a, last term be p, common difference
+be d, number of terms be n and sum of n terms be S,,.
+
+Writing from the first term to the last and conversely from the last term to the
+first of the series we get,
+
+Forma-35, Mathematics, Class 9-10
+
+
+--- Page 279 ---
+274 Mathematics Classes IX-X
+
+Sp=a+(a+d)+(a+2d) +--+ (p—2d)+(p—d) +p...(1)
+
+and S, =p+(p—d)+(p—2d) +--+ (a+2d) + (a+d) +a...(2)
+
+Adding, 28, = (a +p) + (a +p) + (a+p) +--+ (a+p) + (a+p) + (a+p)
+or, 25, = na +p) [. number of terms of the series is n |
+
+n
+SS = Fla+p) ...(3)
+Again, nth term = p = a + (n — 1)d. Putting this value of p in (3) we get,
+
+n

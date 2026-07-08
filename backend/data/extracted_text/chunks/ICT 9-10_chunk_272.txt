@@ -1,0 +1,34 @@
+# Chunk 272 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.862612
+# Character count: 798
+# Chunk ID: ICT 9-10.txt_0_272
+
+========================================
+
+- Without following the steps described above, Default Photoshop Size can
+be selected from the ‘Preset dropdown list. Thus, all the units of Photoshop
+will be selected as per the requisition.
+
+- Completing the measurement of the dialogue box, press ‘0K’.
+
+- A window will be viewed as per the measurement given in the dialogue
+box. On the lefi of the screen, Practice @ 100% (RGB/8) will be viewed.
+This bar is called the title bar. If any name is not used in the Name box of
+the new dialogue box, Untitled-1@ 100% (RGB/8) will be viewed on the
+title bar as the file name.
+
+2
+
+
+--- Page 88 ---
+Information and Communication Technology 83
+
+- Double click on the title bar, and it will be viewed on the screen.
+
+= The menu bar is located under the title bar and the option bar is below the
+
+menu bar.

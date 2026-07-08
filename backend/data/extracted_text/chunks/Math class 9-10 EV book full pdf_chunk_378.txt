@@ -1,0 +1,41 @@
+# Chunk 378 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427438
+# Character count: 789
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_378
+
+========================================
+
+--- Page 165 ---
+160 Mathematics Classes IX-X
+13cm
+2) Pp
+R a c o x
+1
+Cut RQ = p from any ray RX. Draw 348 = ZFERX at the point R and
+1
+draw 54C = ZFQR at the point Q. FR and FQ intersect each other at
+1 1
+the point A. Now draw ZRAB = 348 and ZQAC = 54C at the point A
+where ZERX of the side ER and ZFQR of the side FQ lie, respectively.
+The line segment AB and AC intersect at the point B and C' of the line
+RQ.
+ABC is the required triangle.
+1
+3) Given sides of rhombus is 3° and an angle is ZB = 60°. Construct the
+rhombus.
+ip
+A 60°
+B
+1 E
+Cut BA = 37 from any ray BX. Draw
+ZABE = 60° at the point B. Take D
+BC = AB from BE. centring the point Cc
+A and C, draw two arcs of equal radius
+1
+with 3? in the interior of ZABC. The
+arcs intersects each other at the point D.
+Join A, D; C, D. /N .

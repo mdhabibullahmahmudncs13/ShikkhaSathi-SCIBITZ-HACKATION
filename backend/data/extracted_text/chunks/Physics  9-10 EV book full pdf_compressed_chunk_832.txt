@@ -1,0 +1,24 @@
+# Chunk 832 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.391040
+# Character count: 743
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_832
+
+========================================
+
+we use in a circuit, so , we do not consider it at all. We will assume that the wire
+has no resistance and the potential is the same over the whole wire.
+Now, let us analyse a circuit as shown in figure 1 1.08(a), here, a resistance is
+connected to the two terminals of a battery cell with two wires. Since the part CD
+is connected to the earth, so we can say that the potential of the lower terminal
+of the battery cell is zero. So, the upper terminal of the battery has a potential V
+and there is a resistance in part BC, potential difference between two ends of the
+resistance is,
+V-0=V
+If the resistance is R, the current I flowing through it will be,
+I 14
+“R
+So, current I comes out from point A of the battery and enters into point B. We

@@ -1,0 +1,25 @@
+# Chunk 462 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.347229
+# Character count: 370
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_462
+
+========================================
+
+below.
+Mast) | 0 [oat [ua 22s] 45]
+Length with
+mass L,(cm) | 10 12 | 15 | 17 | 21 | 25 | 30 | 36
+Length after
+removal of 10 | 10 | 10 | 10 | 10 | 10 | 102 | 10.6
+mass 7 (em)
+(a) Write Hooke’s Law .
+(b) How stress leads to strain?
+(c) If M=2.7 kg, then L,=? Calculate it.
+(d) Draw a picture of a machine which can be used daily by using the
+information in the table.
+a
+BS

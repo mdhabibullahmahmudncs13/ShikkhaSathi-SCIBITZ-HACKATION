@@ -1,0 +1,41 @@
+# Chunk 897 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.398369
+# Character count: 797
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_897
+
+========================================
+
+If the two ends of a coil are connected
+
+with an ammeter and a bar magnet is =H
+
+inserted in it, then at the time of A
+
+inserting the magnet we will see a Ld si
+
+sudden flow of current in the ammeter ; 5
+
+(Figure 12.11). When we will pull it wits
+
+out, again we will see a sudden flow f QO Foy,
+
+of current in the ammeter, but now in \S ‘4
+
+the opposite direction. If we change >
+
+the pole of the magnet, then we will
+
+see the change of direction of current
+
+in the ammeter also! During the time
+
+of changing the magnetic field in a Figure 12.12: When a magnet enters
+coil of wire, the generation of voltage into a solenoid current is produced in it.
+and current in the coil is called elec-
+
+tromagnetic induction. This voltage is called induced voltage, and the current is
+called induced current.

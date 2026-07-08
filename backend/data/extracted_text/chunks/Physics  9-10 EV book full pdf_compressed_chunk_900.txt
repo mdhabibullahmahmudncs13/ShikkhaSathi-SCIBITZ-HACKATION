@@ -1,0 +1,22 @@
+# Chunk 900 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.398653
+# Character count: 750
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_900
+
+========================================
+
+flow through the coil. Only by moving the coil, the magnetic field is changed,
+then a current will flow through it.
+12.3.1 Generator
+When we were trying to understand how a motor works, we saw that a current
+passes through an electromagnet in a magnetic field which cause it to rotate. Let
+us see the matter in another way. If instead of giving connection of a battery cell
+with two terminals of an electromagnet of a motor, we connect an ammeter there
+and rotate the electromagnet. What will happen then?
+Of course, the magnetic field within the coil will change, so a current will flow
+through the coil. That is, the electromagnet of the motor that we have rotated by
+passing current through it, if we rotate that electromagnet or coil, the reverse

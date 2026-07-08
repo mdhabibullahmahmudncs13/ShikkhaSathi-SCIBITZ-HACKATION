@@ -1,0 +1,28 @@
+# Chunk 809 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.470764
+# Character count: 796
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_809
+
+========================================
+
+--- Page 355 ---
+350 Mathematics Classes IX-X
+Exercises 16.4
+1. The length and witdth of two adjacent sides of a parallelogram are 7 cm,
+and 5 c.m. respectively. What is the half of its perimeter in cm?
+1) 12 2) 20 3) 24 4) 28
+2. The length of the side of an equilateral triangle is 6 cm. What is its area
+(e.m?)?
+1) 3v3 2) 4v3 3) 6vV3 1) 9V3
+3. In plane geometry:
+(i) Each angle of equilateral triangle is less than one right angle.
+(ii) Sum of acute angles of a right-angled triangle is one right angle.
+(477) An exterior angle of a triangle formed by extending one side of triangle
+is greater than each of the opposite interior angle .
+Which of the following is true?
+1) and ii 2) i and iii 3) ii and iii 4) 4, ii and iii
+4. If the length of each side of a square is a and diagonal is d, then:

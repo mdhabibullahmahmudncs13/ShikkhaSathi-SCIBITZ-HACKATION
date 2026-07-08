@@ -1,0 +1,27 @@
+# Chunk 426 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.342549
+# Character count: 783
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_426
+
+========================================
+
+--- Page 151 ---
+146 Physics
+do very hard job like mountain-climbing. So, they have to prepare their bodies.
+FL
+Example
+QJ
+Question: How much oxygen is there at the peak (29,029 ft) of the Everest?
+Answer: 29,029 ft= 8,848 m
+We see from the graph that the pressure of the air at this height is only 35%
+of the pressure of air at the earth’s surface. Therefore the amount of oxygen
+there is approximately 1/3 of the oxygen on the earth surface.
+5.4.1: Experiment of Torricelli
+You have surely had cold drinks with straws. Have you ever thought how the
+cold drinks reaches your mouth when you sip? Really this occurs due to the
+pressure of the air. It would be very easy to understand if you try to drink the
+cold drinks with a 10.5 meter long straw. (This is not realistic at all. But

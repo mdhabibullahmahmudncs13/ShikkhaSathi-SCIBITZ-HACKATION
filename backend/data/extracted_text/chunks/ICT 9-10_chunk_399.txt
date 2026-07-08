@@ -1,0 +1,14 @@
+# Chunk 399 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.883175
+# Character count: 124
+# Chunk ID: ICT 9-10.txt_0_399
+
+========================================
+
+bers are stored in the variable, its data type is called int. Here int is the short form
+of integer.
+One such example is: “@

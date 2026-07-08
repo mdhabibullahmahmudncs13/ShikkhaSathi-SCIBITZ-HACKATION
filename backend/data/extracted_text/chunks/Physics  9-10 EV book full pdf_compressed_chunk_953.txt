@@ -1,0 +1,21 @@
+# Chunk 953 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.404441
+# Character count: 392
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_953
+
+========================================
+
+--- Page 364 ---
+Radioactivity and Electronics 359
+13.4 Semiconductor
+The modern world and modern civilization have been built on the basis of
+electronics. If we want to express our gratitude to any substance, that
+substance will be the semiconductor. We have discussed about the conductor,
+insulator and semiconductor. Now we can go deeper to a small extent about this
+subject.
+
+Al . Cl : 2;

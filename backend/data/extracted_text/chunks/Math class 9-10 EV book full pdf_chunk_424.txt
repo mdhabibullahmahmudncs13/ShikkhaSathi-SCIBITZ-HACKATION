@@ -1,0 +1,28 @@
+# Chunk 424 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.432018
+# Character count: 793
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_424
+
+========================================
+
+to a straight line, the perpendicular is the shortest] (Proved)
+Corollary 8. At any point on a circle, only one tangent can be drawn.
+Corollary 9. The perpendicular to a tangent at its point of contact passes
+through the centre of the circle.
+Corollary 10. At any point of the circle the perpendicular to the radius is a
+tangent to the circle.
+Theorem 26. If two tangents are drawn to a circle from an external point, the
+distances from that point to the points of contact are equal.
+B
+Let P be a point outside a circle ABC with centre O
+and two line segments PA and PB be two tangents Pp
+to the circle at points A and B. It is required to prove
+that, PA = PB A c
+Drawing: Join O, 4; O, B and O, P.
+Proof:
+Step 1. Since PA is a tangent and OA is the radius through the point of tangent,
+PA LOA

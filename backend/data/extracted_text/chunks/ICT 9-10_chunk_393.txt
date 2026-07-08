@@ -1,0 +1,22 @@
+# Chunk 393 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.882322
+# Character count: 434
+# Chunk ID: ICT 9-10.txt_0_393
+
+========================================
+
+Naming the Variables
+
+We all have a specific name, and everyone can recognize us by that name. Similarly,
+
+cach variable also has to be given a specific name, with which we ean recognize and use
+
+the vanable throughout the programme. For example. if we create a vanable called
+number where we want to deposit 9 as the value of the variable. Then we will write -
+number =9
+
+There are a few things to keep in mind when naming variables:

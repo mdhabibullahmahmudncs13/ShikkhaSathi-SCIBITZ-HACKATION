@@ -1,0 +1,56 @@
+# Chunk 260 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.416158
+# Character count: 782
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_260
+
+========================================
+
+or, yly = v3) =0
+
+Sy=00ry—+v3=0 N
+
+3
+Again, if y —v/3=10,y=3 g
+
+
+--- Page 114 ---
+Chapter 5. Equations in One Variable 109
+.*. Solution set is {0, v/3}
+—4
+Example 10. Solve and write the solution set: x — 4 = r=2
+x
+xr —4
+Solution: = —4 = =z
+x
+or, x(x —4) =x —4 [by cross-multiplication]
+or, x(x —4) — (x —4)=0 [by transposition]
+or, (x —4)(x —1)=0
+sr—4=0o0rxz—-1=0
+Ifr—4=0r=4
+Again, if —1=0,2=1
+Solution set is {1,4}
+2 1
+Example 11. Solve: (£2) -5 (£2) +6=0
+z—a T—a
+. 2
+Solution: (249) —-5 (219) +6=0...(1)
+T—a r—a
+Let, rhe y
+r—a
+. from(1) we get, y> — 5y +6 =0
+or, y? —2y—3y+6=0
+or, yly —2) = 3(y 2) = 0
+or, (y —2)(y —3) =0
+cowhen, y=2=0,y=2
+orify —3=0,y=3
+Now, if y = 2,
+z+a 2 .
+eT [putting the value of y |
+or, z+a=2(x—a) [by cross-multiplication]
+or, r+a=2r—2a
+q
+S or,2r —x=a+2a

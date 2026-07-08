@@ -1,0 +1,22 @@
+# Chunk 439 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433729
+# Character count: 411
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_439
+
+========================================
+
+is drawn. Then, this circle is the required inscribed
+circle.
+Proof: From O, OF and OF are drawn perpendiculars respectively to AC" and
+AB. Let these two perpendiculars intersect the respective sides at E and F'.
+The point O lies on the bisector of ZABC.
+SOF =0D
+Similarly, as O lies on bisector of ZACB, OE = OD
+0D =0FE=0F
+- Hence, the circle drawn with centre as O and OD as radius passes through D,
+a
+Sand F.

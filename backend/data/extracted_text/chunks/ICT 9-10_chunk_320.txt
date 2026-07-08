@@ -1,0 +1,44 @@
+# Chunk 320 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.872113
+# Character count: 733
+# Chunk ID: ICT 9-10.txt_0_320
+
+========================================
+
+objects like menu bar. toolbox, floating palette, scroll bar, ste. will be viewed for
+
+starting work.
+
+Title Bar
+
+After opening the Tlustrator JI== Si SselEtr Sorisans on SHG 1
+
+Programme, on the lefi-end above c= pere——
+
+the screen, the other information of | [2 © spe =
+
+the document with the name of ||% 2
+
+application on the title bar may be [|= ==
+
+viewed, for example, Adobe Any
+
+Tustrator-[Ankon-1 ~~ @ 70 | 45 m—
+
+(RGB/Preview)]. Here, Adobe is i]
+
+Illustrator is the name of d i
+
+application, Ankon-1 is the name | == Telell |:
+
+of file if this name was given
+
+during 1s creation, and @ 70
+
+(CMYK/Preview) is the size of visible area and presentation of color mode. The
+
+entire part stretching to the right is the title bar.

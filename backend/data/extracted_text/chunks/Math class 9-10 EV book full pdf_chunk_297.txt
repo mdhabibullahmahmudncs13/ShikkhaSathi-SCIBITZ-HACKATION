@@ -1,0 +1,25 @@
+# Chunk 297 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.419768
+# Character count: 743
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_297
+
+========================================
+
+--- Page 128 ---
+Chapter 6. Lines, Angles and Triangles 123
+Remarks: The postulates from 1 to 5 are called incidence postulates.
+The concept of distance is also an elementary concept. It is assumed that,
+Postulate 6:
+1) Each pair of points P and @ determines a unique real number which is
+known as the distance between point P and @ and is denoted by PQ.
+2) If P and @ are different points, the number PQ is positive. Otherwise,
+PQ =0.
+3) The distance between P and ) and that between @ and P are the same,
+ie. PQ =QP.
+Since PQ = QP, this distance is called the distance between point P and point
+Q. In practical, this distance is measured by previously determined unit.
+According to postulate 5(c) one to one correspondence can be established

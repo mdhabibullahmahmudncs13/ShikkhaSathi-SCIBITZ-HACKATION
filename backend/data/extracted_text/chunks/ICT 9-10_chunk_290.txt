@@ -1,0 +1,27 @@
+# Chunk 290 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864982
+# Character count: 737
+# Chunk ID: ICT 9-10.txt_0_290
+
+========================================
+
+- The arrangement of steps can be changed it required clicking layer no.2 and
+pressing on the mouse, drag it and release on layer no. 3, and it will be placed
+in between layer no. 3 and 4. After the selection of dividing line between two
+layers, release the pressure on the mouse.
+
+You should remember that ‘Background Layer’ can not be shifted in this way.
+
+Background should be transformed into layer to replace it into another stage.
+
+Make Picture Visible and Invisible on Layers
+
+There is the icon of an eye on the extreme left of every layer. This icon is called
+
+‘Layer Visibility Icon". Click on the icon of eye, it will disappear along with the
+
+picture on the screen. Click again on the empty place of the eve, and the icon will

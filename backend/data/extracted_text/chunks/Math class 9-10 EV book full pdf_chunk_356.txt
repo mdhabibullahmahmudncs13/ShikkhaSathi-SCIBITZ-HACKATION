@@ -1,0 +1,29 @@
+# Chunk 356 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425212
+# Character count: 621
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_356
+
+========================================
+
+sides of a triangle are given. Construct the triangle.
+Let the base a, a base adjacent angle Zz and the sum s of the other two sides of
+a triangle ABC be given. It is required to construct it.
+Drawing:
+1. From any ray BE cut the line segment BC'
+equal to a. At B of the line segment BC,
+draw an angle ZCBF = Zu. 7d
+2. Cut a line segment BD equal to s from the LP a
+G s—————
+ray BF. A g
+3. Join C, D and at C' make an angle ZDCG Za) Jd
+equal to ZBDC on the side of DC in which a cE
+B lies.
+4. Let the ray CG intersect BD at A.
+Then, AABC is the required triangle.
+Proof: In AACD, ZADC = ZACD [by construction]
+3
+SAC = AD S

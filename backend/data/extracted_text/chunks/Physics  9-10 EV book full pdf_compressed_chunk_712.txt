@@ -1,0 +1,29 @@
+# Chunk 712 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378978
+# Character count: 733
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_712
+
+========================================
+
+--- Page 267 ---
+262 Physics
+The distance less than Focal length
+Imagine an object XY, which is kept between the lens and the focal point (Fig-
+ure 9.23). By the same logic described before, we can say that the image of point
+Y will be formed on YOF line. If a perpendicular is drawn from the image of X
+on this axis, we’ll get the position of the image of Y.
+a
+| im
+i" © 3 ~~
+Y i F -
+Y
+S
+Figure 9.23: A bigger image is seen in a convex lens if the object is placed within the
+focal length.
+Now let’s draw two rays from the point X. XC line, which is parallel with the
+axis will go towards the direction of T through the focal point F. If a ray from
+point X is drawn through the center point of the lens, it will go straight along XO

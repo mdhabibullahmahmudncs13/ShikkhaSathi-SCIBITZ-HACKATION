@@ -1,0 +1,27 @@
+# Chunk 139 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.314302
+# Character count: 555
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_139
+
+========================================
+
+--- Page 48 ---
+Motion 43
+In this chapter we will discuss only the linear motion i.e. if the change in
+magnitude of the velocity occurs then only acceleration will takes place.
+Acceleration is the rate of change of velocity with time. If the acceleration is
+uniform i.e. it will not change with time, then we can write;
+(final velocity-initial velocity)
+acceleration= ——M
+time
+If the velocity of an object at a certain time is u and after time t the velocity
+becomes v, then the acceleration a will be;
+v—u
+a=—
+t
+
+The dimension of acceleration: [a] = LT™2

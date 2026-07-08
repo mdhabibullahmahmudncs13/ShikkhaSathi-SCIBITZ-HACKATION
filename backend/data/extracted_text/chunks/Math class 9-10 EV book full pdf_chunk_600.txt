@@ -1,0 +1,30 @@
+# Chunk 600 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.449326
+# Character count: 745
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_600
+
+========================================
+
+--- Page 264 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 259
+Solution: Given equations are:
+3x —y=3...(1)
+Sx+y=21...(2)
+From equation (1) we get, 3x —y = 3, or, y = 3x — 3
+Taking some values of z in the equation, we find the corresponding values of y
+and make the adjoining table:
+EEINEE
+[y]=6[-3]6]
+.-. three points on the graph of the equation are: (—1,—6), (0, —3), (3,6)
+Again, from equation (2) we get, bz + y = 21, or, y = 21 — bz
+Taking some values of z in the equation, we find the corresponding values of y
+and make the adjoining table:
+[vy 61] 4]
+.-. three points on the graph of the equation are: (3,6), (4,1), (5, —4).
+In a graph paper let XOX’ and YOY’ be
+respectively the X- axis and Y- axis and O is
+the origin.

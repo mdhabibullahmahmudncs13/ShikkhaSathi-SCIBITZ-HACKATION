@@ -1,0 +1,26 @@
+# Chunk 720 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.379667
+# Character count: 724
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_720
+
+========================================
+
+--- Page 270 ---
+Refraction of light 265
+closer
+Example
+side twice of its focal length, then a real image
+of the object is formed. If the object is kept at the position of the image, then where
+will the image be formed?
+Answer: If the direction of the light ray is changed, then one is converted to another.
+Do Yourself
+If the light from a distant object falls on a lens, then it forms its image on
+the focal point of the lens. Using this process you can find the focal length of
+a convex lens. In order to do it you should move the lens forward and
+backward until a distinct image is formed on the wall. When the image is
+distinct, then measure the distance from the lens to the wall. This is the focal
+length of this lens.

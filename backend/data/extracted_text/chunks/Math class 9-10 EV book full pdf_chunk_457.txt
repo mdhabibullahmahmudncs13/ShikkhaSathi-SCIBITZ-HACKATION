@@ -1,0 +1,36 @@
+# Chunk 457 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.435235
+# Character count: 775
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_457
+
+========================================
+
+OM; OP 7 OP OP
+
+PM OM or PM PM;
+
+PM; OM, ~~ OM OM,
+
+0 That is, each of these ratios is constant. These ratios are called trigonometric
+5 ratios.
+
+
+--- Page 197 ---
+192 Mathematics Classes IX-X
+Trigonometric ratios of an acute angle
+Let ZXOA be an acute angle. We take any point
+P on OA. We draw a perpendicular PM from the
+point P to OA. A right angled triangle POM is formed. A
+The six ratios are obtained from the sides PM, OM
+and OP of APOM which are called trigonometric L
+ratios of the angle ZXOA and each of them are
+named particularly. With respect to the ZXOA of
+right-angled triangle POM, PM is the opposite side, pa ~
+OM is the adjacent side and OP is the hypotenuse.
+Denoting ZXOA = 0, the obtained six ratios are
+described below for the angle 6.
+From the figure :

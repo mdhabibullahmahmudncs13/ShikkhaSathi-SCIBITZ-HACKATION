@@ -1,0 +1,51 @@
+# Chunk 689 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.457642
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_689
+
+========================================
+
+--- Page 303 ---
+298 Mathematics Classes IX-X
+
+Proof:
+
+For AAPQ and ADEF, AP = DE, AQ = DF and internal ZA = internal 2D
+
+o AAPQ = ADEF [SAS theorem]
+
+SLA=/D, LAPQ = /E, ZAQP = /F
+
+AB AC AB AC
+
+Again, since DE DF therefore ar a0 [theorem 29]
+
+-. PQ || BC
+
+Therefore ZABC = ZAPQ and ZACB = ZAQP
+
+co LA=4D, LB =/E, and LC = LF
+
+i.e. AABC and ADEF are equiangular.
+
+Therefore AABC and ADEF are similar.
+
+Theorem 35. The ratio of the areas of two similar triangles is equal to the
+
+ratio of squares on any two matching sides.
+
+Special Nomination: Let the triangles ABC and DEF be similar and BC' and
+
+EF be their matching sides respectively. It is required to prove that, AABC :
+
+ADEF = BC*: EF?
+
+A
+/I
+B G Cc E H F
+
+Drawing: Draw perpendiculars AG and DH on BC and EF respectively. Let

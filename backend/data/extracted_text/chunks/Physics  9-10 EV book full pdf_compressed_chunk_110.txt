@@ -1,0 +1,17 @@
+# Chunk 110 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.311210
+# Character count: 326
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_110
+
+========================================
+
+--- Page 39 ---
+34 Physics
+opposite direction. Therefore, we can say, if an object changes its position with
+respect to an origin, then the object is in motion with respect to that origin. It is
+not our headache whether the origin is at rest or moving at uniform velocity. This
+is not important since every motion is relative.

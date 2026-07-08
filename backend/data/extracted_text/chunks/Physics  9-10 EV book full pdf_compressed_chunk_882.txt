@@ -1,0 +1,38 @@
+# Chunk 882 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397037
+# Character count: 752
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_882
+
+========================================
+
+8
+BS
+
+
+--- Page 339 ---
+334 Physics
+| Magnetic field |
+| H
+Flow of current 1 \ = rod
+A= en he
+a] | Je ~ NF
+EN NY 8
+(Rll A Flow of current
+d]] = \) |
+dR
+is is shown in Figure 12.05. You are able to understand that the more the
+current, the stronger the magnetic field is. There is a limit to how much current
+can be pass through a wire, since the wire is heated as I°R. Moreover, the
+maximum amount of current that can pass through a wire depends on the source
+of electricity. Therefore if we want to produce a strong magnetic field, then
+instead of making a single loop, a coil is made by a insulated wire, winding it =~ §
+
+
+--- Page 340 ---
+Magnetic Effects of Current 335
+
+several times. This coil is called a solenoid. A strong magnetic field can be

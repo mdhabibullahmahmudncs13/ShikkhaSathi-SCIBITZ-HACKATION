@@ -1,0 +1,34 @@
+# Chunk 827 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390615
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_827
+
+========================================
+
+--- Page 315 ---
+310 Physics
+We know, RA
+L=—
+P
+A=? = 2(10")m? = 3.14 x 10° m?
+For sil Lo 3X0 oe
+or silver, =Texio — L96m
+For copper, L= 3.14 x 107° =1.84
+’ “17x10 tm
+For tungsten. L 314x107 0.57 57
+5 =—————=057m=57 cm
+55x 1078
+—8
+For Nichrome, I= 314x107 0.03m = 3 cm
+100 x 10-8
+If the temperature of a conductor is raised, its resistance increases, but the case
+is the opposite for a semiconductor. The resistance decreases if the temperature
+goes up in a semiconductor. The reason is, there are free electrons in a conductor
+for the flow of current, but a semiconductor does not have free electrons. If the
+temperature is raised, some electrons are found for the flow of current, so a
+temperature rise causes the decrease of resistance of a semiconductor.
+11.2.3 Circuit

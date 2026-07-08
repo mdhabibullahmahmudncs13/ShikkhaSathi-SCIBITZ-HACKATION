@@ -1,0 +1,22 @@
+# Chunk 37 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392514
+# Character count: 755
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_37
+
+========================================
+
+fractions.
+Solution: Repeating decimal fractions 5.6, 7.345, and 10.78423 have
+nonrepeating digits equalling 0, 1 and 2 respectively. Here 10.78423 has the
+most number of digits in nonrepeating part, so in order to convert into similar
+repeating decimal fractions we must have 2 digits in nonrepeating part of every
+number. 5.6, 7.345 and 10.78423 in repeating decimal fractions have respectively 1,
+2 and 3 digits in the repeating part. LCM of 1, 2 and 3 is 6. So in order to
+convert into similar repeating decimal fractions we must have 6 digits in the
+repating part of every number. So, 5.6 = 5.66666666, 7.345 = 7.34545454 and
+10.78423 = 10.78423423. Desired similar repeating decimal fractions are
+respectively 5.66666666, 7.34545454 and 10.78423423.

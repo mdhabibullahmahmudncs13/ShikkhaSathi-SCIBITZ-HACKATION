@@ -1,0 +1,33 @@
+# Chunk 127 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.402241
+# Character count: 786
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_127
+
+========================================
+
+--- Page 54 ---
+Chapter 3. Algebraic Expressions 49
+Example 5. Simplify: (5z + Ty +32)? +2(7z — Ty — 32) (5x + Ty + 32) + (Tx —
+Ty — 32)?
+Solution: Let, bz + 7y +3z =a and To — Ty —3z =b
+Given expression = a? +2-b- a+ b* = a® + 2ab + b?
+= (a+b)?
+= {(52 + Ty + 3z) + (Tx — Ty — 32) }* [substituting the
+(ba Ty + 35+ To — Ty — 32) values of a and b]
+= (122) = 1442?
+Example 6. If x —y = 2 and ay = 24, what is the value of 2 +y ?
+Solution: (z+)? = (v —y)? + day = (2)* +4 x 24 = 4+ 96 = 100
+a4 y= +100 = £10
+Example 7. If ¢* + a? + 0" = 3 and a® + ab + b* = 3 , what is the value of
+a? + b*?
+Solution: a* + a?” + b*
+= (a)? + 2a°0* + (b*)? — a®b*
+= (a® +b?) — (ab)?
+= (a® +b" + ab)(a® + b* — ab)
+= (a® + ab + b*)(a® — ab + b%)
+©. 3=3(a® — ab + b*) [ substituting the values]
+or, wah rp=3=1

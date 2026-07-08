@@ -1,0 +1,22 @@
+# Chunk 509 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.440237
+# Character count: 590
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_509
+
+========================================
+
+15. The angle of elevation of a tower becomes 60° from 45° by moving 60 metre
+towards a minar. Find the height of the minar.
+
+16. A man standing at a place on the bank of a river observesd that the angle
+of elevation of a tower exactly opposite to him on the other bank was 60°.
+Moving 32 metre back he observed that the angle of elevation of the tower
+was 30°. Find the height of the tower and the width of the river.
+
+17. A pole of 64 metre long breaks into two parts without complete separation
+and makes an angle 60° with the ground. Find the length of the broken part io
+of the pole. S

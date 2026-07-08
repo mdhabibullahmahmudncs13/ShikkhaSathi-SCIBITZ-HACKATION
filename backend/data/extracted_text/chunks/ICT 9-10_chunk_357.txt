@@ -1,0 +1,38 @@
+# Chunk 357 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.878055
+# Character count: 791
+# Chunk ID: ICT 9-10.txt_0_357
+
+========================================
+
+B. Click any place of the path with the Anchor Tool Point, and a new anchor
+point will be set on that point.
+
+a - The new anchor point added on the straight path is called a Straight Comer
+~ Anchor Point and on the curved path is called a Smooth Anchor Point.
+
+
+--- Page 114 ---
+Information and Communication Technology 109
+
+Removing Anchor Point
+
+To remove any anchor point on the path:
+
+A. Select the Delete Anchor Point Tool. After selecting the tool, bring mouse
+
+pointer inside the screen, and a minus sign (-) will be viewed below the Pen Tool.
+
+B. If you click any anchor point with the Delete Anchor Point Tool, that anchor
+
+point will be deleted.
+
+Editing Curve Path
+
+A circle/rectangular object or a design will be created with the pen/pencil tool
+
+for editing path. To edit curve:

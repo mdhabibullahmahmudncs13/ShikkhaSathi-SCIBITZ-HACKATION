@@ -1,0 +1,36 @@
+# Chunk 475 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.437196
+# Character count: 592
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_475
+
+========================================
+
+[Since ZPOM = Z/XOY = 0] ¢ M x
+OM
+- sin(90° — 0) — — [=
+.sin(90° — 6) op cos/ POM = cos 0
+PM
+cos(90° — 0) = oP = sin/ POM = sin 6
+OM
+Of) = —— = [=
+tan(90° — 6) PA cotZPOM = cot 6
+PM
+0) =" = 1 = ta
+cot (90° — 6) OM tanZPOM = tan 0
+oP
+0) = — = [=
+sec(90" — 6) Pi cosecZ POM = cosec
+OP
+0 = —= =
+cosec(90° — 6) OM sec/POM = sec
+We can express the above formulae in words below :
+sine of complementary angle = cosine of angle
+cosine of complementary angle = sine of angle
+tangent of complementary angle = cotangent of angle etc.
+5
+3 Work: If sec(90° — 0) = 3 find the value of cosec § — cot 6.
+5 :

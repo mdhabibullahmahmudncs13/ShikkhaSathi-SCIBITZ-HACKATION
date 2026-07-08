@@ -1,0 +1,25 @@
+# Chunk 944 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.403715
+# Character count: 746
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_944
+
+========================================
+
+--- Page 361 ---
+356 Physics
+Figure 13.03 : Types of vacuum tube
+communication using Morse code and then through the use of vocal
+communication by telephone (Figure 13.03). During the first and second world
+war, different types of specialized vacuum tubes were used in controlling weap-
+ons, radar, navigation etc. In 1946 the first computer ENIAC was invented using
+1800 vacuum tubes.
+13.2.2 Transistor
+In 1947 the Transistor was first invented in Bell Laboratory and for this
+invention John Bardeen, Walter Brattain and William Shockley were awarded
+the Nobel Prize. No one could imagine at that time how fast and widely the
+transistor would change the whole world.
+A transistor can work just like a vacuum tube, but compared with a vacuum tube

@@ -1,0 +1,24 @@
+# Chunk 929 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.402327
+# Character count: 792
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_929
+
+========================================
+
+--- Page 357 ---
+352 Physics
+When an alpha particle is emitted from a nucleus, it comes out with a definite
+amount of energy. But in the case of a beta particle, this is not true. The energy
+of the beta particle depends on the part of the total energy radiation received by
+the anti-neutrino.
+Since a beta particle is negatively charged electron, it can be influenced by
+electric and magnetic field. When it passes through matter, it can ionize the
+molecule-atoms of the matter due to collision with them. Since the size of a beta
+particle is much smaller than that of an alpha particle (helium nucleus), its
+penetrating capability is more than the alpha particle and it can penetrate deeper
+into matter. It is possible to stop a normal beta particle by a few millimeter thick
+aluminum sheet.

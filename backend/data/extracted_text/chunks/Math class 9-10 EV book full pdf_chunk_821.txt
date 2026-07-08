@@ -1,0 +1,21 @@
+# Chunk 821 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.471906
+# Character count: 742
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_821
+
+========================================
+
+» explain the diagram of frequency polygon and ogive curve.
+Presentation of Data: We know that numerical information which are not
+qualitative are the data of statistics. The data under investigation are the raw
+materials of statistics. They are in unorganized form and it is not possible to take
+necessary decision directly from the unorganized data. It is necessary to organize
+and tabulate the data. And the tabulation of data is the presentation of the data.
+In previous class we have learnt how to organize the data in tabulation. We know
+that it is required to determine the range of data for tabulation. Then determining
+the class interval and the number of classes by using tally marks, the frequency
+Forma-45, Mathematics, Class 9-10

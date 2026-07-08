@@ -1,0 +1,25 @@
+# Chunk 116 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.836828
+# Character count: 776
+# Chunk ID: ICT 9-10.txt_0_116
+
+========================================
+
+= Enable Two Factor Authentication (2FA).
+* Using strong passwords and not using the same password across all digital
+platforms.
+= Updating computer software and mobile application software (general)
+regularly.
+= Refrain from sharing private or confidential information on social media.
+» Not to share personal confidential information (pin code or password) with
+anyone.
+= Installing antivirus and firewall protection on the device.
+Two Factor Authentication (2FA)
+Two-factor authentication means that when we log in with the ID and password
+to access our e-mail, social media, or other online accounts, an OTP (One Time
+Password, which is six digits long) comes to our phone or mail. We can access
+the account only when we give that OTP correctly; otherwise, we cannot.Ttems

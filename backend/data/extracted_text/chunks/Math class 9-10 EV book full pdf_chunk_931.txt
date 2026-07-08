@@ -1,0 +1,18 @@
+# Chunk 931 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.482607
+# Character count: 288
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_931
+
+========================================
+
+coincides with side ED, and point C falls on the opposite side of F with respect
+
+to DE. Assume G is the new position of point C.
+
+2. Since AB=DE, point A will coincide with point D. As a result, ADEG
+.. will be the new position of AABC, meaning DG=AC, ZG=/C, and
+s /DEG=/B=1 right angle.

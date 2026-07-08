@@ -1,0 +1,30 @@
+# Chunk 306 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.868585
+# Character count: 615
+# Chunk ID: ICT 9-10.txt_0_306
+
+========================================
+
+- Press the Enter button, and the cropping up of the picture will be done, and
+its positioning will be straight.
+
+Use of Eraser Tool
+
+- When any color is erased by the eraser tool, the color is covered with the
+color of the canvas. If the color of the canvas is while, it seems that the color
+
+8
+=
+
+
+--- Page 99 ---
+94 Multimedia and Graphics
+is being erased, but if the color is different, it will be viewed. The picture
+on transparent layer will be simply erased.
+
+- Press Cap Lock to erase the minute detail, and the eraser tool will take the
+shape of plus (+) sign. The editing of small parts will be done then.

@@ -1,0 +1,30 @@
+# Chunk 398 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.339996
+# Character count: 374
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_398
+
+========================================
+
+z 400 CLA
+=
+5 300
+g 200
+a I Pd I I I
+5
+FLATT
+0 1 2 3 4 5 6
+depth (km)
+Figure 5.03: Pressure increases with the increase of depth
+® Example
+Question: The whale can go into a depth of 2,100 m from the sea level. How
+much pressure can it sustain? Assume that 1 atm pressure is increased per
+10 m depth
+Answer: The whale can sustain the pressure,
+p=2200 spar
+I. “Tomjatm oo
+BS
+S

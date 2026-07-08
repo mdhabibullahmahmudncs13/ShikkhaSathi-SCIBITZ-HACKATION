@@ -1,0 +1,28 @@
+# Chunk 733 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.461988
+# Character count: 591
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_733
+
+========================================
+
+13. ZA = 1 right angle of the triangle ABC. D is a point on AC. Prove that
+BC? + AD? = BD? + AC”.
+
+14. ABC is an isosceles right triangle. BC' is its hypotenuse and P is any point
+on BC. Prove that PB? + PC? = 2PA%
+
+15. ZC is an obtuse angle of AABC; AD is perpendicular to BC. Show that
+AB? = AC? + BC* + 2BC - CD.
+
+16. ZC is an acute angle of AABC; AD is perpendicular to BC. Show that
+AB* = AC? + BC* —2BC' - CD.
+
+17. QD is a median of the APQR.
+
+1) Draw a proportional figure according to the stem.
+2) Prove that, PQ* + QR? = 2(PD* + QD?)
+3) If PQ = QR = PR, then prove that, 4QD? = 3PQ?

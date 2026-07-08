@@ -1,0 +1,25 @@
+# Chunk 377 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427210
+# Character count: 373
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_377
+
+========================================
+
+rhombus.
+Example 4. In the triangle ABC, ZB = 60°, ZC = 45° and perimeter p = 13
+cm.
+1) Construct ZB and ZC with scale and compass.
+2) Construct the triangle. (Construction and description of construction are
+must)
+3) Construct a rhombus whose length is equal to i and an angle equal to ZB.
+(Construction and description of construction is are must)
+Solution:
+1)
+B c
+a
+IS
+S

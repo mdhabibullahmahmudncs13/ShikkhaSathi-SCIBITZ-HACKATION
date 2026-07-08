@@ -1,0 +1,25 @@
+# Chunk 250 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325393
+# Character count: 767
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_250
+
+========================================
+
+--- Page 89 ---
+84 Physics
+spring balance with you, you can measure the mass more accurately and you
+can measure the weight from there.
+Serial [Name of Mass of object obtained | Mass of object in kg Weight of the object
+i from bal. i 5 -
+Number the object from bal eo gram, mn = m/1000 kg W=mg N
+3.8 Newton’s Third Law
+We have learnt from Newton’s first law what happens when no force is applied.
+‘We have learnt from Newton's second law what happens when a force is applied.
+‘We will learn from Newton's third law what type of reaction takes place between
+the two objects when an object applies force on another object.
+Newton’s Third Law: When an object applies a force on another object,
+then that object also applies a force of equal magnitude on the first object

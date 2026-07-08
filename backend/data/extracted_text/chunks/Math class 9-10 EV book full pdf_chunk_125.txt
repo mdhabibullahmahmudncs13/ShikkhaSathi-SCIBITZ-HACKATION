@@ -1,0 +1,30 @@
+# Chunk 125 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.402033
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_125
+
+========================================
+
+--- Page 53 ---
+48 Mathematics Classes IX-X
+Note: By applying Formula 5, we get,
+1) (a+b—c)?={a+b+(—c)}
+=a? +b + (—c)? + 2ab + 2b(—c) + 2a(—c)
+=a? +b? +? + 2ab — 2bc — 2ac
+2) (a—b+c)?={a+(-b) +c}?
+=a? + (=) + 2 + 2a(—b) + 2(=b)c + 2ac
+=a? +b* + 2 —2ab — 2bc + 2ac
+3) (a—b—c)*={a+(=b)+(—0)}?
+=a’ + (—)* + (—¢)* + 2a(—b) + 2(=b)(—c) + 2a(—c)
+=a? +b +c? — 2ab + 2bc — 2ac
+Example 1. What is the square of (42 + 5y)7
+Solution: (4z+5y)% = (dz)? +2 x (42) x (5y) + (5y)* = 1622 + 40zy + 251°
+Example 2. What is the square of (3a — 7b)?
+Solution: (3a — 7b)? = (3a)* — 2 x (3a) x (7b) + (7b)? = 94° — 42ab + 49°
+Example 3. Find the square of 996 by applying the formula of square.
+Solution: (996)? = (1000 — 4)% = (1000)? — 2 x 1000 x 4 + 42
+= 1000000 — 8000 + 16 = 1000016 — 8000 = 992016

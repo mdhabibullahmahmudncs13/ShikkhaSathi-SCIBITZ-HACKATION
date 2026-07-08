@@ -1,0 +1,21 @@
+# Chunk 516 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.356143
+# Character count: 796
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_516
+
+========================================
+
+During the change of state of matter, the transformation from solid to liquid and
+from liquid to solid happens at a particular temperature. But without reaching
+that particular temperature a substance can transform from solid to liquid, liquid
+to gas or directly from solid to gas. It is not difficult to understand this if we go
+back to the molecular model of a substance. If a molecule somehow gets
+sufficient energy and due to this, its kinetic energy is increased sufficiently then
+the molecule may come out from the surface of solid or liquid substance. Since
+a large number of molecules from air are continuously striking the surface of
+solid or liquid, so sometimes some of the molecules of solids or liquids may
+obtain the required energy to become free. The more the surface area is, the

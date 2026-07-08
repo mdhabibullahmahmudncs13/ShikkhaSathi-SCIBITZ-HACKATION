@@ -1,0 +1,25 @@
+# Chunk 542 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.443673
+# Character count: 777
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_542
+
+========================================
+
+1) There are 35 male and 25 female students in your class. The ratio of
+rice and pulse given by each of the male and female students for making
+Khicuri in a picnic 3 : 1 and 5 : 2, respectively. Find the ratio of
+total rice and total pulse.
+2) The amount of pulse, mustard and paddy produced in a farmer's farm
+are 75 kg, 100 kg and 525 kg, respectively. The grains are sold at price of
+100, 120 and 30 taka respectively. After selling all the grains, calculate
+the ratio of income from the individual grain.
+Proportional Division
+Division of a quantity into fixed ratio is called proportional division.If S is to
+be divided in a given ratio a : b: ¢ : d, dividing S by a+b+c+d, the parts a,b,c
+and d need to be taken. Therefore, 1st part = S of BE __ Se
+at+bt+c+d a+btc+d
+b Sb

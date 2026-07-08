@@ -1,0 +1,23 @@
+# Chunk 822 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.390173
+# Character count: 746
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_822
+
+========================================
+
+p
+The unit of conductivity 6 is: (Q m)~!
+We have to remember one thing; the resistance of a substance is the hindrance
+to electron flow.
+The more the atoms and molecules vibrate the more the barrier the electrons will
+face while going through them. In other words, the more the resistance. As the
+vibrations of the atoms and molecules increases with the increase in
+temperature, so the specific resistance of a conducting substance also increases
+with temperature. So the temperature has to be specifically mentioned while
+expressing resistance or specific resistance of a substance.
+Fixed Resistance: Resistors with a definite value are used in different circuits.
+They can be of different shapes and of different types. The resistances that are

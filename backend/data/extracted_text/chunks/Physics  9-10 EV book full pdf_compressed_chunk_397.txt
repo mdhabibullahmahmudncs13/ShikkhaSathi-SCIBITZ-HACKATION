@@ -1,0 +1,32 @@
+# Chunk 397 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.339912
+# Character count: 737
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_397
+
+========================================
+
+--- Page 140 ---
+State of Matter and Pressure 135
+Density can be increased by compressing air or gas by increasing pressure but same
+is not true for liquids (neither for solids !). Liquids cannot be compressed in the
+same way with pressure, so its density cannot be increased or decreased. How
+pressure of water is increases when we go from the surface to the bottom of a sea
+is shown in figure 5.03. Since the density of water is nearly uniform, the
+pressure is increasing at the same rate. Starting from zero at the surface of the
+sea, it is increased a lot at the bottom of the sea.
+1 IE ED I ct
+z 400 CLA
+=
+5 300
+g 200
+a I Pd I I I
+5
+FLATT
+0 1 2 3 4 5 6
+depth (km)
+Figure 5.03: Pressure increases with the increase of depth
+® Example

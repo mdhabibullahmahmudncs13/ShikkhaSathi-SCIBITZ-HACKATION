@@ -1,0 +1,33 @@
+# Chunk 578 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.447511
+# Character count: 761
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_578
+
+========================================
+
+--- Page 254 ---
+Chapter 12. Simple Simultaneous Equations in Two Variables 249
+Example 3. Solve by the method of elimination:
+2r+y=28
+3r—-2y=5
+Note: To show the difference between the methods of substitution and
+elimination, same equations of example 2 have been taken in this example 3.
+Solution: Given equations are:
+2 +y=58...(1)
+3r—2y=5...(2)
+Multiplying both sides of equation (1) by 2, 4a + 2y = 16... (3)
+Adding (2) and (3),
+Tr =21
+or,r=23
+Putting the value of z in (1) we get,
+2x34+y=28
+or,y=8—6
+or, y=2
+.-. solution (x,y) = (3,2)
+Elimination method: Conveniently one equation or both equations are
+multiplied by such a number so that after multiplication, absolute values of the
+coefficients of the same variable become equal. Then as per need, if the

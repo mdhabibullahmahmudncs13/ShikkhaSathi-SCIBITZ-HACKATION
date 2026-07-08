@@ -1,0 +1,26 @@
+# Chunk 659 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.454934
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_659
+
+========================================
+
+--- Page 290 ---
+Chapter 13. Finite Series 285
+(26-1) _ 255 _ 127
+BD 256) 128 128
+Example 12.  Palash Sarker joined the job in January 2005 at a yearly salary
+of Tk. 120000. His yearly increment is Tk. 5000. 10% of his salary is deducted
+every year for provident fund. At the end of year he deposits 12000 Tk. in a bank
+at a compound interest of 12%. He will retire from the job on December 31, 2030.
+1) Which series done the basic salary of Palash Sarker follow? Write down that series.
+2) How much salary (in Tk.) would he receive in his entire job life excluding
+the provident fund money?
+3) What is the amount of total deposited money with interest in the bank by
+December 31, 20317
+Solution:
+1) Basic salary of Palash Sarker follows arithmetic series.

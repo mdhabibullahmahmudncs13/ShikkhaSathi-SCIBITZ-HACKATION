@@ -1,0 +1,20 @@
+# Chunk 432 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.433183
+# Character count: 468
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_432
+
+========================================
+
+point is located outside the circle, two tangents to the circle can be constructed.
+Construction 7. To draw a tangent at any point of a circle.
+Let A be a point of a circle whose centre is O. Tt is
+required to draw a tangent to the circle at the point A.
+Drawing: O, A are joined. At the point A, a
+perpendicular AP is drawn to OA. Then AP is the
+required tangent.
+Proof: The line segment OA is the radius passing Pp
+through A and AP is perpendicular to it. Hence AP A

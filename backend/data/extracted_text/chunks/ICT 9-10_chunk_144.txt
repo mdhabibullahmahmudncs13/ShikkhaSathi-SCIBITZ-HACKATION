@@ -1,0 +1,23 @@
+# Chunk 144 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.840839
+# Character count: 767
+# Chunk ID: ICT 9-10.txt_0_144
+
+========================================
+
+--- Page 44 ---
+Information and Communication Technology 39
+General Troubleshooting
+It is unusual that electronic devices have not gone out of order or not created
+troubles during using. Some problems are very usual, and some are unusual and
+complicated. Usual problems can be fixed by the users, but they have to take the
+help of experienced people for complicated problems. Computers or ICT
+devices are not exceptions. Those who use electronic devices have noticed that
+an operating manual is given with every device. The manual contains a section
+on the last two or three pages. entitled, trouble shooting’.
+Troubleshooting is the process of finding out the source of troubles. Usually
+some questions are given with solutions. The users, according to the nature of

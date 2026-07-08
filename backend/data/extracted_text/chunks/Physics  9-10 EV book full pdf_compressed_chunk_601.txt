@@ -1,0 +1,18 @@
+# Chunk 601 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.367330
+# Character count: 392
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_601
+
+========================================
+
+learn physics this division of wavelengths is one of the most important topics.
+@ Do Yourself
+We cannot see infrared rays with naked eyes because of their high
+wavelengths. A TV remote emits infrared rays that we cannot see. You may
+see this through mobile phone camera because a special type of light sensitive
+IC named CCD is used, which can detect some infrared light with visible
+light. g

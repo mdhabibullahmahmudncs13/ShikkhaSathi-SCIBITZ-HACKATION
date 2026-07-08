@@ -1,0 +1,27 @@
+# Chunk 704 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.378259
+# Character count: 789
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_704
+
+========================================
+
+we can reverse the direction of — >
+divergent rays, then they will emerge os: >—
+in parallel and will go in the inverted —7
+direction (Figure 9.19). 5
+To understand how an image is <
+formed in concave lens, we need to Figure 9.19: While passing through
+know how light rays are refracted ) BA Co
+concave lens rays of light converging
+through a concave lens. It depends on rays emerge in parallel.
+the angle with which the light ray is
+falling. If we know the three special rules of refraction of light, we can explain
+how the image is formed:
+(i) If the ray of light is centripetal (Figure 9.20, YO or XO ray) it goes
+straight after refraction.
+(ii) The rays which are parallel with the principle axis, (Figure 9.20 XP) will
+(PS) appear to diverge from the focal point (F) after refraction.

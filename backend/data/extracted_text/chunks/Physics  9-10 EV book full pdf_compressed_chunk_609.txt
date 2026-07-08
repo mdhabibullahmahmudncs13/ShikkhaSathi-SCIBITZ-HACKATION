@@ -1,0 +1,22 @@
+# Chunk 609 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.368258
+# Character count: 731
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_609
+
+========================================
+
+— > ———
+xox q, XX 4, Yn ym
+Figure 8.04: If a candle is placed between two parallel mirrors, the image
+X' and image of image X' i.e. X"", X""...will be formed.
+Here two laws of reflection have been stated. But everything about reflection is
+not yet discussed. The most important matter has not been discussed yet, that is
+how much will it reflect? If a mirror is used for reflection, it reflects fully. But
+the word reflection is not only meant for mirrors, it may occur between any two
+mediums. Fresnel's law describes how much it will reflect. You will learn more
+about it in higher classes. The main thing is, the larger the angle of incidence, the
+more the amount of reflection (Figure 8.05). In normal glass, light is reflected

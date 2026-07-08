@@ -1,0 +1,26 @@
+# Chunk 672 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.374947
+# Character count: 734
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_672
+
+========================================
+
+have imagined a normal from the Figure 9.01 : Refraction of light from
+point of incident. We do the same first medium to the second
+here . In Figure 9.01 we will call the
+angle between the incident ray and the normal as the angle of incidence and the
+angle between the refracted ray and the normal as angle of refraction.
+First Law of Refraction: The refracted ray will lie on the same plane as the
+incident ray and the normal.
+Second Law of Refraction: If the refractive index of the first medium is n ,
+the refractive index of the second medium is n,, the angle of incidence is 0, ,
+the angle of refraction is 6,, then
+ni sinbh = ny sin 6;
+If you remember this, you will be able to solve all problems about
+refraction of light.
+a
+Bl

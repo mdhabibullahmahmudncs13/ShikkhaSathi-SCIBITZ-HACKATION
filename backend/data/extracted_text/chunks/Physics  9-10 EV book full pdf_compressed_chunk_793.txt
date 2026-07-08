@@ -1,0 +1,26 @@
+# Chunk 793 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.387908
+# Character count: 798
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_793
+
+========================================
+
+depends?
+Mathematical questions
+1. 4C and -1C charges are kept 1 m apart. At which point of the line joining
+them, is the magnitude of the electric field zero?
+2. An electron in a hydrogen atom revolves around the nucleus due to Coulomb’s
+force. The mass of electron is 9.11x10*! kg and proton is 1.67x10?” kg and for
+this there is also a gravitational force between them. Which of these two forces
+is greater and by how much?
+3. Draw the electric lines of force for the two charges mentioned in question
+number 1.
+4. Equipotential lines for opposite charges are shown in Figure 10.15, show
+electric field from there.
+5. Electric field for two charges is shown in Figure 10.13, draw the potential.
+Choose the correct answer
+1. The name of the apparatus used to determine the presence of charge is —

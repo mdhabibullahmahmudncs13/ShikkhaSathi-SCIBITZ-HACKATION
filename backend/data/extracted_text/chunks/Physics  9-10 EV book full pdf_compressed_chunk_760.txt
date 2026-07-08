@@ -1,0 +1,18 @@
+# Chunk 760 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.384231
+# Character count: 382
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_760
+
+========================================
+
+acceleration without beginning from gravitational force separately. Multiplying
+that acceleration with mass, we determine force.
+In case of electric force, we can do that, we can define a new quantity called
+electric field. Multiplying charge ¢ with this, we will get the force F acting on it.
+Therefore, any charge g creates an electric field around it. That electric field E
+is:
+q

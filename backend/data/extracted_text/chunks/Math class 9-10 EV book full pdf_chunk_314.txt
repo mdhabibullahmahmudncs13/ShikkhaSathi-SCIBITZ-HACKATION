@@ -1,0 +1,37 @@
+# Chunk 314 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.421136
+# Character count: 598
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_314
+
+========================================
+
+a result two adjacent angles ZAOC and ZCOB are D C
+formed. Draw a perpendicular DO on AB.
+
+Sum of the adjacent two angles
+
+= AOC + ZC0B = ZAOD + /DOC + ZCOB
+
+= ZAOD + ZDOB = 2 right angles. A 0 B
+Theorem 2. When two straight lines intersect, the vertically opposite angles
+are equal.
+
+Let AB and C'D be two straight lines, which intersect A D
+
+at O. As a result the angles ZAOC, ZCOB, ZBOD,
+
+ZAOD are formed at O. %)
+
+ZAOC = opposite ZBOD and ZCOB = opposite
+
+ZAOD. (ol B
+Parallel lines
+
+Alternate angles, corresponding angles and interior angles of the
+traversal
+
+Forma-17, Mathematics, Class 9-10

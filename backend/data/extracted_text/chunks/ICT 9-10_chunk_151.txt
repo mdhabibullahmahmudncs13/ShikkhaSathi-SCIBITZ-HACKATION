@@ -1,0 +1,31 @@
+# Chunk 151 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.842069
+# Character count: 619
+# Chunk ID: ICT 9-10.txt_0_151
+
+========================================
+
+Note: Sometimes this problem persists when the
+keyboard and the mouseport of the motherboard
+are loosely connected. Set the connection
+properly.
+
+g
+Forma-6, ICT-(9-10)
+
+
+--- Page 47 ---
+42 Computer Maintenance and Cyber Security
+(Slnos.| Problems | General Solutions
+
+7. | Thecomputer | 1. If the cooling fan set over the CPU does not move
+repeatedly or coal the system properly, this promlem occurs.
+freezes, and In that case, switch off the power, and opening the
+reboots cooling fan, check it out. If the fan is faulty, replace
+automatically. it. Besides, check the fan behind the CPU while the
+
+computer is running.

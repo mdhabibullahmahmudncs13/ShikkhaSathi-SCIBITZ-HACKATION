@@ -1,0 +1,28 @@
+# Chunk 464 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.347441
+# Character count: 790
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_464
+
+========================================
+
+--- Page 166 ---
+Effect of Heat on Matter 161
+® By the end of this chapter we will be able to-
+e explain heat and temperature.
+e explain the thermal properties of matter.
+« analyse the relationship among Fahrenheit, Celsius and Kelvin scale.
+* explain the increase in temperature with the increase of internal energy
+of the substances.
+e explain the thermal expansion of substances.
+e explain the expansion in length, area and volume of a solid.
+e explain the real and apparent expansion of liquids.
+e explain specific heat and heat capacity.
+* explain the principle of measurement of heat.
+e explain the effect of heat in changing the state of matter.
+e explain melting, vaporization and condensation.
+e explain melting and boiling point.
+* explain the effect of pressure on melting point.

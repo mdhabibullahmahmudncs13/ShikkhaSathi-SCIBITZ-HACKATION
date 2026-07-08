@@ -1,0 +1,32 @@
+# Chunk 167 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.406171
+# Character count: 788
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_167
+
+========================================
+
+--- Page 74 ---
+Chapter 3. Algebraic Expressions 69
+Example 34. For a function of Annual Sports, members of an association
+made a budget of Tk. 45000 and decided that every member would subscribe
+equally. But 5 members refused to subscribe. As a result, amount of subscription
+of each member increased by Tk. 15 per head. How many members were in the
+association?
+Solution: Let the number of members of the association be 2 and amount of
+subscription per head be Tk. ¢.
+Then total amount of subscription, Tk A = gx = 45,000 .
+Actually numbers of members were (z — 5) and amount of subscription per head
+became Tk. (gq + 15) .
+Then, total amount of subscription (x — 5)(g + 15)
+By the question,
+
+qr = (zr =5)(¢ +15) + (1)
+
+qr = 45000 +++ (2)
+From equation (1) we get,
+
+gz = (¢ — 5)(q + 15)

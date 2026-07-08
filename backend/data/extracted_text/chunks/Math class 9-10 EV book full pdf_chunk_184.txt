@@ -1,0 +1,26 @@
+# Chunk 184 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.407889
+# Character count: 689
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_184
+
+========================================
+
+21. A tank is filled up in 12 minutes by a pipe. Another pipe flows out 15 litre of
+water in 1 minute. When the tank remains empty, the two pipes are opened
+togethr and the tank is filled up in 48 minutes. How much water does the
+tank contain ?
+
+22. Divide Tk. 260 among A, B and C' in such a way that 2 times the share
+of A, 3 times the share of B and 4 times the share of C' are equal to one
+another.
+
+23. Due to the selling of a commodity at the loss 2% such price is obtained that
+due to the selling at the profit of 32% Tk. 18x more is obtained. What was
+the cost price of the commodity ?
+
+24. If a pen is sold at Tk. 11, there is a profit of 10%. What was the cost price
+of the pen ?

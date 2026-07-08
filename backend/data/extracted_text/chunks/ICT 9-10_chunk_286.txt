@@ -1,0 +1,33 @@
+# Chunk 286 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.864524
+# Character count: 789
+# Chunk ID: ICT 9-10.txt_0_286
+
+========================================
+
+Background" will be written on the layer palette. The background will not be
+
+transparent in spite of being white because white is a colour.
+
+- Suppose that a file with the p rere = i
+picture of a flower is opened. || fagge [= i]
+‘Background’ is written on i | EET
+the layer palette. An icon of a | ~1|
+lock is viewed to the right of 4 |
+the layer bar. It indicates that i il el
+the layer has been locked. I} A
+The object of a locked layer [1 L. l=oge-as
+cannot be shifted by clicking
+or dragging with the ‘Move’ tool.
+
+- If *White’ is kept as ‘Background Content’ and "Background while opening
+a new file, ‘Background’ will be viewed on the layer palette.
+
+- ‘Background’ can be transformed into a layer to shift the sample picture of the
+flower elsewhere.
+
+To accomplish the task — e— O]

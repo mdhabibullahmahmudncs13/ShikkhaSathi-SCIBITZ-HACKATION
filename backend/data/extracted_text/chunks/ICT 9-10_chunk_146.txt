@@ -1,0 +1,28 @@
+# Chunk 146 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.841336
+# Character count: 763
+# Chunk ID: ICT 9-10.txt_0_146
+
+========================================
+
+--- Page 45 ---
+40 Computer Maintenance and Cyber Security
+Some Common Desktop Computer Problems and Solutions
+Sl nos. Problems General Solutions
+1. Computerisnot | 1. Check the main power cable whether the
+h connection is loose or not.
+starting up. 2. Check whether there is power on the main power-board.
+3. If there is no power on the main power-board,
+change the main power supply unit.
+4. Take the device to the local service centre and
+consult an expert.
+5. | Nothingis 1 Check if the monitor light is on. Tf the light is on, check the
+: viewed on the monitor data cable and plug it properly if the cable is open o
+monitor loose.
+though the 2. Turn off the system and unplug the power cable
+Syetemis from tha main system.
+. 3. Remove the RAM from the slots.

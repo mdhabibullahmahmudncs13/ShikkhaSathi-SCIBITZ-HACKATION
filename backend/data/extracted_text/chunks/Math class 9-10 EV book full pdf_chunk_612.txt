@@ -1,0 +1,30 @@
+# Chunk 612 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.450486
+# Character count: 772
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_612
+
+========================================
+
+--- Page 269 ---
+264 Mathematics Classes IX-X
+Example 13. 8 years ago, father’s age was eight times the age of his son. After
+10 years, father’s age will be twice the age of the son. What are their present
+ages?
+Solution: Let the present age of father be z years and age of son is y years.
+by Ist condition, x — 8 = 8(y — 8)... (1)
+and by 2nd condition, x + 10 = 2(y + 10)... (2)
+From (1) we get, © —8 = 8y — 64
+or, zt =8y—64+8
+or, x =8y —56...(3)
+From (2) we get, x + 10 = 2y + 20
+or, 8y — 56 + 10 = 2y + 20 [Putting the value of x from (3)]
+or, 8y — 2y = 20 + 56 — 10
+or, 6y = 66
+or,y = 11
+(3) we get, x = 8 x 11 — 56 = 88 — 56 = 32
+.. at present, Father's age is 32 years and son's age is 11 years.
+Example 14. Twice the breadth of a rectangular garden is 10 metre more

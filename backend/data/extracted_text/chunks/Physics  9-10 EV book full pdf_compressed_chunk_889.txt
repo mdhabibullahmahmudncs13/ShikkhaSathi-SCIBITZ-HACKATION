@@ -1,0 +1,30 @@
+# Chunk 889 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397640
+# Character count: 772
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_889
+
+========================================
+
+from inside the paper. 3g
+
+
+--- Page 342 ---
+Magnetic Effects of Current 337
+If current flows through the wire (from bottom to up) that current will create a
+circular magnetic field around it and thus rearrange the magnetic lines of force,
+by combining with the magnetic field that goes from the north pole to the south
+pole. At the bottom of the wire the lines of forces will be more and at the top of
+the wire the lines of forces will be less, which will push the wire in upward
+direction.
+If the direction of current through the wire is reversed, then the direction of the
+circular magnetic field will also be reversed. Then the density of the lines of
+force at the top of the wire will be more and hence push the wire downward.
+Current x ®
+=
+No [= oo
+ZZ 4 N s N | :]
+=

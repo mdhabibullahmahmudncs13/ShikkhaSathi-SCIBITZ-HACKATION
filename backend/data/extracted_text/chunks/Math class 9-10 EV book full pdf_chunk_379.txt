@@ -1,0 +1,17 @@
+# Chunk 379 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.427527
+# Character count: 185
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_379
+
+========================================
+
+A and C, draw two arcs of equal radius
+1
+with 3? in the interior of ZABC. The
+arcs intersects each other at the point D.
+Join A, D; C, D. /N .
+ABCD is the required rhombus. B + » A Xx g

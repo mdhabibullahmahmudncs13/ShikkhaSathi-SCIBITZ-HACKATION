@@ -1,0 +1,30 @@
+# Chunk 884 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.397216
+# Character count: 727
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_884
+
+========================================
+
+direction of the magnetic field, while the other fingers show the direction of the
+
+current (Figure 12.06). A coil of wire or a solenoid behaves like a bar magnet,
+
+and the direction of the thumb will be the north pole of this magnet.
+
+12.2.2: Electromagnet
+
+A more powerful magnetic field can be created if a piece of iron is inserted
+
+inside a solenoid than the magnetic field that can be produced by using current
+
+only. The three metals iron, cobalt and nickel have special magnetic properties.
+
+These metallic pieces can be considered as an accumulation of individual tiny
+
+magnets, which generally don’t act as a magnet as they are aligned in different
+
+directions. These substances consist of an enormous number of small

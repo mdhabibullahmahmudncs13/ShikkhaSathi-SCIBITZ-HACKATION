@@ -1,0 +1,21 @@
+# Chunk 251 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.325478
+# Character count: 748
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_251
+
+========================================
+
+Newton’s Third Law: When an object applies a force on another object,
+then that object also applies a force of equal magnitude on the first object
+but in the opposite direction.
+In physics, generally Newton's third law is written as, “Every action has an equal
+and opposite reaction”, although we have not written it in this form. By this time
+since we have a little idea about force, confusion may occur if force is termed as
+“action” or “reaction” “suddenly”. Moreover, those who are the new learners of
+physics, their first question will be if every reaction (a force) has an opposite
+reaction (another force) then why action and reaction are not cancelling each
+other, producing zero? For this reason, the third law will have to be written very

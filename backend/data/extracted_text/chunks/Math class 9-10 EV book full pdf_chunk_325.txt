@@ -1,0 +1,27 @@
+# Chunk 325 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.422210
+# Character count: 769
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_325
+
+========================================
+
+--- Page 139 ---
+134 Mathematics Classes IX-X
+Obtuse triangle G
+A triangle having an angle obtuse is an obtuse angled - 7
+triangle. In the figure, the ZG'K H is an obtuse angle; " %
+the two other angles ZGHK and ZHGK are acute.
+AGHK is an obtuse angled triangle.
+Interior and Exterior Angles
+If a side of a triangle is produced, a new angle is formed. This angle is known
+as exterior angle. Except the angle adjacent to the exterior angle, the two others
+angles of the triangle are known as opposite interior angles.
+In the adjacent figure, the side BC of AABC is A
+extended to D. The angle ZAC'D is an exterior angle
+of the triangle. ZABC', ZBAC and ZACB are three
+interior angles. ZACB is the adjacent interior angle 5 = D
+of the exterior angle ZACD. Each of ZABC and

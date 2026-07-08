@@ -1,0 +1,26 @@
+# Chunk 799 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.469420
+# Character count: 756
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_799
+
+========================================
+
+--- Page 351 ---
+346 Mathematics Classes IX-X
+Example 29. The area of the whole surface of a cube is 96 square metre.
+Determine the length of its diagonal.
+Solution: Let, the sides of the cube is a.
+The area of its whole surface = 6a? and length of its diagonal = v/3a
+As per question, 6a” = 96 or, a> = 16 ".a = 4
+.-. The length of the diagonal = v/3 - 4 = 6.928 metre (approx. ).
+The required length of the diagonal 6.928 metre (approx.).
+‘Work: The sides of 3 metal cubes are 3 cm, 4 cm and 5 cm respectively.
+A new cube is formed by melting these 3 cubes. Determine the area of the
+whole surface and the length of the diagonal of the new cube.
+Cylinder
+The solid formed by a complete revolution of any
+rectangle about one of its sides as axis is called

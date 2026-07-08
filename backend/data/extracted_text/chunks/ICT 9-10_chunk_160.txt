@@ -1,0 +1,28 @@
+# Chunk 160 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.843184
+# Character count: 757
+# Chunk ID: ICT 9-10.txt_0_160
+
+========================================
+
+--- Page 50 ---
+Information and Communication Technology 45
+3. Which one is the resource of the modern world?
+A. Information B. Data
+C. Computer D. Internet
+4. Installation of software requires attention on whether —
+i. it supports the hardware or not.
+11. the antivirus software is closed or not.
+iii. it has the permission of the administrator or not.
+Which one is correct?
+A i&ii B. i&iii
+C. ii & iii D. iii & iii
+Read the section below, and answer the question numbers 5 & 6:
+Mr. Ekram has been noticing for a few days that his computer restarts after being
+shut down at irregular intervals. He remembers that it started happening after he
+copied a song from the pendrive of his friend a few days ago.
+5. The error responsible for the computer might be?

@@ -1,0 +1,23 @@
+# Chunk 211 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.321293
+# Character count: 788
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_211
+
+========================================
+
+p=mv
+Here the mass is a scalar quantity, but the velocity is a vector, therefore the
+momentum is a vector quantity. You may think that generally the mass of an
+object does not change, so a change in momentum may occur only due to the
+change in its velocity. But in a special case we may find that the velocity of the
+object has not changed but due to the change of mass, change of its momentum
+occurs. You may think, instead of defining a new term ‘momentum’, what was
+the problem to always treat it as a product of mass and velocity? In general, it
+does not create a big problem but in case of a ‘particle of light’ it may create
+serious problems. A particle of light or a photon has no mass but it has
+momentum! Compared to the mass and velocity momentum is a more
+fundamental quantity.

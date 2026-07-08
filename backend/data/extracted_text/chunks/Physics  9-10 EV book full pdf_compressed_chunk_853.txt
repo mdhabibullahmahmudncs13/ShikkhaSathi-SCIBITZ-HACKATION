@@ -1,0 +1,24 @@
+# Chunk 853 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.393517
+# Character count: 759
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_853
+
+========================================
+
+--- Page 326 ---
+Current Electricity 321
+The conducting wires that are used to carry electricity from one place to other
+have at least some minimum resistance. When current (/) flows through a
+resistance (R), heat (IR) is generated and this is loss of electrical energy. This
+loss is called system loss. We have already discussed that if electricity is
+supplied at high voltage then for a definite electrical energy, loss is reduced
+because of resistive heat energy. That is why electricity produced in the power
+plants is transformed into high voltage using step up transformers. Before
+distributing the electrical energy for customer use, the electrical supply is again
+brought down to a suitable voltage using a step down transformer.
+
+11.4.2 Load Shedding

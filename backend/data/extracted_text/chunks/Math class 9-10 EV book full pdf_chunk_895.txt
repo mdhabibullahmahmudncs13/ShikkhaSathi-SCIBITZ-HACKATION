@@ -1,0 +1,35 @@
+# Chunk 895 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.478987
+# Character count: 785
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_895
+
+========================================
+
+--- Page 393 ---
+388 Mathematics Classes IX-X
+Solution : Denominator of the first fraction = a —4 = (a+ 2)(a—2)
+Denominator of the second fraction
+=a’ +3a-10 = a’ -2a+5a—-10
+=a(a-2)+5a-2) = (a-2)(a+5)
+L.C.M. of the two fractions = (a + 2)(a — 2)(a + 5)
+Now let us express fractions with common denominators
+- 2 2 — 2x(a+5) [Multiplying numerator
+a—4 (a+2)(a-2) (a+2)(a—2)x(a+5) and denominator by
+(a+5)]
+_ 2a+5)
+(@ —Ha+95)
+And 5 _ 5 _ Sx(a+2) [Multiplying the
+nd ———— 5. numerator and
+a +3a-10 (a-2)(a+5) (a-2)a+5)x(a+2) denominator by
+_ 5a+2) (a+2)]
+(@ —4)(a+5)
+.. The required fractions are _ Aad) | _Sa+2)
+(@ —4)a+5 (a —4(a+5)
+Example 6. Transform the fractions into its common denominator:
+S28
+43x XP +5x+6 F-x-12
+Solution: Denominator of the first fraction is = x> + 3x = x(x + 3)

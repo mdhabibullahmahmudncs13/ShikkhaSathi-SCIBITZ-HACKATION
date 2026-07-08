@@ -1,0 +1,28 @@
+# Chunk 304 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.868298
+# Character count: 696
+# Chunk ID: ICT 9-10.txt_0_304
+
+========================================
+
+- Select the Crop tool from the toolbox;
+
+- Select the necessary part keeping the uneven parts outside by clicking and
+dragging it like the rectangular marquee tool.
+
+- Eight hollow square boxes will be viewed, four on the arms of the selection
+and four on the comers. By clicking any one the boxes and dragging it, the
+area of the selection can be either reduced or increased.
+
+- After fixing the selection area. press the enter bution of the key board, and
+the area outside the selection will be cropped.
+
+- If you think that the crop command should not be given even after selecting,
+press the Esc button to undo the effect. Selection can be made again if
+required.
+
+Cropping up Tilted Picture

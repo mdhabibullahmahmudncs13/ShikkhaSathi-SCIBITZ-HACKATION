@@ -1,0 +1,18 @@
+# Chunk 402 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.340325
+# Character count: 400
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_402
+
+========================================
+
+top and bottom of the cylinder is 4. of the displaced water.
+We imagine that the cylinder is
+immersed in such a way that the depth of upper surface is /, and depth of lower
+surface is /2,.
+‘We have said many times that, pressure in a liquid (or gaseous) does not work in
+a definite direction. It works in all directions. Therefore the downward pressure
+acting on the upper surface of the cylinder is:

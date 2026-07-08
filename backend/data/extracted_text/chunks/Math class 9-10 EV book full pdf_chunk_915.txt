@@ -1,0 +1,35 @@
+# Chunk 915 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480763
+# Character count: 733
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_915
+
+========================================
+
+--- Page 404 ---
+Appendix 399
+Theorem 5
+Two diagonals of a rhombus bisect each other at right angles.
+Proposition: Let the diagonals AC and BD of the rhombus
+ABCD intersect at O. It is required to prove that, p ¢
+(i) ZAOB = ZBOC = ZCOD = ZDOA = 1 right angle
+(ii) 40 =CO, BO=DO. XT
+Proof: 4 5
+(1) A rhombus is a parallelogram. Therefore, [Diagonals of a
+AO =CO, BO=DO. parallelogram bisect
+each other]
+(2) Now, in A AOB and ABOC,
+AB =BC [ sides of a rhombus
+AO =CO are equal |
+and OB =0B. [ from (1) ]
+So A4OB = ABOC . [ common side ]
+[ SSS theorem ]
+Therefore, ZA0B = ZBOC .
+ZAOB + ZBOC = 1 straight angle = 2 right angles.
+ZAOB = ZBOC =I right angle.
+Similarly, it can be proved that, ZCOD = 2D0A = 1 right
+angle. (Proved)
+Activity

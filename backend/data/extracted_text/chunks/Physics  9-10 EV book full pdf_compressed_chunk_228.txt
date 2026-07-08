@@ -1,0 +1,26 @@
+# Chunk 228 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.322856
+# Character count: 793
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_228
+
+========================================
+
+--- Page 81 ---
+76 Physics
+mao F
+But we don’t want to express the law in proportional form, rather we want to
+write it as an equation.
+In that case, using a proportionality constant k, we can write
+F = kma
+In case of Newton's second law it is possible to create an amazing result. Since
+the term ‘force’ is not explained anywhere, (Newton's first law gives the concept
+only) by using the second law this will be measured for the first time. So, we
+have to give a value for the constant. We can say, when Newton's second law
+will be applied, if the proportionality constant is considered as 1, then the
+equation we will get is the measure of force. How easily a proportionality
+relation is converted into an equation.
+Therefore, we can write Newton's second law of motion as an equation. If the

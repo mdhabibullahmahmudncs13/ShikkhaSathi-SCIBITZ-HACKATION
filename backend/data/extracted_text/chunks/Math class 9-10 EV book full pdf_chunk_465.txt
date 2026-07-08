@@ -1,0 +1,47 @@
+# Chunk 465 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.436207
+# Character count: 770
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_465
+
+========================================
+
+--- Page 203 ---
+198 Mathematics Classes IX-X
+Example 10. Prove that: L=sin A =sec A —tan A
+V1+sinA
+Solution:
+1—sin A
+JS = ——
+LIS 1+4sin A
+_ (1 —sin A)(1 — sin A) Co .
+“Vim A —sn A) [Multiplying the numerator and denominator by
+V1 —sin A]
+_ [(1—sin A)?
+BD 1—sin’A
+~/(1 —sin A)?
+BN cos? A
+_l-sind
+© cos A
+_ 1 smA
+TcosA cos A
+=sec A —tan A
+= R.H.S (Proved)
+Example 11. If tan A + sin A = a and tan A — sin A = b, prove that, a —b* =
+4v/ab
+Solution: Here given that, tan A 4 sin A = a and tan A — sin A =b
+LHS. =a? — 1?
+= (tan A + sin A)? — (tan A — sin A)?
+= dtan Asin A [7 (a +b)? — (a — b)? = 4ab]
+= 4Vtan? Asin’ A
+= 4y/tan?A(1 — cos? A)
+= 4vtan?A — tan’ A.cos?A
+— Avan? si [tan A = SRA
+tan sin”A [tan wos 1
+=4,/(tan A + sin A)(tan A — sin A)
+=4Vab
+IS
+= R.H.S (Proved) s

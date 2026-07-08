@@ -1,0 +1,27 @@
+# Chunk 800 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.469501
+# Character count: 548
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_800
+
+========================================
+
+Cylinder
+The solid formed by a complete revolution of any
+rectangle about one of its sides as axis is called
+a cylinder or a right circular cylinder. The two —-—
+ends of a right circular cylinder are circular surfaces. Height
+The curved face is called curved surface and the Axis
+total plane is called whole surface. The side of the
+rectangle which is parallel to the axis and revolves
+about the axis is called the generator line of the
+cylinder.
+h Area = 2nrh
+nr
+The figure above is a right circular cylinder, whose radius is and height h. N
+3
+g
+S

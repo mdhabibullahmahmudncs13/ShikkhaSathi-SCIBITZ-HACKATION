@@ -1,0 +1,29 @@
+# Chunk 147 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.841489
+# Character count: 779
+# Chunk ID: ICT 9-10.txt_0_147
+
+========================================
+
+monitor loose.
+though the 2. Turn off the system and unplug the power cable
+Syetemis from tha main system.
+. 3. Remove the RAM from the slots.
+running. 4. Clean up the connectors of the RAM rubbing
+with an eraser.
+5. Clean up the slot of the RAM with a hard brush.
+6 Turn on the computer without installing the RAM,
+and notice whether you get any beep sound.
+7. If you get any beep sound, turn off the computer,
+and again turn on after installing the RAM.
+8. If you getany beep sound, you have to understand
+that the RAM is faulty.
+9. Install a new RAM if there is no display yet.
+1p. Install the RAM, and check again. Faulty RAM is the
+| reason for at least half of the display problems.
+3. The system 1. Open the Casing.
+becomesvery |2. Remove the CPU or processor fan from the

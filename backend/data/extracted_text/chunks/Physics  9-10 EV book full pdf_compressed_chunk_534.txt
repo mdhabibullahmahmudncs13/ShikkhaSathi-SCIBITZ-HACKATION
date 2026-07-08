@@ -1,0 +1,28 @@
+# Chunk 534 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.358353
+# Character count: 644
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_534
+
+========================================
+
+--- Page 189 ---
+184 Physics
+
+Mathematical questions
+
+1. Scientist Celsius introduced a thermometer in which the boiling point of ice was
+100° C and the boiling point of water was 0” C! At which temperature the readings
+in Celsius and Fahrenheit scales are equal?
+
+2. At which temperature will the density of gold decrease to 0.001% ?
+
+3. The temperature of water increased by 15° C after a piece of hot iron of mass 1
+gm at temperature 30° C was put into water of 1 liter. What was the temperature
+of the piece of iron?
+
+4. If 10 J heat is supplied per second to a piece of ice of 1gm at temperature 0°C,
+how long it takes to vaporize the ice?

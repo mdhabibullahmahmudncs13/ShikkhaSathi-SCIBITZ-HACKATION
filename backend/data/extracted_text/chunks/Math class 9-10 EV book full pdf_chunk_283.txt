@@ -1,0 +1,24 @@
+# Chunk 283 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418365
+# Character count: 770
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_283
+
+========================================
+
+--- Page 124 ---
+Chapter 6. Lines, Angles and Triangles 119
+At the end of this chapter, the students will be able to -
+» describe the basic postulates of plane geometry.
+» prove the theorems related to triangles.
+» apply the theorems and corollaries related to triangles to solve problems.
+Concepts of space, plane, line and point
+The space around us is limitless. It is occupied by different solids, small and large.
+By solids we mean the grains of sand, pin, pencil, paper, book, chair, table, brick,
+rock, house, mountain, the earth, planets and stars. The concept of geometry
+springs from the study of space occupied by solids and the shape, size, location
+and properties of the space.
+A solid occupies space which is spread in three directions. This spread in three

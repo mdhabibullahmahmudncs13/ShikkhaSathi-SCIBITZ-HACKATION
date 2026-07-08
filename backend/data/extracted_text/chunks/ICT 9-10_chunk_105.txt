@@ -1,0 +1,24 @@
+# Chunk 105 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.835360
+# Character count: 618
+# Chunk ID: ICT 9-10.txt_0_105
+
+========================================
+
+tion. Confidential information transmitted over public networks is typically
+encrypted with a unique code to safeguard its privacy and security.
+DDoS Attack - (Distributed Denial of Service)
+‘When a person is interviewed on TV, if many people ask the person many ques-
+lions at once, it becomes difficult for the person lo speak well on a particular
+topic and wastes time. Because he can lose track of what wo say and what to
+keep. Similarly, in the digital world, a Distributed Denial of Service (DDoS)
+attack uses multiple devices to attack a specific target simultancously.
+Autackers
+Target Server
+Internet =
+=F
+J 2

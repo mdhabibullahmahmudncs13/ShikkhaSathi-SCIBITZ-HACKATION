@@ -1,0 +1,32 @@
+# Chunk 68 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.395923
+# Character count: 593
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_68
+
+========================================
+
+" .. factors of 28 are 1,2,4,7,14,28
+
+a
+
+BS Hence the desired set is B = {1,2,4,7,14, 28}
+
+
+--- Page 29 ---
+24 Mathematics Classes IX-X
+Example 3.Express C' = {x : x positive integer and x? < 18} by using roster
+method.
+Solution: 1,2,3,4,5,... are positive integers.
+Here, if
+x =1then 22 =12=1;if x =2then 2° =22=4
+If 2 = 3,then 2? =3%=09;if x = 4 then 2° =4%=16
+If x = 5, then 7? = 5% = 25 ; which is greater than 18.
+.. as per conditions the acceptable positive integers are 1,2,3 and 4.
+.-. the given set is C' = {1,2,3,4}
+‘Work: Express
+
+1) C={-9,-6,-3,3,6,9} by using set building method.

@@ -1,0 +1,27 @@
+# Chunk 96 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.399023
+# Character count: 774
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_96
+
+========================================
+
+--- Page 40 ---
+Chapter 2. Sets and Functions 35
+Example 15. Let us assume that A = {3,5} and B = {2,4}
+SAX B= (35) x {2.4} = {(3,2),(3,4), (5,2). (5.4)}
+SRC {(3,2),(3,4). (5,2), (5,4)}
+when for an element x of set A and an element y of set B (x,y) € R, then it is
+written Ry and read that x is related to y, that is, x is related to y using relation R.
+If © > y, then R = {(3,2), (5.2), (5,4)}
+and if z < y then R = {(3,4)}
+Again, if there is a relation from set A to set A, that is, R C A x A, then Ris a
+relation of A.
+If x € A,y € Bis related, then the nonempty subset of ordered pairs (x,y) is called
+relation.
+Example 16. If P = {2,34}, Q = {4,6} and for elements of P and Q a
+relation y = 2x exists, then find the relations.
+Solution: Given, P = {2,3,4} and Q = {4,6}

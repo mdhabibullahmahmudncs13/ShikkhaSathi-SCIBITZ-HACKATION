@@ -1,0 +1,23 @@
+# Chunk 101 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.834721
+# Character count: 739
+# Chunk ID: ICT 9-10.txt_0_101
+
+========================================
+
+--- Page 33 ---
+28 Computer Maintenance and Cyber Security
+of software systems over the Internet and find passwords. As a result, it can
+easily cause damage. They are called black hat hackers. The trend of hacking
+crime is increasing day by day. Cybercrime is committed through hacking.
+Hackers can view other people's e-mails, gain unauthorized access 10 web serv-
+ers, or steal files over a network.
+Brute Force Attack
+Just as a thief in real life uses different keys to enter a locked room and try to
+unlock it, digital criminals use other types of software to illegally access peo-
+ple's accounts such as bank, social media, and email accounts, and in many cases
+even digital devices. And try to make assumptions about them one by one.

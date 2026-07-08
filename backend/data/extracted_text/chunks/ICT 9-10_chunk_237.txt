@@ -1,0 +1,24 @@
+# Chunk 237 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.856766
+# Character count: 733
+# Chunk ID: ICT 9-10.txt_0_237
+
+========================================
+
+--- Page 77 ---
+72 Multimedia and Graphics
+6. Interactive Computing: In this connection, we should know a piece of
+information about interactivity. Application of any style, such as Microsoft
+word scroll or flash, into the text or any effects of animation into the video
+does not make the text or video interactive. Something created by the
+powerful authoring software like ‘Flash®, ‘Director’, and “Authorware” that
+makes interaction possible between the user and the computer is called
+‘Interactivity’.
+Use of Multimedia in TCT
+There is an increased use of multimedia in ICT.
+1. As teaching aid : The use of multimedia as a teaching aid is widely used.
+The learner will understand a topic easily, if multimedia is used in the class

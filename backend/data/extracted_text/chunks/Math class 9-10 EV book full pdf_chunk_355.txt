@@ -1,0 +1,26 @@
+# Chunk 355 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.425131
+# Character count: 775
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_355
+
+========================================
+
+--- Page 153 ---
+148 Mathematics Classes IX-X
+Observe that in each of the cases above, three parts of a triangle have been
+specified. But any three parts do not necessarily specify a unique triangle. As for
+example, if three angles are specified, infinite numbers of triangles of different sizes
+can be drawn with the specified angles (which are known as similar triangles).
+c
+A B
+C
+Sometimes for construction of a triangle three such data are provided by which
+we can specify the triangle through various drawing. Construction in a few such
+cases is stated below.
+Construction 1. The base, the base adjacent angle and the sum of other two
+sides of a triangle are given. Construct the triangle.
+Let the base a, a base adjacent angle Zz and the sum s of the other two sides of

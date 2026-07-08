@@ -1,0 +1,15 @@
+# Chunk 478 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.348854
+# Character count: 322
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_478
+
+========================================
+
+international unit is Kelvin (K). Adding 273.15°C with the reading of Celsius
+scale we get the reading of Kelvin scale. If we consider only the difference of
+temperature, there is no difference between Celsius and Kelvin scale. That is, the
+increase in temperature by 10 °C is the same as the increase in temperature by BS

@@ -1,0 +1,24 @@
+# Chunk 579 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.447604
+# Character count: 628
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_579
+
+========================================
+
+coefficients of the same variable become equal. Then as per need, if the
+equations are added or subtracted, the variable with equal coefficient will be
+eliminated. Then, solving the obtained equation, the value of the existing
+variable will be found. If that value is put conveniently in any of the given
+equations, value of the other variable will be found.
+Cross multiplication method:
+We consider the following two equations:
+mr +by+e=0...(1)
+arr + boy + ca =0...(2)
+Multiplying equation (1) by by and equation (2) by b; we get,
+arbor + bibay + bac; = 0... (3)
+ashy + biboy + byes = 0... (4)
+Forma-32, Mathematics, Class 9-10

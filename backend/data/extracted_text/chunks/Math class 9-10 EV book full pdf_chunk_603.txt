@@ -1,0 +1,34 @@
+# Chunk 603 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.449560
+# Character count: 738
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_603
+
+========================================
+
+--- Page 265 ---
+260 Mathematics Classes IX-X
+Solution: Given equations are:
+2c +5y=—14...(1)
+dr —5y=17...(2)
+—2x— 14
+From equation (1) we get, 5y = —14 — 2x, or, y = res
+J
+Taking some convenient values of x in the equation, we find the corresponding
+values of y and make the adjoining table:
+BOE
+1
+.-. three points on the graph of the equation are: (3,—4), (3 3) ,(—2,-2).
+. dr —17
+Again, from equation (2) we get, 5y = 4x — 17 , or, y = a
+Taking some convenient values of x in the equation, we find the corresponding
+values of y and make the adjoining table:
+BRE
+1
+.-. three points on the graph of the equation are: (3,1), (5 -3) ,(=2,-5)
+In a graph paper let XOX’ and YOY’ be
+respectively the X- axis and Y- axis and O is
+the origin. ¢

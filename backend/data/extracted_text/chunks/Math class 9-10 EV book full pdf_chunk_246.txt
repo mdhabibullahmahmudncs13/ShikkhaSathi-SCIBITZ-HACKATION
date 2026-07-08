@@ -1,0 +1,33 @@
+# Chunk 246 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.414520
+# Character count: 781
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_246
+
+========================================
+
+--- Page 108 ---
+Chapter 5. Equations in One Variable 103
+
+Usage of linear equations
+
+In real life we have to solve different types of problems. In most cases of solving
+
+these problems mathematical knowledge, skill and logic are necessary. In real
+
+cases, in the application of mathematical knowledge and skill, as on one side the
+
+problems are solved smoothly, on the other side in daily life, solutions of the
+
+problems are obtained by mathematics. As a result, the students are interested in
+
+mathematics. Here different types of problems based on real life will be expressed
+
+by equations and they will be solved.
+
+For determining the unknown quantity in solving the problems based on real life,
+
+variable is assumed instead of the unknown quantity and then equation is formed

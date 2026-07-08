@@ -1,0 +1,49 @@
+# Chunk 463 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.435713
+# Character count: 547
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_463
+
+========================================
+
+--- Page 201 ---
+196 Mathematics Classes IX-X
+_ sin®f + cos?)
+© sind cosd
+Ey 7 [.- sin) + cos? = 1]
+
+1 1
+“sind cos
+= cosec § - sec
+= sec § - cosec ff = Right hand side (Proved)
+Example 6. Prove that, sec’f + cosec’dl = sec?0) - cosec®6)
+Solution:
+L.H.S. = sec?) + cosec?)
+BB! 1
+“co Fn
+_ sin?6 + cos?
+© cos? -sin0
+a
+ cos?d - sin%f
+11
+"cos? sin’)
+= sec? - cosec?d
+= R.H.S (Proved) | .
+Example 7. Prove that, Then + TT cosec®d = 1
+Solution:
+LHS = LL
+
+1+sin®0 1+ cosecd
+EE! 1
+“Trew 141
+sing
+_ 1 sing
+BEET TA
+C14 sin’)
+© 1 +sin®0
+=1=R.H.S (Proved)
+IS
+S

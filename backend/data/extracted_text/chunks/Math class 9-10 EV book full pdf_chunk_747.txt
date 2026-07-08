@@ -1,0 +1,40 @@
+# Chunk 747 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.463234
+# Character count: 646
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_747
+
+========================================
+
+CD _ oe im 60° — 40 x V3 _
+Se = smo or, C'D = AC'sin 60 = 40x = =20V3 as d
+
+AD 1 5 so a P
+and — = cos 60° or, AD = AC'cos 60° = 40 x — = 20
+AC 2
+
+Again, from right-angled triangle BC'D we get,
+BC? = BD? + CD? = (BA+ AD)* + CD?
+= (50 + 20) + (20/3)? = 4900 + 1200 = 6100
+BC = 178.1 (approx.)
+The required distance is 78.1 km (approx.)
+Example 7. Consider the diagram given and —
+
+1) Find the length of the side BC.
+
+2) Find the value of BD?
+
+3) Find the ratio of areas of AABD and ABCD. E
+
+
+--- Page 330 ---
+Chapter 16. Mensuration 325
+Solution:
+
+1) AB=15 AC =25 a
+BC = AC? — AB? = /(25)% — (15)? = /400 = 20
+
+2) Area of AABC = 1BC -AB = JAC -BD D

@@ -1,0 +1,42 @@
+# Chunk 529 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.357685
+# Character count: 755
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_529
+
+========================================
+
+--- Page 187 ---
+182 Physics
+mys(75° C—T) = m,s(T — 20° C)
+75m, + 20my)s 75x 2 +20
+T= (75m, +20my)s =" CoC =566°C
+(my + my)s 2+1
+
+Question : A piece of iron of mass 10 gm heated at temperature 120 °C is dropped
+
+into a container of water of mass 1 kg at temperature 30 °C. What will be the
+
+temperature of water?
+
+Answer:
+
+Mass of iron my; = 0.01 kg
+
+Mass of water m, = 1kg
+
+Specific heat of irons; = 0.45 x 10° Jkg'K™
+
+Specific heat of water 5, = 4.2 x 103 Jkg'K?!
+
+The amount of heat given up by the piece of iron is equal to the heat gained by the
+
+water. So, the temperature of iron T will be
+
+my51(120° C — T) = mys, (T — 30° C)
+J = 120ms; +30mgs, _ 120 X 0.01% 045 x 10% +30 x 1 x 4.2 x 10% oc
+TO mys, mys, 0.01 x 0.45 x 103 + 1 x 4.2 x 103
+T=30.1°C

@@ -1,0 +1,26 @@
+# Chunk 654 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.454490
+# Character count: 694
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_654
+
+========================================
+
+of a geometric series a and the common ratio r are known, any term of the series
+can be determined by putting n = 1,2,3,--- ete. successively in the equation of
+the nth term.
+Example 7. What is the 10th term of the series 2 +4 + 8+ 16+ ---?
+s . . 4
+Solution: The first term of the series a = 2, common ratio r = 5= 2
+.. The given series is a geometric series.
+We know, the nth term of a geometric series = ar"!
+10th term of the series= 2 x 210-1 = 2 x 29 = 1024
+Example 8. What is the general term of the series 128 4+ 64 + 32 +4 --- 7
+. . . 64 1
+Solution: The first term of the series a = 128, common ratio r = sa
+It is a geometric series. N
+<
+We know, general term of geometric series = ar! S

@@ -1,0 +1,19 @@
+# Chunk 35 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.392327
+# Character count: 563
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_35
+
+========================================
+
+fractions. Otherwise they are called dissimilar repeating decimal fractions. For
+example, 12.45 and 6.32; 9.453 and 125.897 are similar repeating decimal fractions.
+But, 0.3456 and 7.45789; 6.4357 and 2.89345 are dissimilar repeating decimal
+fractions.
+Converting dissimilar repeating decimal fractions into similar ones
+If we write repeating part of a repeating decimal fraction, the value does not
+change. For example, 6.4537 = 6.453737 = 6.45373 = 6.453737. Here cach one of
+them is a repeating decimal fraction 6.45373737..., which is an infinite decimal ~~ &

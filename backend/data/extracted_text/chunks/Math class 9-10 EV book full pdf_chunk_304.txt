@@ -1,0 +1,24 @@
+# Chunk 304 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.420325
+# Character count: 733
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_304
+
+========================================
+
+--- Page 130 ---
+Chapter 6. Lines, Angles and Triangles 125
+Geometric proof
+In geometry, special importance is attached to some propositions which are
+taken as theorems and used successively in establishing other propositions. In
+geometric proof different statements are explained with the help of figures.
+But the proof must be logical.
+In describing geometric propositions general or particular enunciation is used.
+The general enunciation is the description independent of the figure and the
+particular enunciation is the description based on the figure. If the general
+enunciation of a proposition is given, subject matter of the proposition is
+specified through particular enunciation. For this, necessary figure is to be
+drawn.

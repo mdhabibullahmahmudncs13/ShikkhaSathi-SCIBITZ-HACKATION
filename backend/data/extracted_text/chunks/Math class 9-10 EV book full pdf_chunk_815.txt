@@ -1,0 +1,30 @@
+# Chunk 815 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.471344
+# Character count: 753
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_815
+
+========================================
+
+18. The length and the breadth of a rectangular region are 12 metre and 5 metre
+respectively. There is a circular region just around the rectangle. The places
+which are not occupied by the rectangle, are planted with grass.
+
+1) Describe the information above with a figure.
+2) Find the diameter of the circular region.
+3) If the cost of planting grass per sq. metre is Tk. 50, find the total cost.
+
+19. The figure is composed of a square and a circular E
+segment.
+
+1) Determine the length of the diagonal and 4 A D
+perimeter of the square. 12
+
+2) Find the total area of the whole region.
+
+3) If a regular hexagon having sides equal to the
+length of the square is inscribed in a circle, then 5 c
+determine the area of the unoccupied region of the circle.

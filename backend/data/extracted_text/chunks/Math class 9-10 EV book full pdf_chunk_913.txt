@@ -1,0 +1,35 @@
+# Chunk 913 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.480603
+# Character count: 787
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_913
+
+========================================
+
+--- Page 403 ---
+398 Mathematics Classes IX-X
+Proof:
+(1) The lines AB and DC are parallel and AC is
+their transversal. [Alternate angles are equal]
+Therefore, “BAC = alternate ACD.
+(2) The lines BC and AD are parallel and BD is
+their transversal [Alternate angles are equal]
+Therefore, “BDC = alternate ~ABD.
+(3) Now, between AAOB and ACOD BAC — 2 ACD
+ZOAB = 20CD, Z0BA = 20DC and ’ ~
+i an and ZBDC = Z ABD
+AB=DC.
+So, AAOB = ACOD. [ ASA theorem]
+Therefore, 40 =CO and BO = DO. (Proved)
+Activity
+1. Prove that, if the diagonals of a quadrilateral bisect each other, it is a
+parallelogram.
+Theorem 4
+Two diagonals of a rectangle are equal and bisect each other.
+Proposition: : Let the diagonals AC and D Cc
+BD of the rectangle ABCD intersect at O.
+It is required to prove that,
+(i) AC = BD

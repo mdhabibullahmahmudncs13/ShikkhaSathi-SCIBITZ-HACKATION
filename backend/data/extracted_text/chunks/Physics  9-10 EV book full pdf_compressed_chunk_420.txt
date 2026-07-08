@@ -1,0 +1,29 @@
+# Chunk 420 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.341946
+# Character count: 784
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_420
+
+========================================
+
+--- Page 149 ---
+144 Physics
+You will observe that the casket will not be twisted only from the upper side, it
+will be twisted from all directions. If the pressure comes only from the upper
+side the casket will be twisted only from the upper side. As the pressure is same
+in all directions, so it comes from all directions, and the casket is twisted from
+all directions.
+2
+Ny
+(a) (b) (c)
+Figure 5.07: (a) After evacuating the air from the cube shown in (a) by pumping,
+if the air exerts pressure only from the upper side, the cube would become flat as
+shown in (b). But the pressure comes from all directions so the cube is compressed
+as like the picture shown in (c)
+@ Do Yourself
+Take an empty one liter water
+Ee plastic bottle. Pour some boiling
+“ water carefully in the bottle and

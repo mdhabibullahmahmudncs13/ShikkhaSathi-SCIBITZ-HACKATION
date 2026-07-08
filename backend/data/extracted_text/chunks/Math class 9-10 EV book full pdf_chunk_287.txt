@@ -1,0 +1,22 @@
+# Chunk 287 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.418743
+# Character count: 794
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_287
+
+========================================
+
+The intersection of two lines produces a point. That is, the place of intersection
+of two lines is denoted by a point. For example, the two edges of a box meet at a
+point. A point has no length, breadth and thickness. If the length of a line is gradually
+reduced to zero, at last it ends in a point. Thus, a point is considered an entity of
+zero dimension.
+Euclid’s Axioms and Postulates
+The discussion above about surface, line and point do not lead to any definition —
+they are merely description. This description refers to height, breadth and length,
+neither of which has been defined. We only can represent them intuitively. The
+definitions of point, line and surface which Euclid mentioned in the beginning of
+the first volume of his ‘Elements’ are incomplete from modern point of view. A

@@ -1,0 +1,33 @@
+# Chunk 662 from Physics  9-10 EV book full pdf_compressed
+# Page: None
+# Subject: physics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:03.374045
+# Character count: 748
+# Chunk ID: Physics  9-10 EV book full pdf_compressed.txt_0_662
+
+========================================
+
+--- Page 244 ---
+Reflection of Light 239
+x x
+o F R ¥ P ¥ F 0
+(a) (b)
+Figure 8.29: (a) An object placed inside the focal length of a convex mirror.
+(b) An object placed inside focal length of a concave mirror.
+4. For a concave mirror (figure 8.30a) show where the image will be formed for
+an object XY by drawing a ray diagram.
+x x
+F F [3 o ¥ [3 [] ¥
+(a) (b)
+Figure 8.30: (a) An object placed outside focal length in concave mirror.
+(b) An object placed outside focal length in concaves mirror.
+5. For a concave mirror (figure 8.30 b) show where the image will be formed for
+an object XY by drawing a ray diagram.
+Put the tick (v) mark on the correct answer.
+1.Where are convex mirrors used?
+(a) Cars (b) Torch light
+«  (c) Solar oven (d) Radar
+2
+BS

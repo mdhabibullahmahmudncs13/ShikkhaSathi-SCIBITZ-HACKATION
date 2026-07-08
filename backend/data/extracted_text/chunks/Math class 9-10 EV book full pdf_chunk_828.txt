@@ -1,0 +1,20 @@
+# Chunk 828 from Math class 9-10 EV book full pdf
+# Page: None
+# Subject: mathematics
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:05.472574
+# Character count: 688
+# Chunk ID: Math class 9-10 EV book full pdf.txt_0_828
+
+========================================
+
+any real number. Besides, any real number can be used for the data related to
+age, height, weight etc. That is why, the variables used for those are indiscrete
+variables. The number between two indiscrete variables can be the value of those
+variables. Some times it becomes necessary to make class interval indiscrete. To
+make the class interval indiscrete, the actual higher limit of a class and the lower
+limit of the next class are determined by fixing mid-point of a higher limit of any
+class and the lower limit of the next class. Such as, in example 1 the actual
+higher-lower limits of the first class are 8.5° and 5.5° respectively and that of the
+second class are 11.5°  8.5° etc.

@@ -1,0 +1,36 @@
+# Chunk 297 from ICT 9-10
+# Page: None
+# Subject: ict
+# Grade: 9
+# Language: english
+# Created on: 2026-01-09T16:41:04.867195
+# Character count: 774
+# Chunk ID: ICT 9-10.txt_0_297
+
+========================================
+
+- Select SutennyMJ from the dropdown list of fonts.
+
+- The size of the font will initially be selected 72 from the dropdown list of
+font.
+
+- The font colour will be initially black.
+
+- Type ‘cimig qi, and it will added as a new layer. The letter “T" will be
+viewed as a thumbnail of the text layer on layer palette.
+
+- The text can be shifted elsewhere with the Move tool or the mouse pointer.
+
+3 - Now the square, circle, and text can be shifted anywhere with the Move tool.
+5
+
+
+--- Page 96 ---
+Information and Communication Technology 91
+
+- If the combined position of the three objects is satisfactory, the file can be
+saved for further use.
+
+Transferring Picture from One File to Another
+
+All the pictures should be transferred to a single file to work together. Prepare
