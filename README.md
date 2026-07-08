@@ -29,7 +29,7 @@ ShikkhaSathi is an AI-powered adaptive learning platform specifically designed f
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mdhabibullahmahmudncs13/ShikkhaSathi.git
+git clone https://github.com/mdhabibullahmahmudncs13/ShikkhaSathi-SCIBITZ-HACKATION.git
 cd ShikkhaSathi
 ```
 
