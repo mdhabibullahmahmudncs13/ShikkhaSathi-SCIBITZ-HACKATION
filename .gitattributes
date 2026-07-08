@@ -1,0 +1,99 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Source code - Python
+*.py text diff=python
+*.pyw text
+*.pyi text diff=python
+*.pxd text
+*.pxi text
+*.pyx text
+requirements*.txt text
+Pipfile* text
+
+# Source code - TypeScript / JavaScript
+*.ts text diff=typescript
+*.tsx text diff=typescript
+*.js text diff=javascript
+*.jsx text diff=javascript
+*.cjs text
+*.mjs text
+*.json text diff=json
+
+# Source code - Web
+*.html text diff=html
+*.css text diff=css
+*.scss text diff=css
+*.svg text
+*.xml text
+
+# Source code - Shell & Config
+*.sh text eol=lf
+*.bash text eol=lf
+*.zsh text eol=lf
+*.yml text
+*.yaml text
+*.toml text
+*.ini text
+*.cfg text
+*.conf text
+Dockerfile text
+Makefile text
+*.env.example text
+*.env text
+
+# Documentation
+*.md text diff=markdown
+*.rst text
+*.txt text
+*.tex text
+
+# SQL
+*.sql text
+
+# Git-specific
+.gitignore text
+.gitattributes text
+.gitmodules text
+
+# Binary files - audio
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.flac binary
+
+# Binary files - images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+
+# Binary files - documents
+*.pdf binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+
+# Binary files - compiled / misc
+*.bin binary
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.whl binary
+*.tar.gz binary
+*.zip binary
+*.gz binary
+
+# Large NLP dataset files - treat as text but mark as linguist-generated
+# to keep GitHub from trying to diff them
+.hypothesis/**/*.txt linguist-generated
+.hypothesis/**/*.json linguist-generated
+
+# Lock files
+package-lock.json linguist-generated
+yarn.lock linguist-generated
+pnpm-lock.yaml linguist-generated
